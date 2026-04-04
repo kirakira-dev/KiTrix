@@ -1,0 +1,2304 @@
+# KiTrix material file
+newmtl FldBG_Jyoheki03_CarSet
+Kd 1.0 1.0 1.0
+map_Kd textures/CarSet_Alb.png
+
+newmtl FldBG_Jyoheki03_CarSet_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/CarSet_Alb.png
+
+newmtl FldBG_Jyoheki03_CarShadow
+Kd 1.0 1.0 1.0
+
+newmtl FldBG_Jyoheki03_DVFenceIronSet
+Kd 1.0 1.0 1.0
+map_Kd textures/DVFenceIronSet_Alb.png
+
+newmtl FldBG_Jyoheki03_DVGroundConcrete
+Kd 1.0 1.0 1.0
+map_Kd textures/DVGroundConcrete_Alb.png
+
+newmtl FldBG_Jyoheki03_DVGroundGrassLittleSoil
+Kd 1.0 1.0 1.0
+map_Kd textures/DVGroundGrassLittleSoil_Alb.png
+
+newmtl FldBG_Jyoheki03_DVGroundSealSet
+Kd 1.0 1.0 1.0
+map_Kd textures/DVGroundSealSet_Alb.png
+
+newmtl FldBG_Jyoheki03_DVPoleChain
+Kd 1.0 1.0 1.0
+map_Kd textures/DVPoleChain_Alb.png
+
+newmtl FldBG_Jyoheki03_DVSet
+Kd 1.0 1.0 1.0
+map_Kd textures/DVSet_Alb.png
+
+newmtl FldBG_Jyoheki03_DVSet_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/DVSet_Alb.png
+
+newmtl FldBG_Jyoheki03_DVVendorSet
+Kd 1.0 1.0 1.0
+map_Kd textures/DVVendorSet_Alb.png
+
+newmtl FldBG_Jyoheki03_DV_BuilWall
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_BuilWall_Alb.png
+
+newmtl FldBG_Jyoheki03_JyohekiBGApartment
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiBGApartment_Alb.png
+
+newmtl FldBG_Jyoheki03_JyohekiBGObj
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiBGObj_Alb.png
+
+newmtl FldBG_Jyoheki03_JyohekiGraffiti01_np
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiGraffiti01_Alb.png
+
+newmtl FldBG_Jyoheki03_JyohekiTileSet_np
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiTileSet_Alb.png
+
+newmtl FldBG_Jyoheki03_TransmissionTowerMaterial
+Kd 1.0 1.0 1.0
+map_Kd textures/TransmissionTowerMaterial_Alb.png
+
+newmtl FldBG_Jyoheki03_mJyohekiAntenna_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiAntenna_Alb.png
+
+newmtl FldBG_Jyoheki03_mJyohekiDVAsphalt
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiDVAsphalt_Alb.png
+
+newmtl FldBG_Jyoheki03_mJyohekiDVDumpSite
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiDVDumpSite_Alb.png
+
+newmtl FldBG_Jyoheki03_mJyohekiDVDumpSiteWall
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiDVDumpSiteWall_Alb.png
+
+newmtl FldBG_Jyoheki03_mJyohekiDVFence
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiDVFence_Alb.png
+
+newmtl FldBG_Jyoheki03_mJyohekiDVLawn
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiDVLawn_Alb.png
+
+newmtl FldBG_Jyoheki03_mJyohekiDVObj
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiDVObj_Alb.png
+
+newmtl FldBG_Jyoheki03_mJyohekiDVRoad
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiDVRoad_Alb.png
+
+newmtl FldBG_Jyoheki03_mJyohekiDVRoomWall
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiDVRoomWall_Alb.png
+
+newmtl FldBG_Jyoheki03_mJyohekiDVRoomWall1
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiDVRoomWall_Alb.png
+
+newmtl FldBG_Jyoheki03_mJyohekiDVSideBlock
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiDVSideBlock_Alb.png
+
+newmtl FldBG_Jyoheki03_mJyohekiDVStep
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiDVStep_Alb.png
+
+newmtl FldBG_Jyoheki03_mJyohekiDVTileRed
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiDVTileRed_Alb.png
+
+newmtl FldBG_Jyoheki03_mJyohekiDVWoodBase
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiDVWoodBase_Alb.png
+
+newmtl FldBG_Jyoheki03_mJyohekiOuterWallGreen_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiOuterWallGreen_Alb.png
+
+newmtl FldBG_Jyoheki03_mJyohekiOuterWall_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiOuterWall_Alb.png
+
+newmtl FldBG_Jyoheki03_mJyohekiRoadCornerTileA_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadCornerTileA_Alb.png
+
+newmtl FldBG_Jyoheki03_mJyohekiRoadTileD
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadTileD_Alb.png
+
+newmtl FldBG_Jyoheki03_mJyohekiWaterTank
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWaterTank_Alb.png
+
+newmtl FldBG_Jyoheki03_mJyohekiWireNetting
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWireNetting_Alb.png
+
+newmtl FldBG_Jyoheki03_mJyohekiWoodFence
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWoodFence_Alb.png
+
+newmtl FldBG_Jyoheki03_mJyohekiWoodFence_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWoodFence_Alb.png
+
+newmtl FldObj_HirameSideHoko_GlassWire
+Kd 1.0 1.0 1.0
+map_Kd textures/GlassWire_Alb.png
+
+newmtl FldObj_HirameSideHoko_Grass
+Kd 1.0 1.0 1.0
+map_Kd textures/Grass_Alb.png
+
+newmtl FldObj_HirameSideHoko_InsectPlant
+Kd 1.0 1.0 1.0
+map_Kd textures/InsectPlant_Alb.png
+
+newmtl FldObj_HirameSideHoko_JyohekiGraffiti01_np
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiGraffiti01_Alb.png
+
+newmtl FldObj_HirameSideHoko_JyohekiSeat00
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiSeat00_Alb.png
+
+newmtl FldObj_HirameSideHoko_JyohekiTileSet
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiTileSet_Alb.png
+
+newmtl FldObj_HirameSideHoko_SheetVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/SheetVinyl_Alb.png
+
+newmtl FldObj_HirameSideHoko_SheetVinylBlue
+Kd 1.0 1.0 1.0
+map_Kd textures/SheetVinylBlue_Alb.png
+
+newmtl FldObj_HirameSideHoko_WallSteelSet
+Kd 1.0 1.0 1.0
+map_Kd textures/WallSteelSet_Alb.png
+
+newmtl FldObj_HirameSideHoko_mJyohekiHandrailEdging
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiHandrailEdging_Alb.png
+
+newmtl FldObj_HirameSideHoko_mJyohekiHandrailEdging_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiHandrailEdging_Alb.png
+
+newmtl FldObj_HirameSideHoko_mJyohekiHandrailEdging_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiHandrailEdging_Alb.png
+
+newmtl FldObj_HirameSideHoko_mJyohekiMetalFrame
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiMetalFrame_Alb.png
+
+newmtl FldObj_HirameSideHoko_mJyohekiMetalWall
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiMetalWall_Alb.png
+
+newmtl FldObj_HirameSideHoko_mJyohekiOuterWall
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiOuterWall_Alb.png
+
+newmtl FldObj_HirameSideHoko_mJyohekiOuterWall_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiOuterWall_Alb.png
+
+newmtl FldObj_HirameSideHoko_mJyohekiRoad
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoad_Alb.png
+
+newmtl FldObj_HirameSideHoko_mJyohekiRoadCornerTileA
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadCornerTileA_Alb.png
+
+newmtl FldObj_HirameSideHoko_mJyohekiRoadCornerTileB
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadCornerTileB_Alb.png
+
+newmtl FldObj_HirameSideHoko_mJyohekiRoadEdge
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadEdge_Alb.png
+
+newmtl FldObj_HirameSideHoko_mJyohekiRoadTileC
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadTileC_Alb.png
+
+newmtl FldObj_HirameSideHoko_mJyohekiWallUnder
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWallUnder_Alb.png
+
+newmtl FldObj_HirameSideHoko_mJyohekiWindowSmall
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWindowSmall_Alb.png
+
+newmtl FldObj_HirameSideHoko_mJyohekiWoodCover_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWoodCover_Alb.png
+
+newmtl FldObj_HirameSideHoko_mJyohekiWoodFence_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWoodFence_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_CanolaAV
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaAV_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_CanolaA_np
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaA_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_CanolaBV
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaBV_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_CanolaB_np
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaB_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_GardeningObj_Y
+Kd 1.0 1.0 1.0
+map_Kd textures/GardeningObj_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_GardeningObj_np
+Kd 1.0 1.0 1.0
+map_Kd textures/GardeningObj_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_Glass00
+Kd 1.0 1.0 1.0
+map_Kd textures/Glass01_Nrm.png
+
+newmtl FldObj_Joheki03_PackPnt_GlassWire
+Kd 1.0 1.0 1.0
+map_Kd textures/GlassWire_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_Grass
+Kd 1.0 1.0 1.0
+map_Kd textures/Grass_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_Grass_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Grass_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_InsectPlant
+Kd 1.0 1.0 1.0
+map_Kd textures/InsectPlant_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_JyohekiGraffiti01
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiGraffiti01_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_JyohekiGraffiti01_np
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiGraffiti01_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_JyohekiSeat00
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiSeat00_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_JyohekiSeat00_A
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiSeat00_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_JyohekiSeat00_B
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiSeat00_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_JyohekiTileSet
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiTileSet_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_PlazaCafeTable
+Kd 1.0 1.0 1.0
+map_Kd textures/PlazaCafeTableSet_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_SheetVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/SheetVinyl_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_SheetVinylBlue
+Kd 1.0 1.0 1.0
+map_Kd textures/SheetVinylBlue_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_TropicalPlantsSetLeaves
+Kd 1.0 1.0 1.0
+map_Kd textures/TropicalPlantsSetLeaves_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_VinylClear
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylClear_Nrm.png
+
+newmtl FldObj_Joheki03_PackPnt_WoodBlock_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodBlock_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_WoodTile
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodTile_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_mJyohekiAntenna
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiAntenna_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_mJyohekiAntenna_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiAntenna_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_mJyohekiBackside
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiBackside_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_mJyohekiDoor
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiDoor_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_mJyohekiDotBlock2
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiDotBlock2_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_mJyohekiEntranceObj
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiEntranceObj_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_mJyohekiFence
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiFence_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_mJyohekiHandrailEdging
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiHandrailEdging_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_mJyohekiHandrailEdging_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiHandrailEdging_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_mJyohekiHandrailEdging_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiHandrailEdging_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_mJyohekiHandrailEdging_sp
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiHandrailEdging_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_mJyohekiMetalFrame
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiMetalFrame_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_mJyohekiMetalNet
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiMetalNet_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_mJyohekiMetalWall
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiMetalWall_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_mJyohekiNet
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiNet_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_mJyohekiOutdoorunit_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiOutdoorunit_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_mJyohekiOuterWall
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiOuterWall_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_mJyohekiOuterWallGreen
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiOuterWallGreen_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_mJyohekiOuterWallGreen_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiOuterWallGreen_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_mJyohekiOuterWall_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiOuterWall_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_mJyohekiPipe
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiPipe_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_mJyohekiPipe_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiPipe_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_mJyohekiRoad
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoad_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_mJyohekiRoadCornerTileA
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadCornerTileA_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_mJyohekiRoadCornerTileB
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadCornerTileB_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_mJyohekiRoadEdge
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadEdge_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_mJyohekiRoadMetalTileA
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadMetalTileA_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_mJyohekiRoadTileA
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadTileA_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_mJyohekiRoadTileB
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadTileB_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_mJyohekiRoadTileC
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadTileC_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_mJyohekiRoadTileC_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadTileC_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_mJyohekiStreetlight
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiStreetlight_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_mJyohekiTank
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiTank_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_mJyohekiTelPole
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiTelPole_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_mJyohekiWallUnder
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWallUnder_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_mJyohekiWallUnder_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWallUnder_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_mJyohekiWindow
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWindow_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_mJyohekiWindowSmall
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWindowSmall_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_mJyohekiWindowSmall_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWindowSmall_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_mJyohekiWireNetting
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWireNetting_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_mJyohekiWireNetting_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWireNetting_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_mJyohekiWoodCover_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWoodCover_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_mJyohekiWoodFence
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWoodFence_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_mJyohekiWoodFence_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWoodFence_Alb.png
+
+newmtl FldObj_Joheki03_PackPnt_mJyohekiWoodFence_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWoodFence_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_CanolaAV
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaAV_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_CanolaBV
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaBV_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_CanolaCV_np
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaCV_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_CanolaC_np
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaC_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_GardeningObj_Y
+Kd 1.0 1.0 1.0
+map_Kd textures/GardeningObj_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_GardeningObj_np
+Kd 1.0 1.0 1.0
+map_Kd textures/GardeningObj_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_GlassWire
+Kd 1.0 1.0 1.0
+map_Kd textures/GlassWire_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_Grass
+Kd 1.0 1.0 1.0
+map_Kd textures/Grass_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_Grass_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Grass_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_InsectPlant
+Kd 1.0 1.0 1.0
+map_Kd textures/InsectPlant_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_JyohekiGraffiti01
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiGraffiti01_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_JyohekiGraffiti01_np
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiGraffiti01_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_JyohekiSeat00
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiSeat00_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_JyohekiSeat00_A
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiSeat00_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_JyohekiSeat00_B
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiSeat00_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_JyohekiSeat00_C
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiSeat00_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_JyohekiTileSet
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiTileSet_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_PlazaCafeTable
+Kd 1.0 1.0 1.0
+map_Kd textures/PlazaCafeTableSet_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_SheetVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/SheetVinyl_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_SheetVinylBlue
+Kd 1.0 1.0 1.0
+map_Kd textures/SheetVinylBlue_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_StreetKanbanSet
+Kd 1.0 1.0 1.0
+map_Kd textures/StreetKanbanSet_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_VinylClear
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylClear_Nrm.png
+
+newmtl FldObj_Joheki03_PackTcl_WoodBlock_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodBlock_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_WoodTile
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodTile_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_mJyohekiAntenna_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiAntenna_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_mJyohekiBackside
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiBackside_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_mJyohekiDotBlock2
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiDotBlock2_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_mJyohekiEntranceObj
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiEntranceObj_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_mJyohekiFence
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiFence_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_mJyohekiHandrailEdging
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiHandrailEdging_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_mJyohekiHandrailEdging_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiHandrailEdging_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_mJyohekiHandrailEdging_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiHandrailEdging_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_mJyohekiHandrailEdging_sp
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiHandrailEdging_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_mJyohekiMetalFrame
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiMetalFrame_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_mJyohekiMetalNet
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiMetalNet_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_mJyohekiMetalWall
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiMetalWall_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_mJyohekiNet
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiNet_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_mJyohekiOutdoorunit_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiOutdoorunit_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_mJyohekiOuterWall
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiOuterWall_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_mJyohekiOuterWallGreen
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiOuterWallGreen_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_mJyohekiOuterWallGreen_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiOuterWallGreen_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_mJyohekiOuterWallGreen_sp
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiOuterWallGreen_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_mJyohekiOuterWall_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiOuterWall_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_mJyohekiPipe_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiPipe_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_mJyohekiRoad
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoad_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_mJyohekiRoadCornerTileA
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadCornerTileA_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_mJyohekiRoadCornerTileB
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadCornerTileB_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_mJyohekiRoadEdge
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadEdge_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_mJyohekiRoadMetalTileA
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadMetalTileA_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_mJyohekiRoadTileB
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadTileB_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_mJyohekiRoadTileC
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadTileC_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_mJyohekiRoadTileC_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadTileC_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_mJyohekiStreetlight
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiStreetlight_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_mJyohekiTelPole
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiTelPole_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_mJyohekiWallUnder
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWallUnder_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_mJyohekiWallUnder_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWallUnder_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_mJyohekiWindow
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWindow_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_mJyohekiWindowSmall
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWindowSmall_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_mJyohekiWindowSmall_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWindowSmall_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_mJyohekiWireNetting_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWireNetting_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_mJyohekiWoodCover_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWoodCover_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_mJyohekiWoodFence
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWoodFence_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_mJyohekiWoodFence_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWoodFence_Alb.png
+
+newmtl FldObj_Joheki03_PackTcl_mJyohekiWoodFence_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWoodFence_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_CanolaAV
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaAV_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_CanolaA_np
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaA_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_CanolaBV
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaBV_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_CanolaB_np
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaB_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_GardeningObj_Y
+Kd 1.0 1.0 1.0
+map_Kd textures/GardeningObj_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_GardeningObj_np
+Kd 1.0 1.0 1.0
+map_Kd textures/GardeningObj_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_Glass00
+Kd 1.0 1.0 1.0
+map_Kd textures/Glass01_Nrm.png
+
+newmtl FldObj_Joheki03_PackVar_GlassWire
+Kd 1.0 1.0 1.0
+map_Kd textures/GlassWire_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_Grass
+Kd 1.0 1.0 1.0
+map_Kd textures/Grass_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_Grass_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Grass_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_InsectPlant
+Kd 1.0 1.0 1.0
+map_Kd textures/InsectPlant_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_JyohekiGraffiti01
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiGraffiti01_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_JyohekiGraffiti01_np
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiGraffiti01_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_JyohekiSeat00
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiSeat00_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_JyohekiSeat00_A
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiSeat00_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_JyohekiSeat00_B
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiSeat00_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_JyohekiTileSet
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiTileSet_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_PlazaCafeTable
+Kd 1.0 1.0 1.0
+map_Kd textures/PlazaCafeTableSet_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_SheetVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/SheetVinyl_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_SheetVinylBlue
+Kd 1.0 1.0 1.0
+map_Kd textures/SheetVinylBlue_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_TropicalPlantsSetLeaves
+Kd 1.0 1.0 1.0
+map_Kd textures/TropicalPlantsSetLeaves_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_WoodBlock_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodBlock_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_WoodTile
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodTile_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_mJyohekiAntenna
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiAntenna_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_mJyohekiAntenna_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiAntenna_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_mJyohekiBackside
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiBackside_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_mJyohekiDoor
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiDoor_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_mJyohekiEntranceObj
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiEntranceObj_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_mJyohekiFence
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiFence_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_mJyohekiHandrailEdging
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiHandrailEdging_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_mJyohekiHandrailEdging_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiHandrailEdging_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_mJyohekiHandrailEdging_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiHandrailEdging_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_mJyohekiHandrailEdging_sp
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiHandrailEdging_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_mJyohekiMetalFrame
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiMetalFrame_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_mJyohekiMetalNet
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiMetalNet_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_mJyohekiMetalWall
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiMetalWall_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_mJyohekiNet
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiNet_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_mJyohekiOutdoorunit_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiOutdoorunit_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_mJyohekiOuterWall
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiOuterWall_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_mJyohekiOuterWallGreen
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiOuterWallGreen_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_mJyohekiOuterWallGreen_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiOuterWallGreen_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_mJyohekiOuterWall_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiOuterWall_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_mJyohekiPipe
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiPipe_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_mJyohekiPipe_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiPipe_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_mJyohekiRoad
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoad_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_mJyohekiRoadCornerTileA
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadCornerTileA_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_mJyohekiRoadCornerTileB
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadCornerTileB_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_mJyohekiRoadEdge
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadEdge_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_mJyohekiRoadMetalTileA
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadMetalTileA_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_mJyohekiRoadTileA
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadTileA_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_mJyohekiRoadTileC
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadTileC_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_mJyohekiRoadTileC_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadTileC_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_mJyohekiStreetlight
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiStreetlight_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_mJyohekiTank
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiTank_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_mJyohekiTelPole
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiTelPole_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_mJyohekiWallUnder
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWallUnder_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_mJyohekiWallUnder_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWallUnder_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_mJyohekiWindow
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWindow_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_mJyohekiWindowSmall
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWindowSmall_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_mJyohekiWindowSmall_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWindowSmall_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_mJyohekiWireNetting
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWireNetting_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_mJyohekiWireNetting_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWireNetting_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_mJyohekiWoodCover_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWoodCover_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_mJyohekiWoodFence
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWoodFence_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_mJyohekiWoodFence_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWoodFence_Alb.png
+
+newmtl FldObj_Joheki03_PackVar_mJyohekiWoodFence_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWoodFence_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_CanolaAV
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaAV_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_CanolaA_np
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaA_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_CanolaBV
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaBV_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_CanolaB_np
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaB_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_FenceVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/M_FenceVinyl_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_GardeningObj_Y
+Kd 1.0 1.0 1.0
+map_Kd textures/GardeningObj_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_GardeningObj_np
+Kd 1.0 1.0 1.0
+map_Kd textures/GardeningObj_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_Glass00
+Kd 1.0 1.0 1.0
+map_Kd textures/Glass01_Nrm.png
+
+newmtl FldObj_Joheki03_PackVcl_GlassWire
+Kd 1.0 1.0 1.0
+map_Kd textures/GlassWire_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_Grass
+Kd 1.0 1.0 1.0
+map_Kd textures/Grass_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_Grass_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Grass_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_InsectPlant
+Kd 1.0 1.0 1.0
+map_Kd textures/InsectPlant_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_JyohekiGraffiti01
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiGraffiti01_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_JyohekiGraffiti01_np
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiGraffiti01_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_JyohekiSeat00
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiSeat00_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_JyohekiSeat00_A
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiSeat00_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_JyohekiSeat00_B
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiSeat00_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_JyohekiTileSet
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiTileSet_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_PlazaCafeTable
+Kd 1.0 1.0 1.0
+map_Kd textures/PlazaCafeTableSet_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_SheetVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/SheetVinyl_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_SheetVinylBlue
+Kd 1.0 1.0 1.0
+map_Kd textures/SheetVinylBlue_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_TropicalPlantsSetLeaves
+Kd 1.0 1.0 1.0
+map_Kd textures/TropicalPlantsSetLeaves_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_VinylClear
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylClear_Nrm.png
+
+newmtl FldObj_Joheki03_PackVcl_WoodBlock_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodBlock_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_WoodTile
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodTile_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_mJyohekiAntenna
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiAntenna_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_mJyohekiAntenna_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiAntenna_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_mJyohekiBackside
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiBackside_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_mJyohekiDoor
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiDoor_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_mJyohekiDotBlock2
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiDotBlock2_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_mJyohekiEntranceObj
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiEntranceObj_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_mJyohekiFence
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiFence_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_mJyohekiHandrailEdging
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiHandrailEdging_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_mJyohekiHandrailEdging_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiHandrailEdging_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_mJyohekiHandrailEdging_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiHandrailEdging_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_mJyohekiHandrailEdging_sp
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiHandrailEdging_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_mJyohekiMetalFrame
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiMetalFrame_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_mJyohekiMetalNet
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiMetalNet_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_mJyohekiMetalWall
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiMetalWall_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_mJyohekiNet
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiNet_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_mJyohekiOutdoorunit_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiOutdoorunit_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_mJyohekiOuterWall
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiOuterWall_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_mJyohekiOuterWallGreen
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiOuterWallGreen_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_mJyohekiOuterWallGreen_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiOuterWallGreen_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_mJyohekiOuterWall_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiOuterWall_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_mJyohekiPipe
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiPipe_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_mJyohekiPipe_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiPipe_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_mJyohekiRoad
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoad_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_mJyohekiRoadCornerTileA
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadCornerTileA_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_mJyohekiRoadCornerTileB
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadCornerTileB_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_mJyohekiRoadEdge
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadEdge_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_mJyohekiRoadMetalTileA
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadMetalTileA_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_mJyohekiRoadTileA
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadTileA_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_mJyohekiRoadTileB
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadTileB_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_mJyohekiRoadTileC
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadTileC_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_mJyohekiRoadTileC_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadTileC_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_mJyohekiStreetlight
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiStreetlight_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_mJyohekiTank
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiTank_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_mJyohekiTelPole
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiTelPole_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_mJyohekiWallUnder
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWallUnder_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_mJyohekiWallUnder_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWallUnder_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_mJyohekiWindow
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWindow_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_mJyohekiWindowSmall
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWindowSmall_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_mJyohekiWindowSmall_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWindowSmall_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_mJyohekiWireNetting
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWireNetting_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_mJyohekiWireNetting_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWireNetting_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_mJyohekiWoodCover_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWoodCover_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_mJyohekiWoodFence
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWoodFence_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_mJyohekiWoodFence_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWoodFence_Alb.png
+
+newmtl FldObj_Joheki03_PackVcl_mJyohekiWoodFence_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWoodFence_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_CanolaAV
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaAV_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_CanolaA_np
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaA_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_CanolaBV
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaBV_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_CanolaB_np
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaB_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_GardeningObj_Y
+Kd 1.0 1.0 1.0
+map_Kd textures/GardeningObj_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_GardeningObj_np
+Kd 1.0 1.0 1.0
+map_Kd textures/GardeningObj_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_Glass00
+Kd 1.0 1.0 1.0
+map_Kd textures/Glass01_Nrm.png
+
+newmtl FldObj_Joheki03_PackVgl_GlassWire
+Kd 1.0 1.0 1.0
+map_Kd textures/GlassWire_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_Grass
+Kd 1.0 1.0 1.0
+map_Kd textures/Grass_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_Grass_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Grass_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_InsectPlant
+Kd 1.0 1.0 1.0
+map_Kd textures/InsectPlant_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_JyohekiGraffiti01
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiGraffiti01_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_JyohekiGraffiti01_np
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiGraffiti01_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_JyohekiSeat00
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiSeat00_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_JyohekiSeat00_A
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiSeat00_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_JyohekiSeat00_B
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiSeat00_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_JyohekiTileSet
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiTileSet_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_PlazaCafeTable
+Kd 1.0 1.0 1.0
+map_Kd textures/PlazaCafeTableSet_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_SheetVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/SheetVinyl_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_SheetVinylBlue
+Kd 1.0 1.0 1.0
+map_Kd textures/SheetVinylBlue_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_TropicalPlantsSetLeaves
+Kd 1.0 1.0 1.0
+map_Kd textures/TropicalPlantsSetLeaves_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_VinylClear
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylClear_Nrm.png
+
+newmtl FldObj_Joheki03_PackVgl_WallSteelSet
+Kd 1.0 1.0 1.0
+map_Kd textures/WallSteelSet_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_WoodBlock_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodBlock_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_WoodTile
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodTile_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_mJyohekiAntenna
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiAntenna_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_mJyohekiAntenna_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiAntenna_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_mJyohekiBackside
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiBackside_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_mJyohekiDoor
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiDoor_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_mJyohekiEntranceObj
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiEntranceObj_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_mJyohekiFence
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiFence_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_mJyohekiHandrailEdging
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiHandrailEdging_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_mJyohekiHandrailEdging_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiHandrailEdging_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_mJyohekiHandrailEdging_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiHandrailEdging_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_mJyohekiHandrailEdging_sp
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiHandrailEdging_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_mJyohekiMetalFrame
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiMetalFrame_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_mJyohekiMetalNet
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiMetalNet_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_mJyohekiMetalWall
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiMetalWall_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_mJyohekiNet
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiNet_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_mJyohekiOutdoorunit_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiOutdoorunit_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_mJyohekiOuterWall
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiOuterWall_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_mJyohekiOuterWallGreen
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiOuterWallGreen_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_mJyohekiOuterWallGreen_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiOuterWallGreen_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_mJyohekiOuterWall_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiOuterWall_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_mJyohekiPipe
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiPipe_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_mJyohekiPipe_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiPipe_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_mJyohekiRoad
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoad_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_mJyohekiRoadCornerTileA
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadCornerTileA_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_mJyohekiRoadCornerTileB
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadCornerTileB_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_mJyohekiRoadEdge
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadEdge_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_mJyohekiRoadMetalTileA
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadMetalTileA_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_mJyohekiRoadTileA
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadTileA_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_mJyohekiRoadTileC
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadTileC_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_mJyohekiRoadTileC_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadTileC_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_mJyohekiStreetlight
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiStreetlight_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_mJyohekiTank
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiTank_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_mJyohekiTelPole
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiTelPole_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_mJyohekiWallUnder
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWallUnder_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_mJyohekiWallUnder_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWallUnder_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_mJyohekiWindow
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWindow_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_mJyohekiWindowSmall
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWindowSmall_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_mJyohekiWindowSmall_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWindowSmall_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_mJyohekiWireNetting
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWireNetting_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_mJyohekiWireNetting_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWireNetting_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_mJyohekiWoodCover_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWoodCover_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_mJyohekiWoodFence
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWoodFence_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_mJyohekiWoodFence_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWoodFence_Alb.png
+
+newmtl FldObj_Joheki03_PackVgl_mJyohekiWoodFence_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWoodFence_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_CanolaAV
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaAV_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_CanolaA_np
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaA_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_CanolaBV
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaBV_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_CanolaB_np
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaB_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_GardeningObj_Y
+Kd 1.0 1.0 1.0
+map_Kd textures/GardeningObj_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_GardeningObj_np
+Kd 1.0 1.0 1.0
+map_Kd textures/GardeningObj_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_Glass00
+Kd 1.0 1.0 1.0
+map_Kd textures/Glass01_Nrm.png
+
+newmtl FldObj_Joheki03_PackVlf_GlassWire
+Kd 1.0 1.0 1.0
+map_Kd textures/GlassWire_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_Grass
+Kd 1.0 1.0 1.0
+map_Kd textures/Grass_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_Grass_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Grass_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_InsectPlant
+Kd 1.0 1.0 1.0
+map_Kd textures/InsectPlant_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_JyohekiGraffiti01
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiGraffiti01_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_JyohekiGraffiti01_np
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiGraffiti01_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_JyohekiSeat00
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiSeat00_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_JyohekiSeat00_A
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiSeat00_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_JyohekiSeat00_B
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiSeat00_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_JyohekiTileSet
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiTileSet_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_PlazaCafeTable
+Kd 1.0 1.0 1.0
+map_Kd textures/PlazaCafeTableSet_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_SheetVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/SheetVinyl_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_SheetVinylBlue
+Kd 1.0 1.0 1.0
+map_Kd textures/SheetVinylBlue_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_TropicalPlantsSetLeaves
+Kd 1.0 1.0 1.0
+map_Kd textures/TropicalPlantsSetLeaves_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_VinylClear
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylClear_Nrm.png
+
+newmtl FldObj_Joheki03_PackVlf_WallSteelSet
+Kd 1.0 1.0 1.0
+map_Kd textures/WallSteelSet_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_WoodBlock_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodBlock_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_WoodTile
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodTile_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_mJyohekiAntenna
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiAntenna_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_mJyohekiAntenna_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiAntenna_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_mJyohekiBackside
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiBackside_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_mJyohekiDoor
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiDoor_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_mJyohekiEntranceObj
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiEntranceObj_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_mJyohekiFence
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiFence_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_mJyohekiHandrailEdging
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiHandrailEdging_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_mJyohekiHandrailEdging_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiHandrailEdging_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_mJyohekiHandrailEdging_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiHandrailEdging_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_mJyohekiHandrailEdging_sp
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiHandrailEdging_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_mJyohekiMetalFrame
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiMetalFrame_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_mJyohekiMetalNet
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiMetalNet_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_mJyohekiMetalWall
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiMetalWall_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_mJyohekiNet
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiNet_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_mJyohekiOutdoorunit_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiOutdoorunit_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_mJyohekiOuterWall
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiOuterWall_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_mJyohekiOuterWallGreen
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiOuterWallGreen_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_mJyohekiOuterWallGreen_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiOuterWallGreen_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_mJyohekiOuterWall_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiOuterWall_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_mJyohekiPipe
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiPipe_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_mJyohekiPipe_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiPipe_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_mJyohekiRoad
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoad_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_mJyohekiRoadCornerTileA
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadCornerTileA_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_mJyohekiRoadCornerTileB
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadCornerTileB_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_mJyohekiRoadEdge
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadEdge_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_mJyohekiRoadMetalTileA
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadMetalTileA_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_mJyohekiRoadTileA
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadTileA_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_mJyohekiRoadTileC
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadTileC_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_mJyohekiRoadTileC_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadTileC_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_mJyohekiStreetlight
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiStreetlight_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_mJyohekiTank
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiTank_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_mJyohekiTelPole
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiTelPole_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_mJyohekiWallUnder
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWallUnder_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_mJyohekiWallUnder_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWallUnder_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_mJyohekiWindow
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWindow_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_mJyohekiWindowSmall
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWindowSmall_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_mJyohekiWindowSmall_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWindowSmall_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_mJyohekiWireNetting
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWireNetting_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_mJyohekiWireNetting_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWireNetting_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_mJyohekiWoodCover_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWoodCover_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_mJyohekiWoodFence
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWoodFence_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_mJyohekiWoodFence_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWoodFence_Alb.png
+
+newmtl FldObj_Joheki03_PackVlf_mJyohekiWoodFence_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWoodFence_Alb.png
+
+newmtl FldObj_Jyoheki03_Water_PondWater
+Kd 1.0 1.0 1.0
+map_Kd textures/DVWaterBasic_Nrm.png
+
+newmtl FldObj_JyohekiPlayGround_DV_BuilWall
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_BuilWall_Alb.png
+
+newmtl FldObj_JyohekiPlayGround_JyohekiBGObj
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiBGObj_Alb.png
+
+newmtl FldObj_JyohekiPlayGround_Starfish00
+Kd 1.0 1.0 1.0
+map_Kd textures/Starfish00_Alb.png
+
+newmtl FldObj_JyohekiPlayGround_Starfish00_va
+Kd 1.0 1.0 1.0
+map_Kd textures/Starfish00_Alb.png
+
+newmtl FldObj_JyohekiPlayGround_mJyohekiDVLawn
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiDVLawn_Alb.png
+
+newmtl FldObj_JyohekiPlayGround_mJyohekiDVObj
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiDVObj_Alb.png
+
+newmtl FldObj_JyohekiPlayGroundNight_DV_BuilWall
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_BuilWall_Alb.png
+
+newmtl FldObj_JyohekiPlayGroundNight_JyohekiBGObj
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiBGObj_Alb.png
+
+newmtl FldObj_JyohekiPlayGroundNight_Starfish00
+Kd 1.0 1.0 1.0
+map_Kd textures/Starfish00_Alb.png
+
+newmtl FldObj_JyohekiPlayGroundNight_Starfish00_va
+Kd 1.0 1.0 1.0
+map_Kd textures/Starfish00_Alb.png
+
+newmtl FldObj_JyohekiPlayGroundNight_mJyohekiDVLawn
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiDVLawn_Alb.png
+
+newmtl FldObj_JyohekiPlayGroundNight_mJyohekiDVObj
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiDVObj_Alb.png
+
+newmtl FldObj_JyohekiPlayGroundSeesaw_JyohekiBGObj
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiBGObj_Alb.png
+
+newmtl FldObj_JyohekiPlayGroundSeesaw_Starfish00
+Kd 1.0 1.0 1.0
+map_Kd textures/Starfish00_Alb.png
+
+newmtl Fld_Jyoheki03_CanolaAV
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaAV_Alb.png
+
+newmtl Fld_Jyoheki03_CanolaA_np
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaA_Alb.png
+
+newmtl Fld_Jyoheki03_CanolaBV
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaBV_Alb.png
+
+newmtl Fld_Jyoheki03_CanolaB_np
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaB_Alb.png
+
+newmtl Fld_Jyoheki03_GardeningObj
+Kd 1.0 1.0 1.0
+map_Kd textures/GardeningObj_Alb.png
+
+newmtl Fld_Jyoheki03_GardeningObj_Y
+Kd 1.0 1.0 1.0
+map_Kd textures/GardeningObj_Alb.png
+
+newmtl Fld_Jyoheki03_Glass00
+Kd 1.0 1.0 1.0
+map_Kd textures/Glass01_Nrm.png
+
+newmtl Fld_Jyoheki03_Glass01
+Kd 1.0 1.0 1.0
+map_Kd textures/Glass01_Nrm.png
+
+newmtl Fld_Jyoheki03_GlassWire
+Kd 1.0 1.0 1.0
+map_Kd textures/GlassWire_Alb.png
+
+newmtl Fld_Jyoheki03_Grass
+Kd 1.0 1.0 1.0
+map_Kd textures/Grass_Alb.png
+
+newmtl Fld_Jyoheki03_JyohekiGraffiti01
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiGraffiti01_Alb.png
+
+newmtl Fld_Jyoheki03_JyohekiGraffiti01_np
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiGraffiti01_Alb.png
+
+newmtl Fld_Jyoheki03_JyohekiSeat00
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiSeat00_Alb.png
+
+newmtl Fld_Jyoheki03_JyohekiSeat00_A
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiSeat00_Alb.png
+
+newmtl Fld_Jyoheki03_JyohekiSeat00_B
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiSeat00_Alb.png
+
+newmtl Fld_Jyoheki03_JyohekiTileSet
+Kd 1.0 1.0 1.0
+map_Kd textures/JyohekiTileSet_Alb.png
+
+newmtl Fld_Jyoheki03_Mt_Wave_Bike_B
+Kd 1.0 1.0 1.0
+map_Kd textures/Mt_Wave_Bike_B_Alb.png
+
+newmtl Fld_Jyoheki03_SheetVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/SheetVinyl_Alb.png
+
+newmtl Fld_Jyoheki03_SheetVinylBlue
+Kd 1.0 1.0 1.0
+map_Kd textures/SheetVinylBlue_Alb.png
+
+newmtl Fld_Jyoheki03_SwingingWire
+Kd 1.0 1.0 1.0
+map_Kd textures/BakeDummy00.png
+
+newmtl Fld_Jyoheki03_TropicalPlantsSetLeaves
+Kd 1.0 1.0 1.0
+map_Kd textures/TropicalPlantsSetLeaves_Alb.png
+
+newmtl Fld_Jyoheki03_TropicalPlantsSetLeaves_np
+Kd 1.0 1.0 1.0
+map_Kd textures/TropicalPlantsSetLeaves_Alb.png
+
+newmtl Fld_Jyoheki03_VinylClear
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylClear_Nrm.png
+
+newmtl Fld_Jyoheki03_WallIvy
+Kd 1.0 1.0 1.0
+map_Kd textures/WallIvy_Alb.png
+
+newmtl Fld_Jyoheki03_WallMarbleBlack
+Kd 1.0 1.0 1.0
+map_Kd textures/WallMarbleBlack_Alb.png
+
+newmtl Fld_Jyoheki03_WallSteelGrey
+Kd 1.0 1.0 1.0
+map_Kd textures/WallSteelGrey_Alb.png
+
+newmtl Fld_Jyoheki03_WallSteelSet
+Kd 1.0 1.0 1.0
+map_Kd textures/WallSteelSet_Alb.png
+
+newmtl Fld_Jyoheki03_WoodBlock_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodBlock_Alb.png
+
+newmtl Fld_Jyoheki03_WoodTile
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodTile_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiAntenna_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiAntenna_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiBackside
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiBackside_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiBackside_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiBackside_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiBarbershopChair
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiBarbershopChair_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiBarbershopDesk
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiBarbershopDesk_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiBarbershopEntrance
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiBarbershopEntrance_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiBarbershopFloor
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiBarbershopFloor_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiBarbershopFrame
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiBarbershopFrame_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiBarbershopObj
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiBarbershopObj_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiBarbershopSignboard
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiBarbershopSignboard_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiBarbershopWallBlue
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiBarbershopWallBlue_Nrm.png
+
+newmtl Fld_Jyoheki03_mJyohekiBarbershopWallWood
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiBarbershopWallWood_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiCoinlaundryBoard
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiCoinlaundryBoard_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiCoinlaundryDesk
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiCoinlaundryDesk_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiCoinlaundryFloor
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiCoinlaundryFloor_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiCoinlaundryMachine
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiCoinlaundryMachine_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiCoinlaundryWall
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiCoinlaundryWall_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiCoinlaundryWallSide
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiCoinlaundryWallSide_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiDoor
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiDoor_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiDoor_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiDoor_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiEntranceDoor
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiEntranceDoor_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiEntranceDoor_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiEntranceDoor_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiEntranceFloor
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiEntranceFloor_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiEntranceGround
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiEntranceGround_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiEntranceObj
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiEntranceObj_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiEntranceWall
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiEntranceWall_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiFence
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiFence_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiHandrailEdging
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiHandrailEdging_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiHandrailEdging_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiHandrailEdging_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiHandrailEdging_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiHandrailEdging_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiHandrailEdging_sp
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiHandrailEdging_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiMetalFrame
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiMetalFrame_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiMetalNet
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiMetalNet_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiMetalWall
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiMetalWall_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiNet
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiNet_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiOutdoorunit
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiOutdoorunit_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiOuterWall
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiOuterWall_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiOuterWallBrick
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiOuterWallBrick_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiOuterWallGreen
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiOuterWallGreen_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiOuterWallGreen_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiOuterWallGreen_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiOuterWall_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiOuterWall_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiPipe
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiPipe_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiPipe_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiPipe_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiRoad
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoad_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiRoadCornerTileA
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadCornerTileA_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiRoadCornerTileB
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadCornerTileB_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiRoadEdge
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadEdge_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiRoadMetalTileA
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadMetalTileA_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiRoadTileA
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadTileA_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiRoadTileB
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadTileB_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiRoadTileC
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadTileC_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiRoadTileC_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiRoadTileC_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiStreetlight
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiStreetlight_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiTelPole
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiTelPole_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiWallUnder
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWallUnder_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiWaterTank
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWaterTank_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiWindow
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWindow_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiWindowSmall
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWindowSmall_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiWindowSmall_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWindowSmall_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiWindow_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWindow_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiWoodCover
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWoodCover_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiWoodFence
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWoodFence_Alb.png
+
+newmtl Fld_Jyoheki03_mJyohekiWoodFence_np
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiWoodFence_Alb.png
+

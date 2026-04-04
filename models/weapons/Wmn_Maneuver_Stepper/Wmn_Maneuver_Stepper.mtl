@@ -1,0 +1,10 @@
+# KiTrix material file
+newmtl Wmn_Maneuver_Stepper_M_Stepper
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.1 0.1 0.1
+Ns 32.0
+d 1.0
+map_Kd textures/M_Stepper_Alb.png
+map_bump textures/M_Stepper_Nrm.png
+

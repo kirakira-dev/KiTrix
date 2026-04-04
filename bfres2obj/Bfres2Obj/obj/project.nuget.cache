@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "vceT8vWpCiQ=",
+  "success": true,
+  "projectFilePath": "/Users/kirakira/Dev/KiTrix/bfres2obj/Bfres2Obj/Bfres2Obj.csproj",
+  "expectedPackageFiles": [
+    "/Users/kirakira/.nuget/packages/bcnencoder.net/2.1.0/bcnencoder.net.2.1.0.nupkg.sha512",
+    "/Users/kirakira/.nuget/packages/microsoft.toolkit.highperformance/7.0.2/microsoft.toolkit.highperformance.7.0.2.nupkg.sha512",
+    "/Users/kirakira/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/kirakira/.nuget/packages/skiasharp/2.88.9/skiasharp.2.88.9.nupkg.sha512",
+    "/Users/kirakira/.nuget/packages/skiasharp.nativeassets.macos/2.88.9/skiasharp.nativeassets.macos.2.88.9.nupkg.sha512",
+    "/Users/kirakira/.nuget/packages/skiasharp.nativeassets.win32/2.88.9/skiasharp.nativeassets.win32.2.88.9.nupkg.sha512",
+    "/Users/kirakira/.nuget/packages/zstdsharp.port/0.8.7/zstdsharp.port.0.8.7.nupkg.sha512",
+    "/Users/kirakira/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.22/microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512",
+    "/Users/kirakira/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.22/microsoft.netcore.app.host.osx-arm64.8.0.22.nupkg.sha512",
+    "/Users/kirakira/.nuget/packages/microsoft.netcore.app.ref/8.0.22/microsoft.netcore.app.ref.8.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

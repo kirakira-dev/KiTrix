@@ -1,0 +1,541 @@
+# KiTrix material file
+newmtl FldBG_DVSpider_FldSpiderKakiwari00
+Kd 1.0 1.0 1.0
+map_Kd textures/FldSpiderKakiwari00_Alb.png
+
+newmtl FldBG_Yagara_AptBldg
+Kd 1.0 1.0 1.0
+map_Kd textures/AptBldg_Alb.png
+
+newmtl FldBG_Yagara_BGBldgA01
+Kd 1.0 1.0 1.0
+map_Kd textures/BGBldgA01_Alb.png
+
+newmtl FldBG_Yagara_BGBldgA02
+Kd 1.0 1.0 1.0
+map_Kd textures/BGBldgA02_Alb.png
+
+newmtl FldBG_Yagara_BGBldgB01
+Kd 1.0 1.0 1.0
+map_Kd textures/BGBldgB01_Alb.png
+
+newmtl FldBG_Yagara_BGBldgB02
+Kd 1.0 1.0 1.0
+map_Kd textures/BGBldgB02_Alb.png
+
+newmtl FldBG_Yagara_BGBldgB03
+Kd 1.0 1.0 1.0
+map_Kd textures/BGBldgB03_Alb.png
+
+newmtl FldBG_Yagara_BGBldgB04
+Kd 1.0 1.0 1.0
+map_Kd textures/BGBldgB04_Alb.png
+
+newmtl FldBG_Yagara_BGBldgC
+Kd 1.0 1.0 1.0
+map_Kd textures/BGBldgC_Alb.png
+
+newmtl FldBG_Yagara_BGBldgLights
+Kd 1.0 1.0 1.0
+map_Kd textures/BGBldgLights_Alb.png
+
+newmtl FldBG_Yagara_BGBldgMisc
+Kd 1.0 1.0 1.0
+map_Kd textures/BGBldgMisc_Alb.png
+
+newmtl FldBG_Yagara_Cranes
+Kd 1.0 1.0 1.0
+map_Kd textures/Cranes_Alb.png
+
+newmtl FldBG_Yagara_DVGroundAsphalt
+Kd 1.0 1.0 1.0
+map_Kd textures/DVGroundAsphalt_Alb.png
+
+newmtl FldBG_Yagara_DVGroundGrass
+Kd 1.0 1.0 1.0
+map_Kd textures/DVGroundGrass_Alb.png
+
+newmtl FldBG_Yagara_DVTreeBush
+Kd 1.0 1.0 1.0
+map_Kd textures/DVTreeBush_Alb.png
+
+newmtl FldBG_Yagara_DecoProps_np
+Kd 1.0 1.0 1.0
+map_Kd textures/DecoProps_Alb.png
+
+newmtl FldBG_Yagara_ElectricPole
+Kd 1.0 1.0 1.0
+map_Kd textures/ElectricPole_Alb.png
+
+newmtl FldBG_Yagara_FruitBox00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/FruitBox00_np_Alb.png
+
+newmtl FldBG_Yagara_GroundPavement
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundPavement_Alb.png
+
+newmtl FldBG_Yagara_HseAwning
+Kd 1.0 1.0 1.0
+map_Kd textures/HseAwning_Alb.png
+
+newmtl FldBG_Yagara_HseLOD
+Kd 1.0 1.0 1.0
+map_Kd textures/HseLOD_Alb.png
+
+newmtl FldBG_Yagara_HseRoof
+Kd 1.0 1.0 1.0
+map_Kd textures/HseRoof_Alb.png
+
+newmtl FldBG_Yagara_HseWallA
+Kd 1.0 1.0 1.0
+map_Kd textures/HseWallA_Alb.png
+
+newmtl FldBG_Yagara_HseWallB
+Kd 1.0 1.0 1.0
+map_Kd textures/HseWallB_Alb.png
+
+newmtl FldBG_Yagara_MVPier
+Kd 1.0 1.0 1.0
+map_Kd textures/MVPier_Alb.png
+
+newmtl FldBG_Yagara_MonorailAtlas
+Kd 1.0 1.0 1.0
+map_Kd textures/MonorailAtlas_Alb.png
+
+newmtl FldBG_Yagara_NatureBillboard
+Kd 1.0 1.0 1.0
+map_Kd textures/NatureBillboard_Alb.png
+
+newmtl FldBG_Yagara_PalmTree01
+Kd 1.0 1.0 1.0
+map_Kd textures/PalmTree01_Alb.png
+
+newmtl FldBG_Yagara_PalmTree02
+Kd 1.0 1.0 1.0
+map_Kd textures/PalmTree02_Alb.png
+
+newmtl FldBG_Yagara_Ship
+Kd 1.0 1.0 1.0
+map_Kd textures/Ship_Alb.png
+
+newmtl FldBG_Yagara_Sludge
+Kd 1.0 1.0 1.0
+map_Kd textures/Sludge_Alb.png
+
+newmtl FldBG_Yagara_TentStallAtlas01_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/TentStallAtlas01_Alb.png
+
+newmtl FldBG_Yagara_Terrain
+Kd 1.0 1.0 1.0
+map_Kd textures/Terrain_Alb.png
+
+newmtl FldBG_Yagara_TrashElements_np
+Kd 1.0 1.0 1.0
+map_Kd textures/TrashElementsNP_Alb.png
+
+newmtl FldBG_Yagara_YagaraPropsUDIM04
+Kd 1.0 1.0 1.0
+map_Kd textures/YagaraPropsUDIM04_UDIM_Alb.png
+
+newmtl FldObj_YagaraFloatBoatA_Boats
+Kd 1.0 1.0 1.0
+map_Kd textures/Boats_Alb.png
+
+newmtl FldObj_YagaraFloatBoatB_Boats
+Kd 1.0 1.0 1.0
+map_Kd textures/Boats_Alb.png
+
+newmtl FldObj_YagaraFloatBuoyA_NavBuoy
+Kd 1.0 1.0 1.0
+map_Kd textures/NavBuoy_Alb.png
+
+newmtl FldObj_YagaraFloatDebrisA_DecoProps_np
+Kd 1.0 1.0 1.0
+map_Kd textures/DecoProps_Alb.png
+
+newmtl FldObj_YagaraFloatDebrisA_FruitBox00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/FruitBox00_np_Alb.png
+
+newmtl FldObj_YagaraFloatDebrisB_DecoProps_np
+Kd 1.0 1.0 1.0
+map_Kd textures/DecoProps_Alb.png
+
+newmtl FldObj_YagaraFloatDebrisB_FruitBox00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/FruitBox00_np_Alb.png
+
+newmtl FldObj_YagaraFloatDebrisC_FruitBox00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/FruitBox00_np_Alb.png
+
+newmtl FldObj_YagaraFloatDebrisC_TrashElements_np
+Kd 1.0 1.0 1.0
+map_Kd textures/TrashElementsNP_Alb.png
+
+newmtl FldObj_YagaraFloatDebrisD_FruitBox00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/FruitBox00_np_Alb.png
+
+newmtl FldObj_YagaraFloatDebrisD_TrashElements_np
+Kd 1.0 1.0 1.0
+map_Kd textures/TrashElementsNP_Alb.png
+
+newmtl FldObj_YagaraFloatDebrisE_DecoProps_np
+Kd 1.0 1.0 1.0
+map_Kd textures/DecoProps_Alb.png
+
+newmtl FldObj_YagaraFloatDebrisE_Sludge
+Kd 1.0 1.0 1.0
+map_Kd textures/Sludge_Alb.png
+
+newmtl FldObj_YagaraFloatDebrisE_TrashElements_np
+Kd 1.0 1.0 1.0
+map_Kd textures/TrashElementsNP_Alb.png
+
+newmtl FldObj_YagaraFloatDebrisF_Sludge
+Kd 1.0 1.0 1.0
+map_Kd textures/Sludge_Alb.png
+
+newmtl FldObj_YagaraFloatDebrisF_TrashElements_np
+Kd 1.0 1.0 1.0
+map_Kd textures/TrashElementsNP_Alb.png
+
+newmtl FldObj_YagaraFloatDebrisG_Sludge
+Kd 1.0 1.0 1.0
+map_Kd textures/Sludge_Alb.png
+
+newmtl FldObj_YagaraFloatDebrisG_TrashElements_np
+Kd 1.0 1.0 1.0
+map_Kd textures/TrashElementsNP_Alb.png
+
+newmtl Fld_MarketLights_FruitItems01_np
+Kd 1.0 1.0 1.0
+map_Kd textures/FruitItems01_Alb.png
+
+newmtl Fld_MarketLights_MarketFlags
+Kd 1.0 1.0 1.0
+map_Kd textures/MarketFlags_Alb.png
+
+newmtl Fld_MarketLights_TentStallAtlas01
+Kd 1.0 1.0 1.0
+map_Kd textures/TentStallAtlas01_Alb.png
+
+newmtl Fld_MarketLights_Umbrella
+Kd 1.0 1.0 1.0
+map_Kd textures/Umbrella_Alb.png
+
+newmtl Fld_Yagara_Boundaries00
+Kd 1.0 1.0 1.0
+map_Kd textures/Boundaries00_Alb.png
+
+newmtl Fld_Yagara_Boundaries01
+Kd 1.0 1.0 1.0
+map_Kd textures/Boundaries01_Alb.png
+
+newmtl Fld_Yagara_Boundaries02
+Kd 1.0 1.0 1.0
+map_Kd textures/Boundaries02_Alb.png
+
+newmtl Fld_Yagara_Boundaries03
+Kd 1.0 1.0 1.0
+map_Kd textures/Boundaries03_Alb.png
+
+newmtl Fld_Yagara_CargoCrate
+Kd 1.0 1.0 1.0
+map_Kd textures/CargoCrate_Alb.png
+
+newmtl Fld_Yagara_ClothesItems00
+Kd 1.0 1.0 1.0
+map_Kd textures/ClothesItems00_Alb.png
+
+newmtl Fld_Yagara_ClothesItems00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/ClothesItems00NP_Alb.png
+
+newmtl Fld_Yagara_ConcreteB
+Kd 1.0 1.0 1.0
+map_Kd textures/ConcreteB_Alb.png
+
+newmtl Fld_Yagara_ConcreteB_np
+Kd 1.0 1.0 1.0
+map_Kd textures/ConcreteB_Alb.png
+
+newmtl Fld_Yagara_ConcreteWall
+Kd 1.0 1.0 1.0
+map_Kd textures/ConcreteWall_Alb.png
+
+newmtl Fld_Yagara_ConcreteWall_np
+Kd 1.0 1.0 1.0
+map_Kd textures/ConcreteWallNP_Alb.png
+
+newmtl Fld_Yagara_DecoProps
+Kd 1.0 1.0 1.0
+map_Kd textures/DecoProps_Alb.png
+
+newmtl Fld_Yagara_DecoProps_np
+Kd 1.0 1.0 1.0
+map_Kd textures/DecoProps_Alb.png
+
+newmtl Fld_Yagara_FenceNet
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceNet_Alb.png
+
+newmtl Fld_Yagara_FenceNet_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceNet_Alb.png
+
+newmtl Fld_Yagara_FishItems01
+Kd 1.0 1.0 1.0
+map_Kd textures/FishItems01_Alb.png
+
+newmtl Fld_Yagara_FishSet
+Kd 1.0 1.0 1.0
+map_Kd textures/FishSet_Alb.png
+
+newmtl Fld_Yagara_FloorCrack
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorCrack_Alb.png
+
+newmtl Fld_Yagara_FloorCrack_np
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorCrack_Alb.png
+
+newmtl Fld_Yagara_FloorPatch
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorPatch_Alb.png
+
+newmtl Fld_Yagara_FloorTile
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTile_Alb.png
+
+newmtl Fld_Yagara_FloorTileCrack
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTileCrack_Alb.png
+
+newmtl Fld_Yagara_FloorTileCrack_np
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTileCrack_Alb.png
+
+newmtl Fld_Yagara_FruitBox00
+Kd 1.0 1.0 1.0
+map_Kd textures/FruitBox00_Alb.png
+
+newmtl Fld_Yagara_FruitBox00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/FruitBox00_np_Alb.png
+
+newmtl Fld_Yagara_FruitBox01
+Kd 1.0 1.0 1.0
+map_Kd textures/FruitBox01_Alb.png
+
+newmtl Fld_Yagara_FruitBox01_np
+Kd 1.0 1.0 1.0
+map_Kd textures/FruitBox01_np_Alb.png
+
+newmtl Fld_Yagara_FruitItems01
+Kd 1.0 1.0 1.0
+map_Kd textures/FruitItems01_Alb.png
+
+newmtl Fld_Yagara_GrassFloor00
+Kd 1.0 1.0 1.0
+map_Kd textures/GrassFloor00_Alb.png
+
+newmtl Fld_Yagara_Grating
+Kd 1.0 1.0 1.0
+map_Kd textures/Grating_Alb.png
+
+newmtl Fld_Yagara_KomonoPaper
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoPaper_Nrm.png
+
+newmtl Fld_Yagara_MetalBoards
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalBoards_Alb.png
+
+newmtl Fld_Yagara_PowerBox
+Kd 1.0 1.0 1.0
+map_Kd textures/PowerBox_Alb.png
+
+newmtl Fld_Yagara_PowerBoxGlass
+Kd 1.0 1.0 1.0
+map_Kd textures/BakeDummy00.png
+
+newmtl Fld_Yagara_RailingStraight
+Kd 1.0 1.0 1.0
+map_Kd textures/RailingStraight_Alb.png
+
+newmtl Fld_Yagara_SlopeA
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeA_Alb.png
+
+newmtl Fld_Yagara_SlopeB
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeB_Alb.png
+
+newmtl Fld_Yagara_SlopeB_np
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeB_Alb.png
+
+newmtl Fld_Yagara_SnackItems00
+Kd 1.0 1.0 1.0
+map_Kd textures/SnackItems00_Alb.png
+
+newmtl Fld_Yagara_SpeakerPoleAcc
+Kd 1.0 1.0 1.0
+map_Kd textures/SpeakerPoleAcc_Alb.png
+
+newmtl Fld_Yagara_SpeakerPoleMain
+Kd 1.0 1.0 1.0
+map_Kd textures/SpeakerPoleMain_Alb.png
+
+newmtl Fld_Yagara_Tactiles
+Kd 1.0 1.0 1.0
+map_Kd textures/Tactiles_Alb.png
+
+newmtl Fld_Yagara_TarpLarge
+Kd 1.0 1.0 1.0
+map_Kd textures/TarpLarge_Alb.png
+
+newmtl Fld_Yagara_TentCoverB
+Kd 1.0 1.0 1.0
+map_Kd textures/TentCoverB_Alb.png
+
+newmtl Fld_Yagara_TentCoverC
+Kd 1.0 1.0 1.0
+map_Kd textures/TentCoverC_Alb.png
+
+newmtl Fld_Yagara_TentGeneral00
+Kd 1.0 1.0 1.0
+map_Kd textures/TentGeneral00_Alb.png
+
+newmtl Fld_Yagara_TentGeneral00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/TentGeneral00NP_Alb.png
+
+newmtl Fld_Yagara_TentGeneral01
+Kd 1.0 1.0 1.0
+map_Kd textures/TentGeneral01_Alb.png
+
+newmtl Fld_Yagara_TentGeneral01_np
+Kd 1.0 1.0 1.0
+map_Kd textures/TentGeneral01_Alb.png
+
+newmtl Fld_Yagara_TentGeneral02
+Kd 1.0 1.0 1.0
+map_Kd textures/TentGeneral02_Alb.png
+
+newmtl Fld_Yagara_TentHem00
+Kd 1.0 1.0 1.0
+map_Kd textures/TentHem00_Alb.png
+
+newmtl Fld_Yagara_TentHem01
+Kd 1.0 1.0 1.0
+map_Kd textures/TentHem01_Alb.png
+
+newmtl Fld_Yagara_TentRoofA00
+Kd 1.0 1.0 1.0
+map_Kd textures/TentRoofA00_Alb.png
+
+newmtl Fld_Yagara_TentRoofA01
+Kd 1.0 1.0 1.0
+map_Kd textures/TentRoofA01_Alb.png
+
+newmtl Fld_Yagara_TentRoofA02
+Kd 1.0 1.0 1.0
+map_Kd textures/TentRoofA02_Alb.png
+
+newmtl Fld_Yagara_TentRoofD00
+Kd 1.0 1.0 1.0
+map_Kd textures/TentRoofA00_Nrm.png
+
+newmtl Fld_Yagara_TentSupport
+Kd 1.0 1.0 1.0
+map_Kd textures/TentSupport_Alb.png
+
+newmtl Fld_Yagara_TrashElements
+Kd 1.0 1.0 1.0
+map_Kd textures/TrashElements_Alb.png
+
+newmtl Fld_Yagara_TrashElements_np
+Kd 1.0 1.0 1.0
+map_Kd textures/TrashElementsNP_Alb.png
+
+newmtl Fld_Yagara_Trolley
+Kd 1.0 1.0 1.0
+map_Kd textures/Trolley_Alb.png
+
+newmtl Fld_Yagara_Trolley_Opa
+Kd 1.0 1.0 1.0
+map_Kd textures/Trolley_Alb.png
+
+newmtl Fld_Yagara_Umbrella_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/Umbrella_Alb.png
+
+newmtl Fld_Yagara_Vinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/Vinyl_Alb.png
+
+newmtl Fld_Yagara_VinylCover
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylCover_Alb.png
+
+newmtl Fld_Yagara_VinylSheetG
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylSheetG_Nrm.png
+
+newmtl Fld_Yagara_WarningTape
+Kd 1.0 1.0 1.0
+map_Kd textures/WarningTapeNP_Alb.png
+
+newmtl Fld_Yagara_WarningTape_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WarningTapeNP_Alb.png
+
+newmtl Fld_Yagara_WaterPuddle
+Kd 1.0 1.0 1.0
+map_Kd textures/WaterPuddle_Alb.png
+
+newmtl Fld_Yagara_WavyTiles
+Kd 1.0 1.0 1.0
+map_Kd textures/WavyTiles_Alb.png
+
+newmtl Fld_Yagara_WoodPanel
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodPanel_Alb.png
+
+newmtl Fld_Yagara_WoodPanel_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodPanel_Alb.png
+
+newmtl Fld_Yagara_YagaraPropsUDIM00
+Kd 1.0 1.0 1.0
+map_Kd textures/YagaraPropsUDIM00_UDIM_Alb.png
+
+newmtl Fld_Yagara_YagaraPropsUDIM01
+Kd 1.0 1.0 1.0
+map_Kd textures/YagaraPropsUDIM01_UDIM_Alb.png
+
+newmtl Fld_Yagara_YagaraPropsUDIM02
+Kd 1.0 1.0 1.0
+map_Kd textures/YagaraPropsUDIM02_UDIM_Alb.png
+
+newmtl Fld_Yagara_Canola_CanolaA
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaA_Alb.png
+
+newmtl Fld_Yagara_Canola_CanolaAV
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaAV_Alb.png
+
+newmtl Fld_Yagara_Canola_CanolaB
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaB_Alb.png
+
+newmtl Fld_Yagara_Canola_CanolaBV
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaBV_Alb.png
+

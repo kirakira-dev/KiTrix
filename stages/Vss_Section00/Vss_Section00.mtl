@@ -1,0 +1,1389 @@
+# KiTrix material file
+newmtl FldObj_Section00_Block_Carpet03
+Kd 1.0 1.0 1.0
+map_Kd textures/Carpet03_Alb.png
+
+newmtl FldObj_Section00_Block_Frame02
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame02_Alb.png
+
+newmtl FldObj_Section00_Block_Frame07
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame07_Alb.png
+
+newmtl FldObj_Section00_Block_Glass00
+Kd 1.0 1.0 1.0
+map_Kd textures/Glass00_Alb.png
+
+newmtl FldObj_Section00_Block_Iron00
+Kd 1.0 1.0 1.0
+map_Kd textures/Iron00_Alb.png
+
+newmtl FldObj_Section00_Block_PlayFieldUDIM00
+Kd 1.0 1.0 1.0
+map_Kd textures/PlayFieldUDIM00_UDIM_Alb.png
+
+newmtl FldObj_Section00_Block_VinylMat00
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylMat00_Alb.png
+
+newmtl FldObj_Section00_Block_Wood02
+Kd 1.0 1.0 1.0
+map_Kd textures/Wood02_Alb.png
+
+newmtl FldObj_Section00_Block_Wood06
+Kd 1.0 1.0 1.0
+map_Kd textures/Wood06_Alb.png
+
+newmtl FldObj_Section00_CenterBlock_CampSet02
+Kd 1.0 1.0 1.0
+map_Kd textures/CampSet02_Alb.png
+
+newmtl FldObj_Section00_CenterBlock_CampSet02_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/CampSet02_Alb.png
+
+newmtl FldObj_Section00_CenterBlock_Frame07
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame07_Alb.png
+
+newmtl FldObj_Section00_CenterBlock_PlayRoomSet02_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/PlayRoomSet02_Alb.png
+
+newmtl FldObj_Section00_CenterBlock_Wood02
+Kd 1.0 1.0 1.0
+map_Kd textures/Wood02_Alb.png
+
+newmtl FldObj_Section00_CenterSide_Concrete01
+Kd 1.0 1.0 1.0
+map_Kd textures/Concrete01_Alb.png
+
+newmtl FldObj_Section00_CenterSide_Concrete03
+Kd 1.0 1.0 1.0
+map_Kd textures/Concrete03_Alb.png
+
+newmtl FldObj_Section00_CenterSide_Frame00
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame00_Alb.png
+
+newmtl FldObj_Section00_CenterSide_Frame01
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame01_Alb.png
+
+newmtl FldObj_Section00_CenterSide_Frame03
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame03_Alb.png
+
+newmtl FldObj_Section00_CenterSide_Frame07
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame07_Alb.png
+
+newmtl FldObj_Section00_CenterSide_Glass01
+Kd 1.0 1.0 1.0
+map_Kd textures/Glass01_Nrm.png
+
+newmtl FldObj_Section00_CenterSideTcl_CafeSet00
+Kd 1.0 1.0 1.0
+map_Kd textures/CafeSet00_Alb.png
+
+newmtl FldObj_Section00_CenterSideTcl_CampSet01
+Kd 1.0 1.0 1.0
+map_Kd textures/CampSet01_Alb.png
+
+newmtl FldObj_Section00_CenterSideTcl_CanolaC
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaC_Alb.png
+
+newmtl FldObj_Section00_CenterSideTcl_CanolaCV
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaCV_Alb.png
+
+newmtl FldObj_Section00_CenterSideTcl_Concrete01
+Kd 1.0 1.0 1.0
+map_Kd textures/Concrete01_Alb.png
+
+newmtl FldObj_Section00_CenterSideTcl_Concrete03
+Kd 1.0 1.0 1.0
+map_Kd textures/Concrete03_Alb.png
+
+newmtl FldObj_Section00_CenterSideTcl_Concrete05
+Kd 1.0 1.0 1.0
+map_Kd textures/Concrete05_Alb.png
+
+newmtl FldObj_Section00_CenterSideTcl_Frame00
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame00_Alb.png
+
+newmtl FldObj_Section00_CenterSideTcl_Frame01
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame01_Alb.png
+
+newmtl FldObj_Section00_CenterSideTcl_Frame02
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame02_Alb.png
+
+newmtl FldObj_Section00_CenterSideTcl_Frame03
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame03_Alb.png
+
+newmtl FldObj_Section00_CenterSideTcl_Frame04
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame04_Alb.png
+
+newmtl FldObj_Section00_CenterSideTcl_Frame06
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame06_Alb.png
+
+newmtl FldObj_Section00_CenterSideTcl_Frame07
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame07_Alb.png
+
+newmtl FldObj_Section00_CenterSideTcl_Frame07_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame07_Alb.png
+
+newmtl FldObj_Section00_CenterSideTcl_Glass00
+Kd 1.0 1.0 1.0
+map_Kd textures/Glass00_Alb.png
+
+newmtl FldObj_Section00_CenterSideTcl_Glass01
+Kd 1.0 1.0 1.0
+map_Kd textures/Glass01_Nrm.png
+
+newmtl FldObj_Section00_CenterSideTcl_Iron00
+Kd 1.0 1.0 1.0
+map_Kd textures/Iron00_Alb.png
+
+newmtl FldObj_Section00_CenterSideTcl_PlayFieldUDIM00
+Kd 1.0 1.0 1.0
+map_Kd textures/PlayFieldUDIM00_UDIM_Alb.png
+
+newmtl FldObj_Section00_CenterSideTcl_Wood00
+Kd 1.0 1.0 1.0
+map_Kd textures/Wood00_Alb.png
+
+newmtl FldObj_Section00_CenterSideTcl_Wood01
+Kd 1.0 1.0 1.0
+map_Kd textures/Wood01_Alb.png
+
+newmtl FldObj_Section00_CenterSideTcl_Wood02
+Kd 1.0 1.0 1.0
+map_Kd textures/Wood02_Alb.png
+
+newmtl FldObj_Section00_CubeCmn_FenceVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/M_FenceVinyl_Alb.png
+
+newmtl FldObj_Section00_CubePnt_FenceVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/M_FenceVinyl_Alb.png
+
+newmtl FldObj_Section00_CubeTcl_FenceVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/M_FenceVinyl_Alb.png
+
+newmtl FldObj_Section00_CubeVar_FenceVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/M_FenceVinyl_Alb.png
+
+newmtl FldObj_Section00_CubeVcl_FenceVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/M_FenceVinyl_Alb.png
+
+newmtl FldObj_Section00_CubeVgl_FenceVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/M_FenceVinyl_Alb.png
+
+newmtl FldObj_Section00_CubeVlf_FenceVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/M_FenceVinyl_Alb.png
+
+newmtl FldObj_Section00_Fence_mJyohekiMetalNet
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiMetalNet_Alb.png
+
+newmtl FldObj_Section00_Fence_mJyohekiNet
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiNet_Alb.png
+
+newmtl FldObj_Section00_FloorFill_Carpet01
+Kd 1.0 1.0 1.0
+map_Kd textures/Carpet01_Alb.png
+
+newmtl FldObj_Section00_FloorFill_PlayFieldUDIM00
+Kd 1.0 1.0 1.0
+map_Kd textures/PlayFieldUDIM00_UDIM_Alb.png
+
+newmtl FldObj_Section00_FloorFill_PlayRoomSet00
+Kd 1.0 1.0 1.0
+map_Kd textures/PlayRoomSet00_Alb.png
+
+newmtl FldObj_Section00_FloorFillVgl_PlayFieldUDIM00
+Kd 1.0 1.0 1.0
+map_Kd textures/PlayFieldUDIM00_UDIM_Alb.png
+
+newmtl FldObj_Section00_Respawn_CanolaA
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaA_Alb.png
+
+newmtl FldObj_Section00_Respawn_CanolaB
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaB_Alb.png
+
+newmtl FldObj_Section00_Respawn_Carpet01
+Kd 1.0 1.0 1.0
+map_Kd textures/Carpet01_Alb.png
+
+newmtl FldObj_Section00_Respawn_Carpet05
+Kd 1.0 1.0 1.0
+map_Kd textures/Carpet05_Alb.png
+
+newmtl FldObj_Section00_Respawn_Carpet06
+Kd 1.0 1.0 1.0
+map_Kd textures/Carpet06_Alb.png
+
+newmtl FldObj_Section00_Respawn_Concrete01
+Kd 1.0 1.0 1.0
+map_Kd textures/Concrete01_Alb.png
+
+newmtl FldObj_Section00_Respawn_Concrete03
+Kd 1.0 1.0 1.0
+map_Kd textures/Concrete03_Alb.png
+
+newmtl FldObj_Section00_Respawn_Concrete04
+Kd 1.0 1.0 1.0
+map_Kd textures/Concrete04_Alb.png
+
+newmtl FldObj_Section00_Respawn_Frame00
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame00_Alb.png
+
+newmtl FldObj_Section00_Respawn_Frame01
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame01_Alb.png
+
+newmtl FldObj_Section00_Respawn_Frame03
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame03_Alb.png
+
+newmtl FldObj_Section00_Respawn_Frame04
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame04_Alb.png
+
+newmtl FldObj_Section00_Respawn_Frame06
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame06_Alb.png
+
+newmtl FldObj_Section00_Respawn_Frame07
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame07_Alb.png
+
+newmtl FldObj_Section00_Respawn_Frame07_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame07_Alb.png
+
+newmtl FldObj_Section00_Respawn_Glass00
+Kd 1.0 1.0 1.0
+map_Kd textures/Glass00_Alb.png
+
+newmtl FldObj_Section00_Respawn_Glass01
+Kd 1.0 1.0 1.0
+map_Kd textures/Glass01_Nrm.png
+
+newmtl FldObj_Section00_Respawn_Glass02
+Kd 1.0 1.0 1.0
+map_Kd textures/Glass02_Alb.png
+
+newmtl FldObj_Section00_Respawn_Graffiti00
+Kd 1.0 1.0 1.0
+map_Kd textures/Graffiti00_Alb.png
+
+newmtl FldObj_Section00_Respawn_Grass00
+Kd 1.0 1.0 1.0
+map_Kd textures/Grass00_Alb.png
+
+newmtl FldObj_Section00_Respawn_Grass00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Grass00_Alb.png
+
+newmtl FldObj_Section00_Respawn_Iron00
+Kd 1.0 1.0 1.0
+map_Kd textures/Iron00_Alb.png
+
+newmtl FldObj_Section00_Respawn_JointMatNoda00
+Kd 1.0 1.0 1.0
+map_Kd textures/JointMatNoda00_Alb.png
+
+newmtl FldObj_Section00_Respawn_KisdsRoomWall00
+Kd 1.0 1.0 1.0
+map_Kd textures/KisdsRoomWall00_Alb.png
+
+newmtl FldObj_Section00_Respawn_PlayFieldUDIM00
+Kd 1.0 1.0 1.0
+map_Kd textures/PlayFieldUDIM00_UDIM_Alb.png
+
+newmtl FldObj_Section00_Respawn_PlayRoomSet00
+Kd 1.0 1.0 1.0
+map_Kd textures/PlayRoomSet00_Alb.png
+
+newmtl FldObj_Section00_Respawn_PlayRoomSet02
+Kd 1.0 1.0 1.0
+map_Kd textures/PlayRoomSet02_Alb.png
+
+newmtl FldObj_Section00_Respawn_PlayRoomSet02_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/PlayRoomSet02_Alb.png
+
+newmtl FldObj_Section00_Respawn_Slope01
+Kd 1.0 1.0 1.0
+map_Kd textures/Slope01_Alb.png
+
+newmtl FldObj_Section00_Respawn_VinylMat00
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylMat00_Alb.png
+
+newmtl FldObj_Section00_Respawn_VinylSheet01
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylSheet01_Alb.png
+
+newmtl FldObj_Section00_Respawn_Wood01
+Kd 1.0 1.0 1.0
+map_Kd textures/Wood01_Alb.png
+
+newmtl FldObj_Section00_Respawn_Wood03
+Kd 1.0 1.0 1.0
+map_Kd textures/Wood03_Alb.png
+
+newmtl FldObj_Section00_Respawn_WoodenBlocks00
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodenBlocks00_Alb.png
+
+newmtl FldObj_Section00_Respawn_mJyohekiMetalNet
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiMetalNet_Alb.png
+
+newmtl FldObj_Section00_Respawn_mJyohekiNet
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiNet_Alb.png
+
+newmtl FldObj_Section00_RespawnTcl_CanolaA
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaA_Alb.png
+
+newmtl FldObj_Section00_RespawnTcl_CanolaB
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaB_Alb.png
+
+newmtl FldObj_Section00_RespawnTcl_Carpet01
+Kd 1.0 1.0 1.0
+map_Kd textures/Carpet01_Alb.png
+
+newmtl FldObj_Section00_RespawnTcl_Carpet03
+Kd 1.0 1.0 1.0
+map_Kd textures/Carpet03_Alb.png
+
+newmtl FldObj_Section00_RespawnTcl_Carpet05
+Kd 1.0 1.0 1.0
+map_Kd textures/Carpet05_Alb.png
+
+newmtl FldObj_Section00_RespawnTcl_Carpet06
+Kd 1.0 1.0 1.0
+map_Kd textures/Carpet06_Alb.png
+
+newmtl FldObj_Section00_RespawnTcl_Concrete01
+Kd 1.0 1.0 1.0
+map_Kd textures/Concrete01_Alb.png
+
+newmtl FldObj_Section00_RespawnTcl_Concrete03
+Kd 1.0 1.0 1.0
+map_Kd textures/Concrete03_Alb.png
+
+newmtl FldObj_Section00_RespawnTcl_Concrete04
+Kd 1.0 1.0 1.0
+map_Kd textures/Concrete04_Alb.png
+
+newmtl FldObj_Section00_RespawnTcl_Frame00
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame00_Alb.png
+
+newmtl FldObj_Section00_RespawnTcl_Frame01
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame01_Alb.png
+
+newmtl FldObj_Section00_RespawnTcl_Frame03
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame03_Alb.png
+
+newmtl FldObj_Section00_RespawnTcl_Frame04
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame04_Alb.png
+
+newmtl FldObj_Section00_RespawnTcl_Frame06
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame06_Alb.png
+
+newmtl FldObj_Section00_RespawnTcl_Frame07
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame07_Alb.png
+
+newmtl FldObj_Section00_RespawnTcl_Frame07_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame07_Alb.png
+
+newmtl FldObj_Section00_RespawnTcl_Glass00
+Kd 1.0 1.0 1.0
+map_Kd textures/Glass00_Alb.png
+
+newmtl FldObj_Section00_RespawnTcl_Glass01
+Kd 1.0 1.0 1.0
+map_Kd textures/Glass01_Nrm.png
+
+newmtl FldObj_Section00_RespawnTcl_Graffiti00
+Kd 1.0 1.0 1.0
+map_Kd textures/Graffiti00_Alb.png
+
+newmtl FldObj_Section00_RespawnTcl_Grass00
+Kd 1.0 1.0 1.0
+map_Kd textures/Grass00_Alb.png
+
+newmtl FldObj_Section00_RespawnTcl_Grass00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Grass00_Alb.png
+
+newmtl FldObj_Section00_RespawnTcl_JointMatNoda00
+Kd 1.0 1.0 1.0
+map_Kd textures/JointMatNoda00_Alb.png
+
+newmtl FldObj_Section00_RespawnTcl_KisdsRoomWall00
+Kd 1.0 1.0 1.0
+map_Kd textures/KisdsRoomWall00_Alb.png
+
+newmtl FldObj_Section00_RespawnTcl_PlayFieldUDIM00
+Kd 1.0 1.0 1.0
+map_Kd textures/PlayFieldUDIM00_UDIM_Alb.png
+
+newmtl FldObj_Section00_RespawnTcl_PlayRoomSet00
+Kd 1.0 1.0 1.0
+map_Kd textures/PlayRoomSet00_Alb.png
+
+newmtl FldObj_Section00_RespawnTcl_PlayRoomSet02
+Kd 1.0 1.0 1.0
+map_Kd textures/PlayRoomSet02_Alb.png
+
+newmtl FldObj_Section00_RespawnTcl_PlayRoomSet02_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/PlayRoomSet02_Alb.png
+
+newmtl FldObj_Section00_RespawnTcl_VinylMat00
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylMat00_Alb.png
+
+newmtl FldObj_Section00_RespawnTcl_Wood01
+Kd 1.0 1.0 1.0
+map_Kd textures/Wood01_Alb.png
+
+newmtl FldObj_Section00_RespawnTcl_WoodenBlocks00
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodenBlocks00_Alb.png
+
+newmtl FldObj_Section00_RespawnTcl_mJyohekiMetalNet
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiMetalNet_Alb.png
+
+newmtl FldObj_Section00_RespawnTcl_mJyohekiNet
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiNet_Alb.png
+
+newmtl FldObj_Section00_RightBlock_Concrete01
+Kd 1.0 1.0 1.0
+map_Kd textures/Concrete01_Alb.png
+
+newmtl FldObj_Section00_RightBlock_Frame00
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame00_Alb.png
+
+newmtl FldObj_Section00_RightBlock_Frame01
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame01_Alb.png
+
+newmtl FldObj_Section00_RightBlock_Frame03
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame03_Alb.png
+
+newmtl FldObj_Section00_RightBlock_Frame06
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame06_Alb.png
+
+newmtl FldObj_Section00_RightBlock_Frame07
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame07_Alb.png
+
+newmtl FldObj_Section00_RightBlock_Frame07_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame07_Alb.png
+
+newmtl FldObj_Section00_RightBlock_Glass01
+Kd 1.0 1.0 1.0
+map_Kd textures/Glass01_Nrm.png
+
+newmtl FldObj_Section00_RightBlock_KisdsRoomWall00
+Kd 1.0 1.0 1.0
+map_Kd textures/KisdsRoomWall00_Alb.png
+
+newmtl FldObj_Section00_RightBlock_PlayFieldUDIM00
+Kd 1.0 1.0 1.0
+map_Kd textures/PlayFieldUDIM00_UDIM_Alb.png
+
+newmtl FldObj_Section00_RightBlock_VinylMat00
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylMat00_Alb.png
+
+newmtl FldObj_Section00_RightBlock_Wood01
+Kd 1.0 1.0 1.0
+map_Kd textures/Wood01_Alb.png
+
+newmtl FldObj_Section00_RightBlock_mJyohekiMetalNet
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiMetalNet_Alb.png
+
+newmtl FldObj_Section00_RightBlock_mJyohekiNet
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiNet_Alb.png
+
+newmtl FldObj_Section00_RightFloorLong_CafeSet00
+Kd 1.0 1.0 1.0
+map_Kd textures/CafeSet00_Alb.png
+
+newmtl FldObj_Section00_RightFloorLong_Carpet02
+Kd 1.0 1.0 1.0
+map_Kd textures/Carpet02_Alb.png
+
+newmtl FldObj_Section00_RightFloorLong_Carpet02_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/Carpet02_Alb.png
+
+newmtl FldObj_Section00_RightFloorLong_Carpet03
+Kd 1.0 1.0 1.0
+map_Kd textures/Carpet03_Alb.png
+
+newmtl FldObj_Section00_RightFloorLong_Carpet04
+Kd 1.0 1.0 1.0
+map_Kd textures/Carpet04_Alb.png
+
+newmtl FldObj_Section00_RightFloorLong_Concrete01
+Kd 1.0 1.0 1.0
+map_Kd textures/Concrete01_Alb.png
+
+newmtl FldObj_Section00_RightFloorLong_Concrete04
+Kd 1.0 1.0 1.0
+map_Kd textures/Concrete04_Alb.png
+
+newmtl FldObj_Section00_RightFloorLong_EventStage02
+Kd 1.0 1.0 1.0
+map_Kd textures/EventStage02_Alb.png
+
+newmtl FldObj_Section00_RightFloorLong_ExhibitionStage00
+Kd 1.0 1.0 1.0
+map_Kd textures/ExhibitionStage00_Alb.png
+
+newmtl FldObj_Section00_RightFloorLong_FloorLine04
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLine04_Alb.png
+
+newmtl FldObj_Section00_RightFloorLong_Frame00
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame00_Alb.png
+
+newmtl FldObj_Section00_RightFloorLong_Frame01
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame01_Alb.png
+
+newmtl FldObj_Section00_RightFloorLong_Frame02
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame02_Alb.png
+
+newmtl FldObj_Section00_RightFloorLong_Frame03
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame03_Alb.png
+
+newmtl FldObj_Section00_RightFloorLong_Frame04
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame04_Alb.png
+
+newmtl FldObj_Section00_RightFloorLong_Frame07
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame07_Alb.png
+
+newmtl FldObj_Section00_RightFloorLong_Glass00
+Kd 1.0 1.0 1.0
+map_Kd textures/Glass00_Alb.png
+
+newmtl FldObj_Section00_RightFloorLong_Glass01
+Kd 1.0 1.0 1.0
+map_Kd textures/Glass01_Nrm.png
+
+newmtl FldObj_Section00_RightFloorLong_Graffiti00
+Kd 1.0 1.0 1.0
+map_Kd textures/Graffiti00_Alb.png
+
+newmtl FldObj_Section00_RightFloorLong_Iron00
+Kd 1.0 1.0 1.0
+map_Kd textures/Iron00_Alb.png
+
+newmtl FldObj_Section00_RightFloorLong_PlayFieldUDIM00
+Kd 1.0 1.0 1.0
+map_Kd textures/PlayFieldUDIM00_UDIM_Alb.png
+
+newmtl FldObj_Section00_RightFloorLong_PlayRoomSet02_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/PlayRoomSet02_Alb.png
+
+newmtl FldObj_Section00_RightFloorLong_SalmonRoeBowl00
+Kd 1.0 1.0 1.0
+map_Kd textures/SalmonRoeBowl00_Alb.png
+
+newmtl FldObj_Section00_RightFloorLong_Slope00
+Kd 1.0 1.0 1.0
+map_Kd textures/Slope00_Alb.png
+
+newmtl FldObj_Section00_RightFloorLong_Tatami00
+Kd 1.0 1.0 1.0
+map_Kd textures/Tatami00_Alb.png
+
+newmtl FldObj_Section00_RightFloorLong_VinylMat00
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylMat00_Alb.png
+
+newmtl FldObj_Section00_RightFloorLong_Whitewall00
+Kd 1.0 1.0 1.0
+map_Kd textures/Whitewall00_Alb.png
+
+newmtl FldObj_Section00_RightFloorLong_mJyohekiMetalNet
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiMetalNet_Alb.png
+
+newmtl FldObj_Section00_RightFloorLong_mJyohekiNet
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiNet_Alb.png
+
+newmtl FldObj_Section00_RightFloorShort_CafeSet00
+Kd 1.0 1.0 1.0
+map_Kd textures/CafeSet00_Alb.png
+
+newmtl FldObj_Section00_RightFloorShort_Carpet02
+Kd 1.0 1.0 1.0
+map_Kd textures/Carpet02_Alb.png
+
+newmtl FldObj_Section00_RightFloorShort_Carpet02_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/Carpet02_Alb.png
+
+newmtl FldObj_Section00_RightFloorShort_Carpet03
+Kd 1.0 1.0 1.0
+map_Kd textures/Carpet03_Alb.png
+
+newmtl FldObj_Section00_RightFloorShort_Carpet04
+Kd 1.0 1.0 1.0
+map_Kd textures/Carpet04_Alb.png
+
+newmtl FldObj_Section00_RightFloorShort_Concrete01
+Kd 1.0 1.0 1.0
+map_Kd textures/Concrete01_Alb.png
+
+newmtl FldObj_Section00_RightFloorShort_Concrete04
+Kd 1.0 1.0 1.0
+map_Kd textures/Concrete04_Alb.png
+
+newmtl FldObj_Section00_RightFloorShort_Frame00
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame00_Alb.png
+
+newmtl FldObj_Section00_RightFloorShort_Frame01
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame01_Alb.png
+
+newmtl FldObj_Section00_RightFloorShort_Frame02
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame02_Alb.png
+
+newmtl FldObj_Section00_RightFloorShort_Frame03
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame03_Alb.png
+
+newmtl FldObj_Section00_RightFloorShort_Frame04
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame04_Alb.png
+
+newmtl FldObj_Section00_RightFloorShort_Frame07
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame07_Alb.png
+
+newmtl FldObj_Section00_RightFloorShort_Glass00
+Kd 1.0 1.0 1.0
+map_Kd textures/Glass00_Alb.png
+
+newmtl FldObj_Section00_RightFloorShort_Glass01
+Kd 1.0 1.0 1.0
+map_Kd textures/Glass01_Nrm.png
+
+newmtl FldObj_Section00_RightFloorShort_Graffiti00
+Kd 1.0 1.0 1.0
+map_Kd textures/Graffiti00_Alb.png
+
+newmtl FldObj_Section00_RightFloorShort_Iron00
+Kd 1.0 1.0 1.0
+map_Kd textures/Iron00_Alb.png
+
+newmtl FldObj_Section00_RightFloorShort_PlayFieldUDIM00
+Kd 1.0 1.0 1.0
+map_Kd textures/PlayFieldUDIM00_UDIM_Alb.png
+
+newmtl FldObj_Section00_RightFloorShort_SalmonRoeBowl00
+Kd 1.0 1.0 1.0
+map_Kd textures/SalmonRoeBowl00_Alb.png
+
+newmtl FldObj_Section00_RightFloorShort_Tatami00
+Kd 1.0 1.0 1.0
+map_Kd textures/Tatami00_Alb.png
+
+newmtl FldObj_Section00_RightFloorShort_VinylMat00
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylMat00_Alb.png
+
+newmtl FldObj_Section00_RightFloorShort_linoleum00
+Kd 1.0 1.0 1.0
+map_Kd textures/linoleum00_Alb.png
+
+newmtl FldObj_Section00_RightFloorShort_mJyohekiMetalNet
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiMetalNet_Alb.png
+
+newmtl FldObj_Section00_RightFloorShort_mJyohekiNet
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiNet_Alb.png
+
+newmtl FldObj_Section00_RightFloorSlope_CafeSet00
+Kd 1.0 1.0 1.0
+map_Kd textures/CafeSet00_Alb.png
+
+newmtl FldObj_Section00_RightFloorSlope_Carpet02
+Kd 1.0 1.0 1.0
+map_Kd textures/Carpet02_Alb.png
+
+newmtl FldObj_Section00_RightFloorSlope_Carpet02_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/Carpet02_Alb.png
+
+newmtl FldObj_Section00_RightFloorSlope_Carpet03
+Kd 1.0 1.0 1.0
+map_Kd textures/Carpet03_Alb.png
+
+newmtl FldObj_Section00_RightFloorSlope_Carpet04
+Kd 1.0 1.0 1.0
+map_Kd textures/Carpet04_Alb.png
+
+newmtl FldObj_Section00_RightFloorSlope_Concrete01
+Kd 1.0 1.0 1.0
+map_Kd textures/Concrete01_Alb.png
+
+newmtl FldObj_Section00_RightFloorSlope_Concrete04
+Kd 1.0 1.0 1.0
+map_Kd textures/Concrete04_Alb.png
+
+newmtl FldObj_Section00_RightFloorSlope_FloorLine04
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLine04_Alb.png
+
+newmtl FldObj_Section00_RightFloorSlope_Frame00
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame00_Alb.png
+
+newmtl FldObj_Section00_RightFloorSlope_Frame01
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame01_Alb.png
+
+newmtl FldObj_Section00_RightFloorSlope_Frame02
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame02_Alb.png
+
+newmtl FldObj_Section00_RightFloorSlope_Frame03
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame03_Alb.png
+
+newmtl FldObj_Section00_RightFloorSlope_Frame04
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame04_Alb.png
+
+newmtl FldObj_Section00_RightFloorSlope_Frame07
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame07_Alb.png
+
+newmtl FldObj_Section00_RightFloorSlope_Glass01
+Kd 1.0 1.0 1.0
+map_Kd textures/Glass01_Nrm.png
+
+newmtl FldObj_Section00_RightFloorSlope_Graffiti00
+Kd 1.0 1.0 1.0
+map_Kd textures/Graffiti00_Alb.png
+
+newmtl FldObj_Section00_RightFloorSlope_PlayFieldUDIM00
+Kd 1.0 1.0 1.0
+map_Kd textures/PlayFieldUDIM00_UDIM_Alb.png
+
+newmtl FldObj_Section00_RightFloorSlope_SalmonRoeBowl00
+Kd 1.0 1.0 1.0
+map_Kd textures/SalmonRoeBowl00_Alb.png
+
+newmtl FldObj_Section00_RightFloorSlope_Slope00
+Kd 1.0 1.0 1.0
+map_Kd textures/Slope00_Alb.png
+
+newmtl FldObj_Section00_RightFloorSlope_Tatami00
+Kd 1.0 1.0 1.0
+map_Kd textures/Tatami00_Alb.png
+
+newmtl FldObj_Section00_RightFloorSlope_VinylMat00
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylMat00_Alb.png
+
+newmtl FldObj_Section00_RightFloorSlope_linoleum00
+Kd 1.0 1.0 1.0
+map_Kd textures/linoleum00_Alb.png
+
+newmtl FldObj_Section00_RightFloorSlope_mJyohekiMetalNet
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiMetalNet_Alb.png
+
+newmtl FldObj_Section00_RightFloorSlope_mJyohekiNet
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiNet_Alb.png
+
+newmtl FldObj_Section00_RightFloorTcl_CafeSet00
+Kd 1.0 1.0 1.0
+map_Kd textures/CafeSet00_Alb.png
+
+newmtl FldObj_Section00_RightFloorTcl_Carpet02
+Kd 1.0 1.0 1.0
+map_Kd textures/Carpet02_Alb.png
+
+newmtl FldObj_Section00_RightFloorTcl_Carpet02_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/Carpet02_Alb.png
+
+newmtl FldObj_Section00_RightFloorTcl_Carpet03
+Kd 1.0 1.0 1.0
+map_Kd textures/Carpet03_Alb.png
+
+newmtl FldObj_Section00_RightFloorTcl_Carpet04
+Kd 1.0 1.0 1.0
+map_Kd textures/Carpet04_Alb.png
+
+newmtl FldObj_Section00_RightFloorTcl_Concrete01
+Kd 1.0 1.0 1.0
+map_Kd textures/Concrete01_Alb.png
+
+newmtl FldObj_Section00_RightFloorTcl_Concrete04
+Kd 1.0 1.0 1.0
+map_Kd textures/Concrete04_Alb.png
+
+newmtl FldObj_Section00_RightFloorTcl_ExhibitionStage00
+Kd 1.0 1.0 1.0
+map_Kd textures/ExhibitionStage00_Alb.png
+
+newmtl FldObj_Section00_RightFloorTcl_Frame00
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame00_Alb.png
+
+newmtl FldObj_Section00_RightFloorTcl_Frame01
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame01_Alb.png
+
+newmtl FldObj_Section00_RightFloorTcl_Frame02
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame02_Alb.png
+
+newmtl FldObj_Section00_RightFloorTcl_Frame03
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame03_Alb.png
+
+newmtl FldObj_Section00_RightFloorTcl_Frame04
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame04_Alb.png
+
+newmtl FldObj_Section00_RightFloorTcl_Frame07
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame07_Alb.png
+
+newmtl FldObj_Section00_RightFloorTcl_Glass00
+Kd 1.0 1.0 1.0
+map_Kd textures/Glass00_Alb.png
+
+newmtl FldObj_Section00_RightFloorTcl_Glass01
+Kd 1.0 1.0 1.0
+map_Kd textures/Glass01_Nrm.png
+
+newmtl FldObj_Section00_RightFloorTcl_Graffiti00
+Kd 1.0 1.0 1.0
+map_Kd textures/Graffiti00_Alb.png
+
+newmtl FldObj_Section00_RightFloorTcl_Iron00
+Kd 1.0 1.0 1.0
+map_Kd textures/Iron00_Alb.png
+
+newmtl FldObj_Section00_RightFloorTcl_PlayFieldUDIM00
+Kd 1.0 1.0 1.0
+map_Kd textures/PlayFieldUDIM00_UDIM_Alb.png
+
+newmtl FldObj_Section00_RightFloorTcl_SalmonRoeBowl00
+Kd 1.0 1.0 1.0
+map_Kd textures/SalmonRoeBowl00_Alb.png
+
+newmtl FldObj_Section00_RightFloorTcl_Tatami00
+Kd 1.0 1.0 1.0
+map_Kd textures/Tatami00_Alb.png
+
+newmtl FldObj_Section00_RightFloorTcl_VinylMat00
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylMat00_Alb.png
+
+newmtl FldObj_Section00_RightRoute_Concrete01
+Kd 1.0 1.0 1.0
+map_Kd textures/Concrete01_Alb.png
+
+newmtl FldObj_Section00_RightRoute_Frame00
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame00_Alb.png
+
+newmtl FldObj_Section00_RightRoute_Frame01
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame01_Alb.png
+
+newmtl FldObj_Section00_RightRoute_Frame03
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame03_Alb.png
+
+newmtl FldObj_Section00_RightRoute_Frame06
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame06_Alb.png
+
+newmtl FldObj_Section00_RightRoute_Frame07
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame07_Alb.png
+
+newmtl FldObj_Section00_RightRoute_Frame07_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame07_Alb.png
+
+newmtl FldObj_Section00_RightRoute_Glass01
+Kd 1.0 1.0 1.0
+map_Kd textures/Glass01_Nrm.png
+
+newmtl FldObj_Section00_RightRoute_KisdsRoomWall00
+Kd 1.0 1.0 1.0
+map_Kd textures/KisdsRoomWall00_Alb.png
+
+newmtl FldObj_Section00_RightRoute_PlayFieldUDIM00
+Kd 1.0 1.0 1.0
+map_Kd textures/PlayFieldUDIM00_UDIM_Alb.png
+
+newmtl FldObj_Section00_RightRoute_Slope01
+Kd 1.0 1.0 1.0
+map_Kd textures/Slope01_Alb.png
+
+newmtl FldObj_Section00_RightRoute_VinylMat00
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylMat00_Alb.png
+
+newmtl FldObj_Section00_RightRoute_Wood01
+Kd 1.0 1.0 1.0
+map_Kd textures/Wood01_Alb.png
+
+newmtl FldObj_Section00_RightRoute_Wood03
+Kd 1.0 1.0 1.0
+map_Kd textures/Wood03_Alb.png
+
+newmtl FldObj_Section00_Signage_PlayFieldUDIM01
+Kd 1.0 1.0 1.0
+map_Kd textures/PlayFieldUDIM01_UDIM_Alb.png
+
+newmtl FldObj_Section00_SignagePnt_PlayFieldUDIM01
+Kd 1.0 1.0 1.0
+map_Kd textures/PlayFieldUDIM01_UDIM_Alb.png
+
+newmtl FldObj_Section00_SignageTcl_PlayFieldUDIM01
+Kd 1.0 1.0 1.0
+map_Kd textures/PlayFieldUDIM01_UDIM_Alb.png
+
+newmtl FldObj_Section00_SignageVgl_PlayFieldUDIM01
+Kd 1.0 1.0 1.0
+map_Kd textures/PlayFieldUDIM01_UDIM_Alb.png
+
+newmtl FldObj_Section00_TowerHigh_Concrete01
+Kd 1.0 1.0 1.0
+map_Kd textures/Concrete01_Alb.png
+
+newmtl FldObj_Section00_TowerHigh_Frame01
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame01_Alb.png
+
+newmtl FldObj_Section00_TowerHigh_Frame03
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame03_Alb.png
+
+newmtl FldObj_Section00_TowerHigh_Frame07
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame07_Alb.png
+
+newmtl FldObj_Section00_TowerHigh_Frame07_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame07_Alb.png
+
+newmtl FldObj_Section00_TowerHigh_Glass01
+Kd 1.0 1.0 1.0
+map_Kd textures/Glass01_Nrm.png
+
+newmtl FldObj_Section00_TowerHigh_KisdsRoomWall00
+Kd 1.0 1.0 1.0
+map_Kd textures/KisdsRoomWall00_Alb.png
+
+newmtl FldObj_Section00_TowerHigh_PlayFieldUDIM00
+Kd 1.0 1.0 1.0
+map_Kd textures/PlayFieldUDIM00_UDIM_Alb.png
+
+newmtl FldObj_Section00_TowerHigh_PlayRoomSet00
+Kd 1.0 1.0 1.0
+map_Kd textures/PlayRoomSet00_Alb.png
+
+newmtl FldObj_Section00_TowerHigh_VinylMat00
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylMat00_Alb.png
+
+newmtl FldObj_Section00_TowerHigh_Wood01
+Kd 1.0 1.0 1.0
+map_Kd textures/Wood01_Alb.png
+
+newmtl FldObj_Section00_TowerHigh_mJyohekiMetalNet
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiMetalNet_Alb.png
+
+newmtl FldObj_Section00_TowerHigh_mJyohekiNet
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiNet_Alb.png
+
+newmtl FldObj_Section00_TowerLow_Frame01
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame01_Alb.png
+
+newmtl FldObj_Section00_TowerLow_Frame07
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame07_Alb.png
+
+newmtl FldObj_Section00_TowerLow_Frame07_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame07_Alb.png
+
+newmtl FldObj_Section00_TowerLow_Wood01
+Kd 1.0 1.0 1.0
+map_Kd textures/Wood01_Alb.png
+
+newmtl FldObj_Section00_Water_DVWaterSurface
+Kd 1.0 1.0 1.0
+map_Kd textures/DVWaterSurface_Nrm.png
+
+newmtl Fld_Section00_CafeSet00
+Kd 1.0 1.0 1.0
+map_Kd textures/CafeSet00_Alb.png
+
+newmtl Fld_Section00_CampSet01
+Kd 1.0 1.0 1.0
+map_Kd textures/CampSet01_Alb.png
+
+newmtl Fld_Section00_CanolaAV
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaAV_Alb.png
+
+newmtl Fld_Section00_CanolaBV
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaBV_Alb.png
+
+newmtl Fld_Section00_Carpet01
+Kd 1.0 1.0 1.0
+map_Kd textures/Carpet01_Alb.png
+
+newmtl Fld_Section00_Carpet02
+Kd 1.0 1.0 1.0
+map_Kd textures/Carpet02_Alb.png
+
+newmtl Fld_Section00_Carpet02_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/Carpet02_Alb.png
+
+newmtl Fld_Section00_Carpet03
+Kd 1.0 1.0 1.0
+map_Kd textures/Carpet03_Alb.png
+
+newmtl Fld_Section00_Carpet04
+Kd 1.0 1.0 1.0
+map_Kd textures/Carpet04_Alb.png
+
+newmtl Fld_Section00_Concrete00
+Kd 1.0 1.0 1.0
+map_Kd textures/Concrete00_Alb.png
+
+newmtl Fld_Section00_Concrete01
+Kd 1.0 1.0 1.0
+map_Kd textures/Concrete01_Alb.png
+
+newmtl Fld_Section00_Concrete03
+Kd 1.0 1.0 1.0
+map_Kd textures/Concrete03_Alb.png
+
+newmtl Fld_Section00_Concrete04
+Kd 1.0 1.0 1.0
+map_Kd textures/Concrete04_Alb.png
+
+newmtl Fld_Section00_Concrete05
+Kd 1.0 1.0 1.0
+map_Kd textures/Concrete05_Alb.png
+
+newmtl Fld_Section00_Concrete06
+Kd 1.0 1.0 1.0
+map_Kd textures/Concrete06_Alb.png
+
+newmtl Fld_Section00_DVFountain00
+Kd 1.0 1.0 1.0
+map_Kd textures/DVFountain00_Alb.png
+
+newmtl Fld_Section00_ExhibitionStage03
+Kd 1.0 1.0 1.0
+map_Kd textures/ExhibitionStage03_Alb.png
+
+newmtl Fld_Section00_ExhibitionStage04
+Kd 1.0 1.0 1.0
+map_Kd textures/ExhibitionStage04_Alb.png
+
+newmtl Fld_Section00_FloorLine04
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLine04_Alb.png
+
+newmtl Fld_Section00_Frame00
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame00_Alb.png
+
+newmtl Fld_Section00_Frame01
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame01_Alb.png
+
+newmtl Fld_Section00_Frame02
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame02_Alb.png
+
+newmtl Fld_Section00_Frame03
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame03_Alb.png
+
+newmtl Fld_Section00_Frame04
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame04_Alb.png
+
+newmtl Fld_Section00_Frame06
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame06_Alb.png
+
+newmtl Fld_Section00_Frame07
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame07_Alb.png
+
+newmtl Fld_Section00_Frame07_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame07_Alb.png
+
+newmtl Fld_Section00_Frame07_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Frame07_Alb.png
+
+newmtl Fld_Section00_Glass00
+Kd 1.0 1.0 1.0
+map_Kd textures/Glass00_Alb.png
+
+newmtl Fld_Section00_Glass01
+Kd 1.0 1.0 1.0
+map_Kd textures/Glass01_Nrm.png
+
+newmtl Fld_Section00_Glass02
+Kd 1.0 1.0 1.0
+map_Kd textures/Glass02_Alb.png
+
+newmtl Fld_Section00_Grass00
+Kd 1.0 1.0 1.0
+map_Kd textures/Grass00_Alb.png
+
+newmtl Fld_Section00_Grass01
+Kd 1.0 1.0 1.0
+map_Kd textures/Grass01_Alb.png
+
+newmtl Fld_Section00_HAT020
+Kd 1.0 1.0 1.0
+map_Kd textures/HAT019_Alb.png
+
+newmtl Fld_Section00_Iron00
+Kd 1.0 1.0 1.0
+map_Kd textures/Iron00_Alb.png
+
+newmtl Fld_Section00_M_BOT011
+Kd 1.0 1.0 1.0
+map_Kd textures/M_BOT011_Alb.png
+
+newmtl Fld_Section00_M_HAT000
+Kd 1.0 1.0 1.0
+map_Kd textures/M_HAT000_Alb.png
+
+newmtl Fld_Section00_M_HAT000Logo
+Kd 1.0 1.0 1.0
+map_Kd textures/M_HAT000Logo_Alb.png
+
+newmtl Fld_Section00_M_Hat007
+Kd 1.0 1.0 1.0
+map_Kd textures/M_Hat007_Alb.png
+
+newmtl Fld_Section00_M_JKT046
+Kd 1.0 1.0 1.0
+map_Kd textures/M_JKT046_Alb.png
+
+newmtl Fld_Section00_M_TES071_F
+Kd 1.0 1.0 1.0
+map_Kd textures/M_TES071_F_Alb.png
+
+newmtl Fld_Section00_M_VST001
+Kd 1.0 1.0 1.0
+map_Kd textures/M_VST001_Alb.png
+
+newmtl Fld_Section00_M_VST003
+Kd 1.0 1.0 1.0
+map_Kd textures/M_VST003_Alb.png
+
+newmtl Fld_Section00_Mirror
+Kd 1.0 1.0 1.0
+map_Kd textures/BakeDummy00.png
+
+newmtl Fld_Section00_Net00
+Kd 1.0 1.0 1.0
+map_Kd textures/Net00_Alb.png
+
+newmtl Fld_Section00_OutdoorLampBody
+Kd 1.0 1.0 1.0
+map_Kd textures/OutdoorLampBody_Alb.png
+
+newmtl Fld_Section00_OutdoorLampBodyInside
+Kd 1.0 1.0 1.0
+map_Kd textures/OutdoorLampBodyInside_Alb.png
+
+newmtl Fld_Section00_PlantIvyNotRepeat
+Kd 1.0 1.0 1.0
+map_Kd textures/PlantIvyNotRepeat_Alb.png
+
+newmtl Fld_Section00_PlantIvyRepeat
+Kd 1.0 1.0 1.0
+map_Kd textures/PlantIvyRepeat_Alb.png
+
+newmtl Fld_Section00_PlayFieldUDIM00
+Kd 1.0 1.0 1.0
+map_Kd textures/PlayFieldUDIM00_UDIM_Alb.png
+
+newmtl Fld_Section00_PlayRoomSet00
+Kd 1.0 1.0 1.0
+map_Kd textures/PlayRoomSet00_Alb.png
+
+newmtl Fld_Section00_PlayRoomSet02_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/PlayRoomSet02_Alb.png
+
+newmtl Fld_Section00_Sign03
+Kd 1.0 1.0 1.0
+map_Kd textures/Sign03_Alb.png
+
+newmtl Fld_Section00_Sign04
+Kd 1.0 1.0 1.0
+map_Kd textures/Sign04_Alb.png
+
+newmtl Fld_Section00_Slope00
+Kd 1.0 1.0 1.0
+map_Kd textures/Slope00_Alb.png
+
+newmtl Fld_Section00_Tatami00
+Kd 1.0 1.0 1.0
+map_Kd textures/Tatami00_Alb.png
+
+newmtl Fld_Section00_Terracotta00
+Kd 1.0 1.0 1.0
+map_Kd textures/Terracotta00_Alb.png
+
+newmtl Fld_Section00_Tile00
+Kd 1.0 1.0 1.0
+map_Kd textures/Tile00_Alb.png
+
+newmtl Fld_Section00_Tile03
+Kd 1.0 1.0 1.0
+map_Kd textures/Tile03_Alb.png
+
+newmtl Fld_Section00_TileArrow00
+Kd 1.0 1.0 1.0
+map_Kd textures/TileArrow00_Alb.png
+
+newmtl Fld_Section00_TileCircle00
+Kd 1.0 1.0 1.0
+map_Kd textures/TileCircle00_Alb.png
+
+newmtl Fld_Section00_VinylMat00
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylMat00_Alb.png
+
+newmtl Fld_Section00_Whitewall00
+Kd 1.0 1.0 1.0
+map_Kd textures/Whitewall00_Alb.png
+
+newmtl Fld_Section00_Whitewall00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Whitewall00_Alb.png
+
+newmtl Fld_Section00_Wood00
+Kd 1.0 1.0 1.0
+map_Kd textures/Wood00_Alb.png
+
+newmtl Fld_Section00_Wood01
+Kd 1.0 1.0 1.0
+map_Kd textures/Wood01_Alb.png
+
+newmtl Fld_Section00_Wood02
+Kd 1.0 1.0 1.0
+map_Kd textures/Wood02_Alb.png
+
+newmtl Fld_Section00_Wood03
+Kd 1.0 1.0 1.0
+map_Kd textures/Wood03_Alb.png
+
+newmtl Fld_Section00_Wood05
+Kd 1.0 1.0 1.0
+map_Kd textures/Wood05_Alb.png
+
+newmtl Fld_Section00_Wood06
+Kd 1.0 1.0 1.0
+map_Kd textures/Wood06_Alb.png
+
+newmtl Fld_Section00_Wood07
+Kd 1.0 1.0 1.0
+map_Kd textures/Wood07_Alb.png
+
+newmtl Fld_Section00_linoleum00
+Kd 1.0 1.0 1.0
+map_Kd textures/linoleum00_Alb.png
+
+newmtl Fld_Section00_mJyohekiMetalNet
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiMetalNet_Alb.png
+
+newmtl Fld_Section00_mJyohekiNet
+Kd 1.0 1.0 1.0
+map_Kd textures/mJyohekiNet_Alb.png
+

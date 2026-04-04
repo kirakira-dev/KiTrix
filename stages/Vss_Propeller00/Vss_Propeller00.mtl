@@ -1,0 +1,917 @@
+# KiTrix material file
+newmtl FldObj_Propeller00_Pnt_AirPortWallOutsideA00
+Kd 1.0 1.0 1.0
+map_Kd textures/AirPortWallOutsideA00_Alb.png
+
+newmtl FldObj_Propeller00_Pnt_AirPortWallOutsideB00
+Kd 1.0 1.0 1.0
+map_Kd textures/AirPortWallOutsideB00_Alb.png
+
+newmtl FldObj_Propeller00_Pnt_AirportPillarsMetal
+Kd 1.0 1.0 1.0
+map_Kd textures/AirportPillarsMetal_Alb.png
+
+newmtl FldObj_Propeller00_Pnt_AirportWallWhiteTile
+Kd 1.0 1.0 1.0
+map_Kd textures/AirportWallWhiteTile_Alb.png
+
+newmtl FldObj_Propeller00_Pnt_BattleVinlyBlue
+Kd 1.0 1.0 1.0
+map_Kd textures/BattleVinlyBlue_Alb.png
+
+newmtl FldObj_Propeller00_Pnt_BattleVinlyRed
+Kd 1.0 1.0 1.0
+map_Kd textures/BattleVinlyRed_Alb.png
+
+newmtl FldObj_Propeller00_Pnt_CargoBoxWood00Plus
+Kd 1.0 1.0 1.0
+map_Kd textures/CargoBoxWood00Plus_Alb.png
+
+newmtl FldObj_Propeller00_Pnt_CeilingMetalTrass
+Kd 1.0 1.0 1.0
+map_Kd textures/CeilingMetalTrass_Alb.png
+
+newmtl FldObj_Propeller00_Pnt_EdgeRepeatNoPaint00
+Kd 1.0 1.0 1.0
+map_Kd textures/EdgeRepeatNoPaint00_Alb.png
+
+newmtl FldObj_Propeller00_Pnt_FenceNet00
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceNet00_Alb.png
+
+newmtl FldObj_Propeller00_Pnt_FloorLine00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLine00_Alb.png
+
+newmtl FldObj_Propeller00_Pnt_FloorLine04
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLine04_Alb.png
+
+newmtl FldObj_Propeller00_Pnt_GraffitiCloth00
+Kd 1.0 1.0 1.0
+map_Kd textures/GraffitiCloth00_Alb.png
+
+newmtl FldObj_Propeller00_Pnt_GraffitiSetGround00
+Kd 1.0 1.0 1.0
+map_Kd textures/GraffitiSetGroundDirt00_Alb.png
+
+newmtl FldObj_Propeller00_Pnt_M_FenceVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/M_FenceVinyl_Alb.png
+
+newmtl FldObj_Propeller00_Pnt_PropellerObject00
+Kd 1.0 1.0 1.0
+map_Kd textures/PropellerObject00_Alb.png
+
+newmtl FldObj_Propeller00_Pnt_RepeatNoPaint00
+Kd 1.0 1.0 1.0
+map_Kd textures/RepeatNoPaint00_Alb.png
+
+newmtl FldObj_Propeller00_Pnt_RopeSingle
+Kd 1.0 1.0 1.0
+map_Kd textures/RopeSingle_Alb.png
+
+newmtl FldObj_Propeller00_Pnt_RunwayMain00
+Kd 1.0 1.0 1.0
+map_Kd textures/RunwayMain00_Alb.png
+
+newmtl FldObj_Propeller00_Pnt_SteelFrameBlack
+Kd 1.0 1.0 1.0
+map_Kd textures/SteelFrameBlack_Alb.png
+
+newmtl FldObj_Propeller00_Pnt_SteelFrameWall00
+Kd 1.0 1.0 1.0
+map_Kd textures/SteelFrameWall00_Alb.png
+
+newmtl FldObj_Propeller00_Pnt_StoneTile00
+Kd 1.0 1.0 1.0
+map_Kd textures/StoneTile00_Alb.png
+
+newmtl FldObj_Propeller00_Pnt_Switchboard01
+Kd 1.0 1.0 1.0
+map_Kd textures/Switchboard01_Alb.png
+
+newmtl FldObj_Propeller00_Pnt_VinylClear
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylClear_Nrm.png
+
+newmtl FldObj_Propeller00_Pnt_WallFence00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallFence00_Alb.png
+
+newmtl FldObj_Propeller00_Pnt_WallPanelNoPaint00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallPanelNoPaint00_Alb.png
+
+newmtl FldObj_Propeller00_Pnt_WaterTank00_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/WaterTank00_Alb.png
+
+newmtl FldObj_Propeller00_Pnt_WoodDeckBright00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodDeckBright00_Alb.png
+
+newmtl FldObj_Propeller00_Pnt_WoodPlate00
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodPlate00_Alb.png
+
+newmtl FldObj_Propeller00_Pnt_luggage00
+Kd 1.0 1.0 1.0
+map_Kd textures/luggage00_Alb.png
+
+newmtl FldObj_Propeller00_Var_AirPortWallOutsideA00
+Kd 1.0 1.0 1.0
+map_Kd textures/AirPortWallOutsideA00_Alb.png
+
+newmtl FldObj_Propeller00_Var_AirPortWallOutsideB00
+Kd 1.0 1.0 1.0
+map_Kd textures/AirPortWallOutsideB00_Alb.png
+
+newmtl FldObj_Propeller00_Var_AirportPillarsMetal
+Kd 1.0 1.0 1.0
+map_Kd textures/AirportPillarsMetal_Alb.png
+
+newmtl FldObj_Propeller00_Var_AirportWallWhiteTile
+Kd 1.0 1.0 1.0
+map_Kd textures/AirportWallWhiteTile_Alb.png
+
+newmtl FldObj_Propeller00_Var_BattleVinlyBlue
+Kd 1.0 1.0 1.0
+map_Kd textures/BattleVinlyBlue_Alb.png
+
+newmtl FldObj_Propeller00_Var_BattleVinlyRed
+Kd 1.0 1.0 1.0
+map_Kd textures/BattleVinlyRed_Alb.png
+
+newmtl FldObj_Propeller00_Var_CargoBoxWood00Plus
+Kd 1.0 1.0 1.0
+map_Kd textures/CargoBoxWood00Plus_Alb.png
+
+newmtl FldObj_Propeller00_Var_CeilingMetalTrass
+Kd 1.0 1.0 1.0
+map_Kd textures/CeilingMetalTrass_Alb.png
+
+newmtl FldObj_Propeller00_Var_EdgeRepeatNoPaint00
+Kd 1.0 1.0 1.0
+map_Kd textures/EdgeRepeatNoPaint00_Alb.png
+
+newmtl FldObj_Propeller00_Var_FenceNet00
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceNet00_Alb.png
+
+newmtl FldObj_Propeller00_Var_FloorLine00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLine00_Alb.png
+
+newmtl FldObj_Propeller00_Var_FloorLine04
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLine04_Alb.png
+
+newmtl FldObj_Propeller00_Var_GraffitiCloth00
+Kd 1.0 1.0 1.0
+map_Kd textures/GraffitiCloth00_Alb.png
+
+newmtl FldObj_Propeller00_Var_M_FenceVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/M_FenceVinyl_Alb.png
+
+newmtl FldObj_Propeller00_Var_PropellerObject00
+Kd 1.0 1.0 1.0
+map_Kd textures/PropellerObject00_Alb.png
+
+newmtl FldObj_Propeller00_Var_RepeatNoPaint00
+Kd 1.0 1.0 1.0
+map_Kd textures/RepeatNoPaint00_Alb.png
+
+newmtl FldObj_Propeller00_Var_RopeSingle
+Kd 1.0 1.0 1.0
+map_Kd textures/RopeSingle_Alb.png
+
+newmtl FldObj_Propeller00_Var_RunwayMain00
+Kd 1.0 1.0 1.0
+map_Kd textures/RunwayMain00_Alb.png
+
+newmtl FldObj_Propeller00_Var_SteelFrameBlack
+Kd 1.0 1.0 1.0
+map_Kd textures/SteelFrameBlack_Alb.png
+
+newmtl FldObj_Propeller00_Var_SteelFrameWall00
+Kd 1.0 1.0 1.0
+map_Kd textures/SteelFrameWall00_Alb.png
+
+newmtl FldObj_Propeller00_Var_StoneTile00
+Kd 1.0 1.0 1.0
+map_Kd textures/StoneTile00_Alb.png
+
+newmtl FldObj_Propeller00_Var_Switchboard01
+Kd 1.0 1.0 1.0
+map_Kd textures/Switchboard01_Alb.png
+
+newmtl FldObj_Propeller00_Var_VinylClear
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylClear_Nrm.png
+
+newmtl FldObj_Propeller00_Var_WallFence00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallFence00_Alb.png
+
+newmtl FldObj_Propeller00_Var_WallPanelNoPaint00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallPanelNoPaint00_Alb.png
+
+newmtl FldObj_Propeller00_Var_WaterTank00_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/WaterTank00_Alb.png
+
+newmtl FldObj_Propeller00_Var_WoodDeckBright00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodDeckBright00_Alb.png
+
+newmtl FldObj_Propeller00_Var_WoodPlate00
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodPlate00_Alb.png
+
+newmtl FldObj_Propeller00_Var_luggage00
+Kd 1.0 1.0 1.0
+map_Kd textures/luggage00_Alb.png
+
+newmtl FldObj_Propeller00_Vcl_AirPortWallOutsideA00
+Kd 1.0 1.0 1.0
+map_Kd textures/AirPortWallOutsideA00_Alb.png
+
+newmtl FldObj_Propeller00_Vcl_AirPortWallOutsideB00
+Kd 1.0 1.0 1.0
+map_Kd textures/AirPortWallOutsideB00_Alb.png
+
+newmtl FldObj_Propeller00_Vcl_AirportWallWhiteTile
+Kd 1.0 1.0 1.0
+map_Kd textures/AirportWallWhiteTile_Alb.png
+
+newmtl FldObj_Propeller00_Vcl_CargoBoxWood00Plus
+Kd 1.0 1.0 1.0
+map_Kd textures/CargoBoxWood00Plus_Alb.png
+
+newmtl FldObj_Propeller00_Vcl_Edge01
+Kd 1.0 1.0 1.0
+map_Kd textures/Edge01_Alb.png
+
+newmtl FldObj_Propeller00_Vcl_EdgeRepeatNoPaint00
+Kd 1.0 1.0 1.0
+map_Kd textures/EdgeRepeatNoPaint00_Alb.png
+
+newmtl FldObj_Propeller00_Vcl_FenceNet00
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceNet00_Alb.png
+
+newmtl FldObj_Propeller00_Vcl_FloorLine00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLine00_Alb.png
+
+newmtl FldObj_Propeller00_Vcl_FloorLine04
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLine04_Alb.png
+
+newmtl FldObj_Propeller00_Vcl_GraffitiCloth00
+Kd 1.0 1.0 1.0
+map_Kd textures/GraffitiCloth00_Alb.png
+
+newmtl FldObj_Propeller00_Vcl_M_FenceVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/M_FenceVinyl_Alb.png
+
+newmtl FldObj_Propeller00_Vcl_RepeatNoPaint00
+Kd 1.0 1.0 1.0
+map_Kd textures/RepeatNoPaint00_Alb.png
+
+newmtl FldObj_Propeller00_Vcl_RepeatWallNoPaint
+Kd 1.0 1.0 1.0
+map_Kd textures/RepeatWallNoPaint_Alb.png
+
+newmtl FldObj_Propeller00_Vcl_RunwayMain00
+Kd 1.0 1.0 1.0
+map_Kd textures/RunwayMain00_Alb.png
+
+newmtl FldObj_Propeller00_Vcl_SlopeRubber00
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeRubber00_Alb.png
+
+newmtl FldObj_Propeller00_Vcl_SlopeRubber00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeRubber00_Alb.png
+
+newmtl FldObj_Propeller00_Vcl_SteelFrameBlack
+Kd 1.0 1.0 1.0
+map_Kd textures/SteelFrameBlack_Alb.png
+
+newmtl FldObj_Propeller00_Vcl_SteelFrameWall00
+Kd 1.0 1.0 1.0
+map_Kd textures/SteelFrameWall00_Alb.png
+
+newmtl FldObj_Propeller00_Vcl_StoneTile00
+Kd 1.0 1.0 1.0
+map_Kd textures/StoneTile00_Alb.png
+
+newmtl FldObj_Propeller00_Vcl_Switchboard01
+Kd 1.0 1.0 1.0
+map_Kd textures/Switchboard01_Alb.png
+
+newmtl FldObj_Propeller00_Vcl_VinylClear
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylClear_Nrm.png
+
+newmtl FldObj_Propeller00_Vcl_WallPanelNoPaint00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallPanelNoPaint00_Alb.png
+
+newmtl FldObj_Propeller00_Vcl_WaterTank00_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/WaterTank00_Alb.png
+
+newmtl FldObj_Propeller00_Vcl_WoodDeckBright00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodDeckBright00_Alb.png
+
+newmtl FldObj_Propeller00_Vcl_WoodPlate00
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodPlate00_Alb.png
+
+newmtl FldObj_Propeller00_Vcl_luggage00
+Kd 1.0 1.0 1.0
+map_Kd textures/luggage00_Alb.png
+
+newmtl FldObj_Propeller00_Vcl_plywood
+Kd 1.0 1.0 1.0
+map_Kd textures/plywood_Alb.png
+
+newmtl FldObj_Propeller00_Vgl_AirPortWallOutsideA00
+Kd 1.0 1.0 1.0
+map_Kd textures/AirPortWallOutsideA00_Alb.png
+
+newmtl FldObj_Propeller00_Vgl_AirPortWallOutsideB00
+Kd 1.0 1.0 1.0
+map_Kd textures/AirPortWallOutsideB00_Alb.png
+
+newmtl FldObj_Propeller00_Vgl_AirportWallWhiteTile
+Kd 1.0 1.0 1.0
+map_Kd textures/AirportWallWhiteTile_Alb.png
+
+newmtl FldObj_Propeller00_Vgl_CargoBoxWood00
+Kd 1.0 1.0 1.0
+map_Kd textures/CargoBoxWood00_Alb.png
+
+newmtl FldObj_Propeller00_Vgl_CargoBoxWood00Plus
+Kd 1.0 1.0 1.0
+map_Kd textures/CargoBoxWood00Plus_Alb.png
+
+newmtl FldObj_Propeller00_Vgl_Edge01
+Kd 1.0 1.0 1.0
+map_Kd textures/Edge01_Alb.png
+
+newmtl FldObj_Propeller00_Vgl_EdgeRepeatNoPaint00
+Kd 1.0 1.0 1.0
+map_Kd textures/EdgeRepeatNoPaint00_Alb.png
+
+newmtl FldObj_Propeller00_Vgl_FenceNet00
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceNet00_Alb.png
+
+newmtl FldObj_Propeller00_Vgl_FloorLine00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLine00_Alb.png
+
+newmtl FldObj_Propeller00_Vgl_FloorLine04
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLine04_Alb.png
+
+newmtl FldObj_Propeller00_Vgl_GraffitiCloth00
+Kd 1.0 1.0 1.0
+map_Kd textures/GraffitiCloth00_Alb.png
+
+newmtl FldObj_Propeller00_Vgl_M_FenceVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/M_FenceVinyl_Alb.png
+
+newmtl FldObj_Propeller00_Vgl_RepeatNoPaint00
+Kd 1.0 1.0 1.0
+map_Kd textures/RepeatNoPaint00_Alb.png
+
+newmtl FldObj_Propeller00_Vgl_RepeatWallNoPaint
+Kd 1.0 1.0 1.0
+map_Kd textures/RepeatWallNoPaint_Alb.png
+
+newmtl FldObj_Propeller00_Vgl_RunwayMain00
+Kd 1.0 1.0 1.0
+map_Kd textures/RunwayMain00_Alb.png
+
+newmtl FldObj_Propeller00_Vgl_SlopeRubber00
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeRubber00_Alb.png
+
+newmtl FldObj_Propeller00_Vgl_SlopeRubber00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeRubber00_Alb.png
+
+newmtl FldObj_Propeller00_Vgl_SteelFrameBlack
+Kd 1.0 1.0 1.0
+map_Kd textures/SteelFrameBlack_Alb.png
+
+newmtl FldObj_Propeller00_Vgl_SteelFrameWall00
+Kd 1.0 1.0 1.0
+map_Kd textures/SteelFrameWall00_Alb.png
+
+newmtl FldObj_Propeller00_Vgl_StoneTile00
+Kd 1.0 1.0 1.0
+map_Kd textures/StoneTile00_Alb.png
+
+newmtl FldObj_Propeller00_Vgl_Switchboard01
+Kd 1.0 1.0 1.0
+map_Kd textures/Switchboard01_Alb.png
+
+newmtl FldObj_Propeller00_Vgl_VinylClear
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylClear_Nrm.png
+
+newmtl FldObj_Propeller00_Vgl_VinylWhite
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylWhite_Alb.png
+
+newmtl FldObj_Propeller00_Vgl_WallPanelNoPaint00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallPanelNoPaint00_Alb.png
+
+newmtl FldObj_Propeller00_Vgl_WaterTank00_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/WaterTank00_Alb.png
+
+newmtl FldObj_Propeller00_Vgl_WoodDeckBright00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodDeckBright00_Alb.png
+
+newmtl FldObj_Propeller00_Vgl_WoodPlate00
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodPlate00_Alb.png
+
+newmtl FldObj_Propeller00_Vgl_luggage00
+Kd 1.0 1.0 1.0
+map_Kd textures/luggage00_Alb.png
+
+newmtl FldObj_Propeller00_Vlf_AirPortWallOutsideA00
+Kd 1.0 1.0 1.0
+map_Kd textures/AirPortWallOutsideA00_Alb.png
+
+newmtl FldObj_Propeller00_Vlf_AirPortWallOutsideB00
+Kd 1.0 1.0 1.0
+map_Kd textures/AirPortWallOutsideB00_Alb.png
+
+newmtl FldObj_Propeller00_Vlf_AirportWallWhiteTile
+Kd 1.0 1.0 1.0
+map_Kd textures/AirportWallWhiteTile_Alb.png
+
+newmtl FldObj_Propeller00_Vlf_BattleVinlyBlue
+Kd 1.0 1.0 1.0
+map_Kd textures/BattleVinlyBlue_Alb.png
+
+newmtl FldObj_Propeller00_Vlf_BattleVinlyRed
+Kd 1.0 1.0 1.0
+map_Kd textures/BattleVinlyRed_Alb.png
+
+newmtl FldObj_Propeller00_Vlf_CargoBoxWood00Debris
+Kd 1.0 1.0 1.0
+map_Kd textures/CargoBoxWood00Debris_Alb.png
+
+newmtl FldObj_Propeller00_Vlf_CargoBoxWood00Plus
+Kd 1.0 1.0 1.0
+map_Kd textures/CargoBoxWood00Plus_Alb.png
+
+newmtl FldObj_Propeller00_Vlf_CeilingMetalTrass
+Kd 1.0 1.0 1.0
+map_Kd textures/CeilingMetalTrass_Alb.png
+
+newmtl FldObj_Propeller00_Vlf_Edge01
+Kd 1.0 1.0 1.0
+map_Kd textures/Edge01_Alb.png
+
+newmtl FldObj_Propeller00_Vlf_EdgeRepeatNoPaint00
+Kd 1.0 1.0 1.0
+map_Kd textures/EdgeRepeatNoPaint00_Alb.png
+
+newmtl FldObj_Propeller00_Vlf_FloorLine00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLine00_Alb.png
+
+newmtl FldObj_Propeller00_Vlf_M_FenceVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/M_FenceVinyl_Alb.png
+
+newmtl FldObj_Propeller00_Vlf_RepeatNoPaint00
+Kd 1.0 1.0 1.0
+map_Kd textures/RepeatNoPaint00_Alb.png
+
+newmtl FldObj_Propeller00_Vlf_RopeSingle
+Kd 1.0 1.0 1.0
+map_Kd textures/RopeSingle_Alb.png
+
+newmtl FldObj_Propeller00_Vlf_RunwayMain00
+Kd 1.0 1.0 1.0
+map_Kd textures/RunwayMain00_Alb.png
+
+newmtl FldObj_Propeller00_Vlf_SlopeRubber00
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeRubber00_Alb.png
+
+newmtl FldObj_Propeller00_Vlf_SlopeRubber00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeRubber00_Alb.png
+
+newmtl FldObj_Propeller00_Vlf_SteelFrameBlack
+Kd 1.0 1.0 1.0
+map_Kd textures/SteelFrameBlack_Alb.png
+
+newmtl FldObj_Propeller00_Vlf_SteelFrameWall00
+Kd 1.0 1.0 1.0
+map_Kd textures/SteelFrameWall00_Alb.png
+
+newmtl FldObj_Propeller00_Vlf_StoneTile00
+Kd 1.0 1.0 1.0
+map_Kd textures/StoneTile00_Alb.png
+
+newmtl FldObj_Propeller00_Vlf_Switchboard01
+Kd 1.0 1.0 1.0
+map_Kd textures/Switchboard01_Alb.png
+
+newmtl FldObj_Propeller00_Vlf_TestNoPaintWall00
+Kd 1.0 1.0 1.0
+map_Kd textures/TestNoPaintWall00_Alb.png
+
+newmtl FldObj_Propeller00_Vlf_Vinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/Vinyl_Alb.png
+
+newmtl FldObj_Propeller00_Vlf_WallFence00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallFence00_Alb.png
+
+newmtl FldObj_Propeller00_Vlf_WallPanelNoPaint00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallPanelNoPaint00_Alb.png
+
+newmtl FldObj_Propeller00_Vlf_WoodDeckBright00
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodDeckBright00_Alb.png
+
+newmtl FldObj_Propeller00_Vlf_WoodPlate00
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodPlate00_Alb.png
+
+newmtl FldObj_Propeller00_Vlf_luggage00
+Kd 1.0 1.0 1.0
+map_Kd textures/luggage00_Alb.png
+
+newmtl Fld_Propeller00_Advertisement00
+Kd 1.0 1.0 1.0
+map_Kd textures/Advertisement00_Alb.png
+
+newmtl Fld_Propeller00_Advertisement01
+Kd 1.0 1.0 1.0
+map_Kd textures/Advertisement01_Alb.png
+
+newmtl Fld_Propeller00_AirPortWallOutsideA00
+Kd 1.0 1.0 1.0
+map_Kd textures/AirPortWallOutsideA00_Alb.png
+
+newmtl Fld_Propeller00_AirPortWallOutsideB00
+Kd 1.0 1.0 1.0
+map_Kd textures/AirPortWallOutsideB00_Alb.png
+
+newmtl Fld_Propeller00_AirportFloorTile
+Kd 1.0 1.0 1.0
+map_Kd textures/AirportFloorTile_Alb.png
+
+newmtl Fld_Propeller00_AirportGlass
+Kd 1.0 1.0 1.0
+map_Kd textures/AirportGlass_Alb.png
+
+newmtl Fld_Propeller00_AirportInterior
+Kd 1.0 1.0 1.0
+map_Kd textures/AirportInterior_Alb.png
+
+newmtl Fld_Propeller00_AirportPillarLight
+Kd 1.0 1.0 1.0
+map_Kd textures/AirportPillarLight_Alb.png
+
+newmtl Fld_Propeller00_AirportPillarsMetal
+Kd 1.0 1.0 1.0
+map_Kd textures/AirportPillarsMetal_Alb.png
+
+newmtl Fld_Propeller00_AirportSurveillanceCamera00
+Kd 1.0 1.0 1.0
+map_Kd textures/AirportSurveillanceCamera00_Alb.png
+
+newmtl Fld_Propeller00_AirportWallWhiteTile
+Kd 1.0 1.0 1.0
+map_Kd textures/AirportWallWhiteTile_Alb.png
+
+newmtl Fld_Propeller00_BaseHeliport_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/BaseHeliport_Alb.png
+
+newmtl Fld_Propeller00_BattleVinlyBlue
+Kd 1.0 1.0 1.0
+map_Kd textures/BattleVinlyBlue_Alb.png
+
+newmtl Fld_Propeller00_BattleVinlyRed
+Kd 1.0 1.0 1.0
+map_Kd textures/BattleVinlyRed_Alb.png
+
+newmtl Fld_Propeller00_Bravo_ConstructionObject_np
+Kd 1.0 1.0 1.0
+map_Kd textures/BakeDummy00.png
+
+newmtl Fld_Propeller00_CanolaA
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaA_Alb.png
+
+newmtl Fld_Propeller00_CanolaAV
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaAV_Alb.png
+
+newmtl Fld_Propeller00_CanolaB
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaB_Alb.png
+
+newmtl Fld_Propeller00_CanolaBV
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaBV_Alb.png
+
+newmtl Fld_Propeller00_CargoBoxWood00Debris
+Kd 1.0 1.0 1.0
+map_Kd textures/CargoBoxWood00Debris_Alb.png
+
+newmtl Fld_Propeller00_CargoBoxWood00Plus
+Kd 1.0 1.0 1.0
+map_Kd textures/CargoBoxWood00Plus_Alb.png
+
+newmtl Fld_Propeller00_CeilingMetalTrass
+Kd 1.0 1.0 1.0
+map_Kd textures/CeilingMetalTrass_Alb.png
+
+newmtl Fld_Propeller00_ConstructionObject
+Kd 1.0 1.0 1.0
+map_Kd textures/ConstructionObject_Alb.png
+
+newmtl Fld_Propeller00_ConstructionObject_np
+Kd 1.0 1.0 1.0
+map_Kd textures/ConstructionObject_Alb.png
+
+newmtl Fld_Propeller00_DVLightingTower
+Kd 1.0 1.0 1.0
+map_Kd textures/DVLightingTower_Alb.png
+
+newmtl Fld_Propeller00_DistributionBox00
+Kd 1.0 1.0 1.0
+map_Kd textures/DistributionBox00_Alb.png
+
+newmtl Fld_Propeller00_Edge01
+Kd 1.0 1.0 1.0
+map_Kd textures/Edge01_Alb.png
+
+newmtl Fld_Propeller00_EdgeRepeatNoPaint00
+Kd 1.0 1.0 1.0
+map_Kd textures/EdgeRepeatNoPaint00_Alb.png
+
+newmtl Fld_Propeller00_EntranceBoard
+Kd 1.0 1.0 1.0
+map_Kd textures/EntranceBoard_Alb.png
+
+newmtl Fld_Propeller00_Export00_ScaffoldSet_np
+Kd 1.0 1.0 1.0
+map_Kd textures/ScaffoldSet_Alb.png
+
+newmtl Fld_Propeller00_Export01_ConstructionObject_np
+Kd 1.0 1.0 1.0
+map_Kd textures/ConstructionObject_Alb.png
+
+newmtl Fld_Propeller00_FenceNet00
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceNet00_Alb.png
+
+newmtl Fld_Propeller00_FireproofMortar
+Kd 1.0 1.0 1.0
+map_Kd textures/FireproofMortar_Alb.png
+
+newmtl Fld_Propeller00_FloorFence00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorFence00_Alb.png
+
+newmtl Fld_Propeller00_FloorIron00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorIron00_Alb.png
+
+newmtl Fld_Propeller00_FloorLine00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLine00_Alb.png
+
+newmtl Fld_Propeller00_FloorLine04
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLine04_Alb.png
+
+newmtl Fld_Propeller00_FloorWireNetN_Yellow
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorWireNetN_Yellow_Alb.png
+
+newmtl Fld_Propeller00_GraffitiCloth00
+Kd 1.0 1.0 1.0
+map_Kd textures/GraffitiCloth00_Alb.png
+
+newmtl Fld_Propeller00_GraffitiSetGround00
+Kd 1.0 1.0 1.0
+map_Kd textures/GraffitiSetGroundDirt00_Alb.png
+
+newmtl Fld_Propeller00_GraffitiSetGround01
+Kd 1.0 1.0 1.0
+map_Kd textures/GraffitiSetGround01_Alb.png
+
+newmtl Fld_Propeller00_GroundGrassBaldSpot
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundGrassBaldSpot_Alb.png
+
+newmtl Fld_Propeller00_GroundGrassFlowerBed
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundGrassFlowerBed_Alb.png
+
+newmtl Fld_Propeller00_GroundGrassFlowerBed_va
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundGrassFlowerBed_Alb.png
+
+newmtl Fld_Propeller00_LightingTower
+Kd 1.0 1.0 1.0
+map_Kd textures/LightingTower_Alb.png
+
+newmtl Fld_Propeller00_LightingTower_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/LightingTower_Alb.png
+
+newmtl Fld_Propeller00_LivingWall00
+Kd 1.0 1.0 1.0
+map_Kd textures/LivingWall00_Alb.png
+
+newmtl Fld_Propeller00_M_FenceVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/M_FenceVinyl_Alb.png
+
+newmtl Fld_Propeller00_ParBody
+Kd 1.0 1.0 1.0
+map_Kd textures/ParBody_Alb.png
+
+newmtl Fld_Propeller00_ParLamp
+Kd 1.0 1.0 1.0
+map_Kd textures/ParLamp_Alb.png
+
+newmtl Fld_Propeller00_PlantBase00
+Kd 1.0 1.0 1.0
+map_Kd textures/PlantBase00_Alb.png
+
+newmtl Fld_Propeller00_PlantShelf00
+Kd 1.0 1.0 1.0
+map_Kd textures/PlantShelf00_Alb.png
+
+newmtl Fld_Propeller00_PlantationSet
+Kd 1.0 1.0 1.0
+map_Kd textures/PlantationSet_Alb.png
+
+newmtl Fld_Propeller00_PlazaOBJIron
+Kd 1.0 1.0 1.0
+map_Kd textures/PlazaOBJIron_Alb.png
+
+newmtl Fld_Propeller00_Poster00
+Kd 1.0 1.0 1.0
+map_Kd textures/Poster00_Alb.png
+
+newmtl Fld_Propeller00_PropellerObject00
+Kd 1.0 1.0 1.0
+map_Kd textures/PropellerObject00_Alb.png
+
+newmtl Fld_Propeller00_Props03
+Kd 1.0 1.0 1.0
+map_Kd textures/Props03_Alb.png
+
+newmtl Fld_Propeller00_RepeatNoPaint00
+Kd 1.0 1.0 1.0
+map_Kd textures/RepeatNoPaint00_Alb.png
+
+newmtl Fld_Propeller00_RepeatNoPaint00_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/RepeatNoPaint00_Alb.png
+
+newmtl Fld_Propeller00_RepeatPaint00
+Kd 1.0 1.0 1.0
+map_Kd textures/RepeatPaint00_Alb.png
+
+newmtl Fld_Propeller00_RepeatWallNoPaint
+Kd 1.0 1.0 1.0
+map_Kd textures/RepeatWallNoPaint_Alb.png
+
+newmtl Fld_Propeller00_RoadLight00
+Kd 1.0 1.0 1.0
+map_Kd textures/RoadLight00_Alb.png
+
+newmtl Fld_Propeller00_RopeSingle
+Kd 1.0 1.0 1.0
+map_Kd textures/RopeSingle_Alb.png
+
+newmtl Fld_Propeller00_RunwayMain00
+Kd 1.0 1.0 1.0
+map_Kd textures/RunwayMain00_Alb.png
+
+newmtl Fld_Propeller00_SandbagRubberMat
+Kd 1.0 1.0 1.0
+map_Kd textures/SandbagRubberMat_Alb.png
+
+newmtl Fld_Propeller00_ScissorLift
+Kd 1.0 1.0 1.0
+map_Kd textures/ScissorLift_Alb.png
+
+newmtl Fld_Propeller00_SheetVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/SheetVinyl_Alb.png
+
+newmtl Fld_Propeller00_SideFloorParts00
+Kd 1.0 1.0 1.0
+map_Kd textures/SideFloorParts00_Alb.png
+
+newmtl Fld_Propeller00_SignBoardIronSurface00
+Kd 1.0 1.0 1.0
+map_Kd textures/SignBoardIronSurface00_Alb.png
+
+newmtl Fld_Propeller00_SlopeRubber00
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeRubber00_Alb.png
+
+newmtl Fld_Propeller00_SlopeRubber00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeRubber00_Alb.png
+
+newmtl Fld_Propeller00_SmallPrant00
+Kd 1.0 1.0 1.0
+map_Kd textures/SmallPrant00_Alb.png
+
+newmtl Fld_Propeller00_SteelFrameBlack
+Kd 1.0 1.0 1.0
+map_Kd textures/SteelFrameBlack_Alb.png
+
+newmtl Fld_Propeller00_SteelFrameWall00
+Kd 1.0 1.0 1.0
+map_Kd textures/SteelFrameWall00_Alb.png
+
+newmtl Fld_Propeller00_StoneTile00
+Kd 1.0 1.0 1.0
+map_Kd textures/StoneTile00_Alb.png
+
+newmtl Fld_Propeller00_Switchboard01
+Kd 1.0 1.0 1.0
+map_Kd textures/Switchboard01_Alb.png
+
+newmtl Fld_Propeller00_SwitchboardSet00
+Kd 1.0 1.0 1.0
+map_Kd textures/SwitchboardSet00_Alb.png
+
+newmtl Fld_Propeller00_Telescope00
+Kd 1.0 1.0 1.0
+map_Kd textures/Telescope00_Alb.png
+
+newmtl Fld_Propeller00_TransparentNoPaint00
+Kd 1.0 1.0 1.0
+map_Kd textures/TransparentNoPaint00_Alb.png
+
+newmtl Fld_Propeller00_TrussLight00
+Kd 1.0 1.0 1.0
+map_Kd textures/TrussLight00_Alb.png
+
+newmtl Fld_Propeller00_VinylWhite
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylWhite_Alb.png
+
+newmtl Fld_Propeller00_WallFence00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallFence00_Alb.png
+
+newmtl Fld_Propeller00_WallPanelNoPaint00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallPanelNoPaint00_Alb.png
+
+newmtl Fld_Propeller00_WaterTank00_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/WaterTank00_Alb.png
+
+newmtl Fld_Propeller00_Wire_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Wire_Alb.png
+
+newmtl Fld_Propeller00_WoodDeckBright00
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodDeckBright00_Alb.png
+
+newmtl Fld_Propeller00_WoodPlate00
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodPlate00_Alb.png
+

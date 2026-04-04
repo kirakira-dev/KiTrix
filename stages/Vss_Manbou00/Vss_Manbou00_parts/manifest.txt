@@ -1,0 +1,2 @@
+part_0000.obj
+part_0030.obj

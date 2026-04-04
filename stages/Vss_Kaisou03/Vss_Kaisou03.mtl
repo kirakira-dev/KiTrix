@@ -1,0 +1,627 @@
+# KiTrix material file
+newmtl FldBG_Kaisou03_BackgroundBuildings
+Kd 1.0 1.0 1.0
+map_Kd textures/BackgroundBuildings_Alb.png
+
+newmtl FldBG_Kaisou03_BgBridgePillar
+Kd 1.0 1.0 1.0
+map_Kd textures/BgBridgePillar_Alb.png
+
+newmtl FldBG_Kaisou03_BridgeExtensions00
+Kd 1.0 1.0 1.0
+map_Kd textures/BridgeExtensions00_Alb.png
+
+newmtl FldBG_Kaisou03_BridgeExtensions01
+Kd 1.0 1.0 1.0
+map_Kd textures/BridgeExtensions01_Alb.png
+
+newmtl FldBG_Kaisou03_Ceiling00
+Kd 1.0 1.0 1.0
+map_Kd textures/Ceiling00_Alb.png
+
+newmtl FldBG_Kaisou03_Ceiling01
+Kd 1.0 1.0 1.0
+map_Kd textures/Ceiling01_Alb.png
+
+newmtl FldBG_Kaisou03_Column00
+Kd 1.0 1.0 1.0
+map_Kd textures/Column00_Alb.png
+
+newmtl FldBG_Kaisou03_Column01
+Kd 1.0 1.0 1.0
+map_Kd textures/Column01_Alb.png
+
+newmtl FldBG_Kaisou03_ColumnWalls
+Kd 1.0 1.0 1.0
+map_Kd textures/ColumnWalls_Alb.png
+
+newmtl FldBG_Kaisou03_DVBuildingBase
+Kd 1.0 1.0 1.0
+map_Kd textures/DVBuildingBase_Alb.png
+
+newmtl FldBG_Kaisou03_DVBuildingBaseParts
+Kd 1.0 1.0 1.0
+map_Kd textures/DVBuildingBaseParts_Alb.png
+
+newmtl FldBG_Kaisou03_DVBuildingWall
+Kd 1.0 1.0 1.0
+map_Kd textures/DVBuildingWall_Alb.png
+
+newmtl FldBG_Kaisou03_DVFuji
+Kd 1.0 1.0 1.0
+map_Kd textures/DVFuji_Alb.png
+
+newmtl FldBG_Kaisou03_DVGround
+Kd 1.0 1.0 1.0
+map_Kd textures/DVGround_Alb.png
+
+newmtl FldBG_Kaisou03_DVGroundAsphalt
+Kd 1.0 1.0 1.0
+map_Kd textures/DVGroundAsphalt_Alb.png
+
+newmtl FldBG_Kaisou03_DVHighWayFenceLong
+Kd 1.0 1.0 1.0
+map_Kd textures/DVHighWayFenceLong_Nrm.png
+
+newmtl FldBG_Kaisou03_DVHighWayWallShort
+Kd 1.0 1.0 1.0
+map_Kd textures/DVHighWayWallShort_Alb.png
+
+newmtl FldBG_Kaisou03_DVSetTankAndVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/DVSetTankAndVinyl_Alb.png
+
+newmtl FldBG_Kaisou03_DVTreeFarN
+Kd 1.0 1.0 1.0
+map_Kd textures/DVTreeFarN_Alb.png
+
+newmtl FldBG_Kaisou03_DV_LightHouse
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_LightHouse_Alb.png
+
+newmtl FldBG_Kaisou03_DV_SeaWater
+Kd 1.0 1.0 1.0
+
+newmtl FldBG_Kaisou03_DVbarrier00
+Kd 1.0 1.0 1.0
+map_Kd textures/DVbarrier00_Alb.png
+
+newmtl FldBG_Kaisou03_DVsteelbarrier00
+Kd 1.0 1.0 1.0
+map_Kd textures/DVsteelbarrier00_Alb.png
+
+newmtl FldBG_Kaisou03_DVyama
+Kd 1.0 1.0 1.0
+map_Kd textures/DVyama_Alb.png
+
+newmtl FldBG_Kaisou03_DeckFloor01
+Kd 1.0 1.0 1.0
+map_Kd textures/DeckFloor_01_Alb.png
+
+newmtl FldBG_Kaisou03_DeckFloor02
+Kd 1.0 1.0 1.0
+map_Kd textures/DeckFloor_02_Alb.png
+
+newmtl FldBG_Kaisou03_DeckItems
+Kd 1.0 1.0 1.0
+map_Kd textures/DeckItems_Alb.png
+
+newmtl FldBG_Kaisou03_DeckItems02
+Kd 1.0 1.0 1.0
+map_Kd textures/DeckItems02_Alb.png
+
+newmtl FldBG_Kaisou03_Extensions00
+Kd 1.0 1.0 1.0
+map_Kd textures/Extensions00_Alb.png
+
+newmtl FldBG_Kaisou03_FerrisWheel
+Kd 1.0 1.0 1.0
+map_Kd textures/FerrisWheel_Alb.png
+
+newmtl FldBG_Kaisou03_FloorA_np
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorA_Alb.png
+
+newmtl FldBG_Kaisou03_FloorB_np
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorB_Alb.png
+
+newmtl FldBG_Kaisou03_FloorTrim_np
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTrim_Alb.png
+
+newmtl FldBG_Kaisou03_Frames00
+Kd 1.0 1.0 1.0
+map_Kd textures/Frames00_Alb.png
+
+newmtl FldBG_Kaisou03_Frames00_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/Frames00_Alb.png
+
+newmtl FldBG_Kaisou03_Ships
+Kd 1.0 1.0 1.0
+map_Kd textures/Ships_Alb.png
+
+newmtl FldBG_Kaisou03_Statue
+Kd 1.0 1.0 1.0
+map_Kd textures/Statue_Alb.png
+
+newmtl FldBG_Kaisou03_Tower00
+Kd 1.0 1.0 1.0
+map_Kd textures/Tower00_Alb.png
+
+newmtl FldBG_Kaisou03_Tower01
+Kd 1.0 1.0 1.0
+map_Kd textures/Tower01_Alb.png
+
+newmtl FldBG_Kaisou03_Tower02
+Kd 1.0 1.0 1.0
+map_Kd textures/Tower02_Alb.png
+
+newmtl FldBG_Kaisou03_Tower03
+Kd 1.0 1.0 1.0
+map_Kd textures/Tower03_Alb.png
+
+newmtl FldBG_Kaisou03_TowerFoundationProps00
+Kd 1.0 1.0 1.0
+map_Kd textures/TowerFoundationProps00_Alb.png
+
+newmtl FldBG_Kaisou03_TowerFoundations00
+Kd 1.0 1.0 1.0
+map_Kd textures/TowerFoundations00_Alb.png
+
+newmtl FldBG_Kaisou03_TowerFoundations01
+Kd 1.0 1.0 1.0
+map_Kd textures/TowerFoundations01_Alb.png
+
+newmtl FldBG_Kaisou03_TowerFoundations02
+Kd 1.0 1.0 1.0
+map_Kd textures/TowerFoundations02_Alb.png
+
+newmtl FldBG_Kaisou03_WallBarriers01
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBarriers01_Alb.png
+
+newmtl FldObj_Kaisou03Cars_lambert1
+Kd 1.0 1.0 1.0
+
+newmtl FldObj_Kaisou03Fest_TownNight
+Kd 1.0 1.0 1.0
+map_Kd textures/TownNight_Opa.png
+
+newmtl FldObj_Kaisou03Ships_Ships
+Kd 1.0 1.0 1.0
+map_Kd textures/Ships_Alb.png
+
+newmtl FldObj_KaisouTcl_BackWall
+Kd 1.0 1.0 1.0
+map_Kd textures/BackWall_Alb.png
+
+newmtl FldObj_KaisouTcl_BackWall_np
+Kd 1.0 1.0 1.0
+map_Kd textures/BackWall_Alb.png
+
+newmtl FldObj_KaisouTcl_Barricade00
+Kd 1.0 1.0 1.0
+map_Kd textures/Barricade00_Alb.png
+
+newmtl FldObj_KaisouTcl_Column00
+Kd 1.0 1.0 1.0
+map_Kd textures/Column00_Alb.png
+
+newmtl FldObj_KaisouTcl_ColumnWalls
+Kd 1.0 1.0 1.0
+map_Kd textures/ColumnWalls_Alb.png
+
+newmtl FldObj_KaisouTcl_ConcreteWall
+Kd 1.0 1.0 1.0
+map_Kd textures/ConcreteWall_Alb.png
+
+newmtl FldObj_KaisouTcl_FloorA
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorA_Alb.png
+
+newmtl FldObj_KaisouTcl_FloorAcc
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorAcc_Alb.png
+
+newmtl FldObj_KaisouTcl_FloorB
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorB_Alb.png
+
+newmtl FldObj_KaisouTcl_FloorBarrier00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorBarrier00_Alb.png
+
+newmtl FldObj_KaisouTcl_FloorPanel
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorPanel_Alb.png
+
+newmtl FldObj_KaisouTcl_FloorTrim
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTrim_Alb.png
+
+newmtl FldObj_KaisouTcl_FloorTrim_np
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTrim_Alb.png
+
+newmtl FldObj_KaisouTcl_LightDeco00
+Kd 1.0 1.0 1.0
+map_Kd textures/LightDeco00_Alb.png
+
+newmtl FldObj_KaisouTcl_MetalWall
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalWall_Alb.png
+
+newmtl FldObj_KaisouTcl_PipeWall
+Kd 1.0 1.0 1.0
+map_Kd textures/PipeWall_Alb.png
+
+newmtl FldObj_KaisouTcl_RedFrames
+Kd 1.0 1.0 1.0
+map_Kd textures/RedFrames_Alb.png
+
+newmtl FldObj_KaisouTcl_SideWall
+Kd 1.0 1.0 1.0
+map_Kd textures/SideWall_Alb.png
+
+newmtl FldObj_KaisouTcl_SupportProps00
+Kd 1.0 1.0 1.0
+map_Kd textures/SupportProps00_Alb.png
+
+newmtl FldObj_KaisouTcl_TarpSheet
+Kd 1.0 1.0 1.0
+map_Kd textures/TarpSheet_Alb.png
+
+newmtl FldObj_KaisouTcl_TarpTintedGlass
+Kd 1.0 1.0 1.0
+map_Kd textures/TarpTintedGlass_Alb.png
+
+newmtl FldObj_KaisouTcl_Tarps00
+Kd 1.0 1.0 1.0
+map_Kd textures/Tarps00_Alb.png
+
+newmtl FldObj_KaisouTcl_TintedGlass
+Kd 1.0 1.0 1.0
+map_Kd textures/TintedGlass_Alb.png
+
+newmtl FldObj_KaisouTcl_Vinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/Vinyl_Alb.png
+
+newmtl FldObj_KaisouTcl_WallBarriers00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBarriers00_Alb.png
+
+newmtl FldObj_KaisouTcl_WallBarriers01
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBarriers01_Alb.png
+
+newmtl FldObj_KaisouTcl_WallBarriersFence
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBarriersFence_Alb.png
+
+newmtl FldObj_KaisouTcl_WallDeco00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallDeco00_Alb.png
+
+newmtl FldObj_KaisouTcl_Walls01
+Kd 1.0 1.0 1.0
+map_Kd textures/Walls01_Alb.png
+
+newmtl FldObj_KaisouTcl_WallsCorrugatedPlates
+Kd 1.0 1.0 1.0
+map_Kd textures/WallsCorrugatedPlates_Alb.png
+
+newmtl FldObj_KaisouUsually_Barricade00
+Kd 1.0 1.0 1.0
+map_Kd textures/Barricade00_Alb.png
+
+newmtl FldObj_KaisouUsually_Column00
+Kd 1.0 1.0 1.0
+map_Kd textures/Column00_Alb.png
+
+newmtl FldObj_KaisouUsually_ColumnWalls
+Kd 1.0 1.0 1.0
+map_Kd textures/ColumnWalls_Alb.png
+
+newmtl FldObj_KaisouUsually_FloorA
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorA_Alb.png
+
+newmtl FldObj_KaisouUsually_FloorAcc
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorAcc_Alb.png
+
+newmtl FldObj_KaisouUsually_FloorPanel
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorPanel_Alb.png
+
+newmtl FldObj_KaisouUsually_FloorTrim
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTrim_Alb.png
+
+newmtl FldObj_KaisouUsually_FloorTrim_np
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTrim_Alb.png
+
+newmtl FldObj_KaisouUsually_Frames00
+Kd 1.0 1.0 1.0
+map_Kd textures/Frames00_Alb.png
+
+newmtl FldObj_KaisouUsually_GeneratorBox
+Kd 1.0 1.0 1.0
+map_Kd textures/GeneratorBox_Alb.png
+
+newmtl FldObj_KaisouUsually_LightDeco00
+Kd 1.0 1.0 1.0
+map_Kd textures/LightDeco00_Alb.png
+
+newmtl FldObj_KaisouUsually_MetalWall
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalWall_Alb.png
+
+newmtl FldObj_KaisouUsually_RedFrames
+Kd 1.0 1.0 1.0
+map_Kd textures/RedFrames_Alb.png
+
+newmtl FldObj_KaisouUsually_RedGrating02
+Kd 1.0 1.0 1.0
+map_Kd textures/RedGrating02_Alb.png
+
+newmtl FldObj_KaisouUsually_SideWall
+Kd 1.0 1.0 1.0
+map_Kd textures/SideWall_Alb.png
+
+newmtl FldObj_KaisouUsually_SupportProps00
+Kd 1.0 1.0 1.0
+map_Kd textures/SupportProps00_Alb.png
+
+newmtl FldObj_KaisouUsually_TarpSheet
+Kd 1.0 1.0 1.0
+map_Kd textures/TarpSheet_Alb.png
+
+newmtl FldObj_KaisouUsually_TarpTintedGlass
+Kd 1.0 1.0 1.0
+map_Kd textures/TarpTintedGlass_Alb.png
+
+newmtl FldObj_KaisouUsually_Tarps00
+Kd 1.0 1.0 1.0
+map_Kd textures/Tarps00_Alb.png
+
+newmtl FldObj_KaisouUsually_TintedGlass
+Kd 1.0 1.0 1.0
+map_Kd textures/TintedGlass_Alb.png
+
+newmtl FldObj_KaisouUsually_Vinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/Vinyl_Alb.png
+
+newmtl FldObj_KaisouUsually_WallBarriers00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBarriers00_Alb.png
+
+newmtl FldObj_KaisouUsually_WallBarriers01
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBarriers01_Alb.png
+
+newmtl FldObj_KaisouUsually_WallBarriersFence
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBarriersFence_Alb.png
+
+newmtl FldObj_KaisouUsually_WallDeco00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallDeco00_Alb.png
+
+newmtl FldObj_KaisouUsually_Walls01
+Kd 1.0 1.0 1.0
+map_Kd textures/Walls01_Alb.png
+
+newmtl FldObj_KaisouUsually_WallsCorrugatedPlates
+Kd 1.0 1.0 1.0
+map_Kd textures/WallsCorrugatedPlates_Alb.png
+
+newmtl Fld_Kaisou03_BackWall
+Kd 1.0 1.0 1.0
+map_Kd textures/BackWall_Alb.png
+
+newmtl Fld_Kaisou03_BackWall_np
+Kd 1.0 1.0 1.0
+map_Kd textures/BackWall_Alb.png
+
+newmtl Fld_Kaisou03_Barricade00
+Kd 1.0 1.0 1.0
+map_Kd textures/Barricade00_Alb.png
+
+newmtl Fld_Kaisou03_Column00
+Kd 1.0 1.0 1.0
+map_Kd textures/Column00_Alb.png
+
+newmtl Fld_Kaisou03_Column00_OL
+Kd 1.0 1.0 1.0
+map_Kd textures/Column00_Alb.png
+
+newmtl Fld_Kaisou03_ColumnWalls
+Kd 1.0 1.0 1.0
+map_Kd textures/ColumnWalls_Alb.png
+
+newmtl Fld_Kaisou03_ConcreteWall
+Kd 1.0 1.0 1.0
+map_Kd textures/ConcreteWall_Alb.png
+
+newmtl Fld_Kaisou03_FloorA
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorA_Alb.png
+
+newmtl Fld_Kaisou03_FloorAcc
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorAcc_Alb.png
+
+newmtl Fld_Kaisou03_FloorB
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorB_Alb.png
+
+newmtl Fld_Kaisou03_FloorBarrier00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorBarrier00_Alb.png
+
+newmtl Fld_Kaisou03_FloorBarrier00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorBarrier00_Alb.png
+
+newmtl Fld_Kaisou03_FloorDeco
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorDeco_Alb.png
+
+newmtl Fld_Kaisou03_FloorDeco_np
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorDeco_Alb.png
+
+newmtl Fld_Kaisou03_FloorPanel
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorPanel_Alb.png
+
+newmtl Fld_Kaisou03_FloorTrim
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTrim_Alb.png
+
+newmtl Fld_Kaisou03_FloorTrim_np
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTrim_Alb.png
+
+newmtl Fld_Kaisou03_Frames00
+Kd 1.0 1.0 1.0
+map_Kd textures/Frames00_Alb.png
+
+newmtl Fld_Kaisou03_Frames00_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/Frames00_Alb.png
+
+newmtl Fld_Kaisou03_GeneratorBox
+Kd 1.0 1.0 1.0
+map_Kd textures/GeneratorBox_Alb.png
+
+newmtl Fld_Kaisou03_LightDeco00
+Kd 1.0 1.0 1.0
+map_Kd textures/LightDeco00_Alb.png
+
+newmtl Fld_Kaisou03_MaintenancePlatform
+Kd 1.0 1.0 1.0
+map_Kd textures/MaintenancePlatform_Alb.png
+
+newmtl Fld_Kaisou03_MaintenanceShaft
+Kd 1.0 1.0 1.0
+map_Kd textures/MaintenanceShaft_Alb.png
+
+newmtl Fld_Kaisou03_MetalWall
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalWall_Alb.png
+
+newmtl Fld_Kaisou03_PipeWall
+Kd 1.0 1.0 1.0
+map_Kd textures/PipeWall_Alb.png
+
+newmtl Fld_Kaisou03_RedFrames
+Kd 1.0 1.0 1.0
+map_Kd textures/RedFrames_Alb.png
+
+newmtl Fld_Kaisou03_RedGrating00
+Kd 1.0 1.0 1.0
+map_Kd textures/RedGrating00_Alb.png
+
+newmtl Fld_Kaisou03_RedGrating01
+Kd 1.0 1.0 1.0
+map_Kd textures/RedGrating01_Alb.png
+
+newmtl Fld_Kaisou03_RedGrating02
+Kd 1.0 1.0 1.0
+map_Kd textures/RedGrating02_Alb.png
+
+newmtl Fld_Kaisou03_SideWall
+Kd 1.0 1.0 1.0
+map_Kd textures/SideWall_Alb.png
+
+newmtl Fld_Kaisou03_SupportProps00
+Kd 1.0 1.0 1.0
+map_Kd textures/SupportProps00_Alb.png
+
+newmtl Fld_Kaisou03_TarpSheet
+Kd 1.0 1.0 1.0
+map_Kd textures/TarpSheet_Alb.png
+
+newmtl Fld_Kaisou03_TarpTintedGlass
+Kd 1.0 1.0 1.0
+map_Kd textures/TarpTintedGlass_Alb.png
+
+newmtl Fld_Kaisou03_Tarps00
+Kd 1.0 1.0 1.0
+map_Kd textures/Tarps00_Alb.png
+
+newmtl Fld_Kaisou03_TintedGlass
+Kd 1.0 1.0 1.0
+map_Kd textures/TintedGlass_Alb.png
+
+newmtl Fld_Kaisou03_Vinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/Vinyl_Alb.png
+
+newmtl Fld_Kaisou03_WallBarriers00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBarriers00_Alb.png
+
+newmtl Fld_Kaisou03_WallBarriers01
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBarriers01_Alb.png
+
+newmtl Fld_Kaisou03_WallBarriersFence
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBarriersFence_Alb.png
+
+newmtl Fld_Kaisou03_WallDeco00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallDeco00_Alb.png
+
+newmtl Fld_Kaisou03_WallSign
+Kd 1.0 1.0 1.0
+map_Kd textures/WallSign_Alb.png
+
+newmtl Fld_Kaisou03_Walls01
+Kd 1.0 1.0 1.0
+map_Kd textures/Walls01_Alb.png
+
+newmtl Fld_Kaisou03_WallsCorrugatedPlates
+Kd 1.0 1.0 1.0
+map_Kd textures/WallsCorrugatedPlates_Alb.png
+
+newmtl Fld_Kaisou03Canola_CanolaA
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaA_Alb.png
+
+newmtl Fld_Kaisou03Canola_CanolaAV
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaAV_Alb.png
+
+newmtl Fld_Kaisou03Canola_CanolaB
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaA_Alb.png
+
+newmtl Fld_Kaisou03Canola_CanolaBV
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaBV_Alb.png
+
+newmtl Fld_Kaisou03CanolaTcl_CanolaC
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaA_Alb.png
+
+newmtl Fld_Kaisou03CanolaTcl_CanolaCV
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaCV_Alb.png
+
+newmtl Fld_Kaisou03CanolaUsually_CanolaA
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaA_Alb.png
+
+newmtl Fld_Kaisou03CanolaUsually_CanolaB
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaA_Alb.png
+

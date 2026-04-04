@@ -1,0 +1,1875 @@
+# KiTrix material file
+newmtl DObj_Cross00_Car_DVCarSet
+Kd 1.0 1.0 1.0
+map_Kd textures/DVCarSet_Alb.png
+
+newmtl DObj_Cross00_CookingRobot_StrainerRobot00
+Kd 1.0 1.0 1.0
+map_Kd textures/StrainerRobot00_Alb.png
+
+newmtl DObj_Cross00_CookingRobot_PntVarVcl_StrainerRobot00
+Kd 1.0 1.0 1.0
+map_Kd textures/StrainerRobot00_Alb.png
+
+newmtl DObj_Cross00_CookingRobot_Tcl_StrainerRobot00
+Kd 1.0 1.0 1.0
+map_Kd textures/StrainerRobot00_Alb.png
+
+newmtl DObj_Cross00_CookingRobot_Vlf_StrainerRobot00
+Kd 1.0 1.0 1.0
+map_Kd textures/StrainerRobot00_Alb.png
+
+newmtl DObj_Cross00_DeliveryRobot_DeliveryRobot00
+Kd 1.0 1.0 1.0
+map_Kd textures/DeliveryRobot00_Alb.png
+
+newmtl DObj_Cross00_DeliveryRobotAndCar_DVCarSet
+Kd 1.0 1.0 1.0
+map_Kd textures/DVCarSet_Alb.png
+
+newmtl DObj_Cross00_DeliveryRobotAndCar_DeliveryRobot00
+Kd 1.0 1.0 1.0
+map_Kd textures/DeliveryRobot00_Alb.png
+
+newmtl DObj_Cross00_DeliveryRobotAndCar_Water
+Kd 1.0 1.0 1.0
+map_Kd textures/Water_Nrm.png
+
+newmtl DObj_Cross00_Monitor_Monitor00
+Kd 1.0 1.0 1.0
+map_Kd textures/Monitor00_Alb.00.png
+
+newmtl DObj_Cross00_RamenChopstick_RamenChopstick00_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/RamenChopstick00_Alb.png
+
+newmtl DObj_Cross00_SlicerRobot_CenterExtention_StrainerRobot00
+Kd 1.0 1.0 1.0
+map_Kd textures/StrainerRobot00_Alb.png
+
+newmtl DObj_Cross00_SlicerRobot_Lowroof_StrainerRobot00
+Kd 1.0 1.0 1.0
+map_Kd textures/StrainerRobot00_Alb.png
+
+newmtl Fld_Cross00_CrossCanolaA
+Kd 1.0 1.0 1.0
+map_Kd textures/CrossCanolaA_Alb.png
+
+newmtl Fld_Cross00_CrossCanolaAV
+Kd 1.0 1.0 1.0
+map_Kd textures/CrossCanolaAV_Alb.png
+
+newmtl Fld_Cross00_CrossCanolaB
+Kd 1.0 1.0 1.0
+map_Kd textures/CrossCanolaB_Alb.png
+
+newmtl Fld_Cross00_CrossCanolaBV
+Kd 1.0 1.0 1.0
+map_Kd textures/CrossCanolaBV_Alb.png
+
+newmtl Fld_Cross00_CrossNoPaintSetA00
+Kd 1.0 1.0 1.0
+map_Kd textures/CrossNoPaintSetA00_Alb.png
+
+newmtl Fld_Cross00_CrossNoPaintSetB00
+Kd 1.0 1.0 1.0
+map_Kd textures/CrossNoPaintSetB00_Alb.png
+
+newmtl Fld_Cross00_DeliveryRobot01
+Kd 1.0 1.0 1.0
+map_Kd textures/DeliveryRobot00_Alb.png
+
+newmtl Fld_Cross00_EatAreaStools00_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/EatAreaStools00_Alb.png
+
+newmtl Fld_Cross00_EntranceCarpet00
+Kd 1.0 1.0 1.0
+map_Kd textures/EntranceCarpet00_Alb.png
+
+newmtl Fld_Cross00_EquipmentPaintableParts00
+Kd 1.0 1.0 1.0
+map_Kd textures/EquipmentPaintableParts00_Alb.png
+
+newmtl Fld_Cross00_EtcNoPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/EtcNoPaintable00_Alb.png
+
+newmtl Fld_Cross00_EtcPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/EtcPaintable00_Alb.png
+
+newmtl Fld_Cross00_FloorBaseStructure00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorBaseStructure00_Alb.png
+
+newmtl Fld_Cross00_FloorDecalPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorDecalPaintable00_Alb.png
+
+newmtl Fld_Cross00_FloorLinoleumBlack00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLinoleumBlack00_Alb.png
+
+newmtl Fld_Cross00_FloorLinoleumStartOgangeLight00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLinoleumStartOgangeLight00_Alb.png
+
+newmtl Fld_Cross00_FloorLinoleumWhite00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLinoleumWhite00_Alb.png
+
+newmtl Fld_Cross00_FloorStaffCleat00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorStaffCleat00_Alb.png
+
+newmtl Fld_Cross00_FloorStaffSlope00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorStaffSlope00_Alb.png
+
+newmtl Fld_Cross00_FloorTileGray00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTileGray00_Alb.png
+
+newmtl Fld_Cross00_FloorTileOrange00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTileOrange00_Alb.png
+
+newmtl Fld_Cross00_FloorTileWhite00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTileWhite00_Alb.png
+
+newmtl Fld_Cross00_FloorTileYellow00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTileYellow00_Alb.png
+
+newmtl Fld_Cross00_FloorWood00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorWood00_Alb.png
+
+newmtl Fld_Cross00_GlassKitchen00
+Kd 1.0 1.0 1.0
+map_Kd textures/BakeDummy00.png
+
+newmtl Fld_Cross00_GlassTerrace
+Kd 1.0 1.0 1.0
+map_Kd textures/BakeDummy00.png
+
+newmtl Fld_Cross00_MapBoard00
+Kd 1.0 1.0 1.0
+map_Kd textures/MapBoard00_Alb.png
+
+newmtl Fld_Cross00_MetalNetwork00
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalNetwork00_Alb.png
+
+newmtl Fld_Cross00_RamenSignBoard00_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/RamenSignBoard00_Alb.png
+
+newmtl Fld_Cross00_RamenVarietyPack00_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/RamenVarietyPack00_Alb.png
+
+newmtl Fld_Cross00_RoofGraffiti00
+Kd 1.0 1.0 1.0
+map_Kd textures/RoofGraffiti00_Alb.png
+
+newmtl Fld_Cross00_SideFloorParts00
+Kd 1.0 1.0 1.0
+map_Kd textures/SideFloorParts00_Alb.png
+
+newmtl Fld_Cross00_SideFloorPartsPriorInside00
+Kd 1.0 1.0 1.0
+map_Kd textures/SideFloorParts00_Alb.png
+
+newmtl Fld_Cross00_SidefloorPartsNopaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/SidefloorPartsNopaintable00_Alb.png
+
+newmtl Fld_Cross00_SidefloorPartsNopaintable00_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/SidefloorPartsNopaintable00_Alb.png
+
+newmtl Fld_Cross00_StrainerRobot00_nb
+Kd 1.0 1.0 1.0
+map_Kd textures/StrainerRobot00_Alb.png
+
+newmtl Fld_Cross00_Tape00
+Kd 1.0 1.0 1.0
+map_Kd textures/Tape00_Alb.png
+
+newmtl Fld_Cross00_TicketVendingMachine00
+Kd 1.0 1.0 1.0
+map_Kd textures/TicketVendingMachine00_Alb.png
+
+newmtl Fld_Cross00_ToiletAndPoster00
+Kd 1.0 1.0 1.0
+map_Kd textures/ToiletAndPoster00_Alb.png
+
+newmtl Fld_Cross00_VinylClear
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylClear_Nrm.png
+
+newmtl Fld_Cross00_WallAluminum00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallAluminum00_Alb.png
+
+newmtl Fld_Cross00_WallBlackNoPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBlackNoPaintable00_Alb.png
+
+newmtl Fld_Cross00_WallParts00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallParts00_Alb.png
+
+newmtl Fld_Cross00_WallWhiteNopaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallWhiteNopaintable00_Alb.png
+
+newmtl Fld_Cross00_WallWoodPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallWoodPaintable00_Alb.png
+
+newmtl Fld_Cross00JerryMannequin_JerryTshirt_UDIM00
+Kd 1.0 1.0 1.0
+map_Kd textures/JerryTshirt_UDIM00_UDIM_Alb.png
+
+newmtl Fld_Cross00JerryMannequin_Jerrybody00
+Kd 1.0 1.0 1.0
+map_Kd textures/Jerrybody00_Alb.png
+
+newmtl Fld_Cross00_CenterExtension_Can7
+Kd 1.0 1.0 1.0
+map_Kd textures/M_Can_Alb.png
+
+newmtl Fld_Cross00_CenterExtension_CrossNoPaintSetA00
+Kd 1.0 1.0 1.0
+map_Kd textures/CrossNoPaintSetA00_Alb.png
+
+newmtl Fld_Cross00_CenterExtension_CrossNoPaintSetB00
+Kd 1.0 1.0 1.0
+map_Kd textures/CrossNoPaintSetB00_Alb.png
+
+newmtl Fld_Cross00_CenterExtension_EntranceCarpet00
+Kd 1.0 1.0 1.0
+map_Kd textures/EntranceCarpet00_Alb.png
+
+newmtl Fld_Cross00_CenterExtension_EtcNoPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/EtcNoPaintable00_Alb.png
+
+newmtl Fld_Cross00_CenterExtension_EtcPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/EtcPaintable00_Alb.png
+
+newmtl Fld_Cross00_CenterExtension_FloorBaseStructure00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorBaseStructure00_Alb.png
+
+newmtl Fld_Cross00_CenterExtension_FloorDecalPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorDecalPaintable00_Alb.png
+
+newmtl Fld_Cross00_CenterExtension_FloorLinoleumBlack00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLinoleumBlack00_Alb.png
+
+newmtl Fld_Cross00_CenterExtension_FloorTileOrange00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTileOrange00_Alb.png
+
+newmtl Fld_Cross00_CenterExtension_GlassKitchen00
+Kd 1.0 1.0 1.0
+map_Kd textures/BakeDummy00.png
+
+newmtl Fld_Cross00_CenterExtension_GlassTerrace
+Kd 1.0 1.0 1.0
+map_Kd textures/BakeDummy00.png
+
+newmtl Fld_Cross00_CenterExtension_ShowcaseRefrigerator00
+Kd 1.0 1.0 1.0
+map_Kd textures/ShowcaseRefrigerator00_Alb.png
+
+newmtl Fld_Cross00_CenterExtension_SideFloorParts00
+Kd 1.0 1.0 1.0
+map_Kd textures/SideFloorParts00_Alb.png
+
+newmtl Fld_Cross00_CenterExtension_StrainerRobot00_nb
+Kd 1.0 1.0 1.0
+map_Kd textures/StrainerRobot00_Alb.png
+
+newmtl Fld_Cross00_CenterExtension_TicketVendingMachine00
+Kd 1.0 1.0 1.0
+map_Kd textures/TicketVendingMachine00_Alb.png
+
+newmtl Fld_Cross00_CenterExtension_VinylSheetG
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylSheetG_Nrm.png
+
+newmtl Fld_Cross00_CenterExtension_WallAluminum00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallAluminum00_Alb.png
+
+newmtl Fld_Cross00_CenterExtension_WallBlackNoPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBlackNoPaintable00_Alb.png
+
+newmtl Fld_Cross00_CenterExtension_WallParts00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallParts00_Alb.png
+
+newmtl Fld_Cross00_CenterExtension_WallWhiteNopaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallWhiteNopaintable00_Alb.png
+
+newmtl Fld_Cross00_GeneralCube_Pnt_FenceVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/M_FenceVinyl_Alb.png
+
+newmtl Fld_Cross00_GeneralCube_Tcl_FenceVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/M_FenceVinyl_Alb.png
+
+newmtl Fld_Cross00_GeneralCube_Var_FenceVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/M_FenceVinyl_Alb.png
+
+newmtl Fld_Cross00_GeneralCube_Vcl_FenceVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/M_FenceVinyl_Alb.png
+
+newmtl Fld_Cross00_GeneralCube_Vgl_FenceVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/M_FenceVinyl_Alb.png
+
+newmtl Fld_Cross00_GeneralCube_Vlf_FenceVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/M_FenceVinyl_Alb.png
+
+newmtl Fld_Cross00_Highroof_CenterHandrail00
+Kd 1.0 1.0 1.0
+map_Kd textures/CenterHandrail00_Alb.png
+
+newmtl Fld_Cross00_Highroof_CrossCanolaA
+Kd 1.0 1.0 1.0
+map_Kd textures/CrossCanolaA_Alb.png
+
+newmtl Fld_Cross00_Highroof_CrossCanolaB
+Kd 1.0 1.0 1.0
+map_Kd textures/CrossCanolaB_Alb.png
+
+newmtl Fld_Cross00_Highroof_CrossNoPaintSetA00
+Kd 1.0 1.0 1.0
+map_Kd textures/CrossNoPaintSetA00_Alb.png
+
+newmtl Fld_Cross00_Highroof_CrossNoPaintSetB00
+Kd 1.0 1.0 1.0
+map_Kd textures/CrossNoPaintSetB00_Alb.png
+
+newmtl Fld_Cross00_Highroof_EntranceCarpet00
+Kd 1.0 1.0 1.0
+map_Kd textures/EntranceCarpet00_Alb.png
+
+newmtl Fld_Cross00_Highroof_EquipmentPaintableParts00
+Kd 1.0 1.0 1.0
+map_Kd textures/EquipmentPaintableParts00_Alb.png
+
+newmtl Fld_Cross00_Highroof_EtcNoPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/EtcNoPaintable00_Alb.png
+
+newmtl Fld_Cross00_Highroof_EtcPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/EtcPaintable00_Alb.png
+
+newmtl Fld_Cross00_Highroof_FloorBaseStructure00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorBaseStructure00_Alb.png
+
+newmtl Fld_Cross00_Highroof_FloorDecalPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorDecalPaintable00_Alb.png
+
+newmtl Fld_Cross00_Highroof_FloorLinoleumStartOgangeLight00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLinoleumStartOgangeLight00_Alb.png
+
+newmtl Fld_Cross00_Highroof_FloorLinoleumWhite00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLinoleumWhite00_Alb.png
+
+newmtl Fld_Cross00_Highroof_FloorStaffCleat00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorStaffCleat00_Alb.png
+
+newmtl Fld_Cross00_Highroof_FloorStaffSlope00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorStaffSlope00_Alb.png
+
+newmtl Fld_Cross00_Highroof_FloorTileOrange00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTileOrange00_Alb.png
+
+newmtl Fld_Cross00_Highroof_FloorTileWhite00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTileWhite00_Alb.png
+
+newmtl Fld_Cross00_Highroof_FloorTileYellow00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTileYellow00_Alb.png
+
+newmtl Fld_Cross00_Highroof_GlassKitchen00
+Kd 1.0 1.0 1.0
+map_Kd textures/BakeDummy00.png
+
+newmtl Fld_Cross00_Highroof_GlassTerrace
+Kd 1.0 1.0 1.0
+map_Kd textures/BakeDummy00.png
+
+newmtl Fld_Cross00_Highroof_GroundSealNukiSet
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundSealNukiSet_Alb.png
+
+newmtl Fld_Cross00_Highroof_MapBoard00
+Kd 1.0 1.0 1.0
+map_Kd textures/MapBoard00_Alb.png
+
+newmtl Fld_Cross00_Highroof_MetalNetwork00
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalNetwork00_Alb.png
+
+newmtl Fld_Cross00_Highroof_RoofGraffiti00
+Kd 1.0 1.0 1.0
+map_Kd textures/RoofGraffiti00_Alb.png
+
+newmtl Fld_Cross00_Highroof_SideFloorParts00
+Kd 1.0 1.0 1.0
+map_Kd textures/SideFloorParts00_Alb.png
+
+newmtl Fld_Cross00_Highroof_SideFloorPartsPriorInside00
+Kd 1.0 1.0 1.0
+map_Kd textures/SideFloorParts00_Alb.png
+
+newmtl Fld_Cross00_Highroof_SidefloorPartsNopaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/SidefloorPartsNopaintable00_Alb.png
+
+newmtl Fld_Cross00_Highroof_ToiletAndPoster00
+Kd 1.0 1.0 1.0
+map_Kd textures/ToiletAndPoster00_Alb.png
+
+newmtl Fld_Cross00_Highroof_VinylClear
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylClear_Nrm.png
+
+newmtl Fld_Cross00_Highroof_WallAluminum00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallAluminum00_Alb.png
+
+newmtl Fld_Cross00_Highroof_WallBlackNoPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBlackNoPaintable00_Alb.png
+
+newmtl Fld_Cross00_Highroof_WallParts00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallParts00_Alb.png
+
+newmtl Fld_Cross00_Highroof_WallWhiteNopaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallWhiteNopaintable00_Alb.png
+
+newmtl Fld_Cross00_Highroof_WallWoodPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallWoodPaintable00_Alb.png
+
+newmtl Fld_Cross00_HokoAsariSet_CleaningPartition00
+Kd 1.0 1.0 1.0
+map_Kd textures/CleaningPartition00_Alb.png
+
+newmtl Fld_Cross00_HokoAsariSet_FloorDecalPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorDecalPaintable00_Alb.png
+
+newmtl Fld_Cross00_HokoAsariSet_MapBoard00
+Kd 1.0 1.0 1.0
+map_Kd textures/MapBoard00_Alb.png
+
+newmtl Fld_Cross00_HokoAsariSet_MetalNetwork00
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalNetwork00_Alb.png
+
+newmtl Fld_Cross00_HokoAsariSet_NetParts00
+Kd 1.0 1.0 1.0
+map_Kd textures/NetParts00_Alb.png
+
+newmtl Fld_Cross00_HokoAsariSet_SideFloorParts00
+Kd 1.0 1.0 1.0
+map_Kd textures/SideFloorParts00_Alb.png
+
+newmtl Fld_Cross00_HokoAsariSet_SidefloorPartsNopaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/SidefloorPartsNopaintable00_Alb.png
+
+newmtl Fld_Cross00_HokoAsariSet_SidefloorPartsNopaintable00_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/SidefloorPartsNopaintable00_Alb.png
+
+newmtl Fld_Cross00_HokoAsariSet_WallParts00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallParts00_Alb.png
+
+newmtl Fld_Cross00_HokoSet_CrossNoPaintSetA00
+Kd 1.0 1.0 1.0
+map_Kd textures/CrossNoPaintSetA00_Alb.png
+
+newmtl Fld_Cross00_HokoSet_EntranceCarpet00
+Kd 1.0 1.0 1.0
+map_Kd textures/EntranceCarpet00_Alb.png
+
+newmtl Fld_Cross00_HokoSet_EquipmentPaintableParts00
+Kd 1.0 1.0 1.0
+map_Kd textures/EquipmentPaintableParts00_Alb.png
+
+newmtl Fld_Cross00_HokoSet_EtcNoPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/EtcNoPaintable00_Alb.png
+
+newmtl Fld_Cross00_HokoSet_FloorBaseStructure00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorBaseStructure00_Alb.png
+
+newmtl Fld_Cross00_HokoSet_FloorDecalPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorDecalPaintable00_Alb.png
+
+newmtl Fld_Cross00_HokoSet_FloorLinoleumBlack00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLinoleumBlack00_Alb.png
+
+newmtl Fld_Cross00_HokoSet_FloorStaffCleat00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorStaffCleat00_Alb.png
+
+newmtl Fld_Cross00_HokoSet_FloorTileOrange00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTileOrange00_Alb.png
+
+newmtl Fld_Cross00_HokoSet_FloorTileYellow00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTileYellow00_Alb.png
+
+newmtl Fld_Cross00_HokoSet_GlassKitchen00
+Kd 1.0 1.0 1.0
+map_Kd textures/BakeDummy00.png
+
+newmtl Fld_Cross00_HokoSet_GlassTerrace
+Kd 1.0 1.0 1.0
+map_Kd textures/BakeDummy00.png
+
+newmtl Fld_Cross00_HokoSet_MapBoard00
+Kd 1.0 1.0 1.0
+map_Kd textures/MapBoard00_Alb.png
+
+newmtl Fld_Cross00_HokoSet_MetalNetwork00
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalNetwork00_Alb.png
+
+newmtl Fld_Cross00_HokoSet_NetParts00
+Kd 1.0 1.0 1.0
+map_Kd textures/NetParts00_Alb.png
+
+newmtl Fld_Cross00_HokoSet_SideFloorParts00
+Kd 1.0 1.0 1.0
+map_Kd textures/SideFloorParts00_Alb.png
+
+newmtl Fld_Cross00_HokoSet_TicketVendingMachine00
+Kd 1.0 1.0 1.0
+map_Kd textures/TicketVendingMachine00_Alb.png
+
+newmtl Fld_Cross00_HokoSet_ToiletAndPoster00
+Kd 1.0 1.0 1.0
+map_Kd textures/ToiletAndPoster00_Alb.png
+
+newmtl Fld_Cross00_HokoSet_VinylSheetG
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylSheetG_Nrm.png
+
+newmtl Fld_Cross00_HokoSet_WallBlackNoPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBlackNoPaintable00_Alb.png
+
+newmtl Fld_Cross00_HokoSet_WallParts00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallParts00_Alb.png
+
+newmtl Fld_Cross00_HokoSet_WallWhiteNopaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallWhiteNopaintable00_Alb.png
+
+newmtl Fld_Cross00_HokoSet_WallWoodPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallWoodPaintable00_Alb.png
+
+newmtl Fld_Cross00_LongBar_MapBoard00
+Kd 1.0 1.0 1.0
+map_Kd textures/MapBoard00_Alb.png
+
+newmtl Fld_Cross00_LongBar_SideFloorParts00
+Kd 1.0 1.0 1.0
+map_Kd textures/SideFloorParts00_Alb.png
+
+newmtl Fld_Cross00_LongBar_WallParts00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallParts00_Alb.png
+
+newmtl Fld_Cross00_Lowroof_Can7
+Kd 1.0 1.0 1.0
+map_Kd textures/M_Can_Alb.png
+
+newmtl Fld_Cross00_Lowroof_CenterHandrail00
+Kd 1.0 1.0 1.0
+map_Kd textures/CenterHandrail00_Alb.png
+
+newmtl Fld_Cross00_Lowroof_CrossCanolaA
+Kd 1.0 1.0 1.0
+map_Kd textures/CrossCanolaA_Alb.png
+
+newmtl Fld_Cross00_Lowroof_CrossCanolaAV
+Kd 1.0 1.0 1.0
+map_Kd textures/CrossCanolaAV_Alb.png
+
+newmtl Fld_Cross00_Lowroof_CrossCanolaB
+Kd 1.0 1.0 1.0
+map_Kd textures/CrossCanolaB_Alb.png
+
+newmtl Fld_Cross00_Lowroof_CrossCanolaBV
+Kd 1.0 1.0 1.0
+map_Kd textures/CrossCanolaBV_Alb.png
+
+newmtl Fld_Cross00_Lowroof_CrossNoPaintSetA00
+Kd 1.0 1.0 1.0
+map_Kd textures/CrossNoPaintSetA00_Alb.png
+
+newmtl Fld_Cross00_Lowroof_CrossNoPaintSetB00
+Kd 1.0 1.0 1.0
+map_Kd textures/CrossNoPaintSetB00_Alb.png
+
+newmtl Fld_Cross00_Lowroof_EntranceCarpet00
+Kd 1.0 1.0 1.0
+map_Kd textures/EntranceCarpet00_Alb.png
+
+newmtl Fld_Cross00_Lowroof_EquipmentPaintableParts00
+Kd 1.0 1.0 1.0
+map_Kd textures/EquipmentPaintableParts00_Alb.png
+
+newmtl Fld_Cross00_Lowroof_EtcNoPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/EtcNoPaintable00_Alb.png
+
+newmtl Fld_Cross00_Lowroof_EtcPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/EtcPaintable00_Alb.png
+
+newmtl Fld_Cross00_Lowroof_FloorBaseStructure00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorBaseStructure00_Alb.png
+
+newmtl Fld_Cross00_Lowroof_FloorDecalPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorDecalPaintable00_Alb.png
+
+newmtl Fld_Cross00_Lowroof_FloorLinoleumBlack00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLinoleumBlack00_Alb.png
+
+newmtl Fld_Cross00_Lowroof_FloorLinoleumStartOgangeLight00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLinoleumStartOgangeLight00_Alb.png
+
+newmtl Fld_Cross00_Lowroof_FloorLinoleumWhite00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLinoleumWhite00_Alb.png
+
+newmtl Fld_Cross00_Lowroof_FloorStaffCleat00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorStaffCleat00_Alb.png
+
+newmtl Fld_Cross00_Lowroof_FloorTileOrange00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTileOrange00_Alb.png
+
+newmtl Fld_Cross00_Lowroof_FloorTileWhite00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTileWhite00_Alb.png
+
+newmtl Fld_Cross00_Lowroof_FloorTileYellow00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTileYellow00_Alb.png
+
+newmtl Fld_Cross00_Lowroof_GlassKitchen00
+Kd 1.0 1.0 1.0
+map_Kd textures/BakeDummy00.png
+
+newmtl Fld_Cross00_Lowroof_GlassTerrace
+Kd 1.0 1.0 1.0
+map_Kd textures/BakeDummy00.png
+
+newmtl Fld_Cross00_Lowroof_GroundSealNukiSet
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundSealNukiSet_Alb.png
+
+newmtl Fld_Cross00_Lowroof_MapBoard00
+Kd 1.0 1.0 1.0
+map_Kd textures/MapBoard00_Alb.png
+
+newmtl Fld_Cross00_Lowroof_MetalNetwork00
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalNetwork00_Alb.png
+
+newmtl Fld_Cross00_Lowroof_NetParts00
+Kd 1.0 1.0 1.0
+map_Kd textures/NetParts00_Alb.png
+
+newmtl Fld_Cross00_Lowroof_RoofGraffiti00
+Kd 1.0 1.0 1.0
+map_Kd textures/RoofGraffiti00_Alb.png
+
+newmtl Fld_Cross00_Lowroof_ShowcaseRefrigerator00
+Kd 1.0 1.0 1.0
+map_Kd textures/ShowcaseRefrigerator00_Alb.png
+
+newmtl Fld_Cross00_Lowroof_SideFloorParts00
+Kd 1.0 1.0 1.0
+map_Kd textures/SideFloorParts00_Alb.png
+
+newmtl Fld_Cross00_Lowroof_SidefloorPartsNopaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/SidefloorPartsNopaintable00_Alb.png
+
+newmtl Fld_Cross00_Lowroof_StrainerRobot00_nb
+Kd 1.0 1.0 1.0
+map_Kd textures/StrainerRobot00_Alb.png
+
+newmtl Fld_Cross00_Lowroof_Tape00
+Kd 1.0 1.0 1.0
+map_Kd textures/Tape00_Alb.png
+
+newmtl Fld_Cross00_Lowroof_TicketVendingMachine00
+Kd 1.0 1.0 1.0
+map_Kd textures/TicketVendingMachine00_Alb.png
+
+newmtl Fld_Cross00_Lowroof_ToiletAndPoster00
+Kd 1.0 1.0 1.0
+map_Kd textures/ToiletAndPoster00_Alb.png
+
+newmtl Fld_Cross00_Lowroof_VinylClear
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylClear_Nrm.png
+
+newmtl Fld_Cross00_Lowroof_VinylSheetG
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylSheetG_Nrm.png
+
+newmtl Fld_Cross00_Lowroof_WallAluminum00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallAluminum00_Alb.png
+
+newmtl Fld_Cross00_Lowroof_WallBlackNoPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBlackNoPaintable00_Alb.png
+
+newmtl Fld_Cross00_Lowroof_WallParts00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallParts00_Alb.png
+
+newmtl Fld_Cross00_Lowroof_WallWhiteNopaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallWhiteNopaintable00_Alb.png
+
+newmtl Fld_Cross00_Lowroof_WallWoodPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallWoodPaintable00_Alb.png
+
+newmtl Fld_Cross00_ShortBar_MapBoard00
+Kd 1.0 1.0 1.0
+map_Kd textures/MapBoard00_Alb.png
+
+newmtl Fld_Cross00_ShortBar_SideFloorParts00
+Kd 1.0 1.0 1.0
+map_Kd textures/SideFloorParts00_Alb.png
+
+newmtl Fld_Cross00_ShortBar_WallParts00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallParts00_Alb.png
+
+newmtl Fld_Cross00_SideExtension_CrossCanolaA
+Kd 1.0 1.0 1.0
+map_Kd textures/CrossCanolaA_Alb.png
+
+newmtl Fld_Cross00_SideExtension_CrossCanolaB
+Kd 1.0 1.0 1.0
+map_Kd textures/CrossCanolaB_Alb.png
+
+newmtl Fld_Cross00_SideExtension_CrossNoPaintSetA00
+Kd 1.0 1.0 1.0
+map_Kd textures/CrossNoPaintSetA00_Alb.png
+
+newmtl Fld_Cross00_SideExtension_EntranceCarpet00
+Kd 1.0 1.0 1.0
+map_Kd textures/EntranceCarpet00_Alb.png
+
+newmtl Fld_Cross00_SideExtension_EquipmentPaintableParts00
+Kd 1.0 1.0 1.0
+map_Kd textures/EquipmentPaintableParts00_Alb.png
+
+newmtl Fld_Cross00_SideExtension_EtcNoPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/EtcNoPaintable00_Alb.png
+
+newmtl Fld_Cross00_SideExtension_EtcPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/EtcPaintable00_Alb.png
+
+newmtl Fld_Cross00_SideExtension_FloorBaseStructure00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorBaseStructure00_Alb.png
+
+newmtl Fld_Cross00_SideExtension_FloorDecalPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorDecalPaintable00_Alb.png
+
+newmtl Fld_Cross00_SideExtension_FloorStaffCleat00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorStaffCleat00_Alb.png
+
+newmtl Fld_Cross00_SideExtension_FloorStaffSlope00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorStaffSlope00_Alb.png
+
+newmtl Fld_Cross00_SideExtension_GlassKitchen00
+Kd 1.0 1.0 1.0
+map_Kd textures/BakeDummy00.png
+
+newmtl Fld_Cross00_SideExtension_MapBoard00
+Kd 1.0 1.0 1.0
+map_Kd textures/MapBoard00_Alb.png
+
+newmtl Fld_Cross00_SideExtension_SideFloorParts00
+Kd 1.0 1.0 1.0
+map_Kd textures/SideFloorParts00_Alb.png
+
+newmtl Fld_Cross00_SideExtension_SidefloorPartsNopaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/SidefloorPartsNopaintable00_Alb.png
+
+newmtl Fld_Cross00_SideExtension_TicketVendingMachine00
+Kd 1.0 1.0 1.0
+map_Kd textures/TicketVendingMachine00_Alb.png
+
+newmtl Fld_Cross00_SideExtension_ToiletAndPoster00
+Kd 1.0 1.0 1.0
+map_Kd textures/ToiletAndPoster00_Alb.png
+
+newmtl Fld_Cross00_SideExtension_WallBlackNoPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBlackNoPaintable00_Alb.png
+
+newmtl Fld_Cross00_SideExtension_WallParts00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallParts00_Alb.png
+
+newmtl Fld_Cross00_SideExtension_WallWhiteNopaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallWhiteNopaintable00_Alb.png
+
+newmtl Fld_Cross00_Tclobj_Can7
+Kd 1.0 1.0 1.0
+map_Kd textures/M_Can_Alb.png
+
+newmtl Fld_Cross00_Tclobj_CanolaC
+Kd 1.0 1.0 1.0
+
+newmtl Fld_Cross00_Tclobj_CanolaCV
+Kd 1.0 1.0 1.0
+
+newmtl Fld_Cross00_Tclobj_CenterHandrail00
+Kd 1.0 1.0 1.0
+map_Kd textures/CenterHandrail00_Alb.png
+
+newmtl Fld_Cross00_Tclobj_CrossCanolaA
+Kd 1.0 1.0 1.0
+map_Kd textures/CrossCanolaA_Alb.png
+
+newmtl Fld_Cross00_Tclobj_CrossCanolaAV
+Kd 1.0 1.0 1.0
+map_Kd textures/CrossCanolaAV_Alb.png
+
+newmtl Fld_Cross00_Tclobj_CrossCanolaB
+Kd 1.0 1.0 1.0
+map_Kd textures/CrossCanolaB_Alb.png
+
+newmtl Fld_Cross00_Tclobj_CrossCanolaBV
+Kd 1.0 1.0 1.0
+map_Kd textures/CrossCanolaBV_Alb.png
+
+newmtl Fld_Cross00_Tclobj_CrossNoPaintSetA00
+Kd 1.0 1.0 1.0
+map_Kd textures/CrossNoPaintSetA00_Alb.png
+
+newmtl Fld_Cross00_Tclobj_CrossNoPaintSetB00
+Kd 1.0 1.0 1.0
+map_Kd textures/CrossNoPaintSetB00_Alb.png
+
+newmtl Fld_Cross00_Tclobj_DeliveryRobot01
+Kd 1.0 1.0 1.0
+map_Kd textures/DeliveryRobot00_Alb.png
+
+newmtl Fld_Cross00_Tclobj_EatAreaStools00_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/EatAreaStools00_Alb.png
+
+newmtl Fld_Cross00_Tclobj_EntranceCarpet00
+Kd 1.0 1.0 1.0
+map_Kd textures/EntranceCarpet00_Alb.png
+
+newmtl Fld_Cross00_Tclobj_EquipmentPaintableParts00
+Kd 1.0 1.0 1.0
+map_Kd textures/EquipmentPaintableParts00_Alb.png
+
+newmtl Fld_Cross00_Tclobj_EtcNoPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/EtcNoPaintable00_Alb.png
+
+newmtl Fld_Cross00_Tclobj_EtcPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/EtcPaintable00_Alb.png
+
+newmtl Fld_Cross00_Tclobj_FloorBaseStructure00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorBaseStructure00_Alb.png
+
+newmtl Fld_Cross00_Tclobj_FloorDecalPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorDecalPaintable00_Alb.png
+
+newmtl Fld_Cross00_Tclobj_FloorLinoleumBlack00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLinoleumBlack00_Alb.png
+
+newmtl Fld_Cross00_Tclobj_FloorLinoleumStartOgange00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLinoleumStartOgange00_Alb.png
+
+newmtl Fld_Cross00_Tclobj_FloorLinoleumStartOgangeLight00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLinoleumStartOgangeLight00_Alb.png
+
+newmtl Fld_Cross00_Tclobj_FloorLinoleumWhite00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLinoleumWhite00_Alb.png
+
+newmtl Fld_Cross00_Tclobj_FloorStaffCleat00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorStaffCleat00_Alb.png
+
+newmtl Fld_Cross00_Tclobj_FloorStaffSlope00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorStaffSlope00_Alb.png
+
+newmtl Fld_Cross00_Tclobj_FloorTileGray00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTileGray00_Alb.png
+
+newmtl Fld_Cross00_Tclobj_FloorTileOrange00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTileOrange00_Alb.png
+
+newmtl Fld_Cross00_Tclobj_FloorTileWhite00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTileWhite00_Alb.png
+
+newmtl Fld_Cross00_Tclobj_FloorTileYellow00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTileYellow00_Alb.png
+
+newmtl Fld_Cross00_Tclobj_FloorWood00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorWood00_Alb.png
+
+newmtl Fld_Cross00_Tclobj_GlassKitchen00
+Kd 1.0 1.0 1.0
+map_Kd textures/BakeDummy00.png
+
+newmtl Fld_Cross00_Tclobj_GlassTerrace
+Kd 1.0 1.0 1.0
+map_Kd textures/BakeDummy00.png
+
+newmtl Fld_Cross00_Tclobj_GroundRepeatParts
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundRepeatParts_Alb.png
+
+newmtl Fld_Cross00_Tclobj_GroundSealNukiSet
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundSealNukiSet_Alb.png
+
+newmtl Fld_Cross00_Tclobj_KomonoSetA
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoSetA_Alb.png
+
+newmtl Fld_Cross00_Tclobj_MapBoard00
+Kd 1.0 1.0 1.0
+map_Kd textures/MapBoard00_Alb.png
+
+newmtl Fld_Cross00_Tclobj_MetalNetwork00
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalNetwork00_Alb.png
+
+newmtl Fld_Cross00_Tclobj_NetParts00
+Kd 1.0 1.0 1.0
+map_Kd textures/NetParts00_Alb.png
+
+newmtl Fld_Cross00_Tclobj_RoofGraffiti00
+Kd 1.0 1.0 1.0
+map_Kd textures/RoofGraffiti00_Alb.png
+
+newmtl Fld_Cross00_Tclobj_ShowcaseRefrigerator00
+Kd 1.0 1.0 1.0
+map_Kd textures/ShowcaseRefrigerator00_Alb.png
+
+newmtl Fld_Cross00_Tclobj_SideFloorParts00
+Kd 1.0 1.0 1.0
+map_Kd textures/SideFloorParts00_Alb.png
+
+newmtl Fld_Cross00_Tclobj_SideFloorPartsPriorInside00
+Kd 1.0 1.0 1.0
+map_Kd textures/SideFloorParts00_Alb.png
+
+newmtl Fld_Cross00_Tclobj_SidefloorPartsNopaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/SidefloorPartsNopaintable00_Alb.png
+
+newmtl Fld_Cross00_Tclobj_SidefloorPartsNopaintable00_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/SidefloorPartsNopaintable00_Alb.png
+
+newmtl Fld_Cross00_Tclobj_StrainerRobot00_nb
+Kd 1.0 1.0 1.0
+map_Kd textures/StrainerRobot00_Alb.png
+
+newmtl Fld_Cross00_Tclobj_Tape00
+Kd 1.0 1.0 1.0
+map_Kd textures/Tape00_Alb.png
+
+newmtl Fld_Cross00_Tclobj_TicketVendingMachine00
+Kd 1.0 1.0 1.0
+map_Kd textures/TicketVendingMachine00_Alb.png
+
+newmtl Fld_Cross00_Tclobj_ToiletAndPoster00
+Kd 1.0 1.0 1.0
+map_Kd textures/ToiletAndPoster00_Alb.png
+
+newmtl Fld_Cross00_Tclobj_VinylClear
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylClear_Nrm.png
+
+newmtl Fld_Cross00_Tclobj_VinylSheetG
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylSheetG_Nrm.png
+
+newmtl Fld_Cross00_Tclobj_WallAluminum00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallAluminum00_Alb.png
+
+newmtl Fld_Cross00_Tclobj_WallBlackNoPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBlackNoPaintable00_Alb.png
+
+newmtl Fld_Cross00_Tclobj_WallParts00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallParts00_Alb.png
+
+newmtl Fld_Cross00_Tclobj_WallWhiteNopaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallWhiteNopaintable00_Alb.png
+
+newmtl Fld_Cross00_Tclobj_WallWoodPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallWoodPaintable00_Alb.png
+
+newmtl Fld_Cross00_UnderEdge_SidefloorPartsNopaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/SidefloorPartsNopaintable00_Alb.png
+
+newmtl Fld_Cross00_UnderEdge_SidefloorPartsNopaintable00_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/SidefloorPartsNopaintable00_Alb.png
+
+newmtl Fld_Cross00_Var_Can7
+Kd 1.0 1.0 1.0
+map_Kd textures/M_Can_Alb.png
+
+newmtl Fld_Cross00_Var_CenterHandrail00
+Kd 1.0 1.0 1.0
+map_Kd textures/CenterHandrail00_Alb.png
+
+newmtl Fld_Cross00_Var_CrossCanolaA
+Kd 1.0 1.0 1.0
+map_Kd textures/CrossCanolaA_Alb.png
+
+newmtl Fld_Cross00_Var_CrossCanolaB
+Kd 1.0 1.0 1.0
+map_Kd textures/CrossCanolaB_Alb.png
+
+newmtl Fld_Cross00_Var_CrossNoPaintSetA00
+Kd 1.0 1.0 1.0
+map_Kd textures/CrossNoPaintSetA00_Alb.png
+
+newmtl Fld_Cross00_Var_CrossNoPaintSetB00
+Kd 1.0 1.0 1.0
+map_Kd textures/CrossNoPaintSetB00_Alb.png
+
+newmtl Fld_Cross00_Var_DeliveryRobot01
+Kd 1.0 1.0 1.0
+map_Kd textures/DeliveryRobot00_Alb.png
+
+newmtl Fld_Cross00_Var_EatAreaStools00_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/EatAreaStools00_Alb.png
+
+newmtl Fld_Cross00_Var_EntranceCarpet00
+Kd 1.0 1.0 1.0
+map_Kd textures/EntranceCarpet00_Alb.png
+
+newmtl Fld_Cross00_Var_EquipmentPaintableParts00
+Kd 1.0 1.0 1.0
+map_Kd textures/EquipmentPaintableParts00_Alb.png
+
+newmtl Fld_Cross00_Var_EtcNoPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/EtcNoPaintable00_Alb.png
+
+newmtl Fld_Cross00_Var_EtcPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/EtcPaintable00_Alb.png
+
+newmtl Fld_Cross00_Var_FloorBaseStructure00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorBaseStructure00_Alb.png
+
+newmtl Fld_Cross00_Var_FloorDecalPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorDecalPaintable00_Alb.png
+
+newmtl Fld_Cross00_Var_FloorLinoleumBlack00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLinoleumBlack00_Alb.png
+
+newmtl Fld_Cross00_Var_FloorLinoleumStartOgange00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLinoleumStartOgange00_Alb.png
+
+newmtl Fld_Cross00_Var_FloorLinoleumStartOgangeLight00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLinoleumStartOgangeLight00_Alb.png
+
+newmtl Fld_Cross00_Var_FloorLinoleumWhite00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLinoleumWhite00_Alb.png
+
+newmtl Fld_Cross00_Var_FloorStaffCleat00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorStaffCleat00_Alb.png
+
+newmtl Fld_Cross00_Var_FloorStaffSlope00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorStaffSlope00_Alb.png
+
+newmtl Fld_Cross00_Var_FloorTileGray00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTileGray00_Alb.png
+
+newmtl Fld_Cross00_Var_FloorTileOrange00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTileOrange00_Alb.png
+
+newmtl Fld_Cross00_Var_FloorTileWhite00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTileWhite00_Alb.png
+
+newmtl Fld_Cross00_Var_FloorTileYellow00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTileYellow00_Alb.png
+
+newmtl Fld_Cross00_Var_FloorWood00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorWood00_Alb.png
+
+newmtl Fld_Cross00_Var_GlassKitchen00
+Kd 1.0 1.0 1.0
+map_Kd textures/BakeDummy00.png
+
+newmtl Fld_Cross00_Var_GlassTerrace
+Kd 1.0 1.0 1.0
+map_Kd textures/BakeDummy00.png
+
+newmtl Fld_Cross00_Var_GroundSealNukiSet
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundSealNukiSet_Alb.png
+
+newmtl Fld_Cross00_Var_MapBoard00
+Kd 1.0 1.0 1.0
+map_Kd textures/MapBoard00_Alb.png
+
+newmtl Fld_Cross00_Var_MetalNetwork00
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalNetwork00_Alb.png
+
+newmtl Fld_Cross00_Var_NetParts00
+Kd 1.0 1.0 1.0
+map_Kd textures/NetParts00_Alb.png
+
+newmtl Fld_Cross00_Var_RoofGraffiti00
+Kd 1.0 1.0 1.0
+map_Kd textures/RoofGraffiti00_Alb.png
+
+newmtl Fld_Cross00_Var_ShowcaseRefrigerator00
+Kd 1.0 1.0 1.0
+map_Kd textures/ShowcaseRefrigerator00_Alb.png
+
+newmtl Fld_Cross00_Var_SideFloorParts00
+Kd 1.0 1.0 1.0
+map_Kd textures/SideFloorParts00_Alb.png
+
+newmtl Fld_Cross00_Var_SideFloorPartsPriorInside00
+Kd 1.0 1.0 1.0
+map_Kd textures/SideFloorParts00_Alb.png
+
+newmtl Fld_Cross00_Var_SidefloorPartsNopaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/SidefloorPartsNopaintable00_Alb.png
+
+newmtl Fld_Cross00_Var_SidefloorPartsNopaintable00_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/SidefloorPartsNopaintable00_Alb.png
+
+newmtl Fld_Cross00_Var_StrainerRobot00_nb
+Kd 1.0 1.0 1.0
+map_Kd textures/StrainerRobot00_Alb.png
+
+newmtl Fld_Cross00_Var_Tape00
+Kd 1.0 1.0 1.0
+map_Kd textures/Tape00_Alb.png
+
+newmtl Fld_Cross00_Var_TicketVendingMachine00
+Kd 1.0 1.0 1.0
+map_Kd textures/TicketVendingMachine00_Alb.png
+
+newmtl Fld_Cross00_Var_ToiletAndPoster00
+Kd 1.0 1.0 1.0
+map_Kd textures/ToiletAndPoster00_Alb.png
+
+newmtl Fld_Cross00_Var_VinylClear
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylClear_Nrm.png
+
+newmtl Fld_Cross00_Var_VinylSheetG
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylSheetG_Nrm.png
+
+newmtl Fld_Cross00_Var_WallAluminum00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallAluminum00_Alb.png
+
+newmtl Fld_Cross00_Var_WallBlackNoPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBlackNoPaintable00_Alb.png
+
+newmtl Fld_Cross00_Var_WallParts00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallParts00_Alb.png
+
+newmtl Fld_Cross00_Var_WallWhiteNopaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallWhiteNopaintable00_Alb.png
+
+newmtl Fld_Cross00_Var_WallWoodPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallWoodPaintable00_Alb.png
+
+newmtl Fld_Cross00_Vcl_Can7
+Kd 1.0 1.0 1.0
+map_Kd textures/M_Can_Alb.png
+
+newmtl Fld_Cross00_Vcl_CenterHandrail00
+Kd 1.0 1.0 1.0
+map_Kd textures/CenterHandrail00_Alb.png
+
+newmtl Fld_Cross00_Vcl_CleaningPartition00
+Kd 1.0 1.0 1.0
+map_Kd textures/CleaningPartition00_Alb.png
+
+newmtl Fld_Cross00_Vcl_CrossCanolaA
+Kd 1.0 1.0 1.0
+map_Kd textures/CrossCanolaA_Alb.png
+
+newmtl Fld_Cross00_Vcl_CrossCanolaB
+Kd 1.0 1.0 1.0
+map_Kd textures/CrossCanolaB_Alb.png
+
+newmtl Fld_Cross00_Vcl_CrossNoPaintSetA00
+Kd 1.0 1.0 1.0
+map_Kd textures/CrossNoPaintSetA00_Alb.png
+
+newmtl Fld_Cross00_Vcl_CrossNoPaintSetB00
+Kd 1.0 1.0 1.0
+map_Kd textures/CrossNoPaintSetB00_Alb.png
+
+newmtl Fld_Cross00_Vcl_DeliveryRobot01
+Kd 1.0 1.0 1.0
+map_Kd textures/DeliveryRobot00_Alb.png
+
+newmtl Fld_Cross00_Vcl_EatAreaStools00_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/EatAreaStools00_Alb.png
+
+newmtl Fld_Cross00_Vcl_EntranceCarpet00
+Kd 1.0 1.0 1.0
+map_Kd textures/EntranceCarpet00_Alb.png
+
+newmtl Fld_Cross00_Vcl_EquipmentPaintableParts00
+Kd 1.0 1.0 1.0
+map_Kd textures/EquipmentPaintableParts00_Alb.png
+
+newmtl Fld_Cross00_Vcl_EtcNoPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/EtcNoPaintable00_Alb.png
+
+newmtl Fld_Cross00_Vcl_EtcPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/EtcPaintable00_Alb.png
+
+newmtl Fld_Cross00_Vcl_FloorBaseStructure00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorBaseStructure00_Alb.png
+
+newmtl Fld_Cross00_Vcl_FloorDecalPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorDecalPaintable00_Alb.png
+
+newmtl Fld_Cross00_Vcl_FloorLinoleumBlack00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLinoleumBlack00_Alb.png
+
+newmtl Fld_Cross00_Vcl_FloorLinoleumStartOgange00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLinoleumStartOgange00_Alb.png
+
+newmtl Fld_Cross00_Vcl_FloorLinoleumStartOgangeLight00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLinoleumStartOgangeLight00_Alb.png
+
+newmtl Fld_Cross00_Vcl_FloorLinoleumWhite00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLinoleumWhite00_Alb.png
+
+newmtl Fld_Cross00_Vcl_FloorStaffCleat00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorStaffCleat00_Alb.png
+
+newmtl Fld_Cross00_Vcl_FloorStaffSlope00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorStaffSlope00_Alb.png
+
+newmtl Fld_Cross00_Vcl_FloorTileGray00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTileGray00_Alb.png
+
+newmtl Fld_Cross00_Vcl_FloorTileOrange00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTileOrange00_Alb.png
+
+newmtl Fld_Cross00_Vcl_FloorTileWhite00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTileWhite00_Alb.png
+
+newmtl Fld_Cross00_Vcl_FloorTileYellow00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTileYellow00_Alb.png
+
+newmtl Fld_Cross00_Vcl_FloorWood00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorWood00_Alb.png
+
+newmtl Fld_Cross00_Vcl_GlassKitchen00
+Kd 1.0 1.0 1.0
+map_Kd textures/BakeDummy00.png
+
+newmtl Fld_Cross00_Vcl_GlassTerrace
+Kd 1.0 1.0 1.0
+map_Kd textures/BakeDummy00.png
+
+newmtl Fld_Cross00_Vcl_GroundSealNukiSet
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundSealNukiSet_Alb.png
+
+newmtl Fld_Cross00_Vcl_MapBoard00
+Kd 1.0 1.0 1.0
+map_Kd textures/MapBoard00_Alb.png
+
+newmtl Fld_Cross00_Vcl_MetalNetwork00
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalNetwork00_Alb.png
+
+newmtl Fld_Cross00_Vcl_NetParts00
+Kd 1.0 1.0 1.0
+map_Kd textures/NetParts00_Alb.png
+
+newmtl Fld_Cross00_Vcl_RoofGraffiti00
+Kd 1.0 1.0 1.0
+map_Kd textures/RoofGraffiti00_Alb.png
+
+newmtl Fld_Cross00_Vcl_ShowcaseRefrigerator00
+Kd 1.0 1.0 1.0
+map_Kd textures/ShowcaseRefrigerator00_Alb.png
+
+newmtl Fld_Cross00_Vcl_SideFloorParts00
+Kd 1.0 1.0 1.0
+map_Kd textures/SideFloorParts00_Alb.png
+
+newmtl Fld_Cross00_Vcl_SideFloorPartsPriorInside00
+Kd 1.0 1.0 1.0
+map_Kd textures/SideFloorParts00_Alb.png
+
+newmtl Fld_Cross00_Vcl_SidefloorPartsNopaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/SidefloorPartsNopaintable00_Alb.png
+
+newmtl Fld_Cross00_Vcl_SidefloorPartsNopaintable00_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/SidefloorPartsNopaintable00_Alb.png
+
+newmtl Fld_Cross00_Vcl_StrainerRobot00_nb
+Kd 1.0 1.0 1.0
+map_Kd textures/StrainerRobot00_Alb.png
+
+newmtl Fld_Cross00_Vcl_Tape00
+Kd 1.0 1.0 1.0
+map_Kd textures/Tape00_Alb.png
+
+newmtl Fld_Cross00_Vcl_TicketVendingMachine00
+Kd 1.0 1.0 1.0
+map_Kd textures/TicketVendingMachine00_Alb.png
+
+newmtl Fld_Cross00_Vcl_ToiletAndPoster00
+Kd 1.0 1.0 1.0
+map_Kd textures/ToiletAndPoster00_Alb.png
+
+newmtl Fld_Cross00_Vcl_VinylClear
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylClear_Nrm.png
+
+newmtl Fld_Cross00_Vcl_VinylSheetG
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylSheetG_Nrm.png
+
+newmtl Fld_Cross00_Vcl_WallAluminum00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallAluminum00_Alb.png
+
+newmtl Fld_Cross00_Vcl_WallBlackNoPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBlackNoPaintable00_Alb.png
+
+newmtl Fld_Cross00_Vcl_WallParts00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallParts00_Alb.png
+
+newmtl Fld_Cross00_Vcl_WallWhiteNopaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallWhiteNopaintable00_Alb.png
+
+newmtl Fld_Cross00_Vcl_WallWoodPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallWoodPaintable00_Alb.png
+
+newmtl Fld_Cross00_Vgl_CenterHandrail00
+Kd 1.0 1.0 1.0
+map_Kd textures/CenterHandrail00_Alb.png
+
+newmtl Fld_Cross00_Vgl_CleaningPartition00
+Kd 1.0 1.0 1.0
+map_Kd textures/CleaningPartition00_Alb.png
+
+newmtl Fld_Cross00_Vgl_CrossCanolaA
+Kd 1.0 1.0 1.0
+map_Kd textures/CrossCanolaA_Alb.png
+
+newmtl Fld_Cross00_Vgl_CrossCanolaB
+Kd 1.0 1.0 1.0
+map_Kd textures/CrossCanolaB_Alb.png
+
+newmtl Fld_Cross00_Vgl_CrossNoPaintSetA00
+Kd 1.0 1.0 1.0
+map_Kd textures/CrossNoPaintSetA00_Alb.png
+
+newmtl Fld_Cross00_Vgl_CrossNoPaintSetB00
+Kd 1.0 1.0 1.0
+map_Kd textures/CrossNoPaintSetB00_Alb.png
+
+newmtl Fld_Cross00_Vgl_DeliveryRobot01
+Kd 1.0 1.0 1.0
+map_Kd textures/DeliveryRobot00_Alb.png
+
+newmtl Fld_Cross00_Vgl_EatAreaStools00_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/EatAreaStools00_Alb.png
+
+newmtl Fld_Cross00_Vgl_EntranceCarpet00
+Kd 1.0 1.0 1.0
+map_Kd textures/EntranceCarpet00_Alb.png
+
+newmtl Fld_Cross00_Vgl_EquipmentPaintableParts00
+Kd 1.0 1.0 1.0
+map_Kd textures/EquipmentPaintableParts00_Alb.png
+
+newmtl Fld_Cross00_Vgl_EtcNoPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/EtcNoPaintable00_Alb.png
+
+newmtl Fld_Cross00_Vgl_EtcPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/EtcPaintable00_Alb.png
+
+newmtl Fld_Cross00_Vgl_FloorBaseStructure00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorBaseStructure00_Alb.png
+
+newmtl Fld_Cross00_Vgl_FloorDecalPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorDecalPaintable00_Alb.png
+
+newmtl Fld_Cross00_Vgl_FloorLinoleumBlack00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLinoleumBlack00_Alb.png
+
+newmtl Fld_Cross00_Vgl_FloorLinoleumStartOgange00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLinoleumStartOgange00_Alb.png
+
+newmtl Fld_Cross00_Vgl_FloorLinoleumStartOgangeLight00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLinoleumStartOgangeLight00_Alb.png
+
+newmtl Fld_Cross00_Vgl_FloorLinoleumWhite00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLinoleumWhite00_Alb.png
+
+newmtl Fld_Cross00_Vgl_FloorStaffCleat00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorStaffCleat00_Alb.png
+
+newmtl Fld_Cross00_Vgl_FloorStaffSlope00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorStaffSlope00_Alb.png
+
+newmtl Fld_Cross00_Vgl_FloorTileGray00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTileGray00_Alb.png
+
+newmtl Fld_Cross00_Vgl_FloorTileOrange00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTileOrange00_Alb.png
+
+newmtl Fld_Cross00_Vgl_FloorTileWhite00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTileWhite00_Alb.png
+
+newmtl Fld_Cross00_Vgl_FloorTileYellow00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTileYellow00_Alb.png
+
+newmtl Fld_Cross00_Vgl_FloorWood00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorWood00_Alb.png
+
+newmtl Fld_Cross00_Vgl_GlassKitchen00
+Kd 1.0 1.0 1.0
+map_Kd textures/BakeDummy00.png
+
+newmtl Fld_Cross00_Vgl_GlassTerrace
+Kd 1.0 1.0 1.0
+map_Kd textures/BakeDummy00.png
+
+newmtl Fld_Cross00_Vgl_GroundSealNukiSet
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundSealNukiSet_Alb.png
+
+newmtl Fld_Cross00_Vgl_MapBoard00
+Kd 1.0 1.0 1.0
+map_Kd textures/MapBoard00_Alb.png
+
+newmtl Fld_Cross00_Vgl_MetalNetwork00
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalNetwork00_Alb.png
+
+newmtl Fld_Cross00_Vgl_NetParts00
+Kd 1.0 1.0 1.0
+map_Kd textures/NetParts00_Alb.png
+
+newmtl Fld_Cross00_Vgl_RoofGraffiti00
+Kd 1.0 1.0 1.0
+map_Kd textures/RoofGraffiti00_Alb.png
+
+newmtl Fld_Cross00_Vgl_SideFloorParts00
+Kd 1.0 1.0 1.0
+map_Kd textures/SideFloorParts00_Alb.png
+
+newmtl Fld_Cross00_Vgl_SideFloorPartsPriorInside00
+Kd 1.0 1.0 1.0
+map_Kd textures/SideFloorParts00_Alb.png
+
+newmtl Fld_Cross00_Vgl_SidefloorPartsNopaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/SidefloorPartsNopaintable00_Alb.png
+
+newmtl Fld_Cross00_Vgl_SidefloorPartsNopaintable00_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/SidefloorPartsNopaintable00_Alb.png
+
+newmtl Fld_Cross00_Vgl_StrainerRobot00_nb
+Kd 1.0 1.0 1.0
+map_Kd textures/StrainerRobot00_Alb.png
+
+newmtl Fld_Cross00_Vgl_Tape00
+Kd 1.0 1.0 1.0
+map_Kd textures/Tape00_Alb.png
+
+newmtl Fld_Cross00_Vgl_TicketVendingMachine00
+Kd 1.0 1.0 1.0
+map_Kd textures/TicketVendingMachine00_Alb.png
+
+newmtl Fld_Cross00_Vgl_ToiletAndPoster00
+Kd 1.0 1.0 1.0
+map_Kd textures/ToiletAndPoster00_Alb.png
+
+newmtl Fld_Cross00_Vgl_VinylClear
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylClear_Nrm.png
+
+newmtl Fld_Cross00_Vgl_VinylSheetG
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylSheetG_Nrm.png
+
+newmtl Fld_Cross00_Vgl_WallAluminum00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallAluminum00_Alb.png
+
+newmtl Fld_Cross00_Vgl_WallBlackNoPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBlackNoPaintable00_Alb.png
+
+newmtl Fld_Cross00_Vgl_WallParts00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallParts00_Alb.png
+
+newmtl Fld_Cross00_Vgl_WallWhiteNopaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallWhiteNopaintable00_Alb.png
+
+newmtl Fld_Cross00_Vgl_WallWoodPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallWoodPaintable00_Alb.png
+
+newmtl Fld_Cross00_Vlf_Can7
+Kd 1.0 1.0 1.0
+map_Kd textures/M_Can_Alb.png
+
+newmtl Fld_Cross00_Vlf_CenterHandrail00
+Kd 1.0 1.0 1.0
+map_Kd textures/CenterHandrail00_Alb.png
+
+newmtl Fld_Cross00_Vlf_CrossCanolaA
+Kd 1.0 1.0 1.0
+map_Kd textures/CrossCanolaA_Alb.png
+
+newmtl Fld_Cross00_Vlf_CrossCanolaAV
+Kd 1.0 1.0 1.0
+map_Kd textures/CrossCanolaAV_Alb.png
+
+newmtl Fld_Cross00_Vlf_CrossCanolaB
+Kd 1.0 1.0 1.0
+map_Kd textures/CrossCanolaB_Alb.png
+
+newmtl Fld_Cross00_Vlf_CrossCanolaBV
+Kd 1.0 1.0 1.0
+map_Kd textures/CrossCanolaBV_Alb.png
+
+newmtl Fld_Cross00_Vlf_CrossNoPaintSetA00
+Kd 1.0 1.0 1.0
+map_Kd textures/CrossNoPaintSetA00_Alb.png
+
+newmtl Fld_Cross00_Vlf_CrossNoPaintSetB00
+Kd 1.0 1.0 1.0
+map_Kd textures/CrossNoPaintSetB00_Alb.png
+
+newmtl Fld_Cross00_Vlf_DeliveryRobot01
+Kd 1.0 1.0 1.0
+map_Kd textures/DeliveryRobot00_Alb.png
+
+newmtl Fld_Cross00_Vlf_EatAreaStools00_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/EatAreaStools00_Alb.png
+
+newmtl Fld_Cross00_Vlf_EntranceCarpet00
+Kd 1.0 1.0 1.0
+map_Kd textures/EntranceCarpet00_Alb.png
+
+newmtl Fld_Cross00_Vlf_EquipmentPaintableParts00
+Kd 1.0 1.0 1.0
+map_Kd textures/EquipmentPaintableParts00_Alb.png
+
+newmtl Fld_Cross00_Vlf_EtcNoPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/EtcNoPaintable00_Alb.png
+
+newmtl Fld_Cross00_Vlf_EtcPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/EtcPaintable00_Alb.png
+
+newmtl Fld_Cross00_Vlf_FloorBaseStructure00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorBaseStructure00_Alb.png
+
+newmtl Fld_Cross00_Vlf_FloorDecalPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorDecalPaintable00_Alb.png
+
+newmtl Fld_Cross00_Vlf_FloorLinoleumBlack00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLinoleumBlack00_Alb.png
+
+newmtl Fld_Cross00_Vlf_FloorLinoleumStartOgange00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLinoleumStartOgange00_Alb.png
+
+newmtl Fld_Cross00_Vlf_FloorLinoleumStartOgangeLight00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLinoleumStartOgangeLight00_Alb.png
+
+newmtl Fld_Cross00_Vlf_FloorLinoleumWhite00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLinoleumWhite00_Alb.png
+
+newmtl Fld_Cross00_Vlf_FloorStaffCleat00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorStaffCleat00_Alb.png
+
+newmtl Fld_Cross00_Vlf_FloorTileGray00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTileGray00_Alb.png
+
+newmtl Fld_Cross00_Vlf_FloorTileOrange00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTileOrange00_Alb.png
+
+newmtl Fld_Cross00_Vlf_FloorTileWhite00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTileWhite00_Alb.png
+
+newmtl Fld_Cross00_Vlf_FloorTileYellow00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTileYellow00_Alb.png
+
+newmtl Fld_Cross00_Vlf_FloorWood00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorWood00_Alb.png
+
+newmtl Fld_Cross00_Vlf_GlassKitchen00
+Kd 1.0 1.0 1.0
+map_Kd textures/BakeDummy00.png
+
+newmtl Fld_Cross00_Vlf_GlassTerrace
+Kd 1.0 1.0 1.0
+map_Kd textures/BakeDummy00.png
+
+newmtl Fld_Cross00_Vlf_GroundSealNukiSet
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundSealNukiSet_Alb.png
+
+newmtl Fld_Cross00_Vlf_MapBoard00
+Kd 1.0 1.0 1.0
+map_Kd textures/MapBoard00_Alb.png
+
+newmtl Fld_Cross00_Vlf_MetalNetwork00
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalNetwork00_Alb.png
+
+newmtl Fld_Cross00_Vlf_NetParts00
+Kd 1.0 1.0 1.0
+map_Kd textures/NetParts00_Alb.png
+
+newmtl Fld_Cross00_Vlf_RoofGraffiti00
+Kd 1.0 1.0 1.0
+map_Kd textures/RoofGraffiti00_Alb.png
+
+newmtl Fld_Cross00_Vlf_ShowcaseRefrigerator00
+Kd 1.0 1.0 1.0
+map_Kd textures/ShowcaseRefrigerator00_Alb.png
+
+newmtl Fld_Cross00_Vlf_SideFloorParts00
+Kd 1.0 1.0 1.0
+map_Kd textures/SideFloorParts00_Alb.png
+
+newmtl Fld_Cross00_Vlf_SidefloorPartsNopaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/SidefloorPartsNopaintable00_Alb.png
+
+newmtl Fld_Cross00_Vlf_SidefloorPartsNopaintable00_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/SidefloorPartsNopaintable00_Alb.png
+
+newmtl Fld_Cross00_Vlf_StrainerRobot00_nb
+Kd 1.0 1.0 1.0
+map_Kd textures/StrainerRobot00_Alb.png
+
+newmtl Fld_Cross00_Vlf_Tape00
+Kd 1.0 1.0 1.0
+map_Kd textures/Tape00_Alb.png
+
+newmtl Fld_Cross00_Vlf_TicketVendingMachine00
+Kd 1.0 1.0 1.0
+map_Kd textures/TicketVendingMachine00_Alb.png
+
+newmtl Fld_Cross00_Vlf_ToiletAndPoster00
+Kd 1.0 1.0 1.0
+map_Kd textures/ToiletAndPoster00_Alb.png
+
+newmtl Fld_Cross00_Vlf_VinylClear
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylClear_Nrm.png
+
+newmtl Fld_Cross00_Vlf_VinylSheetG
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylSheetG_Nrm.png
+
+newmtl Fld_Cross00_Vlf_WallAluminum00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallAluminum00_Alb.png
+
+newmtl Fld_Cross00_Vlf_WallBlackNoPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBlackNoPaintable00_Alb.png
+
+newmtl Fld_Cross00_Vlf_WallParts00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallParts00_Alb.png
+
+newmtl Fld_Cross00_Vlf_WallWhiteNopaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallWhiteNopaintable00_Alb.png
+
+newmtl Fld_Cross00_Vlf_WallWoodPaintable00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallWoodPaintable00_Alb.png
+

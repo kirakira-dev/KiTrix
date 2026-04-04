@@ -1,0 +1,28 @@
+# KiTrix material file
+newmtl Wmn_Maneuver_NormalSdodr_M_Body
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.1 0.1 0.1
+Ns 32.0
+d 1.0
+map_Kd textures/M_Body_Alb.png
+map_bump textures/M_Body_Nrm.png
+
+newmtl Wmn_Maneuver_NormalSdodr_M_Clear
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.1 0.1 0.1
+Ns 32.0
+d 1.0
+map_Kd textures/M_Clear_Alb.png
+map_bump textures/M_Clear_Nrm.png
+
+newmtl Wmn_Maneuver_NormalSdodr_M_Plastic
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.1 0.1 0.1
+Ns 32.0
+d 1.0
+map_Kd textures/M_Plastic_Alb.png
+map_bump textures/M_Plastic_Nrm.png
+

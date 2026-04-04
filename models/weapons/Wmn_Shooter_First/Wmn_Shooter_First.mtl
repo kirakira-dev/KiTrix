@@ -1,0 +1,19 @@
+# KiTrix material file
+newmtl Wmn_Shooter_First_M_Body
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.1 0.1 0.1
+Ns 32.0
+d 1.0
+map_Kd textures/M_Body_Alb.png
+map_bump textures/M_Body_Nrm.png
+
+newmtl Wmn_Shooter_First_M_Rubber
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.1 0.1 0.1
+Ns 32.0
+d 1.0
+map_Kd textures/M_Rubber_Alb.png
+map_bump textures/M_Rubber_Nrm.png
+

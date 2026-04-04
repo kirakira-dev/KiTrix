@@ -1,0 +1,984 @@
+# KiTrix material file
+newmtl FldBG_Scrap01Main_BlitzVan02_Obj_PlazaVan
+Kd 1.0 1.0 1.0
+map_Kd textures/Obj_PlazaVan_Alb.png
+
+newmtl FldBG_Scrap01Main_BridgeLight00_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/BridgeLight00_Alb.png
+
+newmtl FldBG_Scrap01Main_CeilingMetalTrass
+Kd 1.0 1.0 1.0
+map_Kd textures/CeilingMetalTrass_Alb.png
+
+newmtl FldBG_Scrap01Main_CeilingMetalTrass_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/CeilingMetalTrass_Alb.png
+
+newmtl FldBG_Scrap01Main_CraneHandRail
+Kd 1.0 1.0 1.0
+map_Kd textures/CraneHandRail_Alb.png
+
+newmtl FldBG_Scrap01Main_DVContainer
+Kd 1.0 1.0 1.0
+map_Kd textures/DVContainer_Alb.png
+
+newmtl FldBG_Scrap01Main_Factory00
+Kd 1.0 1.0 1.0
+map_Kd textures/Factory00_Alb.png
+
+newmtl FldBG_Scrap01Main_FarPillarSet
+Kd 1.0 1.0 1.0
+map_Kd textures/FarPillarSet_Alb.png
+
+newmtl FldBG_Scrap01Main_FloorBoard00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorBoard00_Alb.png
+
+newmtl FldBG_Scrap01Main_ForkLift
+Kd 1.0 1.0 1.0
+map_Kd textures/ForkLift_Alb.png
+
+newmtl FldBG_Scrap01Main_ForkliftBody
+Kd 1.0 1.0 1.0
+map_Kd textures/ForkliftBody_Alb.png
+
+newmtl FldBG_Scrap01Main_ForkliftTire
+Kd 1.0 1.0 1.0
+map_Kd textures/ForkliftTire_Alb.png
+
+newmtl FldBG_Scrap01Main_GalvanizedIronRed_np
+Kd 1.0 1.0 1.0
+map_Kd textures/GalvanizedIronRed_Alb.png
+
+newmtl FldBG_Scrap01Main_GroundConcreteFlat_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundConcreteFlat_Alb.png
+
+newmtl FldBG_Scrap01Main_Guillotine01
+Kd 1.0 1.0 1.0
+map_Kd textures/Guillotine01_Alb.png
+
+newmtl FldBG_Scrap01Main_Haze
+Kd 1.0 1.0 1.0
+map_Kd textures/Haze_Opa.png
+
+newmtl FldBG_Scrap01Main_HouseWall00
+Kd 1.0 1.0 1.0
+map_Kd textures/HouseWall00_Alb.png
+
+newmtl FldBG_Scrap01Main_HouseWall00_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/HouseWall00_Alb.png
+
+newmtl FldBG_Scrap01Main_IronFrameBase
+Kd 1.0 1.0 1.0
+map_Kd textures/IronFrameBase_Alb.png
+
+newmtl FldBG_Scrap01Main_IronFrameBase_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/IronFrameBase_Alb.png
+
+newmtl FldBG_Scrap01Main_MCarScrapCubeD
+Kd 1.0 1.0 1.0
+map_Kd textures/MCarScrapCubeD_Alb.png
+
+newmtl FldBG_Scrap01Main_MCarScrapCubeD_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/MCarScrapCubeD_Alb.png
+
+newmtl FldBG_Scrap01Main_OldSedan
+Kd 1.0 1.0 1.0
+map_Kd textures/OldSedan_Alb.png
+
+newmtl FldBG_Scrap01Main_OutsideRoof
+Kd 1.0 1.0 1.0
+map_Kd textures/OutsideRoof_Alb.png
+
+newmtl FldBG_Scrap01Main_OutsideRoofPillar
+Kd 1.0 1.0 1.0
+map_Kd textures/OutsideRoofPillar_Alb.png
+
+newmtl FldBG_Scrap01Main_OutsideRoofPillar_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/OutsideRoofPillar_Alb.png
+
+newmtl FldBG_Scrap01Main_PalletBagA
+Kd 1.0 1.0 1.0
+map_Kd textures/PalletBagA_Alb.png
+
+newmtl FldBG_Scrap01Main_PalletBagB
+Kd 1.0 1.0 1.0
+map_Kd textures/PalletBagB_Alb.png
+
+newmtl FldBG_Scrap01Main_Sand00
+Kd 1.0 1.0 1.0
+map_Kd textures/Sand00_Alb.png
+
+newmtl FldBG_Scrap01Main_ScrapCrane
+Kd 1.0 1.0 1.0
+map_Kd textures/ScrapCrane_Alb.png
+
+newmtl FldBG_Scrap01Main_ScrapIronPlate
+Kd 1.0 1.0 1.0
+map_Kd textures/ScrapIronPlate_Nrm.png
+
+newmtl FldBG_Scrap01Main_ScrapLogo00_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/ScrapLogo00_Alb.png
+
+newmtl FldBG_Scrap01Main_ScrapShip01
+Kd 1.0 1.0 1.0
+map_Kd textures/ScrapShip01_Alb.png
+
+newmtl FldBG_Scrap01Main_ScrapShip02
+Kd 1.0 1.0 1.0
+map_Kd textures/ScrapShip02_Alb.png
+
+newmtl FldBG_Scrap01Main_ScrapShip03
+Kd 1.0 1.0 1.0
+map_Kd textures/ScrapShip03_Alb.png
+
+newmtl FldBG_Scrap01Main_SedanA
+Kd 1.0 1.0 1.0
+map_Kd textures/SedanA_Alb.png
+
+newmtl FldBG_Scrap01Main_SedanB
+Kd 1.0 1.0 1.0
+map_Kd textures/SedanB_Alb.png
+
+newmtl FldBG_Scrap01Main_ShipVinylSheet
+Kd 1.0 1.0 1.0
+map_Kd textures/ShipVinylSheet_Alb.png
+
+newmtl FldBG_Scrap01Main_SoukoPanelBase
+Kd 1.0 1.0 1.0
+map_Kd textures/SoukoPanelBase_Alb.png
+
+newmtl FldBG_Scrap01Main_Tire
+Kd 1.0 1.0 1.0
+map_Kd textures/Tire_Alb.png
+
+newmtl FldBG_Scrap01Main_TrashFloor00
+Kd 1.0 1.0 1.0
+map_Kd textures/TrashFloor00_Alb.png
+
+newmtl FldBG_Scrap01Main_TrashFloor02
+Kd 1.0 1.0 1.0
+map_Kd textures/TrashFloor02_Alb.png
+
+newmtl FldBG_Scrap01Main_Wall01
+Kd 1.0 1.0 1.0
+map_Kd textures/Wall01_Alb.png
+
+newmtl FldBG_Scrap01Main_WareHouseInteriorWall
+Kd 1.0 1.0 1.0
+map_Kd textures/WareHouseInteriorWall_Alb.png
+
+newmtl FldBG_Scrap01Main_WarehouseUDIM00
+Kd 1.0 1.0 1.0
+map_Kd textures/WarehouseUDIM00_UDIM_Alb.png
+
+newmtl FldBG_Scrap01Main_WarehouseUDIM00_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/WarehouseUDIM00_UDIM_Alb.png
+
+newmtl FldObj_Scrap01BoxPntVar_FenceVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceVinyl_Alb.png
+
+newmtl FldObj_Scrap01BoxVgl_FenceVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceVinyl_Alb.png
+
+newmtl FldObj_Scrap01Vcl_AsphaltTileRoad_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/AsphaltTileRoad_Alb.png
+
+newmtl FldObj_Scrap01Vcl_ConcreteWide
+Kd 1.0 1.0 1.0
+map_Kd textures/ConcreteWide_Alb.png
+
+newmtl FldObj_Scrap01Vcl_CopperBoard00
+Kd 1.0 1.0 1.0
+map_Kd textures/CopperBoard00_Alb.png
+
+newmtl FldObj_Scrap01Vcl_CrackEdge00
+Kd 1.0 1.0 1.0
+map_Kd textures/CrackEdge00_Alb.png
+
+newmtl FldObj_Scrap01Vcl_FenceGray
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceGray_Alb.png
+
+newmtl FldObj_Scrap01Vcl_FenceVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceVinyl_Alb.png
+
+newmtl FldObj_Scrap01Vcl_FloorSlope01
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorSlope01_Alb.png
+
+newmtl FldObj_Scrap01Vcl_GalvanizedIronRed
+Kd 1.0 1.0 1.0
+map_Kd textures/GalvanizedIronRed_Alb.png
+
+newmtl FldObj_Scrap01Vcl_GalvanizedIronWhite
+Kd 1.0 1.0 1.0
+map_Kd textures/GalvanizedIronWhite_Alb.png
+
+newmtl FldObj_Scrap01Vcl_GalvanizedIronWhite_np
+Kd 1.0 1.0 1.0
+map_Kd textures/GalvanizedIronWhite_Alb.png
+
+newmtl FldObj_Scrap01Vcl_GroundConcreteFlat
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundConcreteFlat_Alb.png
+
+newmtl FldObj_Scrap01Vcl_GroundWoodenBoard_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundWoodenBoard_Alb.png
+
+newmtl FldObj_Scrap01Vcl_IronBar
+Kd 1.0 1.0 1.0
+map_Kd textures/IronBar_Alb.png
+
+newmtl FldObj_Scrap01Vcl_Line00
+Kd 1.0 1.0 1.0
+map_Kd textures/Line00_Alb.png
+
+newmtl FldObj_Scrap01Vcl_MCarScrapCubeD
+Kd 1.0 1.0 1.0
+map_Kd textures/MCarScrapCubeD_Alb.png
+
+newmtl FldObj_Scrap01Vcl_NameCrash__WagonBlue
+Kd 1.0 1.0 1.0
+map_Kd textures/WagonBlue_Alb.png
+
+newmtl FldObj_Scrap01Vcl_Prop01
+Kd 1.0 1.0 1.0
+map_Kd textures/Prop01_Alb.png
+
+newmtl FldObj_Scrap01Vcl_Scrap01Center00
+Kd 1.0 1.0 1.0
+map_Kd textures/Scrap01Center00_Alb.png
+
+newmtl FldObj_Scrap01Vcl_Scrap01CenterCube00
+Kd 1.0 1.0 1.0
+map_Kd textures/Scrap01CenterCube00_Alb.png
+
+newmtl FldObj_Scrap01Vcl_ShipVinylSheet
+Kd 1.0 1.0 1.0
+map_Kd textures/ShipVinylSheet_Alb.png
+
+newmtl FldObj_Scrap01Vcl_Tape01
+Kd 1.0 1.0 1.0
+map_Kd textures/Tape01_Alb.png
+
+newmtl FldObj_Scrap01Vcl_Tire
+Kd 1.0 1.0 1.0
+map_Kd textures/Tire_Alb.png
+
+newmtl FldObj_Scrap01Vcl_TrashBags
+Kd 1.0 1.0 1.0
+map_Kd textures/TrashBags_Alb.png
+
+newmtl FldObj_Scrap01Vcl_Truck00
+Kd 1.0 1.0 1.0
+map_Kd textures/Truck00_Alb.png
+
+newmtl FldObj_Scrap01Vcl_TruckMobileBillboard
+Kd 1.0 1.0 1.0
+map_Kd textures/TruckMobileBillboard_Alb.png
+
+newmtl FldObj_Scrap01Vcl_WallGalvanizedIron
+Kd 1.0 1.0 1.0
+map_Kd textures/WallGalvanizedIron_Nrm.png
+
+newmtl FldObj_Scrap01Vcl_WallIronPanel
+Kd 1.0 1.0 1.0
+map_Kd textures/WallIronPanel_Nrm.png
+
+newmtl FldObj_Scrap01Vlf_ConcreteWide
+Kd 1.0 1.0 1.0
+map_Kd textures/ConcreteWide_Alb.png
+
+newmtl FldObj_Scrap01Vlf_FenceGray
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceGray_Alb.png
+
+newmtl FldObj_Scrap01Vlf_FenceVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceVinyl_Alb.png
+
+newmtl FldObj_Scrap01Vlf_FloorSlope01
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorSlope01_Alb.png
+
+newmtl FldObj_Scrap01Vlf_FloorSlope01_np
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorSlope01_Alb.png
+
+newmtl FldObj_Scrap01Vlf_GalvanizedIronRed
+Kd 1.0 1.0 1.0
+map_Kd textures/GalvanizedIronRed_Alb.png
+
+newmtl FldObj_Scrap01Vlf_GroundConcreteFlat
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundConcreteFlat_Alb.png
+
+newmtl FldObj_Scrap01Vlf_IronBar
+Kd 1.0 1.0 1.0
+map_Kd textures/IronBar_Alb.png
+
+newmtl FldObj_Scrap01Vlf_Line00
+Kd 1.0 1.0 1.0
+map_Kd textures/Line00_Alb.png
+
+newmtl FldObj_Scrap01Vlf_Prop01
+Kd 1.0 1.0 1.0
+map_Kd textures/Prop01_Alb.png
+
+newmtl FldObj_Scrap01Vlf_ShipVinylSheet
+Kd 1.0 1.0 1.0
+map_Kd textures/ShipVinylSheet_Alb.png
+
+newmtl FldObj_Scrap01Vlf_Tape01
+Kd 1.0 1.0 1.0
+map_Kd textures/Tape01_Alb.png
+
+newmtl FldObj_Scrap01Vlf_Tire
+Kd 1.0 1.0 1.0
+map_Kd textures/Tire_Alb.png
+
+newmtl FldObj_Scrap01Vlf_TrashBags
+Kd 1.0 1.0 1.0
+map_Kd textures/TrashBags_Alb.png
+
+newmtl FldObj_Scrap01Vlf_TruckMobileBillboard
+Kd 1.0 1.0 1.0
+map_Kd textures/TruckMobileBillboard_Alb.png
+
+newmtl FldObj_Scrap01Vlf_WallIronPanel
+Kd 1.0 1.0 1.0
+map_Kd textures/WallIronPanel_Nrm.png
+
+newmtl FldObj_Scrap01_Bike_ComicMagazine00
+Kd 1.0 1.0 1.0
+map_Kd textures/ComicMagazine00_Alb.png
+
+newmtl FldObj_Scrap01_Bike_GumPotatochips00
+Kd 1.0 1.0 1.0
+map_Kd textures/GumPotatochips00_Alb.png
+
+newmtl FldObj_Scrap01_Bike_JerryHelmetVest
+Kd 1.0 1.0 1.0
+map_Kd textures/JerryHelmetVest_Nrm.png
+
+newmtl FldObj_Scrap01_Bike_Scrap01Locker00
+Kd 1.0 1.0 1.0
+map_Kd textures/Scrap01Locker00_Alb.png
+
+newmtl FldObj_Scrap01_Bike_Scrap01LockerBox00
+Kd 1.0 1.0 1.0
+map_Kd textures/Scrap01LockerBox00_Alb.png
+
+newmtl FldObj_Scrap01_Bike_Scrap01TV00
+Kd 1.0 1.0 1.0
+map_Kd textures/Scrap01TV00_Alb.png
+
+newmtl FldObj_Scrap01_Bike_Scrap01TVBox00
+Kd 1.0 1.0 1.0
+map_Kd textures/Scrap01TVBox00_Alb.png
+
+newmtl FldObj_Scrap01_Bike_ShipVinylSheet
+Kd 1.0 1.0 1.0
+map_Kd textures/ShipVinylSheet_Alb.png
+
+newmtl FldObj_Scrap01_Bike_TableSetDrink
+Kd 1.0 1.0 1.0
+map_Kd textures/TableSetDrink_Alb.png
+
+newmtl FldObj_Scrap01_Bike_Tape01
+Kd 1.0 1.0 1.0
+map_Kd textures/Tape01_Alb.png
+
+newmtl FldObj_Scrap01_Cape_ConcreteWide
+Kd 1.0 1.0 1.0
+map_Kd textures/ConcreteWide_Alb.png
+
+newmtl FldObj_Scrap01_Cape_GalvanizedIronRed
+Kd 1.0 1.0 1.0
+map_Kd textures/GalvanizedIronRed_Alb.png
+
+newmtl FldObj_Scrap01_Cape_GroundConcreteFlat
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundConcreteFlat_Alb.png
+
+newmtl FldObj_Scrap01_Cape_IronBar
+Kd 1.0 1.0 1.0
+map_Kd textures/IronBar_Alb.png
+
+newmtl FldObj_Scrap01_Cape_Prop01
+Kd 1.0 1.0 1.0
+map_Kd textures/Prop01_Alb.png
+
+newmtl FldObj_Scrap01_Cape_ShipVinylSheet
+Kd 1.0 1.0 1.0
+map_Kd textures/ShipVinylSheet_Alb.png
+
+newmtl FldObj_Scrap01_Cape_Tape01
+Kd 1.0 1.0 1.0
+map_Kd textures/Tape01_Alb.png
+
+newmtl FldObj_Scrap01_Cape_WallIronPanel
+Kd 1.0 1.0 1.0
+map_Kd textures/WallIronPanel_Nrm.png
+
+newmtl FldObj_Scrap01_CapeVgl_ConcreteWide
+Kd 1.0 1.0 1.0
+map_Kd textures/ConcreteWide_Alb.png
+
+newmtl FldObj_Scrap01_CapeVgl_GalvanizedIronRed
+Kd 1.0 1.0 1.0
+map_Kd textures/GalvanizedIronRed_Alb.png
+
+newmtl FldObj_Scrap01_CapeVgl_GalvanizedIronWhite
+Kd 1.0 1.0 1.0
+map_Kd textures/GalvanizedIronWhite_Alb.png
+
+newmtl FldObj_Scrap01_CapeVgl_Glass00
+Kd 1.0 1.0 1.0
+map_Kd textures/BakeDummy00.png
+
+newmtl FldObj_Scrap01_CapeVgl_GroundConcreteFlat
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundConcreteFlat_Alb.png
+
+newmtl FldObj_Scrap01_CapeVgl_IronBar
+Kd 1.0 1.0 1.0
+map_Kd textures/IronBar_Alb.png
+
+newmtl FldObj_Scrap01_CapeVgl_Prop00
+Kd 1.0 1.0 1.0
+map_Kd textures/Prop00_Alb.png
+
+newmtl FldObj_Scrap01_CapeVgl_Prop01
+Kd 1.0 1.0 1.0
+map_Kd textures/Prop01_Alb.png
+
+newmtl FldObj_Scrap01_CapeVgl_PropaneGas00
+Kd 1.0 1.0 1.0
+map_Kd textures/PropaneGas00_Alb.png
+
+newmtl FldObj_Scrap01_CapeVgl_RestRoomProp01
+Kd 1.0 1.0 1.0
+map_Kd textures/RestRoomProp01_Alb.png
+
+newmtl FldObj_Scrap01_CapeVgl_SquareCan
+Kd 1.0 1.0 1.0
+map_Kd textures/SquareCan_Alb.png
+
+newmtl FldObj_Scrap01_CapeVgl_Tire
+Kd 1.0 1.0 1.0
+map_Kd textures/Tire_Alb.png
+
+newmtl FldObj_Scrap01_CapeVgl_WallIronPanel
+Kd 1.0 1.0 1.0
+map_Kd textures/WallIronPanel_Nrm.png
+
+newmtl FldObj_Scrap01_Center_IronBar
+Kd 1.0 1.0 1.0
+map_Kd textures/IronBar_Alb.png
+
+newmtl FldObj_Scrap01_Center_MCarScrapCubeD
+Kd 1.0 1.0 1.0
+map_Kd textures/MCarScrapCubeD_Alb.png
+
+newmtl FldObj_Scrap01_Center_NameCrash__WagonBlue
+Kd 1.0 1.0 1.0
+map_Kd textures/WagonBlue_Alb.png
+
+newmtl FldObj_Scrap01_Center_Scrap01Center00
+Kd 1.0 1.0 1.0
+map_Kd textures/Scrap01Center00_Alb.png
+
+newmtl FldObj_Scrap01_Center_Scrap01CenterCube00
+Kd 1.0 1.0 1.0
+map_Kd textures/Scrap01CenterCube00_Alb.png
+
+newmtl FldObj_Scrap01_Center_ShipVinylSheet
+Kd 1.0 1.0 1.0
+map_Kd textures/ShipVinylSheet_Alb.png
+
+newmtl FldObj_Scrap01_Center_Tape01
+Kd 1.0 1.0 1.0
+map_Kd textures/Tape01_Alb.png
+
+newmtl FldObj_Scrap01_Center_Tire
+Kd 1.0 1.0 1.0
+map_Kd textures/Tire_Alb.png
+
+newmtl FldObj_Scrap01_Fence_FenceGray
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceGray_Alb.png
+
+newmtl FldObj_Scrap01_Fence_Line00
+Kd 1.0 1.0 1.0
+map_Kd textures/Line00_Alb.png
+
+newmtl FldObj_Scrap01_FenceVgl_FenceGray
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceGray_Alb.png
+
+newmtl FldObj_Scrap01_FenceVgl_FloorSlope01
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorSlope01_Alb.png
+
+newmtl FldObj_Scrap01_FenceVgl_GroundWoodenBoard_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundWoodenBoard_Alb.png
+
+newmtl FldObj_Scrap01_FenceVgl_Line00
+Kd 1.0 1.0 1.0
+map_Kd textures/Line00_Alb.png
+
+newmtl FldObj_Scrap01_FenceVgl_Truck00
+Kd 1.0 1.0 1.0
+map_Kd textures/Truck00_Alb.png
+
+newmtl FldObj_Scrap01_FenceVlf_FenceGray
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceGray_Alb.png
+
+newmtl FldObj_Scrap01_FenceVlf_Line00
+Kd 1.0 1.0 1.0
+map_Kd textures/Line00_Alb.png
+
+newmtl FldObj_Scrap01_Slope_FloorSlope01
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorSlope01_Alb.png
+
+newmtl FldObj_Scrap01_Slope_FloorSlope01_np
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorSlope01_Alb.png
+
+newmtl FldObj_Scrap01_Slope_ShipVinylSheet
+Kd 1.0 1.0 1.0
+map_Kd textures/ShipVinylSheet_Alb.png
+
+newmtl FldObj_Scrap01_Slope_Tire
+Kd 1.0 1.0 1.0
+map_Kd textures/Tire_Alb.png
+
+newmtl FldObj_Scrap01_Slope_TrashBags
+Kd 1.0 1.0 1.0
+map_Kd textures/TrashBags_Alb.png
+
+newmtl FldObj_Scrap01_Slope_TruckMobileBillboard
+Kd 1.0 1.0 1.0
+map_Kd textures/TruckMobileBillboard_Alb.png
+
+newmtl FldObj_Scrap01_SlopeVcl_GalvanizedIronWhite
+Kd 1.0 1.0 1.0
+map_Kd textures/GalvanizedIronWhite_Alb.png
+
+newmtl FldObj_Scrap01_SlopeVcl_GalvanizedIronWhite_np
+Kd 1.0 1.0 1.0
+map_Kd textures/GalvanizedIronWhite_Alb.png
+
+newmtl FldObj_Scrap01_SlopeVcl_ShipVinylSheet
+Kd 1.0 1.0 1.0
+map_Kd textures/ShipVinylSheet_Alb.png
+
+newmtl FldObj_Scrap01_SlopeVcl_Tire
+Kd 1.0 1.0 1.0
+map_Kd textures/Tire_Alb.png
+
+newmtl FldObj_Scrap01_SlopeVcl_TrashBags
+Kd 1.0 1.0 1.0
+map_Kd textures/TrashBags_Alb.png
+
+newmtl FldObj_Scrap01_SlopeVcl_TruckMobileBillboard
+Kd 1.0 1.0 1.0
+map_Kd textures/TruckMobileBillboard_Alb.png
+
+newmtl FldObj_Scrap01_Stage_GalvanizedIronWhite
+Kd 1.0 1.0 1.0
+map_Kd textures/GalvanizedIronWhite_Alb.png
+
+newmtl FldObj_Scrap01_Stage_Prop01
+Kd 1.0 1.0 1.0
+map_Kd textures/Prop01_Alb.png
+
+newmtl FldObj_Scrap01_Stage_WallIronPanel
+Kd 1.0 1.0 1.0
+map_Kd textures/WallIronPanel_Nrm.png
+
+newmtl FldObj_Scrap01_Step_AsphaltTileRoad_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/AsphaltTileRoad_Alb.png
+
+newmtl FldObj_Scrap01_Step_CopperBoard00
+Kd 1.0 1.0 1.0
+map_Kd textures/CopperBoard00_Alb.png
+
+newmtl FldObj_Scrap01_Step_CrackEdge00
+Kd 1.0 1.0 1.0
+map_Kd textures/CrackEdge00_Alb.png
+
+newmtl FldObj_Scrap01_Step_Prop01
+Kd 1.0 1.0 1.0
+map_Kd textures/Prop01_Alb.png
+
+newmtl FldObj_Scrap01_Step_ShipVinylSheet
+Kd 1.0 1.0 1.0
+map_Kd textures/ShipVinylSheet_Alb.png
+
+newmtl FldObj_Scrap01_Step_Tape01
+Kd 1.0 1.0 1.0
+map_Kd textures/Tape01_Alb.png
+
+newmtl FldObj_Scrap01_Step_WallGalvanizedIron
+Kd 1.0 1.0 1.0
+map_Kd textures/WallGalvanizedIron_Nrm.png
+
+newmtl FldObj_Scrap01_Wall_Prop01
+Kd 1.0 1.0 1.0
+map_Kd textures/Prop01_Alb.png
+
+newmtl Fld_Scrap01_AirConditioner
+Kd 1.0 1.0 1.0
+map_Kd textures/AirConditioner_Alb.png
+
+newmtl Fld_Scrap01_AsphaltTileRoad
+Kd 1.0 1.0 1.0
+map_Kd textures/AsphaltTileRoad_Alb.png
+
+newmtl Fld_Scrap01_AsphaltTileRoad_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/AsphaltTileRoad_Alb.png
+
+newmtl Fld_Scrap01_AsphaltTileRoad_np
+Kd 1.0 1.0 1.0
+map_Kd textures/AsphaltTileRoad_Alb.png
+
+newmtl Fld_Scrap01_BridgeLight00
+Kd 1.0 1.0 1.0
+map_Kd textures/BridgeLight00_Alb.png
+
+newmtl Fld_Scrap01_BuildingEquipmentGasDuct
+Kd 1.0 1.0 1.0
+map_Kd textures/BuildingEquipmentGasDuct_Alb.png
+
+newmtl Fld_Scrap01_CanolaA
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaA_Alb.png
+
+newmtl Fld_Scrap01_CanolaAV
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaA_Alb.png
+
+newmtl Fld_Scrap01_CanolaB
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaB_Alb.png
+
+newmtl Fld_Scrap01_CanolaBV
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaA_Alb.png
+
+newmtl Fld_Scrap01_ConcreteWide
+Kd 1.0 1.0 1.0
+map_Kd textures/ConcreteWide_Alb.png
+
+newmtl Fld_Scrap01_CopperBoard00
+Kd 1.0 1.0 1.0
+map_Kd textures/CopperBoard00_Alb.png
+
+newmtl Fld_Scrap01_Coverheri00
+Kd 1.0 1.0 1.0
+map_Kd textures/Coverheri00_Alb.png
+
+newmtl Fld_Scrap01_CrackEdge00
+Kd 1.0 1.0 1.0
+map_Kd textures/CrackEdge00_Alb.png
+
+newmtl Fld_Scrap01_FenceGray
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceGray_Alb.png
+
+newmtl Fld_Scrap01_FloorSlope01
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorSlope01_Alb.png
+
+newmtl Fld_Scrap01_FloorSlope01_np
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorSlope01_Alb.png
+
+newmtl Fld_Scrap01_GalvanizedIronRed
+Kd 1.0 1.0 1.0
+map_Kd textures/GalvanizedIronRed_Alb.png
+
+newmtl Fld_Scrap01_GalvanizedIronRed_np
+Kd 1.0 1.0 1.0
+map_Kd textures/GalvanizedIronRed_Alb.png
+
+newmtl Fld_Scrap01_GalvanizedIronWhite
+Kd 1.0 1.0 1.0
+map_Kd textures/GalvanizedIronWhite_Alb.png
+
+newmtl Fld_Scrap01_GalvanizedIronWhite_np
+Kd 1.0 1.0 1.0
+map_Kd textures/GalvanizedIronWhite_Alb.png
+
+newmtl Fld_Scrap01_Glass00
+Kd 1.0 1.0 1.0
+map_Kd textures/BakeDummy00.png
+
+newmtl Fld_Scrap01_Gobo
+Kd 1.0 1.0 1.0
+
+newmtl Fld_Scrap01_GroundConcreteFlat
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundConcreteFlat_Alb.png
+
+newmtl Fld_Scrap01_GroundWoodenBoard
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundWoodenBoard_Alb.png
+
+newmtl Fld_Scrap01_GroundWoodenBoard_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundWoodenBoard_Alb.png
+
+newmtl Fld_Scrap01_GroundWoodenBoard_np
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundWoodenBoard_Alb.png
+
+newmtl Fld_Scrap01_HouseWall00
+Kd 1.0 1.0 1.0
+map_Kd textures/HouseWall00_Alb.png
+
+newmtl Fld_Scrap01_IronBar
+Kd 1.0 1.0 1.0
+map_Kd textures/IronBar_Alb.png
+
+newmtl Fld_Scrap01_Line00
+Kd 1.0 1.0 1.0
+map_Kd textures/Line00_Alb.png
+
+newmtl Fld_Scrap01_MCarScrapCubeD
+Kd 1.0 1.0 1.0
+map_Kd textures/MCarScrapCubeD_Alb.png
+
+newmtl Fld_Scrap01_MCarScrapCubeE
+Kd 1.0 1.0 1.0
+map_Kd textures/MCarScrapCubeE_Alb.png
+
+newmtl Fld_Scrap01_Mirror
+Kd 1.0 1.0 1.0
+map_Kd textures/BakeDummy00.png
+
+newmtl Fld_Scrap01_OldSedan
+Kd 1.0 1.0 1.0
+map_Kd textures/OldSedan_Alb.png
+
+newmtl Fld_Scrap01_OutdoorLampBody
+Kd 1.0 1.0 1.0
+map_Kd textures/OutdoorLampBody_Alb.png
+
+newmtl Fld_Scrap01_OutdoorLampBodyInside
+Kd 1.0 1.0 1.0
+map_Kd textures/OutdoorLampBodyInside_Alb.png
+
+newmtl Fld_Scrap01_OutsideRoofPillar_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/OutsideRoofPillar_Alb.png
+
+newmtl Fld_Scrap01_OutsideRoofPillar_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/OutsideRoofPillar_Alb.png
+
+newmtl Fld_Scrap01_PlasticCaseColor
+Kd 1.0 1.0 1.0
+map_Kd textures/PlasticCaseColor_Alb.png
+
+newmtl Fld_Scrap01_Prop00
+Kd 1.0 1.0 1.0
+map_Kd textures/Prop00_Alb.png
+
+newmtl Fld_Scrap01_Prop00_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/Prop00_Alb.png
+
+newmtl Fld_Scrap01_Prop01
+Kd 1.0 1.0 1.0
+map_Kd textures/Prop01_Alb.png
+
+newmtl Fld_Scrap01_PropaneGas00
+Kd 1.0 1.0 1.0
+map_Kd textures/PropaneGas00_Alb.png
+
+newmtl Fld_Scrap01_RestRoomProp00
+Kd 1.0 1.0 1.0
+map_Kd textures/RestRoomProp00_Alb.png
+
+newmtl Fld_Scrap01_RestRoomProp01
+Kd 1.0 1.0 1.0
+map_Kd textures/RestRoomProp01_Alb.png
+
+newmtl Fld_Scrap01_SUVBrown
+Kd 1.0 1.0 1.0
+map_Kd textures/SUVBrown_Alb.png
+
+newmtl Fld_Scrap01_Sandbag00
+Kd 1.0 1.0 1.0
+map_Kd textures/Sandbag00_Alb.png
+
+newmtl Fld_Scrap01_ScrapIronPlate
+Kd 1.0 1.0 1.0
+map_Kd textures/ScrapIronPlate_Nrm.png
+
+newmtl Fld_Scrap01_ScrapLogo00
+Kd 1.0 1.0 1.0
+map_Kd textures/ScrapLogo00_Alb.png
+
+newmtl Fld_Scrap01_SedanB
+Kd 1.0 1.0 1.0
+map_Kd textures/SedanB_Alb.png
+
+newmtl Fld_Scrap01_ShipVinylSheet
+Kd 1.0 1.0 1.0
+map_Kd textures/ShipVinylSheet_Alb.png
+
+newmtl Fld_Scrap01_SoukoPanelBase_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/SoukoPanelBase_Alb.png
+
+newmtl Fld_Scrap01_SquareCan
+Kd 1.0 1.0 1.0
+map_Kd textures/SquareCan_Alb.png
+
+newmtl Fld_Scrap01_Tape01
+Kd 1.0 1.0 1.0
+map_Kd textures/Tape01_Alb.png
+
+newmtl Fld_Scrap01_Tire
+Kd 1.0 1.0 1.0
+map_Kd textures/Tire_Alb.png
+
+newmtl Fld_Scrap01_TrailerCargo
+Kd 1.0 1.0 1.0
+map_Kd textures/TrailerCargo_Alb.png
+
+newmtl Fld_Scrap01_TrailerTruck
+Kd 1.0 1.0 1.0
+map_Kd textures/TrailerTruck_Alb.png
+
+newmtl Fld_Scrap01_TransformerBox
+Kd 1.0 1.0 1.0
+map_Kd textures/TransformerBox_Alb.png
+
+newmtl Fld_Scrap01_TrashBags
+Kd 1.0 1.0 1.0
+map_Kd textures/TrashBags_Alb.png
+
+newmtl Fld_Scrap01_TrashFloor00
+Kd 1.0 1.0 1.0
+map_Kd textures/TrashFloor00_Alb.png
+
+newmtl Fld_Scrap01_Truck00
+Kd 1.0 1.0 1.0
+map_Kd textures/Truck00_Alb.png
+
+newmtl Fld_Scrap01_TruckCanopy
+Kd 1.0 1.0 1.0
+map_Kd textures/TruckCanopy_Alb.png
+
+newmtl Fld_Scrap01_TruckGreen
+Kd 1.0 1.0 1.0
+map_Kd textures/TruckGreen_Alb.png
+
+newmtl Fld_Scrap01_TruckMobileBillboard
+Kd 1.0 1.0 1.0
+map_Kd textures/TruckMobileBillboard_Alb.png
+
+newmtl Fld_Scrap01_WagonBlue
+Kd 1.0 1.0 1.0
+map_Kd textures/WagonBlue_Alb.png
+
+newmtl Fld_Scrap01_WallGalvanizedIron
+Kd 1.0 1.0 1.0
+map_Kd textures/WallGalvanizedIron_Nrm.png
+
+newmtl Fld_Scrap01_WallIronPanel
+Kd 1.0 1.0 1.0
+map_Kd textures/WallIronPanel_Nrm.png
+
+newmtl Fld_Scrap01_mGlass
+Kd 1.0 1.0 1.0
+map_Kd textures/BakeDummy00.png
+
+newmtl Obj_Scrap01GantryCrane_CraneHandRail
+Kd 1.0 1.0 1.0
+map_Kd textures/CraneHandRail_Alb.png
+
+newmtl Obj_Scrap01GantryCrane_GalvanizedIronRed_np
+Kd 1.0 1.0 1.0
+map_Kd textures/GalvanizedIronRed_Alb.png
+
+newmtl Obj_Scrap01GantryCrane_GantryCrane00
+Kd 1.0 1.0 1.0
+map_Kd textures/GantryCrane00_UDIM_Alb.png
+
+newmtl Obj_Scrap01GantryCrane_GantryCranePropsUdim00
+Kd 1.0 1.0 1.0
+map_Kd textures/GantryCranePropsUdim00_UDIM_Alb.png
+
+newmtl Obj_Scrap01GantryCrane_IronFrameBase2
+Kd 1.0 1.0 1.0
+map_Kd textures/IronFrameBase2_Alb.png
+
+newmtl Obj_Scrap01GantryCrane_MCarScrapCubeD
+Kd 1.0 1.0 1.0
+map_Kd textures/MCarScrapCubeD_Alb.png
+
+newmtl Obj_Scrap01GantryCrane_ScrapIronPlate
+Kd 1.0 1.0 1.0
+map_Kd textures/ScrapIronPlate_Nrm.png
+
+newmtl Obj_Scrap01GantryCrane_ScrapLogo00
+Kd 1.0 1.0 1.0
+map_Kd textures/ScrapLogo00_Alb.png
+
+newmtl Obj_Scrap01GantryCrane_ScrapShip01
+Kd 1.0 1.0 1.0
+map_Kd textures/ScrapShip01_Alb.png
+
+newmtl Obj_Scrap01GantryCrane_WareHouseCraneA
+Kd 1.0 1.0 1.0
+map_Kd textures/WareHouseCraneA_Alb.png
+
+newmtl Obj_Scrap01Guillotine_Guillotine00
+Kd 1.0 1.0 1.0
+map_Kd textures/Guillotine00_Alb.png
+
+newmtl Obj_Scrap01Guillotine_Guillotine01
+Kd 1.0 1.0 1.0
+map_Kd textures/Guillotine01_Alb.png
+
+newmtl Obj_Scrap01Guillotine_Guillotine02
+Kd 1.0 1.0 1.0
+map_Kd textures/Guillotine02_Alb.png
+
+newmtl Obj_Scrap01Guillotine_Guillotine03
+Kd 1.0 1.0 1.0
+map_Kd textures/Guillotine03_Alb.png
+
+newmtl Obj_Scrap01Guillotine_TrashFloor00
+Kd 1.0 1.0 1.0
+map_Kd textures/TrashFloor00_Alb.png
+
+newmtl Obj_Scrap01VehicleForkLift_ForkLift
+Kd 1.0 1.0 1.0
+map_Kd textures/ForkLift_Alb.png
+

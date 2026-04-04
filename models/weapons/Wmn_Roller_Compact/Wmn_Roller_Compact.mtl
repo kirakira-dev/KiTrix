@@ -1,0 +1,28 @@
+# KiTrix material file
+newmtl Wmn_Roller_Compact_M_CustomBody
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.1 0.1 0.1
+Ns 32.0
+d 1.0
+map_Kd textures/M_CustomBody_Alb.png
+map_bump textures/M_CustomBody_Nrm.png
+
+newmtl Wmn_Roller_Compact_M_CustomBottle
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.1 0.1 0.1
+Ns 32.0
+d 1.0
+map_Kd textures/M_CustomBody_Alb.png
+map_bump textures/M_CustomBody_Nrm.png
+
+newmtl Wmn_Roller_Compact_M_CustomRoll
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.1 0.1 0.1
+Ns 32.0
+d 1.0
+map_Kd textures/M_CustomRoll_Alb.png
+map_bump textures/M_CustomRoll_Nrm.png
+

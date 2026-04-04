@@ -1,0 +1,309 @@
+# KiTrix material file
+newmtl FldBG_Wave03_BuildingSet00
+Kd 1.0 1.0 1.0
+map_Kd textures/BuildingSet00_Alb.png
+
+newmtl FldBG_Wave03_BuildingSet01
+Kd 1.0 1.0 1.0
+map_Kd textures/BuildingSet01_Alb.png
+
+newmtl FldBG_Wave03_Container
+Kd 1.0 1.0 1.0
+map_Kd textures/Container_Alb.png
+
+newmtl FldBG_Wave03_CorrugatedRoof
+Kd 1.0 1.0 1.0
+map_Kd textures/CorrugatedRoof_Alb.png
+
+newmtl FldBG_Wave03_FloorConcreteHigh
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorConcreteHigh_Alb.png
+
+newmtl FldBG_Wave03_GroundAsphalt
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundAsphalt_Alb.png
+
+newmtl FldBG_Wave03_GroundGrassBase
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundGrassBase_Alb.png
+
+newmtl FldBG_Wave03_Set
+Kd 1.0 1.0 1.0
+map_Kd textures/Set_Alb.png
+
+newmtl FldBG_Wave03_Soil
+Kd 1.0 1.0 1.0
+map_Kd textures/Soil_Alb.png
+
+newmtl FldBG_Wave03_VehicleColor
+Kd 1.0 1.0 1.0
+map_Kd textures/VehicleColor_Alb.png
+
+newmtl FldBG_Wave03_wallbrick
+Kd 1.0 1.0 1.0
+map_Kd textures/TreeSiluet_Alb.png
+
+newmtl FldObj_Wave03FlagBlue00_FlagBanners_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/FlagBanners_Alb.png
+
+newmtl FldObj_Wave03FlagBlue00_WallMetalFenceSet_ol_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/WallMetalFenceSet_Alb.png
+
+newmtl FldObj_WaveScatfoldA_NoFld_Fence01
+Kd 1.0 1.0 1.0
+map_Kd textures/Fence00_Alb.png
+
+newmtl FldObj_WaveScatfoldA_NoFld_col_ObjSet01_np
+Kd 1.0 1.0 1.0
+map_Kd textures/ObjSet01_Alb.png
+
+newmtl FldObj_WaveScatfoldA_NoFld_col_WallMetalFenceSet_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallMetalFenceSet_Alb.png
+
+newmtl Fld_Wave03_Accessory
+Kd 1.0 1.0 1.0
+map_Kd textures/Accessory_Alb.png
+
+newmtl Fld_Wave03_Bike00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Bike00_Alb.png
+
+newmtl Fld_Wave03_BikeShopObj
+Kd 1.0 1.0 1.0
+map_Kd textures/BikeShopObj_Alb.png
+
+newmtl Fld_Wave03_Bolt_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/Bolt_Alb.png
+
+newmtl Fld_Wave03_Cloth
+Kd 1.0 1.0 1.0
+map_Kd textures/Cloth_Alb.png
+
+newmtl Fld_Wave03_CorrugatedRoof_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/CorrugatedRoof_Alb.png
+
+newmtl Fld_Wave03_FabricCover
+Kd 1.0 1.0 1.0
+map_Kd textures/FabricCover_Alb.png
+
+newmtl Fld_Wave03_FabricCover_np
+Kd 1.0 1.0 1.0
+map_Kd textures/FabricCover_Alb.png
+
+newmtl Fld_Wave03_FenceIronNet
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceIronNet_Alb.png
+
+newmtl Fld_Wave03_Flag
+Kd 1.0 1.0 1.0
+map_Kd textures/Flag_Alb.png
+
+newmtl Fld_Wave03_FlagBanners
+Kd 1.0 1.0 1.0
+map_Kd textures/FlagBanners_Alb.png
+
+newmtl Fld_Wave03_Flag_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/Flag_Alb.png
+
+newmtl Fld_Wave03_FoamBlock
+Kd 1.0 1.0 1.0
+map_Kd textures/FoamBlock_Alb.png
+
+newmtl Fld_Wave03_FoamMat
+Kd 1.0 1.0 1.0
+map_Kd textures/FoamMat_Alb.png
+
+newmtl Fld_Wave03_FoamMat_np
+Kd 1.0 1.0 1.0
+map_Kd textures/FoamMat_Alb.png
+
+newmtl Fld_Wave03_Glass
+Kd 1.0 1.0 1.0
+map_Kd textures/Glass_Alb.png
+
+newmtl Fld_Wave03_Graffitiset
+Kd 1.0 1.0 1.0
+map_Kd textures/Graffitiset_Alb.png
+
+newmtl Fld_Wave03_Graffitiset_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Graffitiset_Alb.png
+
+newmtl Fld_Wave03_Graffitiset_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/Graffitiset_Alb.png
+
+newmtl Fld_Wave03_GroundCementGrey
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundCementGrey_Alb.png
+
+newmtl Fld_Wave03_GroundCementGrey_np
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundCementGrey_Alb.png
+
+newmtl Fld_Wave03_GroundCementLightGrey
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundCementLightGrey_Alb.png
+
+newmtl Fld_Wave03_GroundCementLightGrey_np
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundCementLightGrey_Alb.png
+
+newmtl Fld_Wave03_GroundConcreteGrey
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundConcreteGrey_Alb.png
+
+newmtl Fld_Wave03_GroundPlywood
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundPlywood_Alb.png
+
+newmtl Fld_Wave03_GroundPlywoodBrown
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundPlywood_Brown_Alb.png
+
+newmtl Fld_Wave03_GroundPlywoodBrown_np
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundPlywood_Brown_Alb.png
+
+newmtl Fld_Wave03_GroundPlywood_Logo
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundPlywood_Logo_Alb.png
+
+newmtl Fld_Wave03_GroundPlywood_Multi
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundPlywood_Multi_Alb.png
+
+newmtl Fld_Wave03_GroundPlywood_np
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundPlywood_Alb.png
+
+newmtl Fld_Wave03_GroundRoughWood
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundRoughWood_Alb.png
+
+newmtl Fld_Wave03_Light
+Kd 1.0 1.0 1.0
+map_Kd textures/Light_Alb.png
+
+newmtl Fld_Wave03_Light_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/Light_Alb.png
+
+newmtl Fld_Wave03_MtBike00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/MtBike00_Alb.png
+
+newmtl Fld_Wave03_MtBike01_np
+Kd 1.0 1.0 1.0
+map_Kd textures/MtBike01_Alb.png
+
+newmtl Fld_Wave03_ObjSet01_np
+Kd 1.0 1.0 1.0
+map_Kd textures/ObjSet01_Alb.png
+
+newmtl Fld_Wave03_ObjSet01_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/ObjSet01_Alb.png
+
+newmtl Fld_Wave03_Plywood
+Kd 1.0 1.0 1.0
+map_Kd textures/Plywood_Alb.png
+
+newmtl Fld_Wave03_ShipVinylSheet
+Kd 1.0 1.0 1.0
+map_Kd textures/ShipVinylSheet_Alb.png
+
+newmtl Fld_Wave03_ShopIronWood
+Kd 1.0 1.0 1.0
+map_Kd textures/ShopIronWood_Alb.png
+
+newmtl Fld_Wave03_Sign
+Kd 1.0 1.0 1.0
+map_Kd textures/Sign_Alb.png
+
+newmtl Fld_Wave03_StoneWoodSet
+Kd 1.0 1.0 1.0
+map_Kd textures/StoneWoodSet_Alb.png
+
+newmtl Fld_Wave03_StoneWoodSet_np
+Kd 1.0 1.0 1.0
+map_Kd textures/StoneWoodSet_Alb.png
+
+newmtl Fld_Wave03_WallMetalFenceSet
+Kd 1.0 1.0 1.0
+map_Kd textures/WallMetalFenceSet_Alb.png
+
+newmtl Fld_Wave03_WallMetalFenceSet_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/WallMetalFenceSet_Alb.png
+
+newmtl Fld_Wave03_WallMetalFenceSet_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallMetalFenceSet_Alb.png
+
+newmtl Fld_Wave03_WallMetalFenceSet_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/WallMetalFenceSet_Alb.png
+
+newmtl Fld_Wave03_WallVinylCover_Black
+Kd 1.0 1.0 1.0
+map_Kd textures/WallVinylCover_Black_Alb.png
+
+newmtl Fld_Wave03_Wallbricks
+Kd 1.0 1.0 1.0
+map_Kd textures/Wallbricks_Alb.png
+
+newmtl Fld_Wave03_WoodenBox
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodenBox_Alb.png
+
+newmtl Fld_Wave03_duct
+Kd 1.0 1.0 1.0
+map_Kd textures/duct_Alb.png
+
+newmtl Fld_Wave03_metalbeamsset
+Kd 1.0 1.0 1.0
+map_Kd textures/metalbeamsset_Alb.png
+
+newmtl Fld_Wave03_metalbeamsset_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/metalbeamsset_Alb.png
+
+newmtl Fld_Wave03_vent
+Kd 1.0 1.0 1.0
+map_Kd textures/vent_Alb.png
+
+newmtl Fld_Wave03_vent_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/vent_Alb.png
+
+newmtl Fld_Wave03_wallbrick
+Kd 1.0 1.0 1.0
+map_Kd textures/TreeSiluet_Alb.png
+
+newmtl Fld_Wave03_woodpanel
+Kd 1.0 1.0 1.0
+map_Kd textures/woodpanel_Alb.png
+
+newmtl Fld_Wave03_Canola_CanolaA
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaA_Alb.png
+
+newmtl Fld_Wave03_Canola_CanolaB
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaB_Alb.png
+
+newmtl Fld_Wave03_day00_Window
+Kd 1.0 1.0 1.0
+map_Kd textures/Window_Alb.png
+
+newmtl Fld_Wave03_day00_Window_cubemap
+Kd 1.0 1.0 1.0
+map_Kd textures/Window_Alb.png
+

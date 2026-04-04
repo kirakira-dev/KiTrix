@@ -1,0 +1,10 @@
+# KiTrix material file
+newmtl Wmn_Maneuver_Short_M_Twins_Short
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.1 0.1 0.1
+Ns 32.0
+d 1.0
+map_Kd textures/M_Twins_Short_Alb.png
+map_bump textures/M_Twins_Short_Nrm.png
+

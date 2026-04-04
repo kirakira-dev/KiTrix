@@ -1,0 +1,301 @@
+# KiTrix material file
+newmtl FldBG_Hiagari03_AirDancer
+Kd 1.0 1.0 1.0
+map_Kd textures/AirDancer_Alb.png
+
+newmtl FldBG_Hiagari03_BGLeaf
+Kd 1.0 1.0 1.0
+map_Kd textures/BGLeaf_Alb.png
+
+newmtl FldBG_Hiagari03_BGLeaf_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/BGLeaf_Alb.png
+
+newmtl FldBG_Hiagari03_BGTreeFarN
+Kd 1.0 1.0 1.0
+map_Kd textures/BGTreeFarN_Alb.png
+
+newmtl FldBG_Hiagari03_BGTreeSet
+Kd 1.0 1.0 1.0
+map_Kd textures/BGTreeSet_Alb.png
+
+newmtl FldBG_Hiagari03_BarbecueSet
+Kd 1.0 1.0 1.0
+map_Kd textures/BarbecueSet_Alb.png
+
+newmtl FldBG_Hiagari03_ConcertStage
+Kd 1.0 1.0 1.0
+map_Kd textures/ConcertStage_Alb.png
+
+newmtl FldBG_Hiagari03_ConcertStageLight
+Kd 1.0 1.0 1.0
+map_Kd textures/ConcertStageLight_Alb.png
+
+newmtl FldBG_Hiagari03_DVGrass
+Kd 1.0 1.0 1.0
+map_Kd textures/DVGrass_Alb.png
+
+newmtl FldBG_Hiagari03_DVHotelRoof
+Kd 1.0 1.0 1.0
+map_Kd textures/DVHotelRoof_Alb.png
+
+newmtl FldBG_Hiagari03_DVHotelTopWindow
+Kd 1.0 1.0 1.0
+map_Kd textures/DVHotelTopWindow_Alb.png
+
+newmtl FldBG_Hiagari03_DVHotelWall
+Kd 1.0 1.0 1.0
+map_Kd textures/DVHotelWall_Alb.png
+
+newmtl FldBG_Hiagari03_DVHotelWallDeco00
+Kd 1.0 1.0 1.0
+map_Kd textures/DVHotelWallDeco00_Alb.png
+
+newmtl FldBG_Hiagari03_DVHotelWallDecoEmm
+Kd 1.0 1.0 1.0
+map_Kd textures/DVHotelWallDecoEmm_Emm.png
+
+newmtl FldBG_Hiagari03_DVHotelWallSide
+Kd 1.0 1.0 1.0
+map_Kd textures/DVHotelWallSide_Alb.png
+
+newmtl FldBG_Hiagari03_DVHotelWall_Side
+Kd 1.0 1.0 1.0
+map_Kd textures/DVHotelWall_Side_Alb.png
+
+newmtl FldBG_Hiagari03_DVHotelWindow
+Kd 1.0 1.0 1.0
+map_Kd textures/DVHotelWindow_Alb.png
+
+newmtl FldBG_Hiagari03_DVLeafPottedPlant
+Kd 1.0 1.0 1.0
+map_Kd textures/DVLeafPottedPlant_Alb.png
+
+newmtl FldBG_Hiagari03_DVPoolSideEdgeStone
+Kd 1.0 1.0 1.0
+map_Kd textures/DVPoolSideEdgeStone_Alb.png
+
+newmtl FldBG_Hiagari03_DVPoolSideFloor
+Kd 1.0 1.0 1.0
+map_Kd textures/DVPoolSideFloor_Alb.png
+
+newmtl FldBG_Hiagari03_DVPoolSideSet00
+Kd 1.0 1.0 1.0
+map_Kd textures/DVPoolSideSet00_Alb.png
+
+newmtl FldBG_Hiagari03_DVPoolWallInside
+Kd 1.0 1.0 1.0
+map_Kd textures/DVPoolWallInside_Alb.png
+
+newmtl FldBG_Hiagari03_DVRock
+Kd 1.0 1.0 1.0
+map_Kd textures/DVRock_Alb.png
+
+newmtl FldBG_Hiagari03_DVSandBeach
+Kd 1.0 1.0 1.0
+map_Kd textures/DVSandBeach_Alb.png
+
+newmtl FldBG_Hiagari03_DVWallFrame
+Kd 1.0 1.0 1.0
+map_Kd textures/DVWallFrame_Alb.png
+
+newmtl FldBG_Hiagari03_GroundLight
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundLight_Alb.png
+
+newmtl FldBG_Hiagari03_MonsteraLeaf
+Kd 1.0 1.0 1.0
+map_Kd textures/MonsteraLeaf_Alb.png
+
+newmtl FldBG_Hiagari03_PalmtreeLeaf
+Kd 1.0 1.0 1.0
+map_Kd textures/PalmtreeLeaf_Alb.png
+
+newmtl FldBG_Hiagari03_PalmtreeWood
+Kd 1.0 1.0 1.0
+map_Kd textures/PalmtreeWood_Alb.png
+
+newmtl FldBG_Hiagari03_PoolsideBar
+Kd 1.0 1.0 1.0
+map_Kd textures/PoolsideBar_Alb.png
+
+newmtl FldBG_Hiagari03_PoolsideSofaSet
+Kd 1.0 1.0 1.0
+map_Kd textures/PoolsideSofaSet_Alb.png
+
+newmtl FldBG_Hiagari03_SeaWater
+Kd 1.0 1.0 1.0
+map_Kd textures/SeaWater_Nrm.png
+
+newmtl FldBG_Hiagari03_ShelterDeco
+Kd 1.0 1.0 1.0
+map_Kd textures/ShelterDeco_Alb.png
+
+newmtl FldBG_Hiagari03_SteelFrame
+Kd 1.0 1.0 1.0
+map_Kd textures/SteelFrame_Alb.png
+
+newmtl FldBG_Hiagari03_SteelFrameJoint
+Kd 1.0 1.0 1.0
+map_Kd textures/SteelFrameJoint_Alb.png
+
+newmtl FldBG_Hiagari03_WallPoleMetal
+Kd 1.0 1.0 1.0
+map_Kd textures/WallPoleMetal_Alb.png
+
+newmtl FldBG_Hiagari03_YuccaLeaf
+Kd 1.0 1.0 1.0
+map_Kd textures/YuccaLeaf_Alb.png
+
+newmtl FldObj_Hiagari03_AirPlane_JetPlaza00
+Kd 1.0 1.0 1.0
+map_Kd textures/JetPlaza00_Alb.png
+
+newmtl FldObj_HIagari03_PoolFloat_InflatableSlide
+Kd 1.0 1.0 1.0
+map_Kd textures/InflatableSlide_Alb.png
+
+newmtl FldObj_HIagari03_PoolFloat_PoolFloat
+Kd 1.0 1.0 1.0
+map_Kd textures/PoolFloat_Alb.png
+
+newmtl FldObj_HiagariFloatBallL_PoolFloat
+Kd 1.0 1.0 1.0
+map_Kd textures/PoolFloat_Alb.png
+
+newmtl FldObj_HiagariFloatBallM_PoolFloat
+Kd 1.0 1.0 1.0
+map_Kd textures/PoolFloat_Alb.png
+
+newmtl FldObj_HiagariFloatBallS_PoolFloat
+Kd 1.0 1.0 1.0
+map_Kd textures/PoolFloat_Alb.png
+
+newmtl FldObj_HiagariFloatDonut_PoolFloat
+Kd 1.0 1.0 1.0
+map_Kd textures/PoolFloat_Alb.png
+
+newmtl FldObj_HiagariFloatMattressA_DVPoolFloat
+Kd 1.0 1.0 1.0
+map_Kd textures/DVPoolFloat_Alb.png
+
+newmtl FldObj_HiagariFloatMattressB_DVPoolFloat
+Kd 1.0 1.0 1.0
+map_Kd textures/DVPoolFloat_Alb.png
+
+newmtl FldObj_HiagariFloatSlide_InflatableSlide
+Kd 1.0 1.0 1.0
+map_Kd textures/InflatableSlide_Alb.png
+
+newmtl Fld_Hiagari03_AdvertisementSeat
+Kd 1.0 1.0 1.0
+map_Kd textures/AdvertisementSeat_Alb.png
+
+newmtl Fld_Hiagari03_AdvertisementSeat01
+Kd 1.0 1.0 1.0
+map_Kd textures/AdvertisementSeat01_Alb.png
+
+newmtl Fld_Hiagari03_AdvertisementSeatUra
+Kd 1.0 1.0 1.0
+map_Kd textures/AdvertisementSeatUra_Alb.png
+
+newmtl Fld_Hiagari03_AlumiFlame
+Kd 1.0 1.0 1.0
+map_Kd textures/AlumiFlame_Alb.png
+
+newmtl Fld_Hiagari03_BounceFence01
+Kd 1.0 1.0 1.0
+map_Kd textures/BounceFence01_Alb.png
+
+newmtl Fld_Hiagari03_CanolaAV
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaAV_Alb.png
+
+newmtl Fld_Hiagari03_CanolaBV
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaBV_Alb.png
+
+newmtl Fld_Hiagari03_CheckPatternAlpha
+Kd 1.0 1.0 1.0
+map_Kd textures/CheckPatternAlpha_Alb.png
+
+newmtl Fld_Hiagari03_CheckPatternBravo
+Kd 1.0 1.0 1.0
+map_Kd textures/CheckPatternBravo_Alb.png
+
+newmtl Fld_Hiagari03_CopperNetTop
+Kd 1.0 1.0 1.0
+map_Kd textures/CopperNetTop_Alb.png
+
+newmtl Fld_Hiagari03_GroundWoodDeck
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundWoodDeck_Alb.png
+
+newmtl Fld_Hiagari03_GroundWoodDeck_np
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundWoodDeck_Alb.png
+
+newmtl Fld_Hiagari03_LEDLightSet
+Kd 1.0 1.0 1.0
+map_Kd textures/LEDLightSet_Alb.png
+
+newmtl Fld_Hiagari03_MetalFramePillar
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalFramePillar_Alb.png
+
+newmtl Fld_Hiagari03_MetalFrameStage
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalFrameStage_Alb.png
+
+newmtl Fld_Hiagari03_PoolFloat
+Kd 1.0 1.0 1.0
+map_Kd textures/PoolFloat_Alb.png
+
+newmtl Fld_Hiagari03_SpeakerArray
+Kd 1.0 1.0 1.0
+map_Kd textures/SpeakerArray_Alb.png
+
+newmtl Fld_Hiagari03_StealthSurface
+Kd 1.0 1.0 1.0
+map_Kd textures/StealthSurface_Alb.png
+
+newmtl Fld_Hiagari03_StealthWall02_np
+Kd 1.0 1.0 1.0
+map_Kd textures/StealthWall02_Alb.png
+
+newmtl Fld_Hiagari03_StealthWallEdge
+Kd 1.0 1.0 1.0
+map_Kd textures/StealthWallEdge_Alb.png
+
+newmtl Fld_Hiagari03_SteelFrame
+Kd 1.0 1.0 1.0
+map_Kd textures/SteelFrame_Alb.png
+
+newmtl Fld_Hiagari03_SteelFrameJoint
+Kd 1.0 1.0 1.0
+map_Kd textures/SteelFrameJoint_Alb.png
+
+newmtl Fld_Hiagari03_StencilPattern
+Kd 1.0 1.0 1.0
+map_Kd textures/StencilPattern_Alb.png
+
+newmtl Fld_Hiagari03_VinylSeatFixture
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylSeatFixture_Alb.png
+
+newmtl Fld_Hiagari03_WallPoleMetal
+Kd 1.0 1.0 1.0
+map_Kd textures/WallPoleMetal_Alb.png
+
+newmtl Fld_Hiagari03_WoodBoardEdge
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodBoardEdge_Alb.png
+
+newmtl Fld_Hiagari03_WoodBoardWhite
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodBoardWhite_Alb.png
+
+newmtl Fld_Hiagari03_WoodBoardWhite_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodBoardWhite_Alb.png
+

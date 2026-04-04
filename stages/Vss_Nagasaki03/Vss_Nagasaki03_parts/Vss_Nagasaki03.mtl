@@ -1,0 +1,337 @@
+# KiTrix material file
+newmtl FldBG_Nagasaki03_CanolaA
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaA_Alb.png
+
+newmtl FldBG_Nagasaki03_CanolaB
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaA_Alb.png
+
+newmtl FldBG_Nagasaki03_CarsSet
+Kd 1.0 1.0 1.0
+map_Kd textures/CarsSet_Alb.png
+
+newmtl FldBG_Nagasaki03_ContainerShipSmallGreen
+Kd 1.0 1.0 1.0
+map_Kd textures/ContainerShipSmallGreen_Alb.png
+
+newmtl FldBG_Nagasaki03_DVBuildingBase
+Kd 1.0 1.0 1.0
+map_Kd textures/DVBuildingBase_Alb.png
+
+newmtl FldBG_Nagasaki03_DVContainer
+Kd 1.0 1.0 1.0
+map_Kd textures/DVContainer_Alb.png
+
+newmtl FldBG_Nagasaki03_DVMountain
+Kd 1.0 1.0 1.0
+map_Kd textures/DVMountain_Alb.png
+
+newmtl FldBG_Nagasaki03_DVNagasakiBGBuildings
+Kd 1.0 1.0 1.0
+map_Kd textures/DVNagasakiBGBuildings_Alb.png
+
+newmtl FldBG_Nagasaki03_DV_Crane00
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_Crane00_Alb.png
+
+newmtl FldBG_Nagasaki03_DV_Crane00_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_Crane00_Alb.png
+
+newmtl FldBG_Nagasaki03_DV_Crane01
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_Crane01_Alb.png
+
+newmtl FldBG_Nagasaki03_DV_CraneNuki
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_CraneNuki_Alb.png
+
+newmtl FldBG_Nagasaki03_DV_Floor
+Kd 1.0 1.0 1.0
+map_Kd textures/DVfloor_Alb.png
+
+newmtl FldBG_Nagasaki03_DV_Floor2
+Kd 1.0 1.0 1.0
+map_Kd textures/DVfloor2_Alb.png
+
+newmtl FldBG_Nagasaki03_DV_SeaShips
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_SeaShips_Alb.png
+
+newmtl FldBG_Nagasaki03_DV_SeaShipsAddParts
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_SeaShipsAddParts_Alb.png
+
+newmtl FldBG_Nagasaki03_DV_SeaWall
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_SeaWall_Alb.png
+
+newmtl FldBG_Nagasaki03_DV_ShipyardBuilding
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_ShipyardBuilding_Alb.png
+
+newmtl FldBG_Nagasaki03_DV_Wallset
+Kd 1.0 1.0 1.0
+map_Kd textures/DVwallset_Alb.png
+
+newmtl FldBG_Nagasaki03_DV_Wallset2
+Kd 1.0 1.0 1.0
+map_Kd textures/DVwallset2_Alb.png
+
+newmtl FldBG_Nagasaki03_DVobject
+Kd 1.0 1.0 1.0
+map_Kd textures/DVobject_Alb.png
+
+newmtl FldBG_Nagasaki03_Graffiti_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Graffiti_Alb.png
+
+newmtl FldBG_Nagasaki03_Graffiti_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/Graffiti_Alb.png
+
+newmtl FldBG_Nagasaki03_NagasakiLight
+Kd 1.0 1.0 1.0
+map_Kd textures/NagasakiLight_Alb.png
+
+newmtl FldBG_Nagasaki03_NagasakiLight_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/NagasakiLight_Alb.png
+
+newmtl FldBG_Nagasaki03_ObjSet00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/ObjSet00_Alb.png
+
+newmtl FldBG_Nagasaki03_Wire_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Wire_Alb.png
+
+newmtl FldBG_Nagasaki03_Wire_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/Wire_Alb.png
+
+newmtl FldObj_Nagasaki03_Crane_DV_Crane01
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_Crane01_Alb.png
+
+newmtl FldObj_Nagasaki03_Crane_Wire_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/Wire_Alb.png
+
+newmtl FldObj_Nagasaki03_Water_DVWaterBasic
+Kd 1.0 1.0 1.0
+map_Kd textures/LakeWaterBasic_Alb.png
+
+newmtl FldObj_Nagasaki03_Water_DVWaterBasic_va
+Kd 1.0 1.0 1.0
+map_Kd textures/DVWaterBasic_Alb.png
+
+newmtl Fld_Nagasaki03_CameraWall
+Kd 1.0 1.0 1.0
+map_Kd textures/BakeDummy00.png
+
+newmtl Fld_Nagasaki03_CanolaA
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaA_Alb.png
+
+newmtl Fld_Nagasaki03_CanolaB
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaA_Alb.png
+
+newmtl Fld_Nagasaki03_ConstructionObject
+Kd 1.0 1.0 1.0
+map_Kd textures/ConstructionObject_Alb.png
+
+newmtl Fld_Nagasaki03_ConstructionObject_np
+Kd 1.0 1.0 1.0
+map_Kd textures/ConstructionObject_Alb.png
+
+newmtl Fld_Nagasaki03_DVFenceVinylGreen
+Kd 1.0 1.0 1.0
+map_Kd textures/DVFenceVinylGreen_Alb.png
+
+newmtl Fld_Nagasaki03_DV_Crane00
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_Crane00_Alb.png
+
+newmtl Fld_Nagasaki03_DV_Crane00_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_Crane00_Alb.png
+
+newmtl Fld_Nagasaki03_FenceGray
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceGray_Alb.png
+
+newmtl Fld_Nagasaki03_FenceVinylA
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceVinylA_Alb.png
+
+newmtl Fld_Nagasaki03_FenceVinylA_Grey
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceVinylA_Grey_Alb.png
+
+newmtl Fld_Nagasaki03_FenceVinylA_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceVinylA_Alb.png
+
+newmtl Fld_Nagasaki03_GoundRoughWood
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundRoughWood_Alb.png
+
+newmtl Fld_Nagasaki03_Graffiti
+Kd 1.0 1.0 1.0
+map_Kd textures/Graffiti_Alb.png
+
+newmtl Fld_Nagasaki03_Graffiti_logo
+Kd 1.0 1.0 1.0
+map_Kd textures/Graffiti_logo_Alb.png
+
+newmtl Fld_Nagasaki03_Graffiti_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Graffiti_Alb.png
+
+newmtl Fld_Nagasaki03_Graffiti_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/Graffiti_Alb.png
+
+newmtl Fld_Nagasaki03_GroundSteelPlate01
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundSteelPlate01_Alb.png
+
+newmtl Fld_Nagasaki03_GroundSteelPlate02
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundSteelPlate02_Alb.png
+
+newmtl Fld_Nagasaki03_GroundSteelPlate02_np
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundSteelPlate02_Alb.png
+
+newmtl Fld_Nagasaki03_GroundSteelPlate03
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundSteelPlate03_Alb.png
+
+newmtl Fld_Nagasaki03_GroundSteelPlate04
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundSteelPlate04_Alb.png
+
+newmtl Fld_Nagasaki03_MetalFrameSet
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalFrameSet_Alb.png
+
+newmtl Fld_Nagasaki03_MetalFrameSet_np
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalFrameSet_Alb.png
+
+newmtl Fld_Nagasaki03_NagasakiLight
+Kd 1.0 1.0 1.0
+map_Kd textures/NagasakiLight_Alb.png
+
+newmtl Fld_Nagasaki03_NagasakiLight_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/NagasakiLight_Alb.png
+
+newmtl Fld_Nagasaki03_ObjSet00
+Kd 1.0 1.0 1.0
+map_Kd textures/ObjSet00_Alb.png
+
+newmtl Fld_Nagasaki03_ObjSet00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/ObjSet00_Alb.png
+
+newmtl Fld_Nagasaki03_ObjSet00_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/ObjSet00_Alb.png
+
+newmtl Fld_Nagasaki03_PalletBox
+Kd 1.0 1.0 1.0
+map_Kd textures/PalletBox_Alb.png
+
+newmtl Fld_Nagasaki03_PalletBox_np
+Kd 1.0 1.0 1.0
+map_Kd textures/PalletBox_Alb.png
+
+newmtl Fld_Nagasaki03_PlateSteelGrey
+Kd 1.0 1.0 1.0
+map_Kd textures/PlateSteelGrey_Alb.png
+
+newmtl Fld_Nagasaki03_PlateSteelGrey2
+Kd 1.0 1.0 1.0
+map_Kd textures/PlateSteelGrey2_Alb.png
+
+newmtl Fld_Nagasaki03_RopeLightMaterial
+Kd 1.0 1.0 1.0
+map_Kd textures/RopeLightMaterial_Alb.png
+
+newmtl Fld_Nagasaki03_ScaffoldSet
+Kd 1.0 1.0 1.0
+map_Kd textures/ScaffoldSet_Alb.png
+
+newmtl Fld_Nagasaki03_ScaffoldSet2
+Kd 1.0 1.0 1.0
+map_Kd textures/ScaffoldSet2_Alb.png
+
+newmtl Fld_Nagasaki03_ScaffoldSet_np
+Kd 1.0 1.0 1.0
+map_Kd textures/ScaffoldSet_Alb.png
+
+newmtl Fld_Nagasaki03_ShipVinylSheet
+Kd 1.0 1.0 1.0
+map_Kd textures/ShipVinylSheet_Alb.png
+
+newmtl Fld_Nagasaki03_VinylClear
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylClear_Nrm.png
+
+newmtl Fld_Nagasaki03_WallShipOutside
+Kd 1.0 1.0 1.0
+map_Kd textures/WallShipOutside_Alb.png
+
+newmtl Fld_Nagasaki03_Wallshipmetal01
+Kd 1.0 1.0 1.0
+map_Kd textures/Wallshipmetal01_Alb.png
+
+newmtl Fld_Nagasaki03_Wallshipmetal03
+Kd 1.0 1.0 1.0
+map_Kd textures/Wallshipmetal03_Alb.png
+
+newmtl Fld_Nagasaki03_Wallshipmetal04
+Kd 1.0 1.0 1.0
+map_Kd textures/Wallshipmetal04_Alb.png
+
+newmtl Fld_Nagasaki03_Wallshipmetal04_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Wallshipmetal04_Alb.png
+
+newmtl Fld_Nagasaki03_Wallshipmetal05
+Kd 1.0 1.0 1.0
+map_Kd textures/Wallshipmetal05_Alb.png
+
+newmtl Fld_Nagasaki03_Wallshipmetal05_va
+Kd 1.0 1.0 1.0
+map_Kd textures/Wallshipmetal05_Alb.png
+
+newmtl Fld_Nagasaki03_Wallshipmetal06
+Kd 1.0 1.0 1.0
+map_Kd textures/Wallshipmetal06_Alb.png
+
+newmtl Fld_Nagasaki03_Wire
+Kd 1.0 1.0 1.0
+map_Kd textures/Wire_Alb.png
+
+newmtl Fld_Nagasaki03_Wire_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Wire_Alb.png
+
+newmtl Fld_Nagasaki03_Wire_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/Wire_Alb.png
+
+newmtl Fld_Nagasaki03_WoodBoard
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodBoard_Alb.png
+
+newmtl Fld_Nagasaki03_WoodBoard_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodBoard_Alb.png
+

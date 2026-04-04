@@ -1,0 +1,169 @@
+# KiTrix material file
+newmtl Fld_Manbou00_BoardFence00
+Kd 1.0 1.0 1.0
+map_Kd textures/BoardFence00_Alb.png
+
+newmtl Fld_Manbou00_BoardFence01
+Kd 1.0 1.0 1.0
+map_Kd textures/BoardFence01_Opa.png
+
+newmtl Fld_Manbou00_CanolaA
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaA_Alb.png
+
+newmtl Fld_Manbou00_CanolaAV
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaAV_Alb.png
+
+newmtl Fld_Manbou00_CanolaB
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaB_Alb.png
+
+newmtl Fld_Manbou00_CanolaBV
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaBV_Alb.png
+
+newmtl Fld_Manbou00_CanolaC
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaC_Alb.png
+
+newmtl Fld_Manbou00_CanolaCV
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaCV_Alb.png
+
+newmtl Fld_Manbou00_Fence01
+Kd 1.0 1.0 1.0
+map_Kd textures/Fence01_Alb.png
+
+newmtl Fld_Manbou00_FloorPanels
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorPanels_Alb.png
+
+newmtl Fld_Manbou00_FloorWaffle
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorWaffle_Alb.png
+
+newmtl Fld_Manbou00_FoamMat
+Kd 1.0 1.0 1.0
+map_Kd textures/FoamMat_Alb.png
+
+newmtl Fld_Manbou00_FootLight
+Kd 1.0 1.0 1.0
+map_Kd textures/FootLight_Alb.png
+
+newmtl Fld_Manbou00_Glass00
+Kd 1.0 1.0 1.0
+map_Kd textures/BakeDummy00.png
+
+newmtl Fld_Manbou00_GlassSide
+Kd 1.0 1.0 1.0
+map_Kd textures/GlassSide_Alb.png
+
+newmtl Fld_Manbou00_Graffiti00
+Kd 1.0 1.0 1.0
+map_Kd textures/Graffiti00_Alb.png
+
+newmtl Fld_Manbou00_Graffiti01
+Kd 1.0 1.0 1.0
+map_Kd textures/Graffiti01_Alb.png
+
+newmtl Fld_Manbou00_GroundPlywood
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundPlywood_Alb.png
+
+newmtl Fld_Manbou00_GroundPlywood_np
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundPlywood_Alb.png
+
+newmtl Fld_Manbou00_LEDLightSet
+Kd 1.0 1.0 1.0
+map_Kd textures/LEDLightSet_Alb.png
+
+newmtl Fld_Manbou00_Misc00
+Kd 1.0 1.0 1.0
+map_Kd textures/Misc00_Alb.png
+
+newmtl Fld_Manbou00_Misc00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Misc00_Alb.png
+
+newmtl Fld_Manbou00_PillarCurtain00
+Kd 1.0 1.0 1.0
+map_Kd textures/PillarCurtain00_Alb.png
+
+newmtl Fld_Manbou00_PlankFloor00
+Kd 1.0 1.0 1.0
+map_Kd textures/PlankFloor00_Alb.png
+
+newmtl Fld_Manbou00_PlankFloor01
+Kd 1.0 1.0 1.0
+map_Kd textures/PlankFloor01_Alb.png
+
+newmtl Fld_Manbou00_PlankFloor02
+Kd 1.0 1.0 1.0
+map_Kd textures/PlankFloor02_Alb.png
+
+newmtl Fld_Manbou00_PlankFloor03
+Kd 1.0 1.0 1.0
+map_Kd textures/PlankFloor03_Alb.png
+
+newmtl Fld_Manbou00_PlankWall
+Kd 1.0 1.0 1.0
+map_Kd textures/PlankWall_Alb.png
+
+newmtl Fld_Manbou00_ScaffoldWalls00
+Kd 1.0 1.0 1.0
+map_Kd textures/ScaffoldWalls00_Alb.png
+
+newmtl Fld_Manbou00_ScaffoldWalls00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/ScaffoldWalls00_Alb.png
+
+newmtl Fld_Manbou00_ScaffoldWalls00_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/ScaffoldWalls00_Alb.png
+
+newmtl Fld_Manbou00_StageCurtainRopes
+Kd 1.0 1.0 1.0
+map_Kd textures/StageCurtainRopes_Alb.png
+
+newmtl Fld_Manbou00_StageCurtains
+Kd 1.0 1.0 1.0
+map_Kd textures/StageCurtains_Alb.png
+
+newmtl Fld_Manbou00_StorageBox
+Kd 1.0 1.0 1.0
+map_Kd textures/StorageBox_Alb.png
+
+newmtl Fld_Manbou00_TrussScaffold00
+Kd 1.0 1.0 1.0
+map_Kd textures/TrussScaffold00_Alb.png
+
+newmtl Fld_Manbou00_VenueReel
+Kd 1.0 1.0 1.0
+map_Kd textures/VenueReel_Alb.png
+
+newmtl Fld_Manbou00_VinylClear
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylClear_Nrm.png
+
+newmtl Fld_Manbou00_WallTile00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallTile00_Alb.png
+
+newmtl Fld_Manbou00_WallTile01
+Kd 1.0 1.0 1.0
+map_Kd textures/WallTile01_Alb.png
+
+newmtl Fld_Manbou00_WallTile02
+Kd 1.0 1.0 1.0
+map_Kd textures/WallTile02_Alb.png
+
+newmtl Fld_Manbou00_WhiteFloor00
+Kd 1.0 1.0 1.0
+map_Kd textures/WhiteFloor00_Alb.png
+
+newmtl Fld_Manbou00_WhiteFloor01
+Kd 1.0 1.0 1.0
+map_Kd textures/WhiteFloor01_Alb.png
+

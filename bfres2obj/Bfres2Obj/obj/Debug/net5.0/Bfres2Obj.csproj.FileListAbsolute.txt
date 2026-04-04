@@ -1,0 +1,5 @@
+/Users/kirakira/Dev/KiTrix/bfres2obj/Bfres2Obj/obj/Debug/net5.0/Bfres2Obj.csproj.AssemblyReference.cache
+/Users/kirakira/Dev/KiTrix/bfres2obj/Bfres2Obj/obj/Debug/net5.0/Bfres2Obj.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirakira/Dev/KiTrix/bfres2obj/Bfres2Obj/obj/Debug/net5.0/Bfres2Obj.AssemblyInfoInputs.cache
+/Users/kirakira/Dev/KiTrix/bfres2obj/Bfres2Obj/obj/Debug/net5.0/Bfres2Obj.AssemblyInfo.cs
+/Users/kirakira/Dev/KiTrix/bfres2obj/Bfres2Obj/obj/Debug/net5.0/Bfres2Obj.csproj.CoreCompileInputs.cache

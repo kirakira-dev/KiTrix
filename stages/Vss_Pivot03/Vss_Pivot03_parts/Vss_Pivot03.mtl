@@ -1,0 +1,893 @@
+# KiTrix material file
+newmtl FldBG_Pivot03_ArtStatueA
+Kd 1.0 1.0 1.0
+map_Kd textures/ArtStatueA_Alb.png
+
+newmtl FldBG_Pivot03_ArtStatueB
+Kd 1.0 1.0 1.0
+map_Kd textures/ArtStatueB_Alb.png
+
+newmtl FldBG_Pivot03_DVBuildingsSet
+Kd 1.0 1.0 1.0
+map_Kd textures/DVBuildingsSet_Alb.png
+
+newmtl FldBG_Pivot03_DVGroundAsphalt
+Kd 1.0 1.0 1.0
+map_Kd textures/DVGroundAsphalt_Alb.png
+
+newmtl FldBG_Pivot03_DVGroundAsphaltDark
+Kd 1.0 1.0 1.0
+map_Kd textures/DVGroundAsphaltDark_Alb.png
+
+newmtl FldBG_Pivot03_DVGroundConcrete
+Kd 1.0 1.0 1.0
+map_Kd textures/DVGroundConcrete_Alb.png
+
+newmtl FldBG_Pivot03_DVGroundGrass.FldBG_Pivot03
+Kd 1.0 1.0 1.0
+map_Kd textures/DVGroundGrass_Alb.png
+
+newmtl FldBG_Pivot03_DVGroundSealSet
+Kd 1.0 1.0 1.0
+map_Kd textures/DVGroundSealSet_Alb.png
+
+newmtl FldBG_Pivot03_DVIronSet
+Kd 1.0 1.0 1.0
+map_Kd textures/DVIronSet_Alb.png
+
+newmtl FldBG_Pivot03_DVKomono
+Kd 1.0 1.0 1.0
+map_Kd textures/DVKomono_Alb.png
+
+newmtl FldBG_Pivot03_DVMud
+Kd 1.0 1.0 1.0
+map_Kd textures/DVMud_Alb.png
+
+newmtl FldBG_Pivot03_DVPlants
+Kd 1.0 1.0 1.0
+map_Kd textures/DVPlants_Alb.png
+
+newmtl FldBG_Pivot03_DVRoseWood
+Kd 1.0 1.0 1.0
+map_Kd textures/DVRoseWood_Alb.png
+
+newmtl FldBG_Pivot03_PosterAndPainting05
+Kd 1.0 1.0 1.0
+map_Kd textures/PosterAndPainting05_Alb.png
+
+newmtl FldBG_Pivot03_WallConcreteGray
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteGray_Alb.png
+
+newmtl FldBG_Pivot03_WallDarkChocolate.FldBG_Pivot03
+Kd 1.0 1.0 1.0
+map_Kd textures/WallDarkChocolate_Alb.png
+
+newmtl FldBG_Pivot03_Water
+Kd 1.0 1.0 1.0
+map_Kd textures/Water_Nrm.png
+
+newmtl FldBG_Pivot03_WaterUnclear
+Kd 1.0 1.0 1.0
+map_Kd textures/Water_Nrm.png
+
+newmtl FldObj_Pivot03_PackPnt_ArtPainting01
+Kd 1.0 1.0 1.0
+map_Kd textures/ArtPainting01_Alb.png
+
+newmtl FldObj_Pivot03_PackPnt_CanolaA
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaA_Alb.png
+
+newmtl FldObj_Pivot03_PackPnt_CanolaB
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaB_Alb.png
+
+newmtl FldObj_Pivot03_PackPnt_DVWallSculpture
+Kd 1.0 1.0 1.0
+map_Kd textures/DVWallSculpture_Alb.png
+
+newmtl FldObj_Pivot03_PackPnt_FenceVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/M_FenceVinyl_Alb.png
+
+newmtl FldObj_Pivot03_PackPnt_GlassMirror
+Kd 1.0 1.0 1.0
+map_Kd textures/GlassMirror_Alb.png
+
+newmtl FldObj_Pivot03_PackPnt_GroundFuchi
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundFuchi_Alb.png
+
+newmtl FldObj_Pivot03_PackPnt_GroundFuchi_np
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundFuchi_Alb.png
+
+newmtl FldObj_Pivot03_PackPnt_GroundLabar
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundLabar_Alb.png
+
+newmtl FldObj_Pivot03_PackPnt_GroundSealRepeatNuki
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundSealRepeatNuki_Alb.png
+
+newmtl FldObj_Pivot03_PackPnt_GroundSquareTile
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundSquareTile_Alb.png
+
+newmtl FldObj_Pivot03_PackPnt_KomonoMatome
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoMatome_Alb.png
+
+newmtl FldObj_Pivot03_PackPnt_KomonoMatome_np
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoMatome_Alb.png
+
+newmtl FldObj_Pivot03_PackPnt_KomonoMatome_sp
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoMatome_Alb.png
+
+newmtl FldObj_Pivot03_PackPnt_PearlSculptureA
+Kd 1.0 1.0 1.0
+map_Kd textures/PearlSculptureA_Alb.png
+
+newmtl FldObj_Pivot03_PackPnt_PortableStageEdge
+Kd 1.0 1.0 1.0
+map_Kd textures/PortableStageEdge_Alb.png
+
+newmtl FldObj_Pivot03_PackPnt_PortableStageEdge_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/PortableStageEdge_Alb.png
+
+newmtl FldObj_Pivot03_PackPnt_PortableStageEdge_np
+Kd 1.0 1.0 1.0
+map_Kd textures/PortableStageEdge_Alb.png
+
+newmtl FldObj_Pivot03_PackPnt_PortableStageFloor
+Kd 1.0 1.0 1.0
+map_Kd textures/PortableStageFloor_Alb.png
+
+newmtl FldObj_Pivot03_PackPnt_PortableStageSide
+Kd 1.0 1.0 1.0
+map_Kd textures/PortableStageSide_Alb.png
+
+newmtl FldObj_Pivot03_PackPnt_PosterAndPainting02
+Kd 1.0 1.0 1.0
+map_Kd textures/PosterAndPainting02_Alb.png
+
+newmtl FldObj_Pivot03_PackPnt_PosterAndPainting03
+Kd 1.0 1.0 1.0
+map_Kd textures/PosterAndPainting03_Alb.png
+
+newmtl FldObj_Pivot03_PackPnt_RoseWood
+Kd 1.0 1.0 1.0
+map_Kd textures/RoseWood_Alb.png
+
+newmtl FldObj_Pivot03_PackPnt_RoseWood_np
+Kd 1.0 1.0 1.0
+map_Kd textures/RoseWood_Alb.png
+
+newmtl FldObj_Pivot03_PackPnt_SealFont_np
+Kd 1.0 1.0 1.0
+map_Kd textures/SealFont_Alb.png
+
+newmtl FldObj_Pivot03_PackPnt_WallConcreteAlpha
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteAlpha_Alb.png
+
+newmtl FldObj_Pivot03_PackPnt_WallConcreteBlue_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteBlue_Alb.png
+
+newmtl FldObj_Pivot03_PackPnt_WallConcreteBravo
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteBravo_Alb.png
+
+newmtl FldObj_Pivot03_PackPnt_WallConcreteUchiu
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteUchi_Alb.png
+
+newmtl FldObj_Pivot03_PackPnt_WallConcreteWhite
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteWhite_Alb.png
+
+newmtl FldObj_Pivot03_PackPnt_WallDarkChocolate
+Kd 1.0 1.0 1.0
+map_Kd textures/WallDarkChocolate_Alb.png
+
+newmtl FldObj_Pivot03_PackPnt_WallPaints
+Kd 1.0 1.0 1.0
+map_Kd textures/WallPaints_Alb.png
+
+newmtl FldObj_Pivot03_PackPnt_WallRepeatParts_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallRepeatParts_Alb.png
+
+newmtl FldObj_Pivot03_PackPnt_WoodPanel
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodPanel_Alb.png
+
+newmtl FldObj_Pivot03_PackVar_ArtPainting01
+Kd 1.0 1.0 1.0
+map_Kd textures/ArtPainting01_Alb.png
+
+newmtl FldObj_Pivot03_PackVar_CanolaA
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaA_Alb.png
+
+newmtl FldObj_Pivot03_PackVar_CanolaB
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaB_Alb.png
+
+newmtl FldObj_Pivot03_PackVar_DVWallSculpture
+Kd 1.0 1.0 1.0
+map_Kd textures/DVWallSculpture_Alb.png
+
+newmtl FldObj_Pivot03_PackVar_FenceVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/M_FenceVinyl_Alb.png
+
+newmtl FldObj_Pivot03_PackVar_GlassMirror
+Kd 1.0 1.0 1.0
+map_Kd textures/GlassMirror_Alb.png
+
+newmtl FldObj_Pivot03_PackVar_GroundFuchi
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundFuchi_Alb.png
+
+newmtl FldObj_Pivot03_PackVar_GroundFuchi_np
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundFuchi_Alb.png
+
+newmtl FldObj_Pivot03_PackVar_GroundLabar
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundLabar_Alb.png
+
+newmtl FldObj_Pivot03_PackVar_GroundSealRepeatNuki
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundSealRepeatNuki_Alb.png
+
+newmtl FldObj_Pivot03_PackVar_GroundSquareTile
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundSquareTile_Alb.png
+
+newmtl FldObj_Pivot03_PackVar_KomonoMatome
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoMatome_Alb.png
+
+newmtl FldObj_Pivot03_PackVar_KomonoMatome_np
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoMatome_Alb.png
+
+newmtl FldObj_Pivot03_PackVar_KomonoMatome_sp
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoMatome_Alb.png
+
+newmtl FldObj_Pivot03_PackVar_PearlSculptureA
+Kd 1.0 1.0 1.0
+map_Kd textures/PearlSculptureA_Alb.png
+
+newmtl FldObj_Pivot03_PackVar_PortableStageEdge
+Kd 1.0 1.0 1.0
+map_Kd textures/PortableStageEdge_Alb.png
+
+newmtl FldObj_Pivot03_PackVar_PortableStageEdge_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/PortableStageEdge_Alb.png
+
+newmtl FldObj_Pivot03_PackVar_PortableStageEdge_np
+Kd 1.0 1.0 1.0
+map_Kd textures/PortableStageEdge_Alb.png
+
+newmtl FldObj_Pivot03_PackVar_PortableStageFloor
+Kd 1.0 1.0 1.0
+map_Kd textures/PortableStageFloor_Alb.png
+
+newmtl FldObj_Pivot03_PackVar_PortableStageSide
+Kd 1.0 1.0 1.0
+map_Kd textures/PortableStageSide_Alb.png
+
+newmtl FldObj_Pivot03_PackVar_PosterAndPainting02
+Kd 1.0 1.0 1.0
+map_Kd textures/PosterAndPainting02_Alb.png
+
+newmtl FldObj_Pivot03_PackVar_PosterAndPainting03
+Kd 1.0 1.0 1.0
+map_Kd textures/PosterAndPainting03_Alb.png
+
+newmtl FldObj_Pivot03_PackVar_RoseWood
+Kd 1.0 1.0 1.0
+map_Kd textures/RoseWood_Alb.png
+
+newmtl FldObj_Pivot03_PackVar_RoseWood_np
+Kd 1.0 1.0 1.0
+map_Kd textures/RoseWood_Alb.png
+
+newmtl FldObj_Pivot03_PackVar_SealFont_np
+Kd 1.0 1.0 1.0
+map_Kd textures/SealFont_Alb.png
+
+newmtl FldObj_Pivot03_PackVar_WallConcreteAlpha
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteAlpha_Alb.png
+
+newmtl FldObj_Pivot03_PackVar_WallConcreteBlue_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteBlue_Alb.png
+
+newmtl FldObj_Pivot03_PackVar_WallConcreteBravo
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteBravo_Alb.png
+
+newmtl FldObj_Pivot03_PackVar_WallConcreteUchiu
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteUchi_Alb.png
+
+newmtl FldObj_Pivot03_PackVar_WallConcreteWhite
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteWhite_Alb.png
+
+newmtl FldObj_Pivot03_PackVar_WallDarkChocolate
+Kd 1.0 1.0 1.0
+map_Kd textures/WallDarkChocolate_Alb.png
+
+newmtl FldObj_Pivot03_PackVar_WallPaints
+Kd 1.0 1.0 1.0
+map_Kd textures/WallPaints_Alb.png
+
+newmtl FldObj_Pivot03_PackVar_WallRepeatParts_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallRepeatParts_Alb.png
+
+newmtl FldObj_Pivot03_PackVar_WoodPanel
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodPanel_Alb.png
+
+newmtl FldObj_Pivot03_PackVcl_ArtPainting01
+Kd 1.0 1.0 1.0
+map_Kd textures/ArtPainting01_Alb.png
+
+newmtl FldObj_Pivot03_PackVcl_CanolaA
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaA_Alb.png
+
+newmtl FldObj_Pivot03_PackVcl_CanolaB
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaB_Alb.png
+
+newmtl FldObj_Pivot03_PackVcl_DVWallSculpture
+Kd 1.0 1.0 1.0
+map_Kd textures/DVWallSculpture_Alb.png
+
+newmtl FldObj_Pivot03_PackVcl_FenceSteelFrame
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceSteelFrame_Alb.png
+
+newmtl FldObj_Pivot03_PackVcl_FenceSteelStandardGrey
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceSteelStandardGrey_Alb.png
+
+newmtl FldObj_Pivot03_PackVcl_FenceVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/M_FenceVinyl_Alb.png
+
+newmtl FldObj_Pivot03_PackVcl_GlassMirror
+Kd 1.0 1.0 1.0
+map_Kd textures/GlassMirror_Alb.png
+
+newmtl FldObj_Pivot03_PackVcl_GroundFuchi
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundFuchi_Alb.png
+
+newmtl FldObj_Pivot03_PackVcl_GroundFuchi_np
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundFuchi_Alb.png
+
+newmtl FldObj_Pivot03_PackVcl_GroundFuchi_sp
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundFuchi_Alb.png
+
+newmtl FldObj_Pivot03_PackVcl_GroundLabar
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundLabar_Alb.png
+
+newmtl FldObj_Pivot03_PackVcl_KomonoMatome
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoMatome_Alb.png
+
+newmtl FldObj_Pivot03_PackVcl_KomonoMatome_np
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoMatome_Alb.png
+
+newmtl FldObj_Pivot03_PackVcl_PortableStageEdge
+Kd 1.0 1.0 1.0
+map_Kd textures/PortableStageEdge_Alb.png
+
+newmtl FldObj_Pivot03_PackVcl_PortableStageEdge_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/PortableStageEdge_Alb.png
+
+newmtl FldObj_Pivot03_PackVcl_PortableStageEdge_np
+Kd 1.0 1.0 1.0
+map_Kd textures/PortableStageEdge_Alb.png
+
+newmtl FldObj_Pivot03_PackVcl_PortableStageEdge_sp
+Kd 1.0 1.0 1.0
+map_Kd textures/PortableStageEdge_Alb.png
+
+newmtl FldObj_Pivot03_PackVcl_PortableStageFloor
+Kd 1.0 1.0 1.0
+map_Kd textures/PortableStageFloor_Alb.png
+
+newmtl FldObj_Pivot03_PackVcl_PortableStageSide
+Kd 1.0 1.0 1.0
+map_Kd textures/PortableStageSide_Alb.png
+
+newmtl FldObj_Pivot03_PackVcl_PosterAndPainting02
+Kd 1.0 1.0 1.0
+map_Kd textures/PosterAndPainting02_Alb.png
+
+newmtl FldObj_Pivot03_PackVcl_WallConcreteAlpha
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteAlpha_Alb.png
+
+newmtl FldObj_Pivot03_PackVcl_WallConcreteBlue_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteBlue_Alb.png
+
+newmtl FldObj_Pivot03_PackVcl_WallConcreteBravo
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteBravo_Alb.png
+
+newmtl FldObj_Pivot03_PackVcl_WallDarkChocolate
+Kd 1.0 1.0 1.0
+map_Kd textures/WallDarkChocolate_Alb.png
+
+newmtl FldObj_Pivot03_PackVcl_WallPaints
+Kd 1.0 1.0 1.0
+map_Kd textures/WallPaints_Alb.png
+
+newmtl FldObj_Pivot03_PackVcl_WallRepeatParts_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallRepeatParts_Alb.png
+
+newmtl FldObj_Pivot03_PackVcl_WoodPanel
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodPanel_Alb.png
+
+newmtl FldObj_Pivot03_PackVgl_ArtPainting01
+Kd 1.0 1.0 1.0
+map_Kd textures/ArtPainting01_Alb.png
+
+newmtl FldObj_Pivot03_PackVgl_CanolaA
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaA_Alb.png
+
+newmtl FldObj_Pivot03_PackVgl_CanolaB
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaB_Alb.png
+
+newmtl FldObj_Pivot03_PackVgl_FenceSteelFrame
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceSteelFrame_Alb.png
+
+newmtl FldObj_Pivot03_PackVgl_FenceSteelStandardGrey
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceSteelStandardGrey_Alb.png
+
+newmtl FldObj_Pivot03_PackVgl_GlassMirror
+Kd 1.0 1.0 1.0
+map_Kd textures/GlassMirror_Alb.png
+
+newmtl FldObj_Pivot03_PackVgl_GroundFuchi
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundFuchi_Alb.png
+
+newmtl FldObj_Pivot03_PackVgl_GroundFuchi_np
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundFuchi_Alb.png
+
+newmtl FldObj_Pivot03_PackVgl_GroundFuchi_sp
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundFuchi_Alb.png
+
+newmtl FldObj_Pivot03_PackVgl_GroundLabar
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundLabar_Alb.png
+
+newmtl FldObj_Pivot03_PackVgl_KomonoMatome
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoMatome_Alb.png
+
+newmtl FldObj_Pivot03_PackVgl_KomonoMatome_np
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoMatome_Alb.png
+
+newmtl FldObj_Pivot03_PackVgl_PortableStageEdge
+Kd 1.0 1.0 1.0
+map_Kd textures/PortableStageEdge_Alb.png
+
+newmtl FldObj_Pivot03_PackVgl_PortableStageEdge_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/PortableStageEdge_Alb.png
+
+newmtl FldObj_Pivot03_PackVgl_PortableStageEdge_np
+Kd 1.0 1.0 1.0
+map_Kd textures/PortableStageEdge_Alb.png
+
+newmtl FldObj_Pivot03_PackVgl_PortableStageEdge_sp
+Kd 1.0 1.0 1.0
+map_Kd textures/PortableStageEdge_Alb.png
+
+newmtl FldObj_Pivot03_PackVgl_PortableStageFloor
+Kd 1.0 1.0 1.0
+map_Kd textures/PortableStageFloor_Alb.png
+
+newmtl FldObj_Pivot03_PackVgl_PortableStageSide
+Kd 1.0 1.0 1.0
+map_Kd textures/PortableStageSide_Alb.png
+
+newmtl FldObj_Pivot03_PackVgl_WallConcreteAlpha
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteAlpha_Alb.png
+
+newmtl FldObj_Pivot03_PackVgl_WallConcreteBravo
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteBravo_Alb.png
+
+newmtl FldObj_Pivot03_PackVgl_WallDarkChocolate
+Kd 1.0 1.0 1.0
+map_Kd textures/WallDarkChocolate_Alb.png
+
+newmtl FldObj_Pivot03_PackVgl_WallPaints
+Kd 1.0 1.0 1.0
+map_Kd textures/WallPaints_Alb.png
+
+newmtl FldObj_Pivot03_PackVgl_WallRepeatParts_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallRepeatParts_Alb.png
+
+newmtl FldObj_Pivot03_PackVgl_WoodPanel
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodPanel_Alb.png
+
+newmtl FldObj_Pivot03_PackVlf_DVWallSculpture
+Kd 1.0 1.0 1.0
+map_Kd textures/DVWallSculpture_Alb.png
+
+newmtl FldObj_Pivot03_PackVlf_FenceSteelFrame
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceSteelFrame_Alb.png
+
+newmtl FldObj_Pivot03_PackVlf_FenceSteelStandardGrey
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceSteelStandardGrey_Alb.png
+
+newmtl FldObj_Pivot03_PackVlf_FenceVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/M_FenceVinyl_Alb.png
+
+newmtl FldObj_Pivot03_PackVlf_GlassMirror
+Kd 1.0 1.0 1.0
+map_Kd textures/GlassMirror_Alb.png
+
+newmtl FldObj_Pivot03_PackVlf_GroundFuchi
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundFuchi_Alb.png
+
+newmtl FldObj_Pivot03_PackVlf_GroundFuchi_np
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundFuchi_Alb.png
+
+newmtl FldObj_Pivot03_PackVlf_KomonoMatome_np
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoMatome_Alb.png
+
+newmtl FldObj_Pivot03_PackVlf_PortableStageEdge
+Kd 1.0 1.0 1.0
+map_Kd textures/PortableStageEdge_Alb.png
+
+newmtl FldObj_Pivot03_PackVlf_PortableStageEdge_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/PortableStageEdge_Alb.png
+
+newmtl FldObj_Pivot03_PackVlf_PortableStageEdge_np
+Kd 1.0 1.0 1.0
+map_Kd textures/PortableStageEdge_Alb.png
+
+newmtl FldObj_Pivot03_PackVlf_PortableStageEdge_sp
+Kd 1.0 1.0 1.0
+map_Kd textures/PortableStageEdge_Alb.png
+
+newmtl FldObj_Pivot03_PackVlf_PortableStageFloor
+Kd 1.0 1.0 1.0
+map_Kd textures/PortableStageFloor_Alb.png
+
+newmtl FldObj_Pivot03_PackVlf_PortableStageSide
+Kd 1.0 1.0 1.0
+map_Kd textures/PortableStageSide_Alb.png
+
+newmtl FldObj_Pivot03_PackVlf_PosterAndPainting02
+Kd 1.0 1.0 1.0
+map_Kd textures/PosterAndPainting02_Alb.png
+
+newmtl FldObj_Pivot03_PackVlf_SealFont_np
+Kd 1.0 1.0 1.0
+map_Kd textures/SealFont_Alb.png
+
+newmtl FldObj_Pivot03_PackVlf_WallConcreteAlpha
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteAlpha_Alb.png
+
+newmtl FldObj_Pivot03_PackVlf_WallConcreteBlue_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteBlue_Alb.png
+
+newmtl FldObj_Pivot03_PackVlf_WallConcreteBravo
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteBravo_Alb.png
+
+newmtl FldObj_Pivot03_PackVlf_WallPaints
+Kd 1.0 1.0 1.0
+map_Kd textures/WallPaints_Alb.png
+
+newmtl FldObj_Pivot03_PackVlf_WallRepeatParts_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallRepeatParts_Alb.png
+
+newmtl FldObj_Pivot03_PackVlf_WoodPanel
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodPanel_Alb.png
+
+newmtl Fld_Pivot03_ArtPainting00
+Kd 1.0 1.0 1.0
+map_Kd textures/ArtPainting00_Alb.png
+
+newmtl Fld_Pivot03_ArtPainting01
+Kd 1.0 1.0 1.0
+map_Kd textures/ArtPainting01_Alb.png
+
+newmtl Fld_Pivot03_ArtStatueA
+Kd 1.0 1.0 1.0
+map_Kd textures/ArtStatueA_Alb.png
+
+newmtl Fld_Pivot03_ArtStatueB
+Kd 1.0 1.0 1.0
+map_Kd textures/ArtStatueB_Alb.png
+
+newmtl Fld_Pivot03_CanolaA
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaA_Alb.png
+
+newmtl Fld_Pivot03_CanolaB
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaB_Alb.png
+
+newmtl Fld_Pivot03_DVGroundConcrete
+Kd 1.0 1.0 1.0
+map_Kd textures/DVGroundConcrete_Alb.png
+
+newmtl Fld_Pivot03_DVGroundGrass
+Kd 1.0 1.0 1.0
+map_Kd textures/DVGroundGrass_Alb.png
+
+newmtl Fld_Pivot03_DVPlasterFigure
+Kd 1.0 1.0 1.0
+map_Kd textures/DVPlasterFigure_Alb.png
+
+newmtl Fld_Pivot03_ExhibitB
+Kd 1.0 1.0 1.0
+map_Kd textures/ExhibitB_Alb.png
+
+newmtl Fld_Pivot03_FenceSteelFrame
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceSteelFrame_Alb.png
+
+newmtl Fld_Pivot03_FenceSteelStandardGrey
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceSteelStandardGrey_Alb.png
+
+newmtl Fld_Pivot03_FenceSteelStandardGrey_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceSteelStandardGrey_Alb.png
+
+newmtl Fld_Pivot03_FossilDispSmall
+Kd 1.0 1.0 1.0
+map_Kd textures/FossilDispSmall_Alb.png
+
+newmtl Fld_Pivot03_GlassMirror
+Kd 1.0 1.0 1.0
+map_Kd textures/GlassMirror_Alb.png
+
+newmtl Fld_Pivot03_GlassMirrorN
+Kd 1.0 1.0 1.0
+map_Kd textures/GlassMirrorN_Alb.png
+
+newmtl Fld_Pivot03_GroundAsphalt
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundAsphalt_Alb.png
+
+newmtl Fld_Pivot03_GroundFuchi
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundFuchi_Alb.png
+
+newmtl Fld_Pivot03_GroundFuchiNotPaint_np
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundFuchiNotPaint_Alb.png
+
+newmtl Fld_Pivot03_GroundFuchi_np
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundFuchi_Alb.png
+
+newmtl Fld_Pivot03_GroundGrassLittleSoil
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundGrassLittleSoil_Alb.png
+
+newmtl Fld_Pivot03_GroundIkataku
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundIkataku_Alb.png
+
+newmtl Fld_Pivot03_GroundIkataku_np
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundIkataku_Alb.png
+
+newmtl Fld_Pivot03_GroundLabar
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundLabar_Alb.png
+
+newmtl Fld_Pivot03_GroundSealRepeatNuki
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundSealRepeatNuki_Alb.png
+
+newmtl Fld_Pivot03_GroundSquareTile
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundSquareTile_Alb.png
+
+newmtl Fld_Pivot03_HornStatue
+Kd 1.0 1.0 1.0
+map_Kd textures/HornStatue_Alb.png
+
+newmtl Fld_Pivot03_IkaStatue
+Kd 1.0 1.0 1.0
+map_Kd textures/IkaStatue_Alb.png
+
+newmtl Fld_Pivot03_KomonoMatome
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoMatome_Alb.png
+
+newmtl Fld_Pivot03_KomonoMatome2
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoMatome2_Alb.png
+
+newmtl Fld_Pivot03_KomonoMatome2_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoMatome2_Alb.png
+
+newmtl Fld_Pivot03_KomonoMatome_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoMatome_Alb.png
+
+newmtl Fld_Pivot03_LeafSet
+Kd 1.0 1.0 1.0
+map_Kd textures/LeafSet_Alb.png
+
+newmtl Fld_Pivot03_LeafSet_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/LeafSet_Alb.png
+
+newmtl Fld_Pivot03_ModernSculpture
+Kd 1.0 1.0 1.0
+map_Kd textures/ModernSculpture_Alb.png
+
+newmtl Fld_Pivot03_PlantGround
+Kd 1.0 1.0 1.0
+map_Kd textures/PlantGround_Alb.png
+
+newmtl Fld_Pivot03_PosterAndPainting01
+Kd 1.0 1.0 1.0
+map_Kd textures/PosterAndPainting01_Alb.png
+
+newmtl Fld_Pivot03_PosterAndPainting02
+Kd 1.0 1.0 1.0
+map_Kd textures/PosterAndPainting02_Alb.png
+
+newmtl Fld_Pivot03_PosterAndPainting03
+Kd 1.0 1.0 1.0
+map_Kd textures/PosterAndPainting03_Alb.png
+
+newmtl Fld_Pivot03_PosterAndPainting04
+Kd 1.0 1.0 1.0
+map_Kd textures/PosterAndPainting04_Alb.png
+
+newmtl Fld_Pivot03_RoseWood
+Kd 1.0 1.0 1.0
+map_Kd textures/RoseWood_Alb.png
+
+newmtl Fld_Pivot03_RoseWood_np
+Kd 1.0 1.0 1.0
+map_Kd textures/RoseWood_Alb.png
+
+newmtl Fld_Pivot03_SealFont
+Kd 1.0 1.0 1.0
+map_Kd textures/SealFont_Alb.png
+
+newmtl Fld_Pivot03_SealFont_np
+Kd 1.0 1.0 1.0
+map_Kd textures/SealFont_Alb.png
+
+newmtl Fld_Pivot03_ShellSculptureA
+Kd 1.0 1.0 1.0
+map_Kd textures/ShellSculptureA_Alb.png
+
+newmtl Fld_Pivot03_SquidStatue
+Kd 1.0 1.0 1.0
+map_Kd textures/SquidStatue_Alb.png
+
+newmtl Fld_Pivot03_WallConcreteAlpha
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteAlpha_Alb.png
+
+newmtl Fld_Pivot03_WallConcreteBlue
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteBlue01_Alb.png
+
+newmtl Fld_Pivot03_WallConcreteBlue_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteBlue_Alb.png
+
+newmtl Fld_Pivot03_WallConcreteBravo
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteBravo_Alb.png
+
+newmtl Fld_Pivot03_WallConcreteGray
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteGray_Alb.png
+
+newmtl Fld_Pivot03_WallConcreteGray_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteGray_Alb.png
+
+newmtl Fld_Pivot03_WallConcreteLightGray
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteLightGray_Alb.png
+
+newmtl Fld_Pivot03_WallConcreteLightGray_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteLightGray_Alb.png
+
+newmtl Fld_Pivot03_WallConcreteUchiu
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteUchi_Alb.png
+
+newmtl Fld_Pivot03_WallConcreteWhite
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteWhite_Alb.png
+
+newmtl Fld_Pivot03_WallConcreteWhite_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteWhite_Alb.png
+
+newmtl Fld_Pivot03_WallDarkChocolate
+Kd 1.0 1.0 1.0
+map_Kd textures/WallDarkChocolate_Alb.png
+
+newmtl Fld_Pivot03_WallIronWall
+Kd 1.0 1.0 1.0
+map_Kd textures/WallIronWall_Alb.png
+
+newmtl Fld_Pivot03_WallRepeatParts
+Kd 1.0 1.0 1.0
+map_Kd textures/WallRepeatParts_Alb.png
+
+newmtl Fld_Pivot03_WallRepeatParts_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/WallRepeatParts_Alb.png
+
+newmtl Fld_Pivot03_WallRepeatParts_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallRepeatParts_Alb.png
+
+newmtl Fld_Pivot03_WorkShopRoom
+Kd 1.0 1.0 1.0
+map_Kd textures/WorkShopRoom_Alb.png
+

@@ -1,0 +1,488 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0B160225546122C2B8D5705A /* InkActionState.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2ECA2F87CA4ABA8A1D27BB1 /* InkActionState.swift */; };
+		1489164BEDC582C68A21B206 /* ReplayParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1881DB097162BA99139026C1 /* ReplayParser.swift */; };
+		2453240462E649AC8B21F62C /* BinaryReader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3340998CB01EFA0B4505464D /* BinaryReader.swift */; };
+		2CC46684E1519E86EBB2BD26 /* InkActionDecoder.swift in Sources */ = {isa = PBXBuildFile; fileRef = D87DF4ED2C71855AC24625BA /* InkActionDecoder.swift */; };
+		311CEDA370F83B93A3B23F2F /* KiTrixControlsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29CF1EF0CEA7C94B220BAA55 /* KiTrixControlsView.swift */; };
+		3E95E373A42F98E3AA336F42 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17F8E8D863400133AB585C34 /* ContentView.swift */; };
+		44D4DA5C730CDA1E179E9EA2 /* EntityState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4064150DEB29AB6586BAB029 /* EntityState.swift */; };
+		499DB234BF6379E9D27497DB /* InkParams.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A81BD701AE404180F37A432 /* InkParams.swift */; };
+		4B44CBBD38AF1A66285FD6EE /* StageCollider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B4B5267954FFA0A7D0AD548 /* StageCollider.swift */; };
+		4FB3329FA16590B460BA7E0C /* ReplayFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85237AE42FB8C4F6C8CC9E1A /* ReplayFile.swift */; };
+		56C1B78F3BA38957933CF6B9 /* PlayerModelLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB091282EC36A4C553E0C9A5 /* PlayerModelLoader.swift */; };
+		5AF6AF0FB13B95777C1DCE66 /* BulletSpawner.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6980E0AD2AACC3FA163427D /* BulletSpawner.swift */; };
+		5C5828CEA737ACCD6E771879 /* InkAccumulator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48A07839638FDED719F557FE /* InkAccumulator.swift */; };
+		5DDEF0CFB8779E4676EB064B /* HeaderParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C7FE81270D1407DC6FF3539 /* HeaderParser.swift */; };
+		606AA5E81CC337C01C274B19 /* EntityFrameDecoder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 989C56CAE7C5B30B492FEE53 /* EntityFrameDecoder.swift */; };
+		6CC1256AD8E5066FB9F3E700 /* BitReader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D68B928C95BC9F9A57C75E6 /* BitReader.swift */; };
+		707887D3CC1AD485D0CD4767 /* WeaponModelLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C0E2C574492211AC7C8F299 /* WeaponModelLoader.swift */; };
+		86EC3BE6FDC9A7F4F14024A6 /* KiTrixScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DA5BB59EEB57F7D7C95068E /* KiTrixScene.swift */; };
+		89F4E53FB23C1E3977ED98F0 /* ReplayHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = C59E9C3BFF226E8BFE6B7F1C /* ReplayHeader.swift */; };
+		938803A57DA6CF10B9D27C38 /* ReplayEvent.swift in Sources */ = {isa = PBXBuildFile; fileRef = EACABA44A2B00D70F23C18B4 /* ReplayEvent.swift */; };
+		99EBF29A9481A6AA4CF00C32 /* KiTrixApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 164B92C30F0889608A0CA5F3 /* KiTrixApp.swift */; };
+		9ECD31C2D1529D25684A12D0 /* ReplayFrame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 726637348D18CF17DE4C2933 /* ReplayFrame.swift */; };
+		B314548407B3C1F321EB2AEE /* ReplayTimeline.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB75EF42848169D45E9B1FB1 /* ReplayTimeline.swift */; };
+		BE0C07C3CE4F2B40EB861492 /* ReplayPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D18ABF49977322DCA73A7BA /* ReplayPlayer.swift */; };
+		CEAD0B521ED6EBA73EE950FB /* PlayerNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE45D85ABED2C41E9AFC67D9 /* PlayerNode.swift */; };
+		D0018CBCF247DB5F3E2DE8B7 /* KiTrixView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F1EBFDE87723ADFD6ADC350 /* KiTrixView.swift */; };
+
+		D36FF711AF6B54FACB50FD8E /* BulletSimulator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 596F5EED1979371F60D0993F /* BulletSimulator.swift */; };
+		D720BE508EEE936521C7AFB0 /* ZstdDecompressor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F11CA0E7368F494B3DFF475 /* ZstdDecompressor.swift */; };
+		DDF20A9FBFC8875961277C91 /* MatchInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 399C1877F1FCB93A04E737B5 /* MatchInfoView.swift */; };
+		DE5101BD3A02925B500B1518 /* EntityGroupParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53F345D1FBF48878D13C294B /* EntityGroupParser.swift */; };
+		F91A25D763F9EE127B723965 /* StageLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06A7951E965FFE856132D713 /* StageLoader.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		06A7951E965FFE856132D713 /* StageLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StageLoader.swift; sourceTree = "<group>"; };
+		164B92C30F0889608A0CA5F3 /* KiTrixApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KiTrixApp.swift; sourceTree = "<group>"; };
+		17F8E8D863400133AB585C34 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		1881DB097162BA99139026C1 /* ReplayParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReplayParser.swift; sourceTree = "<group>"; };
+		29CF1EF0CEA7C94B220BAA55 /* KiTrixControlsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KiTrixControlsView.swift; sourceTree = "<group>"; };
+		2D68B928C95BC9F9A57C75E6 /* BitReader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BitReader.swift; sourceTree = "<group>"; };
+
+		3340998CB01EFA0B4505464D /* BinaryReader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryReader.swift; sourceTree = "<group>"; };
+		399C1877F1FCB93A04E737B5 /* MatchInfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchInfoView.swift; sourceTree = "<group>"; };
+		3F1EBFDE87723ADFD6ADC350 /* KiTrixView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KiTrixView.swift; sourceTree = "<group>"; };
+		4064150DEB29AB6586BAB029 /* EntityState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntityState.swift; sourceTree = "<group>"; };
+		48A07839638FDED719F557FE /* InkAccumulator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InkAccumulator.swift; sourceTree = "<group>"; };
+		53F345D1FBF48878D13C294B /* EntityGroupParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntityGroupParser.swift; sourceTree = "<group>"; };
+		596F5EED1979371F60D0993F /* BulletSimulator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BulletSimulator.swift; sourceTree = "<group>"; };
+		5C7FE81270D1407DC6FF3539 /* HeaderParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderParser.swift; sourceTree = "<group>"; };
+		5DA5BB59EEB57F7D7C95068E /* KiTrixScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KiTrixScene.swift; sourceTree = "<group>"; };
+		6A81BD701AE404180F37A432 /* InkParams.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InkParams.swift; sourceTree = "<group>"; };
+		726637348D18CF17DE4C2933 /* ReplayFrame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReplayFrame.swift; sourceTree = "<group>"; };
+		7B4B5267954FFA0A7D0AD548 /* StageCollider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StageCollider.swift; sourceTree = "<group>"; };
+		7F11CA0E7368F494B3DFF475 /* ZstdDecompressor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZstdDecompressor.swift; sourceTree = "<group>"; };
+		85237AE42FB8C4F6C8CC9E1A /* ReplayFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReplayFile.swift; sourceTree = "<group>"; };
+		989C56CAE7C5B30B492FEE53 /* EntityFrameDecoder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntityFrameDecoder.swift; sourceTree = "<group>"; };
+		9C0E2C574492211AC7C8F299 /* WeaponModelLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeaponModelLoader.swift; sourceTree = "<group>"; };
+		9D12321BA8F31F68B91A3A8C /* KiTrix.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = KiTrix.entitlements; sourceTree = "<group>"; };
+		9D18ABF49977322DCA73A7BA /* ReplayPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReplayPlayer.swift; sourceTree = "<group>"; };
+		A2ECA2F87CA4ABA8A1D27BB1 /* InkActionState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InkActionState.swift; sourceTree = "<group>"; };
+		BC08A71E27C2D5DA35653ECF /* KiTrix-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "KiTrix-Bridging-Header.h"; sourceTree = "<group>"; };
+		BE45D85ABED2C41E9AFC67D9 /* PlayerNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerNode.swift; sourceTree = "<group>"; };
+		C59E9C3BFF226E8BFE6B7F1C /* ReplayHeader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReplayHeader.swift; sourceTree = "<group>"; };
+		CB75EF42848169D45E9B1FB1 /* ReplayTimeline.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReplayTimeline.swift; sourceTree = "<group>"; };
+		D87DF4ED2C71855AC24625BA /* InkActionDecoder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InkActionDecoder.swift; sourceTree = "<group>"; };
+		DB091282EC36A4C553E0C9A5 /* PlayerModelLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerModelLoader.swift; sourceTree = "<group>"; };
+		E1EBAC60BDFBD2DC39D000BC /* KiTrix.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KiTrix.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EACABA44A2B00D70F23C18B4 /* ReplayEvent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReplayEvent.swift; sourceTree = "<group>"; };
+		F6980E0AD2AACC3FA163427D /* BulletSpawner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BulletSpawner.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		45EFDB60E742C4FB2CDB123F /* SceneKit */ = {
+			isa = PBXGroup;
+			children = (
+				596F5EED1979371F60D0993F /* BulletSimulator.swift */,
+				F6980E0AD2AACC3FA163427D /* BulletSpawner.swift */,
+				48A07839638FDED719F557FE /* InkAccumulator.swift */,
+				6A81BD701AE404180F37A432 /* InkParams.swift */,
+				5DA5BB59EEB57F7D7C95068E /* KiTrixScene.swift */,
+				DB091282EC36A4C553E0C9A5 /* PlayerModelLoader.swift */,
+				BE45D85ABED2C41E9AFC67D9 /* PlayerNode.swift */,
+				7B4B5267954FFA0A7D0AD548 /* StageCollider.swift */,
+				06A7951E965FFE856132D713 /* StageLoader.swift */,
+				9C0E2C574492211AC7C8F299 /* WeaponModelLoader.swift */,
+			);
+			path = SceneKit;
+			sourceTree = "<group>";
+		};
+		8B0CD5E47C1FEAA1D09933AF /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				29CF1EF0CEA7C94B220BAA55 /* KiTrixControlsView.swift */,
+				3F1EBFDE87723ADFD6ADC350 /* KiTrixView.swift */,
+				399C1877F1FCB93A04E737B5 /* MatchInfoView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		8F40D2A7DA0C31A06BBA2845 /* Parsing */ = {
+			isa = PBXGroup;
+			children = (
+				2D68B928C95BC9F9A57C75E6 /* BitReader.swift */,
+				989C56CAE7C5B30B492FEE53 /* EntityFrameDecoder.swift */,
+				53F345D1FBF48878D13C294B /* EntityGroupParser.swift */,
+				5C7FE81270D1407DC6FF3539 /* HeaderParser.swift */,
+				D87DF4ED2C71855AC24625BA /* InkActionDecoder.swift */,
+				1881DB097162BA99139026C1 /* ReplayParser.swift */,
+				7F11CA0E7368F494B3DFF475 /* ZstdDecompressor.swift */,
+			);
+			path = Parsing;
+			sourceTree = "<group>";
+		};
+		B2AB2367A51FE543DA360B9B /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				3340998CB01EFA0B4505464D /* BinaryReader.swift */,
+			);
+			path = Utilities;
+			sourceTree = "<group>";
+		};
+		C57E2E01F7FDD92F0D4A6799 /* App */ = {
+			isa = PBXGroup;
+			children = (
+				17F8E8D863400133AB585C34 /* ContentView.swift */,
+				164B92C30F0889608A0CA5F3 /* KiTrixApp.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		CCC899C148F0A6FCDD57CCD7 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				E1EBAC60BDFBD2DC39D000BC /* KiTrix.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		D4F35151B08D264E544890C1 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				4064150DEB29AB6586BAB029 /* EntityState.swift */,
+				A2ECA2F87CA4ABA8A1D27BB1 /* InkActionState.swift */,
+				EACABA44A2B00D70F23C18B4 /* ReplayEvent.swift */,
+				85237AE42FB8C4F6C8CC9E1A /* ReplayFile.swift */,
+				726637348D18CF17DE4C2933 /* ReplayFrame.swift */,
+				C59E9C3BFF226E8BFE6B7F1C /* ReplayHeader.swift */,
+				9D18ABF49977322DCA73A7BA /* ReplayPlayer.swift */,
+				CB75EF42848169D45E9B1FB1 /* ReplayTimeline.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		EFFC7FCE73D7019D55F8FFFA = {
+			isa = PBXGroup;
+			children = (
+				FB81F2718166C9C641DF90FA /* KiTrix */,
+				CCC899C148F0A6FCDD57CCD7 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		FB81F2718166C9C641DF90FA /* KiTrix */ = {
+			isa = PBXGroup;
+			children = (
+				BC08A71E27C2D5DA35653ECF /* KiTrix-Bridging-Header.h */,
+				9D12321BA8F31F68B91A3A8C /* KiTrix.entitlements */,
+				C57E2E01F7FDD92F0D4A6799 /* App */,
+				D4F35151B08D264E544890C1 /* Models */,
+				8F40D2A7DA0C31A06BBA2845 /* Parsing */,
+				45EFDB60E742C4FB2CDB123F /* SceneKit */,
+				B2AB2367A51FE543DA360B9B /* Utilities */,
+				8B0CD5E47C1FEAA1D09933AF /* Views */,
+			);
+			path = KiTrix;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		B235A08CB6B05DC3BE7E6EC8 /* KiTrix */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4D720AFAE4EC5D0F9CC75172 /* Build configuration list for PBXNativeTarget "KiTrix" */;
+			buildPhases = (
+				40DC3A0D88ED761A39A96EBE /* Sources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = KiTrix;
+			packageProductDependencies = (
+			);
+			productName = KiTrix;
+			productReference = E1EBAC60BDFBD2DC39D000BC /* KiTrix.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		64AC4021CCCAAE29D4F48A76 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = YES;
+				LastUpgradeCheck = 1600;
+				TargetAttributes = {
+				};
+			};
+			buildConfigurationList = B60E206946CD0985C2A5F135 /* Build configuration list for PBXProject "KiTrix" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				Base,
+				en,
+			);
+			mainGroup = EFFC7FCE73D7019D55F8FFFA;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = CCC899C148F0A6FCDD57CCD7 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				B235A08CB6B05DC3BE7E6EC8 /* KiTrix */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		40DC3A0D88ED761A39A96EBE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2453240462E649AC8B21F62C /* BinaryReader.swift in Sources */,
+				6CC1256AD8E5066FB9F3E700 /* BitReader.swift in Sources */,
+				D36FF711AF6B54FACB50FD8E /* BulletSimulator.swift in Sources */,
+				5AF6AF0FB13B95777C1DCE66 /* BulletSpawner.swift in Sources */,
+				3E95E373A42F98E3AA336F42 /* ContentView.swift in Sources */,
+				606AA5E81CC337C01C274B19 /* EntityFrameDecoder.swift in Sources */,
+				DE5101BD3A02925B500B1518 /* EntityGroupParser.swift in Sources */,
+				44D4DA5C730CDA1E179E9EA2 /* EntityState.swift in Sources */,
+				5DDEF0CFB8779E4676EB064B /* HeaderParser.swift in Sources */,
+				5C5828CEA737ACCD6E771879 /* InkAccumulator.swift in Sources */,
+				2CC46684E1519E86EBB2BD26 /* InkActionDecoder.swift in Sources */,
+				0B160225546122C2B8D5705A /* InkActionState.swift in Sources */,
+				499DB234BF6379E9D27497DB /* InkParams.swift in Sources */,
+				99EBF29A9481A6AA4CF00C32 /* KiTrixApp.swift in Sources */,
+				311CEDA370F83B93A3B23F2F /* KiTrixControlsView.swift in Sources */,
+				86EC3BE6FDC9A7F4F14024A6 /* KiTrixScene.swift in Sources */,
+				D0018CBCF247DB5F3E2DE8B7 /* KiTrixView.swift in Sources */,
+				DDF20A9FBFC8875961277C91 /* MatchInfoView.swift in Sources */,
+				56C1B78F3BA38957933CF6B9 /* PlayerModelLoader.swift in Sources */,
+				CEAD0B521ED6EBA73EE950FB /* PlayerNode.swift in Sources */,
+				938803A57DA6CF10B9D27C38 /* ReplayEvent.swift in Sources */,
+				4FB3329FA16590B460BA7E0C /* ReplayFile.swift in Sources */,
+				9ECD31C2D1529D25684A12D0 /* ReplayFrame.swift in Sources */,
+				89F4E53FB23C1E3977ED98F0 /* ReplayHeader.swift in Sources */,
+				1489164BEDC582C68A21B206 /* ReplayParser.swift in Sources */,
+				BE0C07C3CE4F2B40EB861492 /* ReplayPlayer.swift in Sources */,
+				B314548407B3C1F321EB2AEE /* ReplayTimeline.swift in Sources */,
+				4B44CBBD38AF1A66285FD6EE /* StageCollider.swift in Sources */,
+				F91A25D763F9EE127B723965 /* StageLoader.swift in Sources */,
+				707887D3CC1AD485D0CD4767 /* WeaponModelLoader.swift in Sources */,
+				D720BE508EEE936521C7AFB0 /* ZstdDecompressor.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		2A8BE69518FB31DC7878E4BE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					"DEBUG=1",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		6331655551521B58DF381871 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = KiTrix/KiTrix.entitlements;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				HEADER_SEARCH_PATHS = (
+					/opt/homebrew/include,
+				);
+				INFOPLIST_KEY_NSMainStoryboardFile = "";
+				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					/opt/homebrew/lib,
+				);
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"-lzstd",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.kitrix.app;
+				PRODUCT_NAME = KiTrix;
+				SDKROOT = macosx;
+				SWIFT_OBJC_BRIDGING_HEADER = "KiTrix/KiTrix-Bridging-Header.h";
+				SWIFT_VERSION = 5.9;
+			};
+			name = Debug;
+		};
+		654F1E0B9BBE8BAE5B262543 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		76CFA564FF13395FD666F3C4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = KiTrix/KiTrix.entitlements;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				HEADER_SEARCH_PATHS = (
+					/opt/homebrew/include,
+				);
+				INFOPLIST_KEY_NSMainStoryboardFile = "";
+				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					/opt/homebrew/lib,
+				);
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"-lzstd",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.kitrix.app;
+				PRODUCT_NAME = KiTrix;
+				SDKROOT = macosx;
+				SWIFT_OBJC_BRIDGING_HEADER = "KiTrix/KiTrix-Bridging-Header.h";
+				SWIFT_VERSION = 5.9;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4D720AFAE4EC5D0F9CC75172 /* Build configuration list for PBXNativeTarget "KiTrix" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6331655551521B58DF381871 /* Debug */,
+				76CFA564FF13395FD666F3C4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		B60E206946CD0985C2A5F135 /* Build configuration list for PBXProject "KiTrix" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2A8BE69518FB31DC7878E4BE /* Debug */,
+				654F1E0B9BBE8BAE5B262543 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 64AC4021CCCAAE29D4F48A76 /* Project object */;
+}

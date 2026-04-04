@@ -1,0 +1,405 @@
+# KiTrix material file
+newmtl FldBG_Triangle00_BulbLight
+Kd 1.0 1.0 1.0
+map_Kd textures/BulbLight_Alb.png
+
+newmtl FldBG_Triangle00_DVCliff00
+Kd 1.0 1.0 1.0
+map_Kd textures/DVCliff00_Alb.png
+
+newmtl FldBG_Triangle00_DVCliff01
+Kd 1.0 1.0 1.0
+map_Kd textures/DVCliff01_Alb.png
+
+newmtl FldBG_Triangle00_DVCliff02
+Kd 1.0 1.0 1.0
+map_Kd textures/DVCliff02_Alb.png
+
+newmtl FldBG_Triangle00_DVCliff03
+Kd 1.0 1.0 1.0
+map_Kd textures/DVCliff03_Alb.png
+
+newmtl FldBG_Triangle00_DVCliff04
+Kd 1.0 1.0 1.0
+map_Kd textures/DVCliff04_Alb.png
+
+newmtl FldBG_Triangle00_DVHydroRock00
+Kd 1.0 1.0 1.0
+map_Kd textures/DVHydroRock00_Alb.png
+
+newmtl FldBG_Triangle00_DVHydroRock01
+Kd 1.0 1.0 1.0
+map_Kd textures/DVHydroRock01_Alb.png
+
+newmtl FldBG_Triangle00_DVPlateau00
+Kd 1.0 1.0 1.0
+map_Kd textures/DVPlateau00_Alb.png
+
+newmtl FldBG_Triangle00_DVPlateau01
+Kd 1.0 1.0 1.0
+map_Kd textures/DVPlateau01_Alb.png
+
+newmtl FldBG_Triangle00_DVPlateau02
+Kd 1.0 1.0 1.0
+map_Kd textures/DVPlateau02_Alb.png
+
+newmtl FldBG_Triangle00_DVRockCluster00
+Kd 1.0 1.0 1.0
+map_Kd textures/DVRockCluster00_Alb.png
+
+newmtl FldBG_Triangle00_DVRockCluster01
+Kd 1.0 1.0 1.0
+map_Kd textures/DVRockCluster01_Alb.png
+
+newmtl FldBG_Triangle00_DVRockCluster02
+Kd 1.0 1.0 1.0
+map_Kd textures/DVRockCluster02_Alb.png
+
+newmtl FldBG_Triangle00_DVRockCluster03
+Kd 1.0 1.0 1.0
+map_Kd textures/DVRockCluster03_Alb.png
+
+newmtl FldBG_Triangle00_DVRockPillar00
+Kd 1.0 1.0 1.0
+map_Kd textures/DVRockPillar00_Alb.png
+
+newmtl FldBG_Triangle00_DVRockPillar01
+Kd 1.0 1.0 1.0
+map_Kd textures/DVRockPillar01_Alb.png
+
+newmtl FldBG_Triangle00_DVRockPillar02
+Kd 1.0 1.0 1.0
+map_Kd textures/DVRockPillar02_Alb.png
+
+newmtl FldBG_Triangle00_DVSHydroRock00
+Kd 1.0 1.0 1.0
+map_Kd textures/DVSHydroRock00_Alb.png
+
+newmtl FldBG_Triangle00_DVSHydroRock01
+Kd 1.0 1.0 1.0
+map_Kd textures/DVSHydroRock01_Alb.png
+
+newmtl FldBG_Triangle00_DVSmlHydroRock
+Kd 1.0 1.0 1.0
+map_Kd textures/DVSmlHydroRock_Alb.png
+
+newmtl FldBG_Triangle00_DVSmlRockCluster
+Kd 1.0 1.0 1.0
+map_Kd textures/DVSmlRockCluster_Alb.png
+
+newmtl FldBG_Triangle00_DVTerrain
+Kd 1.0 1.0 1.0
+map_Kd textures/DVTerrain_Alb.png
+
+newmtl FldBG_Triangle00_DVTorchLight
+Kd 1.0 1.0 1.0
+map_Kd textures/DVTorchLight_Alb.png
+
+newmtl FldBG_Triangle00_DVWoodScaffold00
+Kd 1.0 1.0 1.0
+map_Kd textures/DVWoodScaffold00_Alb.png
+
+newmtl FldBG_Triangle00_Pipe01
+Kd 1.0 1.0 1.0
+map_Kd textures/Pipe01_Alb.png
+
+newmtl FldBG_Triangle00_Pipe02
+Kd 1.0 1.0 1.0
+map_Kd textures/Pipe02_Alb.png
+
+newmtl Fld_Triangle00_BlueTarp00
+Kd 1.0 1.0 1.0
+map_Kd textures/BlueTarp00_Alb.png
+
+newmtl Fld_Triangle00_Boundaries02
+Kd 1.0 1.0 1.0
+map_Kd textures/Boundaries02_Alb.png
+
+newmtl Fld_Triangle00_Boundaries03
+Kd 1.0 1.0 1.0
+map_Kd textures/Boundaries03_Alb.png
+
+newmtl Fld_Triangle00_BridgeLight00
+Kd 1.0 1.0 1.0
+map_Kd textures/BridgeLight00_Alb.png
+
+newmtl Fld_Triangle00_CanolaA
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaA_Alb.png
+
+newmtl Fld_Triangle00_CanolaAV
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaAV_Alb.png
+
+newmtl Fld_Triangle00_CanolaB
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaB_Alb.png
+
+newmtl Fld_Triangle00_CanolaBV
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaBV_Alb.png
+
+newmtl Fld_Triangle00_CanolaC
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaC_Alb.png
+
+newmtl Fld_Triangle00_CanolaCV
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaCV_Alb.png
+
+newmtl Fld_Triangle00_CardboardMixedAtlas
+Kd 1.0 1.0 1.0
+map_Kd textures/CardboardMixedAtlas_Alb.png
+
+newmtl Fld_Triangle00_CardboardOuterAtlas_np
+Kd 1.0 1.0 1.0
+map_Kd textures/CardboardOuterAtlas_Alb.png
+
+newmtl Fld_Triangle00_CenterConcrete00
+Kd 1.0 1.0 1.0
+map_Kd textures/CenterConcrete00_Alb.png
+
+newmtl Fld_Triangle00_CenterConcrete01
+Kd 1.0 1.0 1.0
+map_Kd textures/CenterConcrete01_Alb.png
+
+newmtl Fld_Triangle00_CenterConcrete02
+Kd 1.0 1.0 1.0
+map_Kd textures/CenterConcrete02_Alb.png
+
+newmtl Fld_Triangle00_CenterEdge
+Kd 1.0 1.0 1.0
+map_Kd textures/CenterEdge_Alb.png
+
+newmtl Fld_Triangle00_ColorTarpA
+Kd 1.0 1.0 1.0
+map_Kd textures/ColorTarpA_Alb.png
+
+newmtl Fld_Triangle00_ColorTarpB
+Kd 1.0 1.0 1.0
+map_Kd textures/ColorTarpA_Alb.png
+
+newmtl Fld_Triangle00_ColorTarpC
+Kd 1.0 1.0 1.0
+map_Kd textures/ColorTarpA_Alb.png
+
+newmtl Fld_Triangle00_DVScaffoldTowerFlagA
+Kd 1.0 1.0 1.0
+map_Kd textures/DVScaffoldTowerFlagA_Alb.png
+
+newmtl Fld_Triangle00_DVScaffoldTowerFlagB
+Kd 1.0 1.0 1.0
+map_Kd textures/DVScaffoldTowerFlagB_Alb.png
+
+newmtl Fld_Triangle00_DVScaffoldTowerFlagC
+Kd 1.0 1.0 1.0
+map_Kd textures/DVScaffoldTowerFlagC_Alb.png
+
+newmtl Fld_Triangle00_DVWoodScaffold
+Kd 1.0 1.0 1.0
+map_Kd textures/DVWoodScaffold_Alb.png
+
+newmtl Fld_Triangle00_Fence00
+Kd 1.0 1.0 1.0
+map_Kd textures/Fence00_Alb.png
+
+newmtl Fld_Triangle00_FloorSeat00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorSeat00_Alb.png
+
+newmtl Fld_Triangle00_FloorStone00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorStone00_Alb.png
+
+newmtl Fld_Triangle00_Glass
+Kd 1.0 1.0 1.0
+map_Kd textures/Glass_Opa.png
+
+newmtl Fld_Triangle00_GlassA
+Kd 1.0 1.0 1.0
+map_Kd textures/GlassA_Opa.png
+
+newmtl Fld_Triangle00_GlassB
+Kd 1.0 1.0 1.0
+map_Kd textures/GlassB_Opa.png
+
+newmtl Fld_Triangle00_GlassC
+Kd 1.0 1.0 1.0
+map_Kd textures/GlassC_Nrm.png
+
+newmtl Fld_Triangle00_GlassEdge00
+Kd 1.0 1.0 1.0
+map_Kd textures/BakeDummy00.png
+
+newmtl Fld_Triangle00_GlassWall
+Kd 1.0 1.0 1.0
+map_Kd textures/GlassWall_Alb.png
+
+newmtl Fld_Triangle00_GoundRoughWood
+Kd 1.0 1.0 1.0
+map_Kd textures/GoundRoughWood_Alb.png
+
+newmtl Fld_Triangle00_GoundRoughWood_np
+Kd 1.0 1.0 1.0
+map_Kd textures/GoundRoughWood_Alb.png
+
+newmtl Fld_Triangle00_GraffitiSet00
+Kd 1.0 1.0 1.0
+map_Kd textures/GraffitiSet00_Alb.png
+
+newmtl Fld_Triangle00_GraffitiSet00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/GraffitiSet00_Alb.png
+
+newmtl Fld_Triangle00_GraffitiSet00_np_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/GraffitiSet00_Alb.png
+
+newmtl Fld_Triangle00_Grass00
+Kd 1.0 1.0 1.0
+map_Kd textures/Grass00_Alb.png
+
+newmtl Fld_Triangle00_Grass00_va
+Kd 1.0 1.0 1.0
+map_Kd textures/Grass00_Alb.png
+
+newmtl Fld_Triangle00_GrassFloor01
+Kd 1.0 1.0 1.0
+map_Kd textures/GrassFloor01_Alb.png
+
+newmtl Fld_Triangle00_Grate
+Kd 1.0 1.0 1.0
+map_Kd textures/Grate_Alb.png
+
+newmtl Fld_Triangle00_Grate_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/Grate_Alb.png
+
+newmtl Fld_Triangle00_Ground00
+Kd 1.0 1.0 1.0
+map_Kd textures/Ground00_Alb.png
+
+newmtl Fld_Triangle00_Ground00_va
+Kd 1.0 1.0 1.0
+map_Kd textures/Ground00_Alb.png
+
+newmtl Fld_Triangle00_InsectPlant
+Kd 1.0 1.0 1.0
+map_Kd textures/InsectPlant_Alb.png
+
+newmtl Fld_Triangle00_Metal00
+Kd 1.0 1.0 1.0
+map_Kd textures/Metal00_Alb.png
+
+newmtl Fld_Triangle00_MetalBoards
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalBoards_Alb.png
+
+newmtl Fld_Triangle00_MetalFrameParts
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalFrameParts_Alb.png
+
+newmtl Fld_Triangle00_MetalFrameSet
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalFrameSet_Alb.png
+
+newmtl Fld_Triangle00_PipeFloorSet00
+Kd 1.0 1.0 1.0
+map_Kd textures/PipeFloorSet00_Alb.png
+
+newmtl Fld_Triangle00_PipeFloorSet01
+Kd 1.0 1.0 1.0
+map_Kd textures/PipeFloorSet01_Alb.png
+
+newmtl Fld_Triangle00_PlankWall_np
+Kd 1.0 1.0 1.0
+map_Kd textures/PlankWall_Alb.png
+
+newmtl Fld_Triangle00_PlantGround
+Kd 1.0 1.0 1.0
+map_Kd textures/PlantGround_Alb.png
+
+newmtl Fld_Triangle00_RippedFlag
+Kd 1.0 1.0 1.0
+map_Kd textures/RippedFlag_Alb.png
+
+newmtl Fld_Triangle00_Roof00
+Kd 1.0 1.0 1.0
+map_Kd textures/Roof00_Alb.png
+
+newmtl Fld_Triangle00_Scaffold
+Kd 1.0 1.0 1.0
+map_Kd textures/Scaffold_Alb.png
+
+newmtl Fld_Triangle00_SteelPlates_np
+Kd 1.0 1.0 1.0
+map_Kd textures/SteelPlates_Alb.png
+
+newmtl Fld_Triangle00_StrawObject00
+Kd 1.0 1.0 1.0
+map_Kd textures/StrawObject00_Alb.png
+
+newmtl Fld_Triangle00_SwitchObject00
+Kd 1.0 1.0 1.0
+map_Kd textures/SwitchObject00_Alb.png
+
+newmtl Fld_Triangle00_TorchLight
+Kd 1.0 1.0 1.0
+map_Kd textures/TorchLight_Alb.png
+
+newmtl Fld_Triangle00_TowerSet00
+Kd 1.0 1.0 1.0
+map_Kd textures/TowerSet00_Alb.png
+
+newmtl Fld_Triangle00_TowerSet01
+Kd 1.0 1.0 1.0
+map_Kd textures/TowerSet01_Alb.png
+
+newmtl Fld_Triangle00_TriangleBox00
+Kd 1.0 1.0 1.0
+map_Kd textures/TriangleBox00_Alb.png
+
+newmtl Fld_Triangle00_TriangleBoxCover00
+Kd 1.0 1.0 1.0
+map_Kd textures/TriangleBoxCover00_Alb.png
+
+newmtl Fld_Triangle00_TriangleWallStone00
+Kd 1.0 1.0 1.0
+map_Kd textures/TriangleWallStone00_Alb.png
+
+newmtl Fld_Triangle00_TriangleWallStone01
+Kd 1.0 1.0 1.0
+map_Kd textures/TriangleWallStone01_Alb.png
+
+newmtl Fld_Triangle00_WaffledPlate01
+Kd 1.0 1.0 1.0
+map_Kd textures/WaffledPlate01_Alb.png
+
+newmtl Fld_Triangle00_WallBarrier03_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBarrier03_Alb.png
+
+newmtl Fld_Triangle00_WallFrameSet00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallFrameSet00_Alb.png
+
+newmtl Fld_Triangle00_WallFrameSet01
+Kd 1.0 1.0 1.0
+map_Kd textures/WallFrameSet01_Alb.png
+
+newmtl Fld_Triangle00_WarningTape
+Kd 1.0 1.0 1.0
+map_Kd textures/WarningTape_Alb.png
+
+newmtl Fld_Triangle00_WarningTape_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WarningTape_Alb.png
+
+newmtl Fld_Triangle00_WarningTape_np_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/WarningTape_Alb.png
+
+newmtl Fld_Triangle00_YunohanaLight
+Kd 1.0 1.0 1.0
+map_Kd textures/YunohanaLight_Alb.png
+

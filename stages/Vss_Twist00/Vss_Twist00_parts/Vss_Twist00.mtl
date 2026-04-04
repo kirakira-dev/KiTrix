@@ -1,0 +1,451 @@
+# KiTrix material file
+newmtl Aurora_mAurora
+Kd 1.0 1.0 1.0
+
+newmtl CenterPillarNoPaint_NoFld_FloorTestField
+Kd 1.0 1.0 1.0
+
+newmtl FldBG_Twist00_CrackIce
+Kd 1.0 1.0 1.0
+map_Kd textures/CrackIce_Alb.png
+
+newmtl FldBG_Twist00_DVIsland
+Kd 1.0 1.0 1.0
+map_Kd textures/DVIsland_Alb.png
+
+newmtl FldBG_Twist00_DVTwistMountain
+Kd 1.0 1.0 1.0
+map_Kd textures/DVTwistMountain_Alb.png
+
+newmtl FldBG_Twist00_IceFarL
+Kd 1.0 1.0 1.0
+map_Kd textures/DVIcebergLarge_Alb.png
+
+newmtl FldBG_Twist00_IceFarR
+Kd 1.0 1.0 1.0
+map_Kd textures/DVIcebergCluster_Alb.png
+
+newmtl FldBG_Twist00_IceNearL
+Kd 1.0 1.0 1.0
+map_Kd textures/DVIcebergCluster_Alb.png
+
+newmtl FldBG_Twist00_IceNearR
+Kd 1.0 1.0 1.0
+map_Kd textures/DVIcebergCluster_Alb.png
+
+newmtl FldBG_Twist00Wave_WaveBack
+Kd 1.0 1.0 1.0
+map_Kd textures/WaveBack_Alb.0.png
+
+newmtl FldObj_BlueCranes_Decal01
+Kd 1.0 1.0 1.0
+map_Kd textures/Decal01_Alb.png
+
+newmtl FldObj_BlueCranes_GlassWindows
+Kd 1.0 1.0 1.0
+map_Kd textures/GlassWindows_Alb.png
+
+newmtl FldObj_BlueCranes_VesselCraneSet01
+Kd 1.0 1.0 1.0
+map_Kd textures/VesselCraneSet01_Alb.png
+
+newmtl FldObj_BlueCranes_VesselRadarSet00
+Kd 1.0 1.0 1.0
+map_Kd textures/VesselRadarSet00_Alb.png
+
+newmtl FldObj_SearchLights_GlassWindows
+Kd 1.0 1.0 1.0
+map_Kd textures/GlassWindows_Alb.png
+
+newmtl FldObj_SearchLights_LightFixtures00
+Kd 1.0 1.0 1.0
+map_Kd textures/LightFixtures00_Alb.png
+
+newmtl Fld_Twist00_Containers
+Kd 1.0 1.0 1.0
+map_Kd textures/Containers_Alb.png
+
+newmtl Fld_Twist00_Containers_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/Containers_Alb.png
+
+newmtl Fld_Twist00_Decal00
+Kd 1.0 1.0 1.0
+map_Kd textures/Decal00_Alb.png
+
+newmtl Fld_Twist00_Decal00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Decal00_Alb.png
+
+newmtl Fld_Twist00_Decal01
+Kd 1.0 1.0 1.0
+map_Kd textures/Decal01_Alb.png
+
+newmtl Fld_Twist00_Decal02
+Kd 1.0 1.0 1.0
+map_Kd textures/Decal02_Alb.png
+
+newmtl Fld_Twist00_Decal03
+Kd 1.0 1.0 1.0
+map_Kd textures/Decal03_Alb.png
+
+newmtl Fld_Twist00_Decal03_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Decal03_Alb.png
+
+newmtl Fld_Twist00_Decal04
+Kd 1.0 1.0 1.0
+map_Kd textures/Decal04_Alb.png
+
+newmtl Fld_Twist00_Fence
+Kd 1.0 1.0 1.0
+map_Kd textures/Fence_Alb.png
+
+newmtl Fld_Twist00_Fence00
+Kd 1.0 1.0 1.0
+map_Kd textures/Fence00_Alb.png
+
+newmtl Fld_Twist00_Fence00_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/Fence00_Alb.png
+
+newmtl Fld_Twist00_Floor00
+Kd 1.0 1.0 1.0
+map_Kd textures/Floor00_Alb.png
+
+newmtl Fld_Twist00_Floor01
+Kd 1.0 1.0 1.0
+map_Kd textures/Floor01_Alb.png
+
+newmtl Fld_Twist00_FloorMetalGrate
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorMetalGrate_Alb.png
+
+newmtl Fld_Twist00_FloorTrim00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTrim00_Alb.png
+
+newmtl Fld_Twist00_FloorTrim00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTrim00_Alb.png
+
+newmtl Fld_Twist00_FloorTrim01
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTrim01_Alb.png
+
+newmtl Fld_Twist00_Generators00
+Kd 1.0 1.0 1.0
+map_Kd textures/Generators00_Alb.png
+
+newmtl Fld_Twist00_GlassWindows
+Kd 1.0 1.0 1.0
+map_Kd textures/GlassWindows_Alb.png
+
+newmtl Fld_Twist00_GlassWindows_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/GlassWindows_Alb.png
+
+newmtl Fld_Twist00_Grating00
+Kd 1.0 1.0 1.0
+map_Kd textures/Grating00_Alb.png
+
+newmtl Fld_Twist00_Grating00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Grating00_Alb.png
+
+newmtl Fld_Twist00_Grating00_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/Grating00_Alb.png
+
+newmtl Fld_Twist00_Grating01
+Kd 1.0 1.0 1.0
+map_Kd textures/Grating01_Alb.png
+
+newmtl Fld_Twist00_Grating01_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Grating01_Alb.png
+
+newmtl Fld_Twist00_Grating02
+Kd 1.0 1.0 1.0
+map_Kd textures/Grating02_Alb.png
+
+newmtl Fld_Twist00_HelicopterPad00
+Kd 1.0 1.0 1.0
+map_Kd textures/HelicopterPad00_Alb.png
+
+newmtl Fld_Twist00_HelicopterPad01
+Kd 1.0 1.0 1.0
+map_Kd textures/HelicopterPad01_Alb.png
+
+newmtl Fld_Twist00_HokoBridgePart
+Kd 1.0 1.0 1.0
+map_Kd textures/HokoBridgePart_Alb.png
+
+newmtl Fld_Twist00_Ladder
+Kd 1.0 1.0 1.0
+map_Kd textures/Ladder_Alb.png
+
+newmtl Fld_Twist00_Ladder_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/Ladder_Alb.png
+
+newmtl Fld_Twist00_LightFixtures00
+Kd 1.0 1.0 1.0
+map_Kd textures/LightFixtures00_Alb.png
+
+newmtl Fld_Twist00_LightFixtures00_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/LightFixtures00_Alb.png
+
+newmtl Fld_Twist00_MooringWinch
+Kd 1.0 1.0 1.0
+map_Kd textures/MooringWinch_Alb.png
+
+newmtl Fld_Twist00_OilRigAchor
+Kd 1.0 1.0 1.0
+map_Kd textures/OilRigAchor_Alb.png
+
+newmtl Fld_Twist00_OilRigAchor_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/OilRigAchor_Alb.png
+
+newmtl Fld_Twist00_OilRigFloor
+Kd 1.0 1.0 1.0
+map_Kd textures/OilRigFloor_Alb.png
+
+newmtl Fld_Twist00_OilRigGenerator
+Kd 1.0 1.0 1.0
+map_Kd textures/OilRigGenerator_Alb.png
+
+newmtl Fld_Twist00_OilRigPillar
+Kd 1.0 1.0 1.0
+map_Kd textures/OilRigPillar_Alb.png
+
+newmtl Fld_Twist00_OilRigPillar_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/OilRigPillar_Alb.png
+
+newmtl Fld_Twist00_OilRigPropSet00
+Kd 1.0 1.0 1.0
+map_Kd textures/OilRigPropSet00_Alb.png
+
+newmtl Fld_Twist00_OilRigPropSet00_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/OilRigPropSet00_Alb.png
+
+newmtl Fld_Twist00_OilRigTower
+Kd 1.0 1.0 1.0
+map_Kd textures/OilRigTower_Alb.png
+
+newmtl Fld_Twist00_OilRigWall
+Kd 1.0 1.0 1.0
+map_Kd textures/OilRigWall_Alb.png
+
+newmtl Fld_Twist00_OilRigWall01
+Kd 1.0 1.0 1.0
+map_Kd textures/OilRigWall01_Alb.png
+
+newmtl Fld_Twist00_PlatformPipe00
+Kd 1.0 1.0 1.0
+map_Kd textures/PlatformPipe00_Alb.png
+
+newmtl Fld_Twist00_PlatformPipe00_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/PlatformPipe00_Alb.png
+
+newmtl Fld_Twist00_PlatformTrim00
+Kd 1.0 1.0 1.0
+map_Kd textures/PlatformTrim00_Alb.png
+
+newmtl Fld_Twist00_PropSet00
+Kd 1.0 1.0 1.0
+map_Kd textures/PropSet00_Alb.png
+
+newmtl Fld_Twist00_PropSet00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/PropSet00_Alb.png
+
+newmtl Fld_Twist00_PropSet00_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/PropSet00_Alb.png
+
+newmtl Fld_Twist00_RadarVent00
+Kd 1.0 1.0 1.0
+map_Kd textures/RadarVent00_Alb.png
+
+newmtl Fld_Twist00_SideMachine00
+Kd 1.0 1.0 1.0
+map_Kd textures/SideMachine00_Alb.png
+
+newmtl Fld_Twist00_SlopeBarrier00
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeBarrier00_Alb.png
+
+newmtl Fld_Twist00_SlopeBarrier00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeBarrier00_Alb.png
+
+newmtl Fld_Twist00_SmallCrane00
+Kd 1.0 1.0 1.0
+map_Kd textures/SmallCrane00_Alb.png
+
+newmtl Fld_Twist00_SmallCrane01
+Kd 1.0 1.0 1.0
+map_Kd textures/SmallCrane01_Alb.png
+
+newmtl Fld_Twist00_SmallCrane01_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/SmallCrane01_Alb.png
+
+newmtl Fld_Twist00_SmallCrane01_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/SmallCrane01_Alb.png
+
+newmtl Fld_Twist00_VesselBridge00
+Kd 1.0 1.0 1.0
+map_Kd textures/VesselBridge00_Alb.png
+
+newmtl Fld_Twist00_VesselBridge01
+Kd 1.0 1.0 1.0
+map_Kd textures/VesselBridge01_Alb.png
+
+newmtl Fld_Twist00_VesselBridge02
+Kd 1.0 1.0 1.0
+map_Kd textures/VesselBridge02_Alb.png
+
+newmtl Fld_Twist00_VesselBridge02_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/VesselBridge02_Alb.png
+
+newmtl Fld_Twist00_VesselCraneSet00
+Kd 1.0 1.0 1.0
+map_Kd textures/VesselCraneSet00_Alb.png
+
+newmtl Fld_Twist00_VesselFloor00
+Kd 1.0 1.0 1.0
+map_Kd textures/VesselFloor00_Alb.png
+
+newmtl Fld_Twist00_VesselFloor01
+Kd 1.0 1.0 1.0
+map_Kd textures/VesselFloor01_Alb.png
+
+newmtl Fld_Twist00_VesselHull00
+Kd 1.0 1.0 1.0
+map_Kd textures/VesselHull00_Alb.png
+
+newmtl Fld_Twist00_VesselPropSet00
+Kd 1.0 1.0 1.0
+map_Kd textures/VesselPropSet00_Alb.png
+
+newmtl Fld_Twist00_VesselPropSet00_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/VesselPropSet00_Alb.png
+
+newmtl Fld_Twist00_VesselPropSet01
+Kd 1.0 1.0 1.0
+map_Kd textures/VesselPropSet01_Alb.png
+
+newmtl Fld_Twist00_VesselPropSet01_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/VesselPropSet01_Alb.png
+
+newmtl Fld_Twist00_VesselPropSet02
+Kd 1.0 1.0 1.0
+map_Kd textures/VesselPropSet02_Alb.png
+
+newmtl Fld_Twist00_VesselPropSet03
+Kd 1.0 1.0 1.0
+map_Kd textures/VesselPropSet03_Alb.png
+
+newmtl Fld_Twist00_VesselPropSet03_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/VesselPropSet03_Alb.png
+
+newmtl Fld_Twist00_VesselRadarSet00
+Kd 1.0 1.0 1.0
+map_Kd textures/VesselRadarSet00_Alb.png
+
+newmtl Fld_Twist00_VesselRadarSet00_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/VesselRadarSet00_Alb.png
+
+newmtl Fld_Twist00_VesselStern00
+Kd 1.0 1.0 1.0
+map_Kd textures/VesselStern00_Alb.png
+
+newmtl Fld_Twist00_VesselStern00_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/VesselStern00_Alb.png
+
+newmtl Fld_Twist00_VesselStern01
+Kd 1.0 1.0 1.0
+map_Kd textures/VesselStern01_Alb.png
+
+newmtl Fld_Twist00_Vinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/Vinyl_Alb.png
+
+newmtl Fld_Twist00_VinylClear
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylClear_Nrm.png
+
+newmtl Fld_Twist00_WallBarrierBody
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBarrierBody_Alb.png
+
+newmtl Fld_Twist00_WallCrane
+Kd 1.0 1.0 1.0
+map_Kd textures/WallCrane_Alb.png
+
+newmtl Fld_Twist00_WallDeco00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallDeco00_Alb.png
+
+newmtl Fld_Twist00_Walls00
+Kd 1.0 1.0 1.0
+map_Kd textures/Walls00_Alb.png
+
+newmtl Fld_Twist00_Walls00_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/Walls00_Alb.png
+
+newmtl Fld_Twist00_Walls01
+Kd 1.0 1.0 1.0
+map_Kd textures/Walls01_Alb.png
+
+newmtl Fld_Twist00_Walls02
+Kd 1.0 1.0 1.0
+map_Kd textures/Walls02_Alb.png
+
+newmtl Fld_Twist00_WallsCorrugatedPlates
+Kd 1.0 1.0 1.0
+map_Kd textures/WallsCorrugatedPlates_Alb.png
+
+newmtl Fld_Twist00_WallsTile00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallsTile00_Alb.png
+
+newmtl Fld_Twist00_WallsTile01
+Kd 1.0 1.0 1.0
+map_Kd textures/WallsTile01_Alb.png
+
+newmtl Fld_Twist00_WallsTrim00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallsTrim00_Alb.png
+
+newmtl Fld_Twist00Canola_CanolaA
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaA_Alb.png
+
+newmtl Fld_Twist00Canola_CanolaAV
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaAV_Alb.png
+
+newmtl Fld_Twist00Canola_CanolaB
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaB_Alb.png
+
+newmtl Fld_Twist00Canola_CanolaBV
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaBV_Alb.png
+

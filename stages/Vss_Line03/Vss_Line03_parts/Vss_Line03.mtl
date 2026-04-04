@@ -1,0 +1,669 @@
+# KiTrix material file
+newmtl FldBG_Line03_DVBuildingSet3
+Kd 1.0 1.0 1.0
+map_Kd textures/DVBuildingSet3_Alb.png
+
+newmtl FldBG_Line03_DVGroundConcrete
+Kd 1.0 1.0 1.0
+map_Kd textures/DVGroundConcrete_Alb.png
+
+newmtl FldBG_Line03_DVGroundGrassBase
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundGrassBase_Alb.png
+
+newmtl FldBG_Line03_DVItemSet
+Kd 1.0 1.0 1.0
+map_Kd textures/DVItemSet_Alb.png
+
+newmtl FldBG_Line03_DVKomonoMetal
+Kd 1.0 1.0 1.0
+map_Kd textures/DVKomonoMetal_Alb.png
+
+newmtl FldBG_Line03_DVKomonoSetA
+Kd 1.0 1.0 1.0
+map_Kd textures/DVKomonoSetA_Alb.png
+
+newmtl FldBG_Line03_DVKomonoSetB
+Kd 1.0 1.0 1.0
+map_Kd textures/DVKomonoSetB_Alb.png
+
+newmtl FldBG_Line03_DVKomonoSetB_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/DVKomonoSetB_Alb.png
+
+newmtl FldBG_Line03_DVKomonoSetC
+Kd 1.0 1.0 1.0
+map_Kd textures/DVKomonoSetC_Alb.png
+
+newmtl FldBG_Line03_DVLeafSet
+Kd 1.0 1.0 1.0
+map_Kd textures/DVLeafSet_Alb.png
+
+newmtl FldBG_Line03_DVMatiBuildingsSet1
+Kd 1.0 1.0 1.0
+map_Kd textures/DVMatiBuildingsSet_Alb.png
+
+newmtl FldBG_Line03_DVShelfBaseSet
+Kd 1.0 1.0 1.0
+map_Kd textures/DVShelfBaseSet_Alb.png
+
+newmtl FldBG_Line03_DV_GroundAsphalt
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_GroundAsphalt_Alb.png
+
+newmtl FldBG_Line03_DVventBoco
+Kd 1.0 1.0 1.0
+map_Kd textures/DVventBoco_Alb.png
+
+newmtl FldBG_Line03_DVventBocoA_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/DVventBoco_Alb.png
+
+newmtl FldBG_Line03_DVventBocoB_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/DVventBoco_Alb.png
+
+newmtl FldBG_Line03_DVwallbrick
+Kd 1.0 1.0 1.0
+map_Kd textures/DVwallbrick_Alb.png
+
+newmtl FldBG_Line03_FenceNetY
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceNetY_Alb.png
+
+newmtl FldBG_Line03_Freezer
+Kd 1.0 1.0 1.0
+map_Kd textures/Freezer_Alb.png
+
+newmtl FldBG_Line03_GlassDV
+Kd 1.0 1.0 1.0
+map_Kd textures/GlassDV_Rgh.png
+
+newmtl FldBG_Line03_GlassStandardWall
+Kd 1.0 1.0 1.0
+map_Kd textures/GlassStandardWall_Nrm.png
+
+newmtl FldBG_Line03_GrafittiSet_np
+Kd 1.0 1.0 1.0
+map_Kd textures/GrafittiSet_Alb.png
+
+newmtl FldBG_Line03_GroundRepeatPartsDV
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundRepeatPartsDV_Alb.png
+
+newmtl FldBG_Line03_GroundStoneWDV
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundStoneWDV_Alb.png
+
+newmtl FldBG_Line03_KomonoDisplay
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoDisplay_Alb.png
+
+newmtl FldBG_Line03_KomonoDisplayVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoDisplayVinyl_Alb.png
+
+newmtl FldBG_Line03_KomonoParts
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoParts_Alb.png
+
+newmtl FldBG_Line03_KomonoRepeatParts_np
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoRepeatParts_Alb.png
+
+newmtl FldBG_Line03_KomonoSetA_np
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoSetA_Alb.png
+
+newmtl FldBG_Line03_KomonoSetNuki
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoSetNuki_Alb.png
+
+newmtl FldBG_Line03_Light
+Kd 1.0 1.0 1.0
+map_Kd textures/Light_Alb.png
+
+newmtl FldBG_Line03_Light_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/Light_Alb.png
+
+newmtl FldBG_Line03_PlasticCaseColor
+Kd 1.0 1.0 1.0
+map_Kd textures/PlasticCaseColor_Alb.png
+
+newmtl FldBG_Line03_PlasticCaseColor_np
+Kd 1.0 1.0 1.0
+map_Kd textures/PlasticCaseColor_Alb.png
+
+newmtl FldBG_Line03_W_RengaC
+Kd 1.0 1.0 1.0
+map_Kd textures/W_RengaC_Alb.png
+
+newmtl FldBG_Line03_WallBrickBase
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrickBase_Alb.png
+
+newmtl FldBG_Line03_WallRepeat
+Kd 1.0 1.0 1.0
+map_Kd textures/WallRepeat_Alb.png
+
+newmtl FldBG_Line03_WallRepeat_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/WallRepeat_Alb.png
+
+newmtl FldBG_Line03_WallStone
+Kd 1.0 1.0 1.0
+map_Kd textures/WallStone_Alb.png
+
+newmtl FldBG_Line03_WallStoneDV
+Kd 1.0 1.0 1.0
+map_Kd textures/WallStoneDV_Alb.png
+
+newmtl FldBG_Line03_WallmetalbeamsDV
+Kd 1.0 1.0 1.0
+map_Kd textures/WallmetalbeamsDV_Alb.png
+
+newmtl FldBG_Line03_Wallmetalbeams_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/Wallmetalbeams_Alb.png
+
+newmtl FldObj_LineExceptTri_CanolaA
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaA_Alb.png
+
+newmtl FldObj_LineExceptTri_CanolaB
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaB_Alb.png
+
+newmtl FldObj_LineExceptTri_DVKomonoSetA
+Kd 1.0 1.0 1.0
+map_Kd textures/DVKomonoSetA_Alb.png
+
+newmtl FldObj_LineExceptTri_FloorWireNetN
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorWireNetN_Alb.png
+
+newmtl FldObj_LineExceptTri_Glass
+Kd 1.0 1.0 1.0
+map_Kd textures/Glass_Alb.png
+
+newmtl FldObj_LineExceptTri_GlassStandardWall
+Kd 1.0 1.0 1.0
+map_Kd textures/GlassStandardWall_Nrm.png
+
+newmtl FldObj_LineExceptTri_GrafittiSet
+Kd 1.0 1.0 1.0
+map_Kd textures/GrafittiSet_Alb.png
+
+newmtl FldObj_LineExceptTri_GrafittiSet_np
+Kd 1.0 1.0 1.0
+map_Kd textures/GrafittiSet_Alb.png
+
+newmtl FldObj_LineExceptTri_GroundPlate
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundPlate_Alb.png
+
+newmtl FldObj_LineExceptTri_GroundRepeatParts
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundRepeatParts_Alb.png
+
+newmtl FldObj_LineExceptTri_GroundRepeatParts_np
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundRepeatParts_Alb.png
+
+newmtl FldObj_LineExceptTri_GroundStoneW
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundStoneW_Alb.png
+
+newmtl FldObj_LineExceptTri_IronFrame
+Kd 1.0 1.0 1.0
+map_Kd textures/IronFrame_Alb.png
+
+newmtl FldObj_LineExceptTri_IronPinkGreen
+Kd 1.0 1.0 1.0
+map_Kd textures/IronPinkGreen_Alb.png
+
+newmtl FldObj_LineExceptTri_KomonoDisplay
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoDisplay_Alb.png
+
+newmtl FldObj_LineExceptTri_KomonoDisplayVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoDisplayVinyl_Alb.png
+
+newmtl FldObj_LineExceptTri_KomonoFreezer
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoFreezer_Alb.png
+
+newmtl FldObj_LineExceptTri_KomonoParts
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoParts_Alb.png
+
+newmtl FldObj_LineExceptTri_KomonoRepeatParts
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoRepeatParts_Alb.png
+
+newmtl FldObj_LineExceptTri_KomonoRepeatParts_np
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoRepeatParts_Alb.png
+
+newmtl FldObj_LineExceptTri_KomonoSet
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoSet_Alb.png
+
+newmtl FldObj_LineExceptTri_KomonoSetA
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoSetA_Alb.png
+
+newmtl FldObj_LineExceptTri_KomonoSetA_np
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoSetA_Alb.png
+
+newmtl FldObj_LineExceptTri_KomonoSetB
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoSetB_Alb.png
+
+newmtl FldObj_LineExceptTri_KomonoSetB_np
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoSetB_Alb.png
+
+newmtl FldObj_LineExceptTri_KomonoSetNuki
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoSetNuki_Alb.png
+
+newmtl FldObj_LineExceptTri_KomonoSet_np
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoSet_Alb.png
+
+newmtl FldObj_LineExceptTri_KomonoTana
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoTana_Alb.png
+
+newmtl FldObj_LineExceptTri_KomonoTana_np
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoTana_Alb.png
+
+newmtl FldObj_LineExceptTri_MetalSlope
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalSlope_Alb.png
+
+newmtl FldObj_LineExceptTri_MetalTana
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalTana_Alb.png
+
+newmtl FldObj_LineExceptTri_SlopeMetalParts_np
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeMetalParts_Alb.png
+
+newmtl FldObj_LineExceptTri_StoreRefrigeratorPartsSet
+Kd 1.0 1.0 1.0
+map_Kd textures/StoreRefrigeratorPartsSet_Alb.png
+
+newmtl FldObj_LineExceptTri_Vinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/Vinyl_Alb.png
+
+newmtl FldObj_LineExceptTri_VinylSheetG
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylSheetG_Nrm.png
+
+newmtl FldObj_LineExceptTri_WallStone
+Kd 1.0 1.0 1.0
+map_Kd textures/WallStone_Alb.png
+
+newmtl FldObj_LineExceptTri_WallStoneDV
+Kd 1.0 1.0 1.0
+map_Kd textures/WallStoneDV_Alb.png
+
+newmtl FldObj_LineTriColor_CanolaC
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaC_Alb.png
+
+newmtl FldObj_LineTriColor_CanolaCV
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaCV_Alb.png
+
+newmtl FldObj_LineTriColor_FenceNetY
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceNetY_Alb.png
+
+newmtl FldObj_LineTriColor_Glass
+Kd 1.0 1.0 1.0
+map_Kd textures/Glass_Alb.png
+
+newmtl FldObj_LineTriColor_GlassStandardWall
+Kd 1.0 1.0 1.0
+map_Kd textures/GlassStandardWall_Nrm.png
+
+newmtl FldObj_LineTriColor_GrafittiSet
+Kd 1.0 1.0 1.0
+map_Kd textures/GrafittiSet_Alb.png
+
+newmtl FldObj_LineTriColor_GrafittiSet_np
+Kd 1.0 1.0 1.0
+map_Kd textures/GrafittiSet_Alb.png
+
+newmtl FldObj_LineTriColor_GroundPlate
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundPlate_Alb.png
+
+newmtl FldObj_LineTriColor_GroundRepeatParts
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundRepeatParts_Alb.png
+
+newmtl FldObj_LineTriColor_GroundRepeatPartsDV
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundRepeatPartsDV_Alb.png
+
+newmtl FldObj_LineTriColor_GroundRepeatParts_np
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundRepeatParts_Alb.png
+
+newmtl FldObj_LineTriColor_IronFrame
+Kd 1.0 1.0 1.0
+map_Kd textures/IronFrame_Alb.png
+
+newmtl FldObj_LineTriColor_IronPinkGreen
+Kd 1.0 1.0 1.0
+map_Kd textures/IronPinkGreen_Alb.png
+
+newmtl FldObj_LineTriColor_KomonoDisplay
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoDisplay_Alb.png
+
+newmtl FldObj_LineTriColor_KomonoDisplayVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoDisplayVinyl_Alb.png
+
+newmtl FldObj_LineTriColor_KomonoFreezer
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoFreezer_Alb.png
+
+newmtl FldObj_LineTriColor_KomonoPaper
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoPaper_Nrm.png
+
+newmtl FldObj_LineTriColor_KomonoParts
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoParts_Alb.png
+
+newmtl FldObj_LineTriColor_KomonoRepeatParts_np
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoRepeatParts_Alb.png
+
+newmtl FldObj_LineTriColor_KomonoSetA
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoSetA_Alb.png
+
+newmtl FldObj_LineTriColor_KomonoSetA_np
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoSetA_Alb.png
+
+newmtl FldObj_LineTriColor_KomonoSetB_np
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoSetB_Alb.png
+
+newmtl FldObj_LineTriColor_KomonoSetNuki
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoSetNuki_Alb.png
+
+newmtl FldObj_LineTriColor_KomonoSet_np
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoSet_Alb.png
+
+newmtl FldObj_LineTriColor_KomonoTana
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoTana_Alb.png
+
+newmtl FldObj_LineTriColor_KomonoTana_np
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoTana_Alb.png
+
+newmtl FldObj_LineTriColor_MetalSlope
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalSlope_Alb.png
+
+newmtl FldObj_LineTriColor_MetalTana
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalTana_Alb.png
+
+newmtl FldObj_LineTriColor_PlasticCaseColor_np
+Kd 1.0 1.0 1.0
+map_Kd textures/PlasticCaseColor_Alb.png
+
+newmtl FldObj_LineTriColor_StoreRefrigeratorPartsSet
+Kd 1.0 1.0 1.0
+map_Kd textures/StoreRefrigeratorPartsSet_Alb.png
+
+newmtl FldObj_LineTriColor_Vinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/Vinyl_Alb.png
+
+newmtl FldObj_LineTriColor_VinylSheetG
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylSheetG_Nrm.png
+
+newmtl FldObj_LineTriColor_WallStone
+Kd 1.0 1.0 1.0
+map_Kd textures/WallStone_Alb.png
+
+newmtl FldObj_LineTriColor_WoodPlane
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodPlane_Alb.png
+
+newmtl FldObj_LineTriColor_WoodPlane_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodPlane_Alb.png
+
+newmtl Fld_Line03_CanolaA
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaA_Alb.png
+
+newmtl Fld_Line03_CanolaB
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaB_Alb.png
+
+newmtl Fld_Line03_DVmetalbeamsset_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/DVmetalbeamsset_Alb.png
+
+newmtl Fld_Line03_DVventBocoA_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/DVventBoco_Alb.png
+
+newmtl Fld_Line03_Glass
+Kd 1.0 1.0 1.0
+map_Kd textures/Glass_Alb.png
+
+newmtl Fld_Line03_GlassStandardWall
+Kd 1.0 1.0 1.0
+map_Kd textures/GlassStandardWall_Nrm.png
+
+newmtl Fld_Line03_GrafittiSet
+Kd 1.0 1.0 1.0
+map_Kd textures/GrafittiSet_Alb.png
+
+newmtl Fld_Line03_GrafittiSet_np
+Kd 1.0 1.0 1.0
+map_Kd textures/GrafittiSet_Alb.png
+
+newmtl Fld_Line03_GrafittiSet_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/GrafittiSet_Alb.png
+
+newmtl Fld_Line03_GroundPlate
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundPlate_Alb.png
+
+newmtl Fld_Line03_GroundRepeatParts
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundRepeatParts_Alb.png
+
+newmtl Fld_Line03_GroundRepeatParts_np
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundRepeatParts_Alb.png
+
+newmtl Fld_Line03_GroundStoneW
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundStoneW_Alb.png
+
+newmtl Fld_Line03_GroundStoneW_np
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundStoneW_Alb.png
+
+newmtl Fld_Line03_IronFrame
+Kd 1.0 1.0 1.0
+map_Kd textures/IronFrame_Alb.png
+
+newmtl Fld_Line03_IronPinkGreen
+Kd 1.0 1.0 1.0
+map_Kd textures/IronPinkGreen_Alb.png
+
+newmtl Fld_Line03_KomonoDisplay
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoDisplay_Alb.png
+
+newmtl Fld_Line03_KomonoDisplayVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoDisplayVinyl_Alb.png
+
+newmtl Fld_Line03_KomonoFreezer
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoFreezer_Alb.png
+
+newmtl Fld_Line03_KomonoPaper
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoPaper_Nrm.png
+
+newmtl Fld_Line03_KomonoParts
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoParts_Alb.png
+
+newmtl Fld_Line03_KomonoRepeatParts
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoRepeatParts_Alb.png
+
+newmtl Fld_Line03_KomonoRepeatParts_np
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoRepeatParts_Alb.png
+
+newmtl Fld_Line03_KomonoSet
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoSet_Alb.png
+
+newmtl Fld_Line03_KomonoSetA
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoSetA_Alb.png
+
+newmtl Fld_Line03_KomonoSetA_np
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoSetA_Alb.png
+
+newmtl Fld_Line03_KomonoSetB
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoSetB_Alb.png
+
+newmtl Fld_Line03_KomonoSetB_np
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoSetB_Alb.png
+
+newmtl Fld_Line03_KomonoSetNuki
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoSetNuki_Alb.png
+
+newmtl Fld_Line03_KomonoSet_np
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoSet_Alb.png
+
+newmtl Fld_Line03_KomonoTana
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoTana_Alb.png
+
+newmtl Fld_Line03_KomonoTana_np
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoTana_Alb.png
+
+newmtl Fld_Line03_KomonoTeamAlpha
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoTeamAlpha_Alb.png
+
+newmtl Fld_Line03_KomonoTeamAlpha_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoTeamAlpha_Alb.png
+
+newmtl Fld_Line03_KomonoTeamBravo
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoTeamBravo_Alb.png
+
+newmtl Fld_Line03_KomonoTeamBravo_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoTeamBravo_Alb.png
+
+newmtl Fld_Line03_MetalElectricBox
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalElectricBox_Alb.png
+
+newmtl Fld_Line03_MetalSlope
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalSlope_Alb.png
+
+newmtl Fld_Line03_MetalTana
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalTana_Alb.png
+
+newmtl Fld_Line03_PlasticCaseColor_np
+Kd 1.0 1.0 1.0
+map_Kd textures/PlasticCaseColor_Alb.png
+
+newmtl Fld_Line03_SlopeMetalParts
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeMetalParts_Alb.png
+
+newmtl Fld_Line03_SlopeMetalParts_np
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeMetalParts_Alb.png
+
+newmtl Fld_Line03_SlopeMetalPlate_gp
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeMetalPlate_Alb.png
+
+newmtl Fld_Line03_StoreRefrigeratorPartsSet
+Kd 1.0 1.0 1.0
+map_Kd textures/StoreRefrigeratorPartsSet_Alb.png
+
+newmtl Fld_Line03_Vinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/Vinyl_Alb.png
+
+newmtl Fld_Line03_VinylSheetG
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylSheetG_Nrm.png
+
+newmtl Fld_Line03_WallIronWall_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/WallIronWall_Alb.png
+
+newmtl Fld_Line03_WallStone
+Kd 1.0 1.0 1.0
+map_Kd textures/WallStone_Alb.png
+
+newmtl Fld_Line03_Wallmetalbeams
+Kd 1.0 1.0 1.0
+map_Kd textures/Wallmetalbeams_Alb.png
+
+newmtl Fld_Line03_Wallmetalbeams_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/Wallmetalbeams_Alb.png
+
+newmtl Fld_Line03_WoodBase
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodBase_Alb.png
+
+newmtl Fld_Line03_WoodPlane
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodPlane_Alb.png
+
+newmtl Fld_Line03_WoodPlane_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodPlane_Alb.png
+

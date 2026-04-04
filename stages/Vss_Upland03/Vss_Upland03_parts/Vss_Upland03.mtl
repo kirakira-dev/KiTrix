@@ -1,0 +1,413 @@
+# KiTrix material file
+newmtl FldBG_Upland03_Bark
+Kd 1.0 1.0 1.0
+map_Kd textures/Bark_Alb.png
+
+newmtl FldBG_Upland03_DV_GroundRepeat
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_GroundRepeat_Alb.png
+
+newmtl FldBG_Upland03_DV_GroundRepeatColor
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_GroundRepeatColor_Alb.png
+
+newmtl FldBG_Upland03_DV_StreetLight
+Kd 1.0 1.0 1.0
+map_Kd textures/StreetLight_Alb.png
+
+newmtl FldBG_Upland03_DV_WallBrick
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrick_Alb.png
+
+newmtl FldBG_Upland03_DV_WallBrickRepeat
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrickRepeat_Alb.png
+
+newmtl FldBG_Upland03_DV_WallConcreteLightGray
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_WallConcreteLightGray_Alb.png
+
+newmtl FldBG_Upland03_GlassDarkMirror
+Kd 1.0 1.0 1.0
+map_Kd textures/BakeDummy00.png
+
+newmtl FldBG_Upland03_GlassMirror
+Kd 1.0 1.0 1.0
+map_Kd textures/GlassMirror_Alb.png
+
+newmtl FldBG_Upland03_GlassWindow
+Kd 1.0 1.0 1.0
+map_Kd textures/GlassWindow_Alb.png
+
+newmtl FldBG_Upland03_GroundAsphaltCrackGrey
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundAsphaltCrackGrey_Alb.png
+
+newmtl FldBG_Upland03_GroundAsphaltWet
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundAsphaltWet_Alb.png
+
+newmtl FldBG_Upland03_GroundGrass
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundGrassBase_Alb.png
+
+newmtl FldBG_Upland03_GroundRepeat
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundRepeat_Alb.png
+
+newmtl FldBG_Upland03_GroundWhite
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundWhite_Alb.png
+
+newmtl FldBG_Upland03_NukiSet00
+Kd 1.0 1.0 1.0
+map_Kd textures/NukiSet00_Alb.png
+
+newmtl FldBG_Upland03_NukiSet01
+Kd 1.0 1.0 1.0
+map_Kd textures/NukiSet01_Alb.png
+
+newmtl FldBG_Upland03_SignalMainBody
+Kd 1.0 1.0 1.0
+map_Kd textures/SignalMainBody_Alb.png
+
+newmtl FldBG_Upland03_TransmissionTowerMaterial
+Kd 1.0 1.0 1.0
+map_Kd textures/TransmissionTowerMaterial_Alb.png
+
+newmtl FldBG_Upland03_TreeBush
+Kd 1.0 1.0 1.0
+map_Kd textures/TreeBush_Alb.png
+
+newmtl FldBG_Upland03_TreeSet
+Kd 1.0 1.0 1.0
+map_Kd textures/TreeSet_Alb.png
+
+newmtl FldBG_Upland03_UplandBunker
+Kd 1.0 1.0 1.0
+map_Kd textures/UplandBunker_Alb.png
+
+newmtl FldBG_Upland03_UplandTreeLeaf
+Kd 1.0 1.0 1.0
+map_Kd textures/UplandTreeLeaf_Alb.png
+
+newmtl FldBG_Upland03_WallRepeat00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallRepeat00_np_Alb.png
+
+newmtl FldBG_Upland03_WallWindow
+Kd 1.0 1.0 1.0
+map_Kd textures/WallWindow_Alb.png
+
+newmtl FldObj_Upland03_Car_CarShadow
+Kd 1.0 1.0 1.0
+map_Kd textures/BakeDummy00.png
+
+newmtl FldObj_Upland03_Car_CarsSet
+Kd 1.0 1.0 1.0
+map_Kd textures/CarsSet_Alb.png
+
+newmtl FldObj_Upland03_Tree_UplandTreeBody
+Kd 1.0 1.0 1.0
+map_Kd textures/UplandTreeBody_Alb.png
+
+newmtl FldObj_Upland03_Tree_UplandTreeLeaf
+Kd 1.0 1.0 1.0
+map_Kd textures/UplandTreeLeaf_Alb.png
+
+newmtl FldObj_Upland03_Water_Plant
+Kd 1.0 1.0 1.0
+map_Kd textures/Plant_Alb.png
+
+newmtl FldObj_Upland03_Water_Water
+Kd 1.0 1.0 1.0
+map_Kd textures/Water_Nrm.png
+
+newmtl Fld_Upland03_Bike00
+Kd 1.0 1.0 1.0
+map_Kd textures/Bike00_Alb.png
+
+newmtl Fld_Upland03_BlueSheet1
+Kd 1.0 1.0 1.0
+map_Kd textures/BlueSheet_Alb.png
+
+newmtl Fld_Upland03_CanolaA
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaA_Alb.png
+
+newmtl Fld_Upland03_CanolaB
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaB_Alb.png
+
+newmtl Fld_Upland03_Carton00
+Kd 1.0 1.0 1.0
+map_Kd textures/Carton00_Alb.png
+
+newmtl Fld_Upland03_DV_GroundRepeat
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_GroundRepeat_Alb.png
+
+newmtl Fld_Upland03_DV_KomonoMatome
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_KomonoMatome_Alb.png
+
+newmtl Fld_Upland03_DV_StreetLight
+Kd 1.0 1.0 1.0
+map_Kd textures/StreetLight_Alb.png
+
+newmtl Fld_Upland03_DV_WallBrick
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrick_Alb.png
+
+newmtl Fld_Upland03_DV_WallConcreteLightGray
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_WallConcreteLightGray_Alb.png
+
+newmtl Fld_Upland03_Dis_FillUp
+Kd 1.0 1.0 1.0
+map_Kd textures/BakeDummy00.png
+
+newmtl Fld_Upland03_GlassDarkMirror
+Kd 1.0 1.0 1.0
+map_Kd textures/BakeDummy00.png
+
+newmtl Fld_Upland03_GlassMirror
+Kd 1.0 1.0 1.0
+map_Kd textures/GlassMirror_Alb.png
+
+newmtl Fld_Upland03_GlassWindow
+Kd 1.0 1.0 1.0
+map_Kd textures/GlassWindow_Alb.png
+
+newmtl Fld_Upland03_GlassWire
+Kd 1.0 1.0 1.0
+map_Kd textures/GlassWire_Alb.png
+
+newmtl Fld_Upland03_GroundAsphaltCrackHi
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundAsphaltCrackHi_Alb.png
+
+newmtl Fld_Upland03_GroundAsphaltWet
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundAsphaltWet_Alb.png
+
+newmtl Fld_Upland03_GroundBrick
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundBrickt_Alb.png
+
+newmtl Fld_Upland03_GroundCircleBlick
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundCircleBlick_Alb.png
+
+newmtl Fld_Upland03_GroundGrass
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundGrassBase_Alb.png
+
+newmtl Fld_Upland03_GroundGrassBase
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundGrassBase_Alb.png
+
+newmtl Fld_Upland03_GroundRepeat
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundRepeat_Alb.png
+
+newmtl Fld_Upland03_GroundRepeatColor
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundRepeatColor_Alb.png
+
+newmtl Fld_Upland03_GroundSealNukiSet
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundSealNukiSet_Alb.png
+
+newmtl Fld_Upland03_GroundSealNukiSet_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundSealNukiSet_Alb.png
+
+newmtl Fld_Upland03_GroundSoilLittleGrass
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundSoilLittleGrass_Alb.png
+
+newmtl Fld_Upland03_GroundWaterEdge
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundWaterEdge_Alb.png
+
+newmtl Fld_Upland03_GroundWhite
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundWhite_Alb.png
+
+newmtl Fld_Upland03_KomonoMatome
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoMatome_Alb.png
+
+newmtl Fld_Upland03_KomonoMatome00_NP
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoMatome00_NP_Alb.png
+
+newmtl Fld_Upland03_KomonoMatome01_NP
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoMatome01_NP_Alb.png
+
+newmtl Fld_Upland03_KomonoMatome02
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoMatome02_NP_Alb.png
+
+newmtl Fld_Upland03_KomonoMatome02_NP
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoMatome02_NP_Alb.png
+
+newmtl Fld_Upland03_KomonoMatome_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/KomonoMatome_Alb.png
+
+newmtl Fld_Upland03_NukiFlier
+Kd 1.0 1.0 1.0
+map_Kd textures/NukiFlier_Alb.png
+
+newmtl Fld_Upland03_NukiFlier_np
+Kd 1.0 1.0 1.0
+map_Kd textures/NukiFlier_np_Alb.png
+
+newmtl Fld_Upland03_NukiSet01
+Kd 1.0 1.0 1.0
+map_Kd textures/NukiSet01_Alb.png
+
+newmtl Fld_Upland03_NukiSet02
+Kd 1.0 1.0 1.0
+map_Kd textures/NukiSet02_Alb.png
+
+newmtl Fld_Upland03_Nukiami
+Kd 1.0 1.0 1.0
+map_Kd textures/Nukiami_Alb.png
+
+newmtl Fld_Upland03_OverLook
+Kd 1.0 1.0 1.0
+map_Kd textures/OverLook_NP_Alb.png
+
+newmtl Fld_Upland03_OverLook_Glass
+Kd 1.0 1.0 1.0
+map_Kd textures/BakeDummy00.png
+
+newmtl Fld_Upland03_PegBoard
+Kd 1.0 1.0 1.0
+map_Kd textures/PegBoard_Alb.png
+
+newmtl Fld_Upland03_PlantLeaf00
+Kd 1.0 1.0 1.0
+map_Kd textures/PlantLeaf00_Alb.png
+
+newmtl Fld_Upland03_PlantLeaf01
+Kd 1.0 1.0 1.0
+map_Kd textures/PlantLeaf01_Alb.png
+
+newmtl Fld_Upland03_PlasticBoard
+Kd 1.0 1.0 1.0
+map_Kd textures/PlasticBoard_Alb.png
+
+newmtl Fld_Upland03_Posters
+Kd 1.0 1.0 1.0
+map_Kd textures/Posters_Alb.png
+
+newmtl Fld_Upland03_SealTranslucentSet
+Kd 1.0 1.0 1.0
+map_Kd textures/SealTranslucentSet_Alb.png
+
+newmtl Fld_Upland03_SheetVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/SheetVinyl_Alb.png
+
+newmtl Fld_Upland03_StreetLight
+Kd 1.0 1.0 1.0
+map_Kd textures/StreetLight_Alb.png
+
+newmtl Fld_Upland03_TeamColor_A
+Kd 1.0 1.0 1.0
+map_Kd textures/TeamColor_A_Alb.png
+
+newmtl Fld_Upland03_TeamColor_B
+Kd 1.0 1.0 1.0
+map_Kd textures/TeamColor_B_Alb.png
+
+newmtl Fld_Upland03_TreeBush
+Kd 1.0 1.0 1.0
+map_Kd textures/TreeBush_Alb.png
+
+newmtl Fld_Upland03_VinylClear
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylClear_Nrm.png
+
+newmtl Fld_Upland03_WallBrick
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrick_Alb.png
+
+newmtl Fld_Upland03_WallBrickRepeat
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrickRepeat_Alb.png
+
+newmtl Fld_Upland03_WallBrickRepeat_NP
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrickRepeat_Alb.png
+
+newmtl Fld_Upland03_WallBrick_NP
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrick_Alb.png
+
+newmtl Fld_Upland03_WallBulleten
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBulleten_Alb.png
+
+newmtl Fld_Upland03_WallBulleten_NP
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBulleten_Alb.png
+
+newmtl Fld_Upland03_WallConcreteBackStreet
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteBackStreet_Alb.png
+
+newmtl Fld_Upland03_WallConcreteBlock_NP
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteBlock_Alb.png
+
+newmtl Fld_Upland03_WallConcreteLightGray_NP
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteLightGray_Alb.png
+
+newmtl Fld_Upland03_WallConcreteWhite
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteWhite_Alb.png
+
+newmtl Fld_Upland03_WallRepeat
+Kd 1.0 1.0 1.0
+map_Kd textures/WallRepeat_Alb.png
+
+newmtl Fld_Upland03_WallRepeat00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallRepeat00_np_Alb.png
+
+newmtl Fld_Upland03_WallRepeat01_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallRepeat01_np_Alb.png
+
+newmtl Fld_Upland03_WallRepeat02_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallRepeat02_np_Alb.png
+
+newmtl Fld_Upland03_WallRoughConcrete
+Kd 1.0 1.0 1.0
+map_Kd textures/WallRoughConcrete_Alb.png
+
+newmtl Fld_Upland03_WallRoughConcrete_NP
+Kd 1.0 1.0 1.0
+map_Kd textures/WallRoughConcrete_Alb.png
+
+newmtl Fld_Upland03_WallWindow
+Kd 1.0 1.0 1.0
+map_Kd textures/WallWindow_Alb.png
+
+newmtl Fld_Upland03_Water
+Kd 1.0 1.0 1.0
+map_Kd textures/Water_Nrm.png
+
+newmtl Fld_Upland03_WoodRepeat
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodRepeat_Alb.png
+

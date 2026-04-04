@@ -1,0 +1,2465 @@
+# KiTrix material file
+newmtl FldObj_Ruins03Block_Ruins03Graffiti00
+Kd 1.0 1.0 1.0
+map_Kd textures/Ruins03Graffiti00_Alb.png
+
+newmtl FldObj_Ruins03Block_WallBrickBase
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrickBase_Alb.png
+
+newmtl FldObj_Ruins03Block_WallConcreteBase
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteBase_Alb.png
+
+newmtl FldObj_Ruins03Block_WallUnderColor
+Kd 1.0 1.0 1.0
+map_Kd textures/WallUnderColor_Alb.png
+
+newmtl FldObj_Ruins03BlockSide_WallBrickBase
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrickBase_Alb.png
+
+newmtl FldObj_Ruins03BlockSide_WallConcreteBase
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteBase_Alb.png
+
+newmtl FldObj_Ruins03BlockSide_WallUnderColor
+Kd 1.0 1.0 1.0
+map_Kd textures/WallUnderColor_Alb.png
+
+newmtl FldObj_Ruins03Elevator_ElevatorCage
+Kd 1.0 1.0 1.0
+map_Kd textures/ElevatorCage_Alb.png
+
+newmtl FldObj_Ruins03Elevator_ElevatorCage_np
+Kd 1.0 1.0 1.0
+map_Kd textures/ElevatorCage_Alb.png
+
+newmtl FldObj_Ruins03Elevator_ElevatorCage_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/ElevatorCage_Alb.png
+
+newmtl FldObj_Ruins03Elevator_RepairVinyl00
+Kd 1.0 1.0 1.0
+map_Kd textures/RepairVinyl00_Alb.png
+
+newmtl FldObj_Ruins03Elevator_Tape00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Tape00_Alb.png
+
+newmtl FldObj_Ruins03GeneralBoxPnt_FenceVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/M_FenceVinyl_Alb.png
+
+newmtl FldObj_Ruins03GeneralBoxPnt_GeneralBoxBody
+Kd 1.0 1.0 1.0
+map_Kd textures/M_GeneralBoxBody_Alb.png
+
+newmtl FldObj_Ruins03GeneralBoxPnt_GeneralBoxTopEdge
+Kd 1.0 1.0 1.0
+map_Kd textures/M_GeneralBoxTopEdge_Alb.png
+
+newmtl FldObj_Ruins03GeneralBoxTcl_FenceVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/M_FenceVinyl_Alb.png
+
+newmtl FldObj_Ruins03GeneralBoxTcl_GeneralBoxBody
+Kd 1.0 1.0 1.0
+map_Kd textures/M_GeneralBoxBody_Alb.png
+
+newmtl FldObj_Ruins03GeneralBoxTcl_GeneralBoxTopEdge
+Kd 1.0 1.0 1.0
+map_Kd textures/M_GeneralBoxTopEdge_Alb.png
+
+newmtl FldObj_Ruins03GeneralBoxVar_FenceVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/M_FenceVinyl_Alb.png
+
+newmtl FldObj_Ruins03GeneralBoxVar_GeneralBoxBody
+Kd 1.0 1.0 1.0
+map_Kd textures/M_GeneralBoxBody_Alb.png
+
+newmtl FldObj_Ruins03GeneralBoxVar_GeneralBoxTopEdge
+Kd 1.0 1.0 1.0
+map_Kd textures/M_GeneralBoxTopEdge_Alb.png
+
+newmtl FldObj_Ruins03GeneralBoxVcl_FenceVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/M_FenceVinyl_Alb.png
+
+newmtl FldObj_Ruins03GeneralBoxVcl_GeneralBoxBody
+Kd 1.0 1.0 1.0
+map_Kd textures/M_GeneralBoxBody_Alb.png
+
+newmtl FldObj_Ruins03GeneralBoxVcl_GeneralBoxTopEdge
+Kd 1.0 1.0 1.0
+map_Kd textures/M_GeneralBoxTopEdge_Alb.png
+
+newmtl FldObj_Ruins03GeneralBoxVgl_FenceVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/M_FenceVinyl_Alb.png
+
+newmtl FldObj_Ruins03GeneralBoxVlf_FenceVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/M_FenceVinyl_Alb.png
+
+newmtl FldObj_Ruins03GeneralBoxVlf_GeneralBoxBody
+Kd 1.0 1.0 1.0
+map_Kd textures/M_GeneralBoxBody_Alb.png
+
+newmtl FldObj_Ruins03GeneralBoxVlf_GeneralBoxTopEdge
+Kd 1.0 1.0 1.0
+map_Kd textures/M_GeneralBoxTopEdge_Alb.png
+
+newmtl FldObj_Ruins03PntStage_Barricade00
+Kd 1.0 1.0 1.0
+map_Kd textures/Barricade00_Alb.png
+
+newmtl FldObj_Ruins03PntStage_BlockCurbYellow
+Kd 1.0 1.0 1.0
+map_Kd textures/BlockCurbYellow_Alb.png
+
+newmtl FldObj_Ruins03PntStage_BlueTarp00
+Kd 1.0 1.0 1.0
+map_Kd textures/BlueTarp00_Alb.png
+
+newmtl FldObj_Ruins03PntStage_BridgeLight
+Kd 1.0 1.0 1.0
+map_Kd textures/BakeDummy00.png
+
+newmtl FldObj_Ruins03PntStage_BridgePartsMain_np
+Kd 1.0 1.0 1.0
+map_Kd textures/BridgePartsMain_Alb.png
+
+newmtl FldObj_Ruins03PntStage_BridgePartsN
+Kd 1.0 1.0 1.0
+map_Kd textures/BridgePartsN_Alb.png
+
+newmtl FldObj_Ruins03PntStage_BridgeRuins00
+Kd 1.0 1.0 1.0
+map_Kd textures/BridgeRuins00_Alb.png
+
+newmtl FldObj_Ruins03PntStage_BridgeRuins00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/BridgeRuins00_Alb.png
+
+newmtl FldObj_Ruins03PntStage_CircleBox00
+Kd 1.0 1.0 1.0
+map_Kd textures/CircleBox00_Alb.png
+
+newmtl FldObj_Ruins03PntStage_DeckFloor01
+Kd 1.0 1.0 1.0
+map_Kd textures/DeckFloor01_Alb.png
+
+newmtl FldObj_Ruins03PntStage_DeckFloor02
+Kd 1.0 1.0 1.0
+map_Kd textures/DeckFloor02_Alb.png
+
+newmtl FldObj_Ruins03PntStage_DustBox00
+Kd 1.0 1.0 1.0
+map_Kd textures/DustBox00_Alb.png
+
+newmtl FldObj_Ruins03PntStage_DustBox00Nuki
+Kd 1.0 1.0 1.0
+map_Kd textures/DustBox00Nuki_Opa.png
+
+newmtl FldObj_Ruins03PntStage_FenceIronNet_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceIronNet_Alb.png
+
+newmtl FldObj_Ruins03PntStage_FenceIronNet_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceIronNet_Alb.png
+
+newmtl FldObj_Ruins03PntStage_FenceIron_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceIron_Alb.png
+
+newmtl FldObj_Ruins03PntStage_FldRuinsCaseObjUDIM00
+Kd 1.0 1.0 1.0
+map_Kd textures/FldRuinsCaseObjUDIM00_UDIM_Alb.png
+
+newmtl FldObj_Ruins03PntStage_FldRuinsPropObjUDIM00
+Kd 1.0 1.0 1.0
+map_Kd textures/FldRuinsPropObjUDIM00_UDIM_Alb.png
+
+newmtl FldObj_Ruins03PntStage_FloorEarthBrown
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorEarthBrown_Alb.png
+
+newmtl FldObj_Ruins03PntStage_FloorLight00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLight00_Alb.png
+
+newmtl FldObj_Ruins03PntStage_FloorTrim00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTrim00_Alb.png
+
+newmtl FldObj_Ruins03PntStage_Glass00
+Kd 1.0 1.0 1.0
+map_Kd textures/Glass00_Alb.png
+
+newmtl FldObj_Ruins03PntStage_Glass00_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/Glass00_Alb.png
+
+newmtl FldObj_Ruins03PntStage_GroundGrassMoss
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundGrassMoss_Alb.png
+
+newmtl FldObj_Ruins03PntStage_GroundGrassMoss_va
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundGrassMoss_Alb.png
+
+newmtl FldObj_Ruins03PntStage_HashiraIron_np
+Kd 1.0 1.0 1.0
+map_Kd textures/HashiraIron_Alb.png
+
+newmtl FldObj_Ruins03PntStage_IronBarFuchi_np
+Kd 1.0 1.0 1.0
+map_Kd textures/IronBarFuchi_Alb.png
+
+newmtl FldObj_Ruins03PntStage_MetalCurbSet00
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalCurbSet00_Alb.png
+
+newmtl FldObj_Ruins03PntStage_MetalCurbSet00_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalCurbSet00_Alb.png
+
+newmtl FldObj_Ruins03PntStage_MetalPlateAshiba00
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalPlateAshiba00_Alb.png
+
+newmtl FldObj_Ruins03PntStage_MetalPlateAshiba00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalPlateAshiba00_Alb.png
+
+newmtl FldObj_Ruins03PntStage_MetalPlateRust
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalPlateRust_Alb.png
+
+newmtl FldObj_Ruins03PntStage_MetalPlateSteel
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalPlateSteel_Alb.png
+
+newmtl FldObj_Ruins03PntStage_MetalPlateSteelRust
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalPlateSteelRust_Alb.png
+
+newmtl FldObj_Ruins03PntStage_Nest00
+Kd 1.0 1.0 1.0
+map_Kd textures/Nest00_Alb.png
+
+newmtl FldObj_Ruins03PntStage_OBJLightSet_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/OBJLightSet_Alb.png
+
+newmtl FldObj_Ruins03PntStage_PlantationSet
+Kd 1.0 1.0 1.0
+map_Kd textures/PlantationSet_Alb.png
+
+newmtl FldObj_Ruins03PntStage_PlasticSheet00
+Kd 1.0 1.0 1.0
+map_Kd textures/PlasticSheet00_Alb.png
+
+newmtl FldObj_Ruins03PntStage_PlateSteelGrey
+Kd 1.0 1.0 1.0
+map_Kd textures/PlateSteelGrey_Alb.png
+
+newmtl FldObj_Ruins03PntStage_RopeSingle
+Kd 1.0 1.0 1.0
+map_Kd textures/RopeSingle_Alb.png
+
+newmtl FldObj_Ruins03PntStage_RopeSingle_np_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/RopeSingle_Alb.png
+
+newmtl FldObj_Ruins03PntStage_RopeSingle_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/RopeSingle_Alb.png
+
+newmtl FldObj_Ruins03PntStage_Ruins03Graffiti00
+Kd 1.0 1.0 1.0
+map_Kd textures/Ruins03Graffiti00_Alb.png
+
+newmtl FldObj_Ruins03PntStage_Ruins03Graffiti00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Ruins03Graffiti00_Alb.png
+
+newmtl FldObj_Ruins03PntStage_Ruins03Graffiti01
+Kd 1.0 1.0 1.0
+map_Kd textures/Ruins03Graffiti01_Alb.png
+
+newmtl FldObj_Ruins03PntStage_Ruins03Graffiti01_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/Ruins03Graffiti01_Alb.png
+
+newmtl FldObj_Ruins03PntStage_Sandbag00
+Kd 1.0 1.0 1.0
+map_Kd textures/Sandbag00_Alb.png
+
+newmtl FldObj_Ruins03PntStage_ScaffoldSet
+Kd 1.0 1.0 1.0
+map_Kd textures/ScaffoldSet_Alb.png
+
+newmtl FldObj_Ruins03PntStage_ScaffoldSet_np
+Kd 1.0 1.0 1.0
+map_Kd textures/ScaffoldSet_Alb.png
+
+newmtl FldObj_Ruins03PntStage_SheetVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/SheetVinyl_Alb.png
+
+newmtl FldObj_Ruins03PntStage_SignBoardIron00
+Kd 1.0 1.0 1.0
+map_Kd textures/SignBoardIron00_Alb.png
+
+newmtl FldObj_Ruins03PntStage_SignBoardIronSurface00
+Kd 1.0 1.0 1.0
+map_Kd textures/SignBoardIronSurface00_Alb.png
+
+newmtl FldObj_Ruins03PntStage_SignBoardWood00
+Kd 1.0 1.0 1.0
+map_Kd textures/SignBoardWood00_Alb.png
+
+newmtl FldObj_Ruins03PntStage_SlopeFramePlate
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeFramePlate_Alb.png
+
+newmtl FldObj_Ruins03PntStage_SlopeMetalRustGray
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeMetalRustGray_Alb.png
+
+newmtl FldObj_Ruins03PntStage_SlopeMetalRustGray_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeMetalRustGray_Alb.png
+
+newmtl FldObj_Ruins03PntStage_SlopeMetalRustGray_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeMetalRustGray_Alb.png
+
+newmtl FldObj_Ruins03PntStage_Tape00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Tape00_Alb.png
+
+newmtl FldObj_Ruins03PntStage_TarpSheet
+Kd 1.0 1.0 1.0
+map_Kd textures/TarpSheet_Alb.png
+
+newmtl FldObj_Ruins03PntStage_Telescope00
+Kd 1.0 1.0 1.0
+map_Kd textures/Telescope00_Alb.png
+
+newmtl FldObj_Ruins03PntStage_TrashBags
+Kd 1.0 1.0 1.0
+map_Kd textures/TrashBags_Alb.png
+
+newmtl FldObj_Ruins03PntStage_Trolley00
+Kd 1.0 1.0 1.0
+map_Kd textures/Trolley00_Alb.png
+
+newmtl FldObj_Ruins03PntStage_VarCente00_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/VarCente00_Alb.png
+
+newmtl FldObj_Ruins03PntStage_WallBrickBase
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrickBase_Alb.png
+
+newmtl FldObj_Ruins03PntStage_WallBrickBase_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrickBase_Alb.png
+
+newmtl FldObj_Ruins03PntStage_WallBrokenBrown
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrokenBrown_Alb.png
+
+newmtl FldObj_Ruins03PntStage_WallBrokenBrown_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrokenBrown_Alb.png
+
+newmtl FldObj_Ruins03PntStage_WallBrokenPink
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrokenPink_Alb.png
+
+newmtl FldObj_Ruins03PntStage_WallConcrete
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcrete_Alb.png
+
+newmtl FldObj_Ruins03PntStage_WallConcreteBase
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteBase_Alb.png
+
+newmtl FldObj_Ruins03PntStage_WallConcreteBase_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteBase_Alb.png
+
+newmtl FldObj_Ruins03PntStage_WallConcreteDecal_wp
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteDecal_Alb.png
+
+newmtl FldObj_Ruins03PntStage_WallConcreteSea_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteSea_Alb.png
+
+newmtl FldObj_Ruins03PntStage_WallConcrete_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcrete_Alb.png
+
+newmtl FldObj_Ruins03PntStage_WallPlantIvyBundle
+Kd 1.0 1.0 1.0
+map_Kd textures/WallPlantIvyBundle_Alb.png
+
+newmtl FldObj_Ruins03PntStage_WallUnderColor
+Kd 1.0 1.0 1.0
+map_Kd textures/WallUnderColor_Alb.png
+
+newmtl FldObj_Ruins03PntStage_WallUnderColor_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallUnderColor_Alb.png
+
+newmtl FldObj_Ruins03PntStage_WingBoxAP02
+Kd 1.0 1.0 1.0
+map_Kd textures/WingBoxAP02_Alb.png
+
+newmtl FldObj_Ruins03PntStage_WoodBoard00
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodBoard00_Alb.png
+
+newmtl FldObj_Ruins03PntStage_WoodBoard00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodBoard00_Alb.png
+
+newmtl FldObj_Ruins03PntStage_WoodOld_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodOld_Alb.png
+
+newmtl FldObj_Ruins03PntStage_WoodRepeat00
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodRepeat00_Alb.png
+
+newmtl FldObj_Ruins03PntStage_WoodRepeat00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodRepeat00_Alb.png
+
+newmtl FldObj_Ruins03PntStage_WorkingLampMaterial
+Kd 1.0 1.0 1.0
+map_Kd textures/WorkingLampMaterial_Alb.png
+
+newmtl FldObj_Ruins03SmallBlock_SheetVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/SheetVinyl_Alb.png
+
+newmtl FldObj_Ruins03SmallBlock_Tape00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Tape00_Alb.png
+
+newmtl FldObj_Ruins03SmallBlock_WallBrickBase
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrickBase_Alb.png
+
+newmtl FldObj_Ruins03SmallBlock_WallBrickBase_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrickBase_Alb.png
+
+newmtl FldObj_Ruins03SmallBlock_WallUnderColor
+Kd 1.0 1.0 1.0
+map_Kd textures/WallUnderColor_Alb.png
+
+newmtl FldObj_Ruins03SmallBlock_WallUnderColor_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallUnderColor_Alb.png
+
+newmtl FldObj_Ruins03TclStage_Barricade00
+Kd 1.0 1.0 1.0
+map_Kd textures/Barricade00_Alb.png
+
+newmtl FldObj_Ruins03TclStage_BlockCurbYellow
+Kd 1.0 1.0 1.0
+map_Kd textures/BlockCurbYellow_Alb.png
+
+newmtl FldObj_Ruins03TclStage_BlueTarp00
+Kd 1.0 1.0 1.0
+map_Kd textures/BlueTarp00_Alb.png
+
+newmtl FldObj_Ruins03TclStage_BridgeLight
+Kd 1.0 1.0 1.0
+map_Kd textures/BakeDummy00.png
+
+newmtl FldObj_Ruins03TclStage_BridgePartsMain_np
+Kd 1.0 1.0 1.0
+map_Kd textures/BridgePartsMain_Alb.png
+
+newmtl FldObj_Ruins03TclStage_BridgePartsN
+Kd 1.0 1.0 1.0
+map_Kd textures/BridgePartsN_Alb.png
+
+newmtl FldObj_Ruins03TclStage_BridgeRuins00
+Kd 1.0 1.0 1.0
+map_Kd textures/BridgeRuins00_Alb.png
+
+newmtl FldObj_Ruins03TclStage_BridgeRuins00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/BridgeRuins00_Alb.png
+
+newmtl FldObj_Ruins03TclStage_BuildingFence
+Kd 1.0 1.0 1.0
+map_Kd textures/BuildingFence_Alb.png
+
+newmtl FldObj_Ruins03TclStage_CanolaC
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaC_Alb.png
+
+newmtl FldObj_Ruins03TclStage_CircleBox00
+Kd 1.0 1.0 1.0
+map_Kd textures/CircleBox00_Alb.png
+
+newmtl FldObj_Ruins03TclStage_DeckFloor01
+Kd 1.0 1.0 1.0
+map_Kd textures/DeckFloor01_Alb.png
+
+newmtl FldObj_Ruins03TclStage_DeckFloor02
+Kd 1.0 1.0 1.0
+map_Kd textures/DeckFloor02_Alb.png
+
+newmtl FldObj_Ruins03TclStage_FenceIronNet_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceIronNet_Alb.png
+
+newmtl FldObj_Ruins03TclStage_FenceIronNet_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceIronNet_Alb.png
+
+newmtl FldObj_Ruins03TclStage_FenceIron_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceIron_Alb.png
+
+newmtl FldObj_Ruins03TclStage_FldRuinsCaseObjUDIM00
+Kd 1.0 1.0 1.0
+map_Kd textures/FldRuinsCaseObjUDIM00_UDIM_Alb.png
+
+newmtl FldObj_Ruins03TclStage_FldRuinsPropObjUDIM00
+Kd 1.0 1.0 1.0
+map_Kd textures/FldRuinsPropObjUDIM00_UDIM_Alb.png
+
+newmtl FldObj_Ruins03TclStage_FloorEarthBrown
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorEarthBrown_Alb.png
+
+newmtl FldObj_Ruins03TclStage_FloorLight00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLight00_Alb.png
+
+newmtl FldObj_Ruins03TclStage_FloorTrim00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTrim00_Alb.png
+
+newmtl FldObj_Ruins03TclStage_Glass00
+Kd 1.0 1.0 1.0
+map_Kd textures/Glass00_Alb.png
+
+newmtl FldObj_Ruins03TclStage_GroundGrassMoss
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundGrassMoss_Alb.png
+
+newmtl FldObj_Ruins03TclStage_GroundGrassMoss_va
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundGrassMoss_Alb.png
+
+newmtl FldObj_Ruins03TclStage_IronBarFuchi_np
+Kd 1.0 1.0 1.0
+map_Kd textures/IronBarFuchi_Alb.png
+
+newmtl FldObj_Ruins03TclStage_MetalCurbSet00
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalCurbSet00_Alb.png
+
+newmtl FldObj_Ruins03TclStage_MetalCurbSet00_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalCurbSet00_Alb.png
+
+newmtl FldObj_Ruins03TclStage_MetalPlateAshiba00
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalPlateAshiba00_Alb.png
+
+newmtl FldObj_Ruins03TclStage_MetalPlateAshiba00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalPlateAshiba00_Alb.png
+
+newmtl FldObj_Ruins03TclStage_MetalPlateRust
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalPlateRust_Alb.png
+
+newmtl FldObj_Ruins03TclStage_MetalPlateSteel
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalPlateSteel_Alb.png
+
+newmtl FldObj_Ruins03TclStage_MetalPlateSteelRust
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalPlateSteelRust_Alb.png
+
+newmtl FldObj_Ruins03TclStage_Nest00
+Kd 1.0 1.0 1.0
+map_Kd textures/Nest00_Alb.png
+
+newmtl FldObj_Ruins03TclStage_OBJLightSet_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/OBJLightSet_Alb.png
+
+newmtl FldObj_Ruins03TclStage_PlantationSet
+Kd 1.0 1.0 1.0
+map_Kd textures/PlantationSet_Alb.png
+
+newmtl FldObj_Ruins03TclStage_PlateSteelGrey
+Kd 1.0 1.0 1.0
+map_Kd textures/PlateSteelGrey_Alb.png
+
+newmtl FldObj_Ruins03TclStage_RopeSingle
+Kd 1.0 1.0 1.0
+map_Kd textures/RopeSingle_Alb.png
+
+newmtl FldObj_Ruins03TclStage_RopeSingle_np_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/RopeSingle_Alb.png
+
+newmtl FldObj_Ruins03TclStage_RopeSingle_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/RopeSingle_Alb.png
+
+newmtl FldObj_Ruins03TclStage_Ruins03Graffiti00
+Kd 1.0 1.0 1.0
+map_Kd textures/Ruins03Graffiti00_Alb.png
+
+newmtl FldObj_Ruins03TclStage_Ruins03Graffiti00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Ruins03Graffiti00_Alb.png
+
+newmtl FldObj_Ruins03TclStage_Ruins03Graffiti01_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/Ruins03Graffiti01_Alb.png
+
+newmtl FldObj_Ruins03TclStage_Sandbag00
+Kd 1.0 1.0 1.0
+map_Kd textures/Sandbag00_Alb.png
+
+newmtl FldObj_Ruins03TclStage_ScaffoldSet
+Kd 1.0 1.0 1.0
+map_Kd textures/ScaffoldSet_Alb.png
+
+newmtl FldObj_Ruins03TclStage_ScaffoldSet_np
+Kd 1.0 1.0 1.0
+map_Kd textures/ScaffoldSet_Alb.png
+
+newmtl FldObj_Ruins03TclStage_SheetVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/SheetVinyl_Alb.png
+
+newmtl FldObj_Ruins03TclStage_SheetVinyl_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/SheetVinyl_Alb.png
+
+newmtl FldObj_Ruins03TclStage_SignBoardIron00
+Kd 1.0 1.0 1.0
+map_Kd textures/SignBoardIron00_Alb.png
+
+newmtl FldObj_Ruins03TclStage_SignBoardIronSurface00
+Kd 1.0 1.0 1.0
+map_Kd textures/SignBoardIronSurface00_Alb.png
+
+newmtl FldObj_Ruins03TclStage_SignBoardWood00
+Kd 1.0 1.0 1.0
+map_Kd textures/SignBoardWood00_Alb.png
+
+newmtl FldObj_Ruins03TclStage_SlopeFramePlate
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeFramePlate_Alb.png
+
+newmtl FldObj_Ruins03TclStage_SlopeMetalRustGray
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeMetalRustGray_Alb.png
+
+newmtl FldObj_Ruins03TclStage_SlopeMetalRustGray_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeMetalRustGray_Alb.png
+
+newmtl FldObj_Ruins03TclStage_SlopeMetalRustGray_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeMetalRustGray_Alb.png
+
+newmtl FldObj_Ruins03TclStage_SquareCan
+Kd 1.0 1.0 1.0
+map_Kd textures/SquareCan_Alb.png
+
+newmtl FldObj_Ruins03TclStage_Tape00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Tape00_Alb.png
+
+newmtl FldObj_Ruins03TclStage_Tape00_np_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/Tape00_Alb.png
+
+newmtl FldObj_Ruins03TclStage_TarpSheet
+Kd 1.0 1.0 1.0
+map_Kd textures/TarpSheet_Alb.png
+
+newmtl FldObj_Ruins03TclStage_Telescope00
+Kd 1.0 1.0 1.0
+map_Kd textures/Telescope00_Alb.png
+
+newmtl FldObj_Ruins03TclStage_TubeLight00
+Kd 1.0 1.0 1.0
+map_Kd textures/TubeLight00_Alb.png
+
+newmtl FldObj_Ruins03TclStage_WallBrickBase
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrickBase_Alb.png
+
+newmtl FldObj_Ruins03TclStage_WallBrickBase_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrickBase_Alb.png
+
+newmtl FldObj_Ruins03TclStage_WallBrokenBrown
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrokenBrown_Alb.png
+
+newmtl FldObj_Ruins03TclStage_WallBrokenBrown_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrokenBrown_Alb.png
+
+newmtl FldObj_Ruins03TclStage_WallBrokenPink
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrokenPink_Alb.png
+
+newmtl FldObj_Ruins03TclStage_WallConcrete
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcrete_Alb.png
+
+newmtl FldObj_Ruins03TclStage_WallConcreteBase
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteBase_Alb.png
+
+newmtl FldObj_Ruins03TclStage_WallConcreteBase_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteBase_Alb.png
+
+newmtl FldObj_Ruins03TclStage_WallConcreteSea_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteSea_Alb.png
+
+newmtl FldObj_Ruins03TclStage_WallConcrete_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcrete_Alb.png
+
+newmtl FldObj_Ruins03TclStage_WallPlantIvyBundle
+Kd 1.0 1.0 1.0
+map_Kd textures/WallPlantIvyBundle_Alb.png
+
+newmtl FldObj_Ruins03TclStage_WallUnderColor
+Kd 1.0 1.0 1.0
+map_Kd textures/WallUnderColor_Alb.png
+
+newmtl FldObj_Ruins03TclStage_WallUnderColor_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallUnderColor_Alb.png
+
+newmtl FldObj_Ruins03TclStage_WingBoxAP02
+Kd 1.0 1.0 1.0
+map_Kd textures/WingBoxAP02_Alb.png
+
+newmtl FldObj_Ruins03TclStage_WoodBoard00
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodBoard00_Alb.png
+
+newmtl FldObj_Ruins03TclStage_WoodBoard00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodBoard00_Alb.png
+
+newmtl FldObj_Ruins03TclStage_WoodOld_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodOld_Alb.png
+
+newmtl FldObj_Ruins03TclStage_WoodRepeat00
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodRepeat00_Alb.png
+
+newmtl FldObj_Ruins03TclStage_WoodRepeat00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodRepeat00_Alb.png
+
+newmtl FldObj_Ruins03TclStage_WorkingLampMaterial
+Kd 1.0 1.0 1.0
+map_Kd textures/WorkingLampMaterial_Alb.png
+
+newmtl FldObj_Ruins03VarCenter_Barricade00
+Kd 1.0 1.0 1.0
+map_Kd textures/Barricade00_Alb.png
+
+newmtl FldObj_Ruins03VarCenter_BlockCurbYellow
+Kd 1.0 1.0 1.0
+map_Kd textures/BlockCurbYellow_Alb.png
+
+newmtl FldObj_Ruins03VarCenter_BridgeRuins00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/BridgeRuins00_Alb.png
+
+newmtl FldObj_Ruins03VarCenter_DeckFloor00
+Kd 1.0 1.0 1.0
+map_Kd textures/DeckFloor00_Alb.png
+
+newmtl FldObj_Ruins03VarCenter_DeckFloor02_np
+Kd 1.0 1.0 1.0
+map_Kd textures/DeckFloor02_Alb.png
+
+newmtl FldObj_Ruins03VarCenter_ElevatorCage_np
+Kd 1.0 1.0 1.0
+map_Kd textures/ElevatorCage_Alb.png
+
+newmtl FldObj_Ruins03VarCenter_ElevatorCage_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/ElevatorCage_Alb.png
+
+newmtl FldObj_Ruins03VarCenter_Elevator_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/Elevator_Alb.png
+
+newmtl FldObj_Ruins03VarCenter_RopeSingle
+Kd 1.0 1.0 1.0
+map_Kd textures/RopeSingle_Alb.png
+
+newmtl FldObj_Ruins03VarCenter_Ruins03Graffiti00
+Kd 1.0 1.0 1.0
+map_Kd textures/Ruins03Graffiti00_Alb.png
+
+newmtl FldObj_Ruins03VarCenter_VarCente00
+Kd 1.0 1.0 1.0
+map_Kd textures/VarCente00_Alb.png
+
+newmtl FldObj_Ruins03VarCenter_WallBrickBase
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrickBase_Alb.png
+
+newmtl FldObj_Ruins03VarCenter_WallConcreteBase
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteBase_Alb.png
+
+newmtl FldObj_Ruins03VarCenter_WallUnderColor
+Kd 1.0 1.0 1.0
+map_Kd textures/WallUnderColor_Alb.png
+
+newmtl FldObj_Ruins03VarStage_Barricade00
+Kd 1.0 1.0 1.0
+map_Kd textures/Barricade00_Alb.png
+
+newmtl FldObj_Ruins03VarStage_BlockCurbYellow
+Kd 1.0 1.0 1.0
+map_Kd textures/BlockCurbYellow_Alb.png
+
+newmtl FldObj_Ruins03VarStage_BlueTarp00
+Kd 1.0 1.0 1.0
+map_Kd textures/BlueTarp00_Alb.png
+
+newmtl FldObj_Ruins03VarStage_BridgeLight
+Kd 1.0 1.0 1.0
+map_Kd textures/BakeDummy00.png
+
+newmtl FldObj_Ruins03VarStage_BridgePartsMain_np
+Kd 1.0 1.0 1.0
+map_Kd textures/BridgePartsMain_Alb.png
+
+newmtl FldObj_Ruins03VarStage_BridgePartsN
+Kd 1.0 1.0 1.0
+map_Kd textures/BridgePartsN_Alb.png
+
+newmtl FldObj_Ruins03VarStage_BridgeRuins00
+Kd 1.0 1.0 1.0
+map_Kd textures/BridgeRuins00_Alb.png
+
+newmtl FldObj_Ruins03VarStage_BridgeRuins00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/BridgeRuins00_Alb.png
+
+newmtl FldObj_Ruins03VarStage_CircleBox00
+Kd 1.0 1.0 1.0
+map_Kd textures/CircleBox00_Alb.png
+
+newmtl FldObj_Ruins03VarStage_DeckFloor01
+Kd 1.0 1.0 1.0
+map_Kd textures/DeckFloor01_Alb.png
+
+newmtl FldObj_Ruins03VarStage_DeckFloor02
+Kd 1.0 1.0 1.0
+map_Kd textures/DeckFloor02_Alb.png
+
+newmtl FldObj_Ruins03VarStage_DustBox00
+Kd 1.0 1.0 1.0
+map_Kd textures/DustBox00_Alb.png
+
+newmtl FldObj_Ruins03VarStage_DustBox00Nuki
+Kd 1.0 1.0 1.0
+map_Kd textures/DustBox00Nuki_Opa.png
+
+newmtl FldObj_Ruins03VarStage_FenceIronNet_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceIronNet_Alb.png
+
+newmtl FldObj_Ruins03VarStage_FenceIronNet_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceIronNet_Alb.png
+
+newmtl FldObj_Ruins03VarStage_FenceIron_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceIron_Alb.png
+
+newmtl FldObj_Ruins03VarStage_FldRuinsCaseObjUDIM00
+Kd 1.0 1.0 1.0
+map_Kd textures/FldRuinsCaseObjUDIM00_UDIM_Alb.png
+
+newmtl FldObj_Ruins03VarStage_FldRuinsPropObjUDIM00
+Kd 1.0 1.0 1.0
+map_Kd textures/FldRuinsPropObjUDIM00_UDIM_Alb.png
+
+newmtl FldObj_Ruins03VarStage_FloorEarthBrown
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorEarthBrown_Alb.png
+
+newmtl FldObj_Ruins03VarStage_FloorIron00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorIron00_Alb.png
+
+newmtl FldObj_Ruins03VarStage_FloorLight00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLight00_Alb.png
+
+newmtl FldObj_Ruins03VarStage_FloorTrim00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTrim00_Alb.png
+
+newmtl FldObj_Ruins03VarStage_Glass00
+Kd 1.0 1.0 1.0
+map_Kd textures/Glass00_Alb.png
+
+newmtl FldObj_Ruins03VarStage_Glass00_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/Glass00_Alb.png
+
+newmtl FldObj_Ruins03VarStage_GroundGrassMoss
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundGrassMoss_Alb.png
+
+newmtl FldObj_Ruins03VarStage_GroundGrassMoss_va
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundGrassMoss_Alb.png
+
+newmtl FldObj_Ruins03VarStage_GroundRubberMat
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundRubberMat_Alb.png
+
+newmtl FldObj_Ruins03VarStage_HashiraIron_np
+Kd 1.0 1.0 1.0
+map_Kd textures/HashiraIron_Alb.png
+
+newmtl FldObj_Ruins03VarStage_IronBarFuchi_np
+Kd 1.0 1.0 1.0
+map_Kd textures/IronBarFuchi_Alb.png
+
+newmtl FldObj_Ruins03VarStage_MetalCurbSet00
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalCurbSet00_Alb.png
+
+newmtl FldObj_Ruins03VarStage_MetalCurbSet00_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalCurbSet00_Alb.png
+
+newmtl FldObj_Ruins03VarStage_MetalPlateAshiba00
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalPlateAshiba00_Alb.png
+
+newmtl FldObj_Ruins03VarStage_MetalPlateAshiba00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalPlateAshiba00_Alb.png
+
+newmtl FldObj_Ruins03VarStage_MetalPlateRust
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalPlateRust_Alb.png
+
+newmtl FldObj_Ruins03VarStage_MetalPlateSteel
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalPlateSteel_Alb.png
+
+newmtl FldObj_Ruins03VarStage_MetalPlateSteelRust
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalPlateSteelRust_Alb.png
+
+newmtl FldObj_Ruins03VarStage_Nest00
+Kd 1.0 1.0 1.0
+map_Kd textures/Nest00_Alb.png
+
+newmtl FldObj_Ruins03VarStage_OBJLightSet_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/OBJLightSet_Alb.png
+
+newmtl FldObj_Ruins03VarStage_PlantationSet
+Kd 1.0 1.0 1.0
+map_Kd textures/PlantationSet_Alb.png
+
+newmtl FldObj_Ruins03VarStage_PlateSteelGrey
+Kd 1.0 1.0 1.0
+map_Kd textures/PlateSteelGrey_Alb.png
+
+newmtl FldObj_Ruins03VarStage_RopeSingle_np_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/RopeSingle_Alb.png
+
+newmtl FldObj_Ruins03VarStage_RopeSingle_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/RopeSingle_Alb.png
+
+newmtl FldObj_Ruins03VarStage_Ruins03Graffiti00
+Kd 1.0 1.0 1.0
+map_Kd textures/Ruins03Graffiti00_Alb.png
+
+newmtl FldObj_Ruins03VarStage_Ruins03Graffiti00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Ruins03Graffiti00_Alb.png
+
+newmtl FldObj_Ruins03VarStage_Ruins03Graffiti01
+Kd 1.0 1.0 1.0
+map_Kd textures/Ruins03Graffiti01_Alb.png
+
+newmtl FldObj_Ruins03VarStage_Ruins03Graffiti01_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/Ruins03Graffiti01_Alb.png
+
+newmtl FldObj_Ruins03VarStage_Sandbag00
+Kd 1.0 1.0 1.0
+map_Kd textures/Sandbag00_Alb.png
+
+newmtl FldObj_Ruins03VarStage_ScaffoldSet
+Kd 1.0 1.0 1.0
+map_Kd textures/ScaffoldSet_Alb.png
+
+newmtl FldObj_Ruins03VarStage_ScaffoldSet_np
+Kd 1.0 1.0 1.0
+map_Kd textures/ScaffoldSet_Alb.png
+
+newmtl FldObj_Ruins03VarStage_SheetVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/SheetVinyl_Alb.png
+
+newmtl FldObj_Ruins03VarStage_SignBoardIron00
+Kd 1.0 1.0 1.0
+map_Kd textures/SignBoardIron00_Alb.png
+
+newmtl FldObj_Ruins03VarStage_SignBoardIronSurface00
+Kd 1.0 1.0 1.0
+map_Kd textures/SignBoardIronSurface00_Alb.png
+
+newmtl FldObj_Ruins03VarStage_SignBoardWood00
+Kd 1.0 1.0 1.0
+map_Kd textures/SignBoardWood00_Alb.png
+
+newmtl FldObj_Ruins03VarStage_SlopeFramePlate
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeFramePlate_Alb.png
+
+newmtl FldObj_Ruins03VarStage_SlopeMetalRustGray
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeMetalRustGray_Alb.png
+
+newmtl FldObj_Ruins03VarStage_SlopeMetalRustGray_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeMetalRustGray_Alb.png
+
+newmtl FldObj_Ruins03VarStage_SlopeMetalRustGray_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeMetalRustGray_Alb.png
+
+newmtl FldObj_Ruins03VarStage_Tape00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Tape00_Alb.png
+
+newmtl FldObj_Ruins03VarStage_TarpSheet
+Kd 1.0 1.0 1.0
+map_Kd textures/TarpSheet_Alb.png
+
+newmtl FldObj_Ruins03VarStage_Telescope00
+Kd 1.0 1.0 1.0
+map_Kd textures/Telescope00_Alb.png
+
+newmtl FldObj_Ruins03VarStage_TrashBags
+Kd 1.0 1.0 1.0
+map_Kd textures/TrashBags_Alb.png
+
+newmtl FldObj_Ruins03VarStage_Trolley00
+Kd 1.0 1.0 1.0
+map_Kd textures/Trolley00_Alb.png
+
+newmtl FldObj_Ruins03VarStage_VarCente00_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/VarCente00_Alb.png
+
+newmtl FldObj_Ruins03VarStage_WallBrickBase
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrickBase_Alb.png
+
+newmtl FldObj_Ruins03VarStage_WallBrickBase_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrickBase_Alb.png
+
+newmtl FldObj_Ruins03VarStage_WallBrokenBrown
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrokenBrown_Alb.png
+
+newmtl FldObj_Ruins03VarStage_WallBrokenPink
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrokenPink_Alb.png
+
+newmtl FldObj_Ruins03VarStage_WallConcrete
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcrete_Alb.png
+
+newmtl FldObj_Ruins03VarStage_WallConcreteBase
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteBase_Alb.png
+
+newmtl FldObj_Ruins03VarStage_WallConcreteBase_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteBase_Alb.png
+
+newmtl FldObj_Ruins03VarStage_WallConcreteDecal_wp
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteDecal_Alb.png
+
+newmtl FldObj_Ruins03VarStage_WallConcreteSea_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteSea_Alb.png
+
+newmtl FldObj_Ruins03VarStage_WallConcrete_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcrete_Alb.png
+
+newmtl FldObj_Ruins03VarStage_WallPlantIvyBundle
+Kd 1.0 1.0 1.0
+map_Kd textures/WallPlantIvyBundle_Alb.png
+
+newmtl FldObj_Ruins03VarStage_WingBoxAP02
+Kd 1.0 1.0 1.0
+map_Kd textures/WingBoxAP02_Alb.png
+
+newmtl FldObj_Ruins03VarStage_WoodBoard00
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodBoard00_Alb.png
+
+newmtl FldObj_Ruins03VarStage_WoodBoard00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodBoard00_Alb.png
+
+newmtl FldObj_Ruins03VarStage_WoodOld_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodOld_Alb.png
+
+newmtl FldObj_Ruins03VarStage_WoodRepeat00
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodRepeat00_Alb.png
+
+newmtl FldObj_Ruins03VarStage_WoodRepeat00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodRepeat00_Alb.png
+
+newmtl FldObj_Ruins03VarStage_WorkingLampMaterial
+Kd 1.0 1.0 1.0
+map_Kd textures/WorkingLampMaterial_Alb.png
+
+newmtl FldObj_Ruins03VclStage_Barricade00
+Kd 1.0 1.0 1.0
+map_Kd textures/Barricade00_Alb.png
+
+newmtl FldObj_Ruins03VclStage_BlockCurbYellow
+Kd 1.0 1.0 1.0
+map_Kd textures/BlockCurbYellow_Alb.png
+
+newmtl FldObj_Ruins03VclStage_BlueTarp00
+Kd 1.0 1.0 1.0
+map_Kd textures/BlueTarp00_Alb.png
+
+newmtl FldObj_Ruins03VclStage_BridgeLight
+Kd 1.0 1.0 1.0
+map_Kd textures/BakeDummy00.png
+
+newmtl FldObj_Ruins03VclStage_BridgePartsMain_np
+Kd 1.0 1.0 1.0
+map_Kd textures/BridgePartsMain_Alb.png
+
+newmtl FldObj_Ruins03VclStage_BridgePartsN
+Kd 1.0 1.0 1.0
+map_Kd textures/BridgePartsN_Alb.png
+
+newmtl FldObj_Ruins03VclStage_BridgeRuins00
+Kd 1.0 1.0 1.0
+map_Kd textures/BridgeRuins00_Alb.png
+
+newmtl FldObj_Ruins03VclStage_BridgeRuins00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/BridgeRuins00_Alb.png
+
+newmtl FldObj_Ruins03VclStage_CircleBox00
+Kd 1.0 1.0 1.0
+map_Kd textures/CircleBox00_Alb.png
+
+newmtl FldObj_Ruins03VclStage_DeckFloor01
+Kd 1.0 1.0 1.0
+map_Kd textures/DeckFloor01_Alb.png
+
+newmtl FldObj_Ruins03VclStage_DeckFloor02
+Kd 1.0 1.0 1.0
+map_Kd textures/DeckFloor02_Alb.png
+
+newmtl FldObj_Ruins03VclStage_DustBox00
+Kd 1.0 1.0 1.0
+map_Kd textures/DustBox00_Alb.png
+
+newmtl FldObj_Ruins03VclStage_DustBox00Nuki
+Kd 1.0 1.0 1.0
+map_Kd textures/DustBox00Nuki_Opa.png
+
+newmtl FldObj_Ruins03VclStage_FenceIronNet_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceIronNet_Alb.png
+
+newmtl FldObj_Ruins03VclStage_FenceIronNet_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceIronNet_Alb.png
+
+newmtl FldObj_Ruins03VclStage_FenceIron_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceIron_Alb.png
+
+newmtl FldObj_Ruins03VclStage_FldRuinsCaseObjUDIM00
+Kd 1.0 1.0 1.0
+map_Kd textures/FldRuinsCaseObjUDIM00_UDIM_Alb.png
+
+newmtl FldObj_Ruins03VclStage_FldRuinsPropObjUDIM00
+Kd 1.0 1.0 1.0
+map_Kd textures/FldRuinsPropObjUDIM00_UDIM_Alb.png
+
+newmtl FldObj_Ruins03VclStage_FloorEarthBrown
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorEarthBrown_Alb.png
+
+newmtl FldObj_Ruins03VclStage_FloorIron00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorIron00_Alb.png
+
+newmtl FldObj_Ruins03VclStage_FloorLight00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLight00_Alb.png
+
+newmtl FldObj_Ruins03VclStage_FloorTrim00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTrim00_Alb.png
+
+newmtl FldObj_Ruins03VclStage_Glass00
+Kd 1.0 1.0 1.0
+map_Kd textures/Glass00_Alb.png
+
+newmtl FldObj_Ruins03VclStage_Glass00_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/Glass00_Alb.png
+
+newmtl FldObj_Ruins03VclStage_GroundGrassMoss
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundGrassMoss_Alb.png
+
+newmtl FldObj_Ruins03VclStage_GroundGrassMoss_va
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundGrassMoss_Alb.png
+
+newmtl FldObj_Ruins03VclStage_GroundRubberMat
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundRubberMat_Alb.png
+
+newmtl FldObj_Ruins03VclStage_HashiraIron_np
+Kd 1.0 1.0 1.0
+map_Kd textures/HashiraIron_Alb.png
+
+newmtl FldObj_Ruins03VclStage_IronBarFuchi_np
+Kd 1.0 1.0 1.0
+map_Kd textures/IronBarFuchi_Alb.png
+
+newmtl FldObj_Ruins03VclStage_MetalCurbSet00
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalCurbSet00_Alb.png
+
+newmtl FldObj_Ruins03VclStage_MetalCurbSet00_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalCurbSet00_Alb.png
+
+newmtl FldObj_Ruins03VclStage_MetalPlateAshiba00
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalPlateAshiba00_Alb.png
+
+newmtl FldObj_Ruins03VclStage_MetalPlateAshiba00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalPlateAshiba00_Alb.png
+
+newmtl FldObj_Ruins03VclStage_MetalPlateRust
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalPlateRust_Alb.png
+
+newmtl FldObj_Ruins03VclStage_MetalPlateSteel
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalPlateSteel_Alb.png
+
+newmtl FldObj_Ruins03VclStage_MetalPlateSteelRust
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalPlateSteelRust_Alb.png
+
+newmtl FldObj_Ruins03VclStage_Nest00
+Kd 1.0 1.0 1.0
+map_Kd textures/Nest00_Alb.png
+
+newmtl FldObj_Ruins03VclStage_OBJLightSet_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/OBJLightSet_Alb.png
+
+newmtl FldObj_Ruins03VclStage_PlantationSet
+Kd 1.0 1.0 1.0
+map_Kd textures/PlantationSet_Alb.png
+
+newmtl FldObj_Ruins03VclStage_PlateSteelGrey
+Kd 1.0 1.0 1.0
+map_Kd textures/PlateSteelGrey_Alb.png
+
+newmtl FldObj_Ruins03VclStage_RopeSingle
+Kd 1.0 1.0 1.0
+map_Kd textures/RopeSingle_Alb.png
+
+newmtl FldObj_Ruins03VclStage_RopeSingle_np_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/RopeSingle_Alb.png
+
+newmtl FldObj_Ruins03VclStage_RopeSingle_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/RopeSingle_Alb.png
+
+newmtl FldObj_Ruins03VclStage_Ruins03Graffiti00
+Kd 1.0 1.0 1.0
+map_Kd textures/Ruins03Graffiti00_Alb.png
+
+newmtl FldObj_Ruins03VclStage_Ruins03Graffiti00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Ruins03Graffiti00_Alb.png
+
+newmtl FldObj_Ruins03VclStage_Ruins03Graffiti01
+Kd 1.0 1.0 1.0
+map_Kd textures/Ruins03Graffiti01_Alb.png
+
+newmtl FldObj_Ruins03VclStage_Ruins03Graffiti01_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/Ruins03Graffiti01_Alb.png
+
+newmtl FldObj_Ruins03VclStage_Sandbag00
+Kd 1.0 1.0 1.0
+map_Kd textures/Sandbag00_Alb.png
+
+newmtl FldObj_Ruins03VclStage_ScaffoldSet
+Kd 1.0 1.0 1.0
+map_Kd textures/ScaffoldSet_Alb.png
+
+newmtl FldObj_Ruins03VclStage_ScaffoldSet_np
+Kd 1.0 1.0 1.0
+map_Kd textures/ScaffoldSet_Alb.png
+
+newmtl FldObj_Ruins03VclStage_SheetVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/SheetVinyl_Alb.png
+
+newmtl FldObj_Ruins03VclStage_SignBoardIron00
+Kd 1.0 1.0 1.0
+map_Kd textures/SignBoardIron00_Alb.png
+
+newmtl FldObj_Ruins03VclStage_SignBoardIronSurface00
+Kd 1.0 1.0 1.0
+map_Kd textures/SignBoardIronSurface00_Alb.png
+
+newmtl FldObj_Ruins03VclStage_SignBoardWood00
+Kd 1.0 1.0 1.0
+map_Kd textures/SignBoardWood00_Alb.png
+
+newmtl FldObj_Ruins03VclStage_SlopeFramePlate
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeFramePlate_Alb.png
+
+newmtl FldObj_Ruins03VclStage_SlopeMetalRustGray
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeMetalRustGray_Alb.png
+
+newmtl FldObj_Ruins03VclStage_SlopeMetalRustGray_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeMetalRustGray_Alb.png
+
+newmtl FldObj_Ruins03VclStage_SlopeMetalRustGray_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeMetalRustGray_Alb.png
+
+newmtl FldObj_Ruins03VclStage_Tape00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Tape00_Alb.png
+
+newmtl FldObj_Ruins03VclStage_TarpSheet
+Kd 1.0 1.0 1.0
+map_Kd textures/TarpSheet_Alb.png
+
+newmtl FldObj_Ruins03VclStage_Telescope00
+Kd 1.0 1.0 1.0
+map_Kd textures/Telescope00_Alb.png
+
+newmtl FldObj_Ruins03VclStage_TrashBags
+Kd 1.0 1.0 1.0
+map_Kd textures/TrashBags_Alb.png
+
+newmtl FldObj_Ruins03VclStage_Trolley00
+Kd 1.0 1.0 1.0
+map_Kd textures/Trolley00_Alb.png
+
+newmtl FldObj_Ruins03VclStage_VarCente00_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/VarCente00_Alb.png
+
+newmtl FldObj_Ruins03VclStage_WallBrickBase
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrickBase_Alb.png
+
+newmtl FldObj_Ruins03VclStage_WallBrickBase_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrickBase_Alb.png
+
+newmtl FldObj_Ruins03VclStage_WallBrokenBrown
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrokenBrown_Alb.png
+
+newmtl FldObj_Ruins03VclStage_WallBrokenBrown_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrokenBrown_Alb.png
+
+newmtl FldObj_Ruins03VclStage_WallBrokenPink
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrokenPink_Alb.png
+
+newmtl FldObj_Ruins03VclStage_WallConcrete
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcrete_Alb.png
+
+newmtl FldObj_Ruins03VclStage_WallConcreteBase
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteBase_Alb.png
+
+newmtl FldObj_Ruins03VclStage_WallConcreteBase_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteBase_Alb.png
+
+newmtl FldObj_Ruins03VclStage_WallConcreteDecal_wp
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteDecal_Alb.png
+
+newmtl FldObj_Ruins03VclStage_WallConcreteSea_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteSea_Alb.png
+
+newmtl FldObj_Ruins03VclStage_WallConcrete_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcrete_Alb.png
+
+newmtl FldObj_Ruins03VclStage_WallPlantIvyBundle
+Kd 1.0 1.0 1.0
+map_Kd textures/WallPlantIvyBundle_Alb.png
+
+newmtl FldObj_Ruins03VclStage_WallUnderColor
+Kd 1.0 1.0 1.0
+map_Kd textures/WallUnderColor_Alb.png
+
+newmtl FldObj_Ruins03VclStage_WallUnderColor_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallUnderColor_Alb.png
+
+newmtl FldObj_Ruins03VclStage_WingBoxAP02
+Kd 1.0 1.0 1.0
+map_Kd textures/WingBoxAP02_Alb.png
+
+newmtl FldObj_Ruins03VclStage_WoodBoard00
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodBoard00_Alb.png
+
+newmtl FldObj_Ruins03VclStage_WoodBoard00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodBoard00_Alb.png
+
+newmtl FldObj_Ruins03VclStage_WoodOld_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodOld_Alb.png
+
+newmtl FldObj_Ruins03VclStage_WoodRepeat00
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodRepeat00_Alb.png
+
+newmtl FldObj_Ruins03VclStage_WoodRepeat00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodRepeat00_Alb.png
+
+newmtl FldObj_Ruins03VclStage_WorkingLampMaterial
+Kd 1.0 1.0 1.0
+map_Kd textures/WorkingLampMaterial_Alb.png
+
+newmtl FldObj_Ruins03VglStage_Barricade00
+Kd 1.0 1.0 1.0
+map_Kd textures/Barricade00_Alb.png
+
+newmtl FldObj_Ruins03VglStage_BlockCurbYellow
+Kd 1.0 1.0 1.0
+map_Kd textures/BlockCurbYellow_Alb.png
+
+newmtl FldObj_Ruins03VglStage_BlueTarp00
+Kd 1.0 1.0 1.0
+map_Kd textures/BlueTarp00_Alb.png
+
+newmtl FldObj_Ruins03VglStage_BridgeLight
+Kd 1.0 1.0 1.0
+map_Kd textures/BakeDummy00.png
+
+newmtl FldObj_Ruins03VglStage_BridgePartsMain_np
+Kd 1.0 1.0 1.0
+map_Kd textures/BridgePartsMain_Alb.png
+
+newmtl FldObj_Ruins03VglStage_BridgePartsN
+Kd 1.0 1.0 1.0
+map_Kd textures/BridgePartsN_Alb.png
+
+newmtl FldObj_Ruins03VglStage_BridgeRuins00
+Kd 1.0 1.0 1.0
+map_Kd textures/BridgeRuins00_Alb.png
+
+newmtl FldObj_Ruins03VglStage_BridgeRuins00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/BridgeRuins00_Alb.png
+
+newmtl FldObj_Ruins03VglStage_CircleBox00
+Kd 1.0 1.0 1.0
+map_Kd textures/CircleBox00_Alb.png
+
+newmtl FldObj_Ruins03VglStage_DeckFloor01
+Kd 1.0 1.0 1.0
+map_Kd textures/DeckFloor01_Alb.png
+
+newmtl FldObj_Ruins03VglStage_DeckFloor02
+Kd 1.0 1.0 1.0
+map_Kd textures/DeckFloor02_Alb.png
+
+newmtl FldObj_Ruins03VglStage_DeckFloor02_np
+Kd 1.0 1.0 1.0
+map_Kd textures/DeckFloor02_Alb.png
+
+newmtl FldObj_Ruins03VglStage_DustBox00
+Kd 1.0 1.0 1.0
+map_Kd textures/DustBox00_Alb.png
+
+newmtl FldObj_Ruins03VglStage_DustBox00Nuki
+Kd 1.0 1.0 1.0
+map_Kd textures/DustBox00Nuki_Opa.png
+
+newmtl FldObj_Ruins03VglStage_FenceIronNet_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceIronNet_Alb.png
+
+newmtl FldObj_Ruins03VglStage_FenceIronNet_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceIronNet_Alb.png
+
+newmtl FldObj_Ruins03VglStage_FenceIron_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceIron_Alb.png
+
+newmtl FldObj_Ruins03VglStage_FldRuinsCaseObjUDIM00
+Kd 1.0 1.0 1.0
+map_Kd textures/FldRuinsCaseObjUDIM00_UDIM_Alb.png
+
+newmtl FldObj_Ruins03VglStage_FldRuinsPropObjUDIM00
+Kd 1.0 1.0 1.0
+map_Kd textures/FldRuinsPropObjUDIM00_UDIM_Alb.png
+
+newmtl FldObj_Ruins03VglStage_FloorEarthBrown
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorEarthBrown_Alb.png
+
+newmtl FldObj_Ruins03VglStage_FloorIron00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorIron00_Alb.png
+
+newmtl FldObj_Ruins03VglStage_FloorIron00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorIron00_Alb.png
+
+newmtl FldObj_Ruins03VglStage_FloorLight00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLight00_Alb.png
+
+newmtl FldObj_Ruins03VglStage_FloorTrim00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTrim00_Alb.png
+
+newmtl FldObj_Ruins03VglStage_Glass00
+Kd 1.0 1.0 1.0
+map_Kd textures/Glass00_Alb.png
+
+newmtl FldObj_Ruins03VglStage_Glass00_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/Glass00_Alb.png
+
+newmtl FldObj_Ruins03VglStage_GroundGrassMoss
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundGrassMoss_Alb.png
+
+newmtl FldObj_Ruins03VglStage_GroundGrassMoss_va
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundGrassMoss_Alb.png
+
+newmtl FldObj_Ruins03VglStage_GroundRubberMat
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundRubberMat_Alb.png
+
+newmtl FldObj_Ruins03VglStage_HashiraIron_np
+Kd 1.0 1.0 1.0
+map_Kd textures/HashiraIron_Alb.png
+
+newmtl FldObj_Ruins03VglStage_IronBarFuchi_np
+Kd 1.0 1.0 1.0
+map_Kd textures/IronBarFuchi_Alb.png
+
+newmtl FldObj_Ruins03VglStage_MetalCurbSet00
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalCurbSet00_Alb.png
+
+newmtl FldObj_Ruins03VglStage_MetalCurbSet00_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalCurbSet00_Alb.png
+
+newmtl FldObj_Ruins03VglStage_MetalPlateAshiba00
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalPlateAshiba00_Alb.png
+
+newmtl FldObj_Ruins03VglStage_MetalPlateAshiba00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalPlateAshiba00_Alb.png
+
+newmtl FldObj_Ruins03VglStage_MetalPlateRust
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalPlateRust_Alb.png
+
+newmtl FldObj_Ruins03VglStage_MetalPlateSteel
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalPlateSteel_Alb.png
+
+newmtl FldObj_Ruins03VglStage_MetalPlateSteelRust
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalPlateSteelRust_Alb.png
+
+newmtl FldObj_Ruins03VglStage_Nest00
+Kd 1.0 1.0 1.0
+map_Kd textures/Nest00_Alb.png
+
+newmtl FldObj_Ruins03VglStage_OBJLightSet_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/OBJLightSet_Alb.png
+
+newmtl FldObj_Ruins03VglStage_PlantationSet
+Kd 1.0 1.0 1.0
+map_Kd textures/PlantationSet_Alb.png
+
+newmtl FldObj_Ruins03VglStage_PlateSteelGrey
+Kd 1.0 1.0 1.0
+map_Kd textures/PlateSteelGrey_Alb.png
+
+newmtl FldObj_Ruins03VglStage_RopeSingle
+Kd 1.0 1.0 1.0
+map_Kd textures/RopeSingle_Alb.png
+
+newmtl FldObj_Ruins03VglStage_RopeSingle_np_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/RopeSingle_Alb.png
+
+newmtl FldObj_Ruins03VglStage_RopeSingle_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/RopeSingle_Alb.png
+
+newmtl FldObj_Ruins03VglStage_Ruins03Graffiti00
+Kd 1.0 1.0 1.0
+map_Kd textures/Ruins03Graffiti00_Alb.png
+
+newmtl FldObj_Ruins03VglStage_Ruins03Graffiti00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Ruins03Graffiti00_Alb.png
+
+newmtl FldObj_Ruins03VglStage_Ruins03Graffiti01
+Kd 1.0 1.0 1.0
+map_Kd textures/Ruins03Graffiti01_Alb.png
+
+newmtl FldObj_Ruins03VglStage_Ruins03Graffiti01_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/Ruins03Graffiti01_Alb.png
+
+newmtl FldObj_Ruins03VglStage_Sandbag00
+Kd 1.0 1.0 1.0
+map_Kd textures/Sandbag00_Alb.png
+
+newmtl FldObj_Ruins03VglStage_ScaffoldSet
+Kd 1.0 1.0 1.0
+map_Kd textures/ScaffoldSet_Alb.png
+
+newmtl FldObj_Ruins03VglStage_ScaffoldSet_np
+Kd 1.0 1.0 1.0
+map_Kd textures/ScaffoldSet_Alb.png
+
+newmtl FldObj_Ruins03VglStage_SheetVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/SheetVinyl_Alb.png
+
+newmtl FldObj_Ruins03VglStage_SignBoardIron00
+Kd 1.0 1.0 1.0
+map_Kd textures/SignBoardIron00_Alb.png
+
+newmtl FldObj_Ruins03VglStage_SignBoardIronSurface00
+Kd 1.0 1.0 1.0
+map_Kd textures/SignBoardIronSurface00_Alb.png
+
+newmtl FldObj_Ruins03VglStage_SignBoardWood00
+Kd 1.0 1.0 1.0
+map_Kd textures/SignBoardWood00_Alb.png
+
+newmtl FldObj_Ruins03VglStage_SlopeFramePlate
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeFramePlate_Alb.png
+
+newmtl FldObj_Ruins03VglStage_SlopeMetalRustGray
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeMetalRustGray_Alb.png
+
+newmtl FldObj_Ruins03VglStage_SlopeMetalRustGray_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeMetalRustGray_Alb.png
+
+newmtl FldObj_Ruins03VglStage_SlopeMetalRustGray_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeMetalRustGray_Alb.png
+
+newmtl FldObj_Ruins03VglStage_SquareCan
+Kd 1.0 1.0 1.0
+map_Kd textures/SquareCan_Alb.png
+
+newmtl FldObj_Ruins03VglStage_Tape00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Tape00_Alb.png
+
+newmtl FldObj_Ruins03VglStage_TarpSheet
+Kd 1.0 1.0 1.0
+map_Kd textures/TarpSheet_Alb.png
+
+newmtl FldObj_Ruins03VglStage_Telescope00
+Kd 1.0 1.0 1.0
+map_Kd textures/Telescope00_Alb.png
+
+newmtl FldObj_Ruins03VglStage_TrashBags
+Kd 1.0 1.0 1.0
+map_Kd textures/TrashBags_Alb.png
+
+newmtl FldObj_Ruins03VglStage_Trolley00
+Kd 1.0 1.0 1.0
+map_Kd textures/Trolley00_Alb.png
+
+newmtl FldObj_Ruins03VglStage_VarCente00_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/VarCente00_Alb.png
+
+newmtl FldObj_Ruins03VglStage_WallBrickBase
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrickBase_Alb.png
+
+newmtl FldObj_Ruins03VglStage_WallBrickBase_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrickBase_Alb.png
+
+newmtl FldObj_Ruins03VglStage_WallBrokenBrown
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrokenBrown_Alb.png
+
+newmtl FldObj_Ruins03VglStage_WallBrokenBrown_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrokenBrown_Alb.png
+
+newmtl FldObj_Ruins03VglStage_WallBrokenPink
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrokenPink_Alb.png
+
+newmtl FldObj_Ruins03VglStage_WallConcrete
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcrete_Alb.png
+
+newmtl FldObj_Ruins03VglStage_WallConcreteBase
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteBase_Alb.png
+
+newmtl FldObj_Ruins03VglStage_WallConcreteBase_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteBase_Alb.png
+
+newmtl FldObj_Ruins03VglStage_WallConcreteDecal_wp
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteDecal_Alb.png
+
+newmtl FldObj_Ruins03VglStage_WallConcreteSea_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteSea_Alb.png
+
+newmtl FldObj_Ruins03VglStage_WallConcrete_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcrete_Alb.png
+
+newmtl FldObj_Ruins03VglStage_WallPlantIvyBundle
+Kd 1.0 1.0 1.0
+map_Kd textures/WallPlantIvyBundle_Alb.png
+
+newmtl FldObj_Ruins03VglStage_WallUnderColor
+Kd 1.0 1.0 1.0
+map_Kd textures/WallUnderColor_Alb.png
+
+newmtl FldObj_Ruins03VglStage_WallUnderColor_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallUnderColor_Alb.png
+
+newmtl FldObj_Ruins03VglStage_WingBoxAP02
+Kd 1.0 1.0 1.0
+map_Kd textures/WingBoxAP02_Alb.png
+
+newmtl FldObj_Ruins03VglStage_WoodBoard00
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodBoard00_Alb.png
+
+newmtl FldObj_Ruins03VglStage_WoodBoard00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodBoard00_Alb.png
+
+newmtl FldObj_Ruins03VglStage_WoodOld_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodOld_Alb.png
+
+newmtl FldObj_Ruins03VglStage_WoodRepeat00
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodRepeat00_Alb.png
+
+newmtl FldObj_Ruins03VglStage_WoodRepeat00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodRepeat00_Alb.png
+
+newmtl FldObj_Ruins03VglStage_WorkingLampMaterial
+Kd 1.0 1.0 1.0
+map_Kd textures/WorkingLampMaterial_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_Barricade00
+Kd 1.0 1.0 1.0
+map_Kd textures/Barricade00_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_BlockCurbYellow
+Kd 1.0 1.0 1.0
+map_Kd textures/BlockCurbYellow_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_BlueTarp00
+Kd 1.0 1.0 1.0
+map_Kd textures/BlueTarp00_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_BridgeLight
+Kd 1.0 1.0 1.0
+map_Kd textures/BakeDummy00.png
+
+newmtl FldObj_Ruins03VlfStage_BridgePartsMain_np
+Kd 1.0 1.0 1.0
+map_Kd textures/BridgePartsMain_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_BridgePartsN
+Kd 1.0 1.0 1.0
+map_Kd textures/BridgePartsN_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_BridgeRuins00
+Kd 1.0 1.0 1.0
+map_Kd textures/BridgeRuins00_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_BridgeRuins00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/BridgeRuins00_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_CircleBox00
+Kd 1.0 1.0 1.0
+map_Kd textures/CircleBox00_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_DeckFloor01
+Kd 1.0 1.0 1.0
+map_Kd textures/DeckFloor01_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_DeckFloor02
+Kd 1.0 1.0 1.0
+map_Kd textures/DeckFloor02_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_DustBox00
+Kd 1.0 1.0 1.0
+map_Kd textures/DustBox00_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_DustBox00Nuki
+Kd 1.0 1.0 1.0
+map_Kd textures/DustBox00Nuki_Opa.png
+
+newmtl FldObj_Ruins03VlfStage_ElevatorCage
+Kd 1.0 1.0 1.0
+map_Kd textures/ElevatorCage_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_ElevatorCage_np
+Kd 1.0 1.0 1.0
+map_Kd textures/ElevatorCage_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_FenceIronNet_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceIronNet_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_FenceIronNet_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceIronNet_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_FenceIron_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceIron_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_FldRuinsCaseObjUDIM00
+Kd 1.0 1.0 1.0
+map_Kd textures/FldRuinsCaseObjUDIM00_UDIM_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_FldRuinsPropObjUDIM00
+Kd 1.0 1.0 1.0
+map_Kd textures/FldRuinsPropObjUDIM00_UDIM_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_FloorEarthBrown
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorEarthBrown_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_FloorLight00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLight00_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_FloorTrim00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorTrim00_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_Glass00
+Kd 1.0 1.0 1.0
+map_Kd textures/Glass00_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_Glass00_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/Glass00_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_GroundGrassMoss
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundGrassMoss_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_GroundGrassMoss_va
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundGrassMoss_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_HashiraIron_np
+Kd 1.0 1.0 1.0
+map_Kd textures/HashiraIron_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_IronBarFuchi_np
+Kd 1.0 1.0 1.0
+map_Kd textures/IronBarFuchi_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_MetalCurbSet00
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalCurbSet00_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_MetalCurbSet00_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalCurbSet00_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_MetalPlateAshiba00
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalPlateAshiba00_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_MetalPlateAshiba00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalPlateAshiba00_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_MetalPlateRust
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalPlateRust_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_MetalPlateSteel
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalPlateSteel_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_MetalPlateSteelRust
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalPlateSteelRust_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_Nest00
+Kd 1.0 1.0 1.0
+map_Kd textures/Nest00_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_OBJLightSet_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/OBJLightSet_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_PlantationSet
+Kd 1.0 1.0 1.0
+map_Kd textures/PlantationSet_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_PlasticSheet00
+Kd 1.0 1.0 1.0
+map_Kd textures/PlasticSheet00_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_PlateSteelGrey
+Kd 1.0 1.0 1.0
+map_Kd textures/PlateSteelGrey_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_RepairVinyl00
+Kd 1.0 1.0 1.0
+map_Kd textures/RepairVinyl00_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_RopeSingle
+Kd 1.0 1.0 1.0
+map_Kd textures/RopeSingle_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_RopeSingle_np_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/RopeSingle_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_RopeSingle_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/RopeSingle_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_Ruins03Graffiti00
+Kd 1.0 1.0 1.0
+map_Kd textures/Ruins03Graffiti00_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_Ruins03Graffiti00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Ruins03Graffiti00_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_Ruins03Graffiti01
+Kd 1.0 1.0 1.0
+map_Kd textures/Ruins03Graffiti01_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_Ruins03Graffiti01_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/Ruins03Graffiti01_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_Sandbag00
+Kd 1.0 1.0 1.0
+map_Kd textures/Sandbag00_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_ScaffoldSet
+Kd 1.0 1.0 1.0
+map_Kd textures/ScaffoldSet_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_ScaffoldSet_np
+Kd 1.0 1.0 1.0
+map_Kd textures/ScaffoldSet_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_SheetVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/SheetVinyl_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_SignBoardIron00
+Kd 1.0 1.0 1.0
+map_Kd textures/SignBoardIron00_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_SignBoardIronSurface00
+Kd 1.0 1.0 1.0
+map_Kd textures/SignBoardIronSurface00_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_SignBoardWood00
+Kd 1.0 1.0 1.0
+map_Kd textures/SignBoardWood00_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_SlopeFramePlate
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeFramePlate_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_SlopeMetalRustGray
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeMetalRustGray_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_SlopeMetalRustGray_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeMetalRustGray_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_SlopeMetalRustGray_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeMetalRustGray_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_Tape00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Tape00_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_TarpSheet
+Kd 1.0 1.0 1.0
+map_Kd textures/TarpSheet_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_Telescope00
+Kd 1.0 1.0 1.0
+map_Kd textures/Telescope00_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_TrashBags
+Kd 1.0 1.0 1.0
+map_Kd textures/TrashBags_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_Trolley00
+Kd 1.0 1.0 1.0
+map_Kd textures/Trolley00_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_VarCente00_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/VarCente00_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_WallBrickBase
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrickBase_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_WallBrickBase_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrickBase_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_WallBrokenBrown
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrokenBrown_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_WallBrokenBrown_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrokenBrown_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_WallBrokenPink
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrokenPink_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_WallConcrete
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcrete_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_WallConcreteBase
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteBase_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_WallConcreteBase_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteBase_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_WallConcreteDecal_wp
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteDecal_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_WallConcreteSea_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteSea_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_WallConcrete_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcrete_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_WallPlantIvyBundle
+Kd 1.0 1.0 1.0
+map_Kd textures/WallPlantIvyBundle_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_WallUnderColor
+Kd 1.0 1.0 1.0
+map_Kd textures/WallUnderColor_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_WallUnderColor_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallUnderColor_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_WingBoxAP02
+Kd 1.0 1.0 1.0
+map_Kd textures/WingBoxAP02_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_WoodBoard00
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodBoard00_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_WoodBoard00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodBoard00_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_WoodOld_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodOld_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_WoodRepeat00
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodRepeat00_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_WoodRepeat00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodRepeat00_Alb.png
+
+newmtl FldObj_Ruins03VlfStage_WorkingLampMaterial
+Kd 1.0 1.0 1.0
+map_Kd textures/WorkingLampMaterial_Alb.png
+
+newmtl Fld_Ruins03_Barricade00
+Kd 1.0 1.0 1.0
+map_Kd textures/Barricade00_Alb.png
+
+newmtl Fld_Ruins03_BlockCurbYellow
+Kd 1.0 1.0 1.0
+map_Kd textures/BlockCurbYellow_Alb.png
+
+newmtl Fld_Ruins03_BlueTarp00
+Kd 1.0 1.0 1.0
+map_Kd textures/BlueTarp00_Alb.png
+
+newmtl Fld_Ruins03_CanolaA
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaA_Alb.png
+
+newmtl Fld_Ruins03_CanolaB
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaB_Alb.png
+
+newmtl Fld_Ruins03_CircleBox00
+Kd 1.0 1.0 1.0
+map_Kd textures/CircleBox00_Alb.png
+
+newmtl Fld_Ruins03_DV_SeaWater
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_SeaWater_Alb.png
+
+newmtl Fld_Ruins03_DeckFloor00
+Kd 1.0 1.0 1.0
+map_Kd textures/DeckFloor00_Alb.png
+
+newmtl Fld_Ruins03_DeckFloor02
+Kd 1.0 1.0 1.0
+map_Kd textures/DeckFloor02_Alb.png
+
+newmtl Fld_Ruins03_Elevator
+Kd 1.0 1.0 1.0
+map_Kd textures/Elevator_Alb.png
+
+newmtl Fld_Ruins03_Elevator_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/Elevator_Alb.png
+
+newmtl Fld_Ruins03_FenceIronNet_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceIronNet_Alb.png
+
+newmtl Fld_Ruins03_FenceIron_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceIron_Alb.png
+
+newmtl Fld_Ruins03_FldRuinsCaseObjUDIM00
+Kd 1.0 1.0 1.0
+map_Kd textures/FldRuinsCaseObjUDIM00_UDIM_Alb.png
+
+newmtl Fld_Ruins03_FldRuinsPropObjUDIM00
+Kd 1.0 1.0 1.0
+map_Kd textures/FldRuinsPropObjUDIM00_UDIM_Alb.png
+
+newmtl Fld_Ruins03_FloorConcreteCrack
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorConcreteCrack_Alb.png
+
+newmtl Fld_Ruins03_FloorConcreteDamaged
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorConcreteDamaged_Alb.png
+
+newmtl Fld_Ruins03_FloorConcreteDamaged_np
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorConcreteDamaged_Alb.png
+
+newmtl Fld_Ruins03_FloorEarthBrown
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorEarthBrown_Alb.png
+
+newmtl Fld_Ruins03_FloorEarthBrown_va
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorEarthBrown_Alb.png
+
+newmtl Fld_Ruins03_FloorLight00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorLight00_Alb.png
+
+newmtl Fld_Ruins03_Glass00
+Kd 1.0 1.0 1.0
+map_Kd textures/Glass00_Alb.png
+
+newmtl Fld_Ruins03_Glass00_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/Glass00_Alb.png
+
+newmtl Fld_Ruins03_GroundGrassMoss
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundGrassMoss_Alb.png
+
+newmtl Fld_Ruins03_GroundGrassMoss_va
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundGrassMoss_Alb.png
+
+newmtl Fld_Ruins03_IronBarFuchi_np
+Kd 1.0 1.0 1.0
+map_Kd textures/IronBarFuchi_Alb.png
+
+newmtl Fld_Ruins03_MetalCurbSet00
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalCurbSet00_Alb.png
+
+newmtl Fld_Ruins03_MetalCurbSet00_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalCurbSet00_Alb.png
+
+newmtl Fld_Ruins03_MetalPlateRust
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalPlateRust_Alb.png
+
+newmtl Fld_Ruins03_MetalPlateSteel
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalPlateSteel_Alb.png
+
+newmtl Fld_Ruins03_MetalPlateSteelRust
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalPlateSteelRust_Alb.png
+
+newmtl Fld_Ruins03_OBJLightSet_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/OBJLightSet_Alb.png
+
+newmtl Fld_Ruins03_PlantationSet
+Kd 1.0 1.0 1.0
+map_Kd textures/PlantationSet_Alb.png
+
+newmtl Fld_Ruins03_PlasticSheet00
+Kd 1.0 1.0 1.0
+map_Kd textures/PlasticSheet00_Alb.png
+
+newmtl Fld_Ruins03_PlateSteelGrey
+Kd 1.0 1.0 1.0
+map_Kd textures/PlateSteelGrey_Alb.png
+
+newmtl Fld_Ruins03_RopeSingle
+Kd 1.0 1.0 1.0
+map_Kd textures/RopeSingle_Alb.png
+
+newmtl Fld_Ruins03_Ruins03Graffiti00
+Kd 1.0 1.0 1.0
+map_Kd textures/Ruins03Graffiti00_Alb.png
+
+newmtl Fld_Ruins03_Ruins03Graffiti00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Ruins03Graffiti00_Alb.png
+
+newmtl Fld_Ruins03_Ruins03Graffiti01
+Kd 1.0 1.0 1.0
+map_Kd textures/Ruins03Graffiti01_Alb.png
+
+newmtl Fld_Ruins03_Sandbag00
+Kd 1.0 1.0 1.0
+map_Kd textures/Sandbag00_Alb.png
+
+newmtl Fld_Ruins03_Shadow
+Kd 1.0 1.0 1.0
+map_Kd textures/BakeDummy00.png
+
+newmtl Fld_Ruins03_SheetVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/SheetVinyl_Alb.png
+
+newmtl Fld_Ruins03_SignBoardIron00
+Kd 1.0 1.0 1.0
+map_Kd textures/SignBoardIron00_Alb.png
+
+newmtl Fld_Ruins03_SignBoardIronSurface00
+Kd 1.0 1.0 1.0
+map_Kd textures/SignBoardIronSurface00_Alb.png
+
+newmtl Fld_Ruins03_SignBoardWood00
+Kd 1.0 1.0 1.0
+map_Kd textures/SignBoardWood00_Alb.png
+
+newmtl Fld_Ruins03_SignTape_np
+Kd 1.0 1.0 1.0
+map_Kd textures/SignTape_Alb.png
+
+newmtl Fld_Ruins03_SlopeFramePlate
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeFramePlate_Alb.png
+
+newmtl Fld_Ruins03_SlopeMetalRustGray
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeMetalRustGray_Alb.png
+
+newmtl Fld_Ruins03_Tape00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Tape00_Alb.png
+
+newmtl Fld_Ruins03_Trolley00
+Kd 1.0 1.0 1.0
+map_Kd textures/Trolley00_Alb.png
+
+newmtl Fld_Ruins03_WallBrickBase
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrickBase_Alb.png
+
+newmtl Fld_Ruins03_WallBrickBase_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrickBase_Alb.png
+
+newmtl Fld_Ruins03_WallBrokenBrown
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrokenBrown_Alb.png
+
+newmtl Fld_Ruins03_WallBrokenBrown_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrokenBrown_Alb.png
+
+newmtl Fld_Ruins03_WallConcreteBase
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteBase_Alb.png
+
+newmtl Fld_Ruins03_WallConcreteBase_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteBase_Alb.png
+
+newmtl Fld_Ruins03_WallConcreteBase_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteBase_Alb.png
+
+newmtl Fld_Ruins03_WallConcreteSea_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteSea_Alb.png
+
+newmtl Fld_Ruins03_WallPlantIvyBundle
+Kd 1.0 1.0 1.0
+map_Kd textures/WallPlantIvyBundle_Alb.png
+
+newmtl Fld_Ruins03_WallPlantIvySpiral
+Kd 1.0 1.0 1.0
+map_Kd textures/WallPlantIvySpiral_Alb.png
+
+newmtl Fld_Ruins03_WallUnderColor_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallUnderColor_Alb.png
+
+newmtl Fld_Ruins03_WoodRepeat00
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodRepeat00_Alb.png
+
+newmtl Fld_Ruins03_WoodRepeat00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodRepeat00_Alb.png
+

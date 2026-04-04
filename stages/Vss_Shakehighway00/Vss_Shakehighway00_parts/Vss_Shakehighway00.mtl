@@ -1,0 +1,297 @@
+# KiTrix material file
+newmtl DObj_Shakehighway00_Bridge00
+Kd 1.0 1.0 1.0
+map_Kd textures/Bridge00_Alb.png
+
+newmtl DObj_Shakehighway00_Bridge00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Bridge00_Alb.png
+
+newmtl DObj_Shakehighway00_OrganPipe00
+Kd 1.0 1.0 1.0
+map_Kd textures/OrganPipe00_Alb.png
+
+newmtl DObj_Shakehighway00_Scaffold00
+Kd 1.0 1.0 1.0
+map_Kd textures/Scaffold00_Alb.png
+
+newmtl DObj_Shakehighway00_SearchLightEf
+Kd 1.0 1.0 1.0
+map_Kd textures/SearchLightEf_Alb.png
+
+newmtl DObj_Shakehighway00_Steamer00
+Kd 1.0 1.0 1.0
+map_Kd textures/Steamer00_Alb.png
+
+newmtl DObj_ShakehighwayRopeLight_TubeLight00
+Kd 1.0 1.0 1.0
+map_Kd textures/TubeLight00_Alb.png
+
+newmtl FldBG_Cop_Shakehighway00_Bridge00
+Kd 1.0 1.0 1.0
+map_Kd textures/Bridge00_Alb.png
+
+newmtl FldBG_Cop_Shakehighway00_ConcreteWall02
+Kd 1.0 1.0 1.0
+map_Kd textures/ConcreteWall02_Alb.png
+
+newmtl FldBG_Cop_Shakehighway00_CoopCutlery00
+Kd 1.0 1.0 1.0
+map_Kd textures/CoopCutlery00_Alb.png
+
+newmtl FldBG_Cop_Shakehighway00_CoopNeon00
+Kd 1.0 1.0 1.0
+map_Kd textures/CoopNeon00_Alb.png
+
+newmtl FldBG_Cop_Shakehighway00_DVCutlerySet
+Kd 1.0 1.0 1.0
+map_Kd textures/DVCutlerySet_Alb.png
+
+newmtl FldBG_Cop_Shakehighway00_DVFoodSet
+Kd 1.0 1.0 1.0
+map_Kd textures/DVFoodSet_Alb.png
+
+newmtl FldBG_Cop_Shakehighway00_DVMountainBase1
+Kd 1.0 1.0 1.0
+map_Kd textures/DVMountainBase_Alb.png
+
+newmtl FldBG_Cop_Shakehighway00_DVMountainBase_va
+Kd 1.0 1.0 1.0
+map_Kd textures/DVMountainBase_Alb.png
+
+newmtl FldBG_Cop_Shakehighway00_DVSetLeaf
+Kd 1.0 1.0 1.0
+map_Kd textures/DVSetLeaf_Alb.png
+
+newmtl FldBG_Cop_Shakehighway00_DVTreeSet
+Kd 1.0 1.0 1.0
+map_Kd textures/DVTreeSet_Alb.png
+
+newmtl FldBG_Cop_Shakehighway00_DVTreeTrunk
+Kd 1.0 1.0 1.0
+map_Kd textures/DVTreeTrunk_Alb.png
+
+newmtl FldBG_Cop_Shakehighway00_DV_CliffWall
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_CliffWall_Alb.png
+
+newmtl FldBG_Cop_Shakehighway00_GroundsSndyBeachRock_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundsSndyBeachRock_Alb.png
+
+newmtl FldBG_Cop_Shakehighway00_Handrail00
+Kd 1.0 1.0 1.0
+map_Kd textures/Handrail00_Alb.png
+
+newmtl FldBG_Cop_Shakehighway00_House00
+Kd 1.0 1.0 1.0
+map_Kd textures/House00_Alb.png
+
+newmtl FldBG_Cop_Shakehighway00_NeonOmega00
+Kd 1.0 1.0 1.0
+map_Kd textures/NeonOmega00_Alb.png
+
+newmtl FldBG_Cop_Shakehighway00_NetMetal00
+Kd 1.0 1.0 1.0
+map_Kd textures/NetMetal00_Alb.png
+
+newmtl FldBG_Cop_Shakehighway00_OrganWall00
+Kd 1.0 1.0 1.0
+map_Kd textures/OrganWall00_Alb.png
+
+newmtl FldBG_Cop_Shakehighway00_PipeMetal00
+Kd 1.0 1.0 1.0
+map_Kd textures/PipeMetal00_Alb.png
+
+newmtl FldBG_Cop_Shakehighway00_SakeLogoKanban
+Kd 1.0 1.0 1.0
+map_Kd textures/SakeLogoKanban_Alb.png
+
+newmtl FldBG_Cop_Shakehighway00_Scaffold00
+Kd 1.0 1.0 1.0
+map_Kd textures/Scaffold00_Alb.png
+
+newmtl FldBG_Cop_Shakehighway00_SearchLightEf
+Kd 1.0 1.0 1.0
+map_Kd textures/SearchLightEf_Alb.png
+
+newmtl FldBG_Cop_Shakehighway00_Steamer00
+Kd 1.0 1.0 1.0
+map_Kd textures/Steamer00_Alb.png
+
+newmtl FldBG_Cop_Shakehighway00_VinylGreen
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylGreen_Alb.png
+
+newmtl FldBG_Cop_Shakehighway00_WallMetal00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallMetal00_Alb.png
+
+newmtl Fld_Shakehighway00_AsphaltRoadD00
+Kd 1.0 1.0 1.0
+map_Kd textures/AsphaltRoadD00_Alb.png
+
+newmtl Fld_Shakehighway00_AsphaltRoadF00
+Kd 1.0 1.0 1.0
+map_Kd textures/AsphaltRoadF00_Alb.png
+
+newmtl Fld_Shakehighway00_ConcreteWall00
+Kd 1.0 1.0 1.0
+map_Kd textures/ConcreteWall00_Alb.png
+
+newmtl Fld_Shakehighway00_ConcreteWall02
+Kd 1.0 1.0 1.0
+map_Kd textures/ConcreteWall02_Alb.png
+
+newmtl Fld_Shakehighway00_CoopNeon00
+Kd 1.0 1.0 1.0
+map_Kd textures/CoopNeon00_Alb.png
+
+newmtl Fld_Shakehighway00_Door00
+Kd 1.0 1.0 1.0
+map_Kd textures/Door00_Alb.png
+
+newmtl Fld_Shakehighway00_FenceIron
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceIron_Alb.png
+
+newmtl Fld_Shakehighway00_FloorWireNetN
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorWireNetN_Alb.png
+
+newmtl Fld_Shakehighway00_FloorWireNetN_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorWireNetN_Alb.png
+
+newmtl Fld_Shakehighway00_FrameSet00
+Kd 1.0 1.0 1.0
+map_Kd textures/FrameSet00_Alb.png
+
+newmtl Fld_Shakehighway00_FrameSetB00
+Kd 1.0 1.0 1.0
+map_Kd textures/FrameSetB00_Alb.png
+
+newmtl Fld_Shakehighway00_GroundDirt00
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundDirt00_Alb.png
+
+newmtl Fld_Shakehighway00_GroundDirt00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundDirt00_Alb.png
+
+newmtl Fld_Shakehighway00_GroundDirt01
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundDirt01_Alb.png
+
+newmtl Fld_Shakehighway00_Guardrail00
+Kd 1.0 1.0 1.0
+map_Kd textures/Guardrail00_Alb.png
+
+newmtl Fld_Shakehighway00_KeepOut00
+Kd 1.0 1.0 1.0
+map_Kd textures/KeepOut00_Alb.png
+
+newmtl Fld_Shakehighway00_MetalFrameSlope
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalFrameSlope_Alb.png
+
+newmtl Fld_Shakehighway00_MetalPanels00
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalPanels00_Alb.png
+
+newmtl Fld_Shakehighway00_MetalPlateSteelRust
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalPlateSteelRust_Alb.png
+
+newmtl Fld_Shakehighway00_MetalPlateSteelRustB
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalPlateSteelRustB_Alb.png
+
+newmtl Fld_Shakehighway00_MetalSide00
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalSide00_Alb.png
+
+newmtl Fld_Shakehighway00_MetalSide00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalSide00_Alb.png
+
+newmtl Fld_Shakehighway00_Minnow
+Kd 1.0 1.0 1.0
+map_Kd textures/Minnow_Alb.png
+
+newmtl Fld_Shakehighway00_NetMetal00
+Kd 1.0 1.0 1.0
+map_Kd textures/NetMetal00_Alb.png
+
+newmtl Fld_Shakehighway00_ObjSet00_sp
+Kd 1.0 1.0 1.0
+map_Kd textures/ObjSet00_Alb.png
+
+newmtl Fld_Shakehighway00_PlantationSet_sp
+Kd 1.0 1.0 1.0
+map_Kd textures/PlantationSet_Alb.png
+
+newmtl Fld_Shakehighway00_RoadLine00
+Kd 1.0 1.0 1.0
+map_Kd textures/RoadLine00_Alb.png
+
+newmtl Fld_Shakehighway00_RuinsTinRed
+Kd 1.0 1.0 1.0
+map_Kd textures/RuinsTinRed_Alb.png
+
+newmtl Fld_Shakehighway00_SakeLogoKanban
+Kd 1.0 1.0 1.0
+map_Kd textures/SakeLogoKanban_Alb.png
+
+newmtl Fld_Shakehighway00_SlopeMetalRustGray_np
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeMetalRustGray_Alb.png
+
+newmtl Fld_Shakehighway00_SlopeMetalRustGray_np_xl
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeMetalRustGray_Alb.png
+
+newmtl Fld_Shakehighway00_Spoon
+Kd 1.0 1.0 1.0
+map_Kd textures/Spoon_Alb.png
+
+newmtl Fld_Shakehighway00_Tape00
+Kd 1.0 1.0 1.0
+map_Kd textures/Tape00_Alb.png
+
+newmtl Fld_Shakehighway00_VinylGreen
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylGreen_Alb.png
+
+newmtl Fld_Shakehighway00_WallBrokenPink_sp
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrokenPink_Alb.png
+
+newmtl Fld_Shakehighway00_WoodBase
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodBase_Alb.png
+
+newmtl Fld_Shakehighway00_WoodCover00
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodCover00_Alb.png
+
+newmtl Fld_Shakehighway00_WoodFloorOld00
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodFloorOld00_Alb.png
+
+newmtl Fld_Shakehighway00_WoodPlate00
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodPlate00_Alb.png
+
+newmtl Fld_Shakehighway00_WoodPlateB00
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodPlateB00_Alb.png
+
+newmtl Obj_BoatSteamerA_Handrail00
+Kd 1.0 1.0 1.0
+map_Kd textures/Handrail00_Alb.png
+
+newmtl Obj_BoatSteamerA_Steamer00
+Kd 1.0 1.0 1.0
+map_Kd textures/Steamer00_Alb.png
+

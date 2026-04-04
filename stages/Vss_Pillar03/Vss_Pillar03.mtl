@@ -1,0 +1,557 @@
+# KiTrix material file
+newmtl FldBG_Pillar03_Bridge
+Kd 1.0 1.0 1.0
+map_Kd textures/Bridge_Alb.png
+
+newmtl FldBG_Pillar03_BuildingGlass
+Kd 1.0 1.0 1.0
+map_Kd textures/BuildingGlass_Alb.png
+
+newmtl FldBG_Pillar03_CafeTableSet
+Kd 1.0 1.0 1.0
+map_Kd textures/CafeTableSet_Alb.png
+
+newmtl FldBG_Pillar03_CommercialBuildingConcrete
+Kd 1.0 1.0 1.0
+map_Kd textures/CommercialBuildingConcrete_Alb.png
+
+newmtl FldBG_Pillar03_CommercialBuildingFramelessGlass
+Kd 1.0 1.0 1.0
+map_Kd textures/CommercialBuildingFramelessGlass_Alb.png
+
+newmtl FldBG_Pillar03_CommercialBuildingGlass
+Kd 1.0 1.0 1.0
+map_Kd textures/CommercialBuildingGlass_Alb.png
+
+newmtl FldBG_Pillar03_CommercialBuildingGreenGlass
+Kd 1.0 1.0 1.0
+map_Kd textures/CommercialBuildingGreenGlass_Alb.png
+
+newmtl FldBG_Pillar03_CommercialBuildingParts
+Kd 1.0 1.0 1.0
+map_Kd textures/CommercialBuildingParts_Alb.png
+
+newmtl FldBG_Pillar03_CommercialBuildingWall
+Kd 1.0 1.0 1.0
+map_Kd textures/CommercialBuildingWall_Alb.png
+
+newmtl FldBG_Pillar03_ConcretBasicGrey
+Kd 1.0 1.0 1.0
+map_Kd textures/ConcretBasicGrey_Alb.png
+
+newmtl FldBG_Pillar03_ConcreteWall
+Kd 1.0 1.0 1.0
+map_Kd textures/ConcreteWall_Alb.png
+
+newmtl FldBG_Pillar03_Crane
+Kd 1.0 1.0 1.0
+map_Kd textures/Crane_Alb.png
+
+newmtl FldBG_Pillar03_FarBuilding00
+Kd 1.0 1.0 1.0
+map_Kd textures/FarBuilding00_Alb.png
+
+newmtl FldBG_Pillar03_Ferris
+Kd 1.0 1.0 1.0
+map_Kd textures/Ferris_Alb.png
+
+newmtl FldBG_Pillar03_GlassTile
+Kd 1.0 1.0 1.0
+map_Kd textures/GlassTile_Alb.png
+
+newmtl FldBG_Pillar03_GroundGrassBase
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundGrassBase_Alb.png
+
+newmtl FldBG_Pillar03_Mirror
+Kd 1.0 1.0 1.0
+map_Kd textures/Mirror_Alb.png
+
+newmtl FldBG_Pillar03_Mountain
+Kd 1.0 1.0 1.0
+map_Kd textures/Mountain_Alb.png
+
+newmtl FldBG_Pillar03_PalmtreeLeaf
+Kd 1.0 1.0 1.0
+map_Kd textures/PalmtreeLeaf_Alb.png
+
+newmtl FldBG_Pillar03_PalmtreeWood
+Kd 1.0 1.0 1.0
+map_Kd textures/PalmtreeWood_Alb.png
+
+newmtl FldBG_Pillar03_Pole
+Kd 1.0 1.0 1.0
+map_Kd textures/Pole_Alb.png
+
+newmtl FldBG_Pillar03_SeaWater
+Kd 1.0 1.0 1.0
+map_Kd textures/SeaWater_Alb.png
+
+newmtl FldBG_Pillar03_SeaWater_va
+Kd 1.0 1.0 1.0
+map_Kd textures/SeaWater_Alb.png
+
+newmtl FldBG_Pillar03_Stone
+Kd 1.0 1.0 1.0
+map_Kd textures/Stone_Alb.png
+
+newmtl FldBG_Pillar03_Tile
+Kd 1.0 1.0 1.0
+map_Kd textures/Tile_Alb.png
+
+newmtl FldBG_Pillar03_TreeBody
+Kd 1.0 1.0 1.0
+map_Kd textures/TreeBody_Alb.png
+
+newmtl FldBG_Pillar03_TreeBush
+Kd 1.0 1.0 1.0
+map_Kd textures/TreeBush_Alb.png
+
+newmtl FldBG_Pillar03_TreeLeaf
+Kd 1.0 1.0 1.0
+map_Kd textures/TreeLeaf_Alb.png
+
+newmtl FldBG_Pillar03_WallBrick
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrick_Alb.png
+
+newmtl FldBG_Pillar03_Yotto
+Kd 1.0 1.0 1.0
+map_Kd textures/Yotto_Alb.png
+
+newmtl FldBG_Pillar03Balloon_Balloon
+Kd 1.0 1.0 1.0
+map_Kd textures/Balloon_Alb.png
+
+newmtl FldObj_Pillar03_Streetlight_StreetLightPillar
+Kd 1.0 1.0 1.0
+map_Kd textures/StreetLightPillar_Alb.png
+
+newmtl FldObj_Pillar03_Streetlight_StreetLightPillar_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/StreetLightPillar_Alb.png
+
+newmtl FldObj_Pillar_Tcl_CanolaC
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaC_Alb.png
+
+newmtl FldObj_Pillar_Tcl_CanolaCV
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaCV_Alb.png
+
+newmtl FldObj_Pillar_Tcl_Chain
+Kd 1.0 1.0 1.0
+map_Kd textures/Chain_Alb.png
+
+newmtl FldObj_Pillar_Tcl_ConstructionObject
+Kd 1.0 1.0 1.0
+map_Kd textures/ConstructionObject_Alb.png
+
+newmtl FldObj_Pillar_Tcl_CraneIronBody
+Kd 1.0 1.0 1.0
+map_Kd textures/CraneIronBody_Alb.png
+
+newmtl FldObj_Pillar_Tcl_CraneIronParts
+Kd 1.0 1.0 1.0
+map_Kd textures/CraneIronParts_Alb.png
+
+newmtl FldObj_Pillar_Tcl_FenceIronSilver
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceIronSilver_Alb.png
+
+newmtl FldObj_Pillar_Tcl_FenceIronSilver_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceIronSilver_Alb.png
+
+newmtl FldObj_Pillar_Tcl_FenceOrange
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceOrange_Opa.png
+
+newmtl FldObj_Pillar_Tcl_FenceVinylGray
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceVinylGray_Alb.png
+
+newmtl FldObj_Pillar_Tcl_FenceVinylWhite
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceVinylWhite_Alb.png
+
+newmtl FldObj_Pillar_Tcl_FenceWood
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceWood_Alb.png
+
+newmtl FldObj_Pillar_Tcl_Float
+Kd 1.0 1.0 1.0
+map_Kd textures/Float_Alb.png
+
+newmtl FldObj_Pillar_Tcl_Graffiti
+Kd 1.0 1.0 1.0
+map_Kd textures/Graffiti_Alb.png
+
+newmtl FldObj_Pillar_Tcl_GraffitiWall
+Kd 1.0 1.0 1.0
+map_Kd textures/GraffitiWall_Alb.png
+
+newmtl FldObj_Pillar_Tcl_Graffiti_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Graffiti_Alb.png
+
+newmtl FldObj_Pillar_Tcl_GroundRoof
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundRoof_Alb.png
+
+newmtl FldObj_Pillar_Tcl_LifeBoatBase
+Kd 1.0 1.0 1.0
+map_Kd textures/LifeBoatBase_Alb.png
+
+newmtl FldObj_Pillar_Tcl_Lifebuoy
+Kd 1.0 1.0 1.0
+map_Kd textures/Lifebuoy_Alb.png
+
+newmtl FldObj_Pillar_Tcl_MainWire
+Kd 1.0 1.0 1.0
+map_Kd textures/MainWire_Alb.png
+
+newmtl FldObj_Pillar_Tcl_MetalDoor_np
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalDoor_Alb.png
+
+newmtl FldObj_Pillar_Tcl_MetalFrameSet
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalFrameSet_Alb.png
+
+newmtl FldObj_Pillar_Tcl_MetalFrameSet_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalFrameSet_Alb.png
+
+newmtl FldObj_Pillar_Tcl_MetalFrameSet_np
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalFrameSet_Alb.png
+
+newmtl FldObj_Pillar_Tcl_MetalFrameSet_sp
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalFrameSet_Alb.png
+
+newmtl FldObj_Pillar_Tcl_MetalFrameSet_sp_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalFrameSet_Alb.png
+
+newmtl FldObj_Pillar_Tcl_Mirror
+Kd 1.0 1.0 1.0
+map_Kd textures/Mirror_Alb.png
+
+newmtl FldObj_Pillar_Tcl_PlateSteelGrey
+Kd 1.0 1.0 1.0
+map_Kd textures/PlateSteelGrey_Alb.png
+
+newmtl FldObj_Pillar_Tcl_RepeatWall
+Kd 1.0 1.0 1.0
+map_Kd textures/RepeatWall_Alb.png
+
+newmtl FldObj_Pillar_Tcl_RepeatWall_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/RepeatWall_Alb.png
+
+newmtl FldObj_Pillar_Tcl_RepeatWall_np
+Kd 1.0 1.0 1.0
+map_Kd textures/RepeatWall_Alb.png
+
+newmtl FldObj_Pillar_Tcl_SheetVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/SheetVinyl_Alb.png
+
+newmtl FldObj_Pillar_Tcl_SlopeMetalPlate
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeMetalPlate_Alb.png
+
+newmtl FldObj_Pillar_Tcl_SteelFrameBlack
+Kd 1.0 1.0 1.0
+map_Kd textures/SteelFrameBlack_Alb.png
+
+newmtl FldObj_Pillar_Tcl_Stripe
+Kd 1.0 1.0 1.0
+map_Kd textures/Stripe_Alb.png
+
+newmtl FldObj_Pillar_Tcl_VinylWhite
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylWhite_Alb.png
+
+newmtl FldObj_Pillar_Tcl_Wall00
+Kd 1.0 1.0 1.0
+map_Kd textures/Wall00_Alb.png
+
+newmtl FldObj_Pillar_Tcl_Wall00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Wall00_Alb.png
+
+newmtl FldObj_Pillar_Tcl_WoodGround
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodGround_Alb.png
+
+newmtl FldObj_Pillar_Tcl_WoodGround_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodGround_Alb.png
+
+newmtl FldObj_Pillar_Tcl_WoodPlate
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodPlate_Alb.png
+
+newmtl FldObj_Pillar_Tcl_WoodPlate_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodPlate_Alb.png
+
+newmtl FldObj_Pillar_Tcl_WoodPlate_op
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodPlate_op_Alb.png
+
+newmtl FldObj_Plllar03_Tape_CanolaATape
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaA_Alb.png
+
+newmtl FldObj_Plllar03_Tape_Tape
+Kd 1.0 1.0 1.0
+map_Kd textures/Tape_Alb.png
+
+newmtl Fld_Pillar03_AluminumSlope
+Kd 1.0 1.0 1.0
+map_Kd textures/AluminumSlope_Alb.png
+
+newmtl Fld_Pillar03_CanolaA
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaA_Alb.png
+
+newmtl Fld_Pillar03_CanolaB
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaB_Alb.png
+
+newmtl Fld_Pillar03_Chain
+Kd 1.0 1.0 1.0
+map_Kd textures/Chain_Alb.png
+
+newmtl Fld_Pillar03_ConstructionObject
+Kd 1.0 1.0 1.0
+map_Kd textures/ConstructionObject_Alb.png
+
+newmtl Fld_Pillar03_CraneIronBody
+Kd 1.0 1.0 1.0
+map_Kd textures/CraneIronBody_Alb.png
+
+newmtl Fld_Pillar03_CraneIronParts
+Kd 1.0 1.0 1.0
+map_Kd textures/CraneIronParts_Alb.png
+
+newmtl Fld_Pillar03_FenceIronSilver
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceIronSilver_Alb.png
+
+newmtl Fld_Pillar03_FenceOrange_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceOrange_Opa.png
+
+newmtl Fld_Pillar03_FenceVinylGray
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceVinylGray_Alb.png
+
+newmtl Fld_Pillar03_FenceVinylWhite
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceVinylWhite_Alb.png
+
+newmtl Fld_Pillar03_FenceWood
+Kd 1.0 1.0 1.0
+map_Kd textures/FenceWood_Alb.png
+
+newmtl Fld_Pillar03_Float
+Kd 1.0 1.0 1.0
+map_Kd textures/Float_Alb.png
+
+newmtl Fld_Pillar03_GangwayBase
+Kd 1.0 1.0 1.0
+map_Kd textures/GangwayBase_Alb.png
+
+newmtl Fld_Pillar03_Graffiti
+Kd 1.0 1.0 1.0
+map_Kd textures/Graffiti_Alb.png
+
+newmtl Fld_Pillar03_GraffitiWall
+Kd 1.0 1.0 1.0
+map_Kd textures/GraffitiWall_Alb.png
+
+newmtl Fld_Pillar03_Graffiti_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Graffiti_Alb.png
+
+newmtl Fld_Pillar03_GroundRoof
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundRoof_Alb.png
+
+newmtl Fld_Pillar03_HandCapstanMaterial
+Kd 1.0 1.0 1.0
+map_Kd textures/HandCapstanMaterial_Alb.png
+
+newmtl Fld_Pillar03_Handrail
+Kd 1.0 1.0 1.0
+map_Kd textures/Handrail_Alb.png
+
+newmtl Fld_Pillar03_Lifebuoy
+Kd 1.0 1.0 1.0
+map_Kd textures/Lifebuoy_Alb.png
+
+newmtl Fld_Pillar03_MainWire
+Kd 1.0 1.0 1.0
+map_Kd textures/MainWire_Alb.png
+
+newmtl Fld_Pillar03_MalinLightWall
+Kd 1.0 1.0 1.0
+map_Kd textures/MalinLightWall_Alb.png
+
+newmtl Fld_Pillar03_MarineLamp
+Kd 1.0 1.0 1.0
+map_Kd textures/MarineLamp_Alb.png
+
+newmtl Fld_Pillar03_MastLightCord
+Kd 1.0 1.0 1.0
+map_Kd textures/MastLightCord_Alb.png
+
+newmtl Fld_Pillar03_MastPartsA
+Kd 1.0 1.0 1.0
+map_Kd textures/MastPartsA_Alb.png
+
+newmtl Fld_Pillar03_MastPartsB
+Kd 1.0 1.0 1.0
+map_Kd textures/MastPartsB_Alb.png
+
+newmtl Fld_Pillar03_MastPole
+Kd 1.0 1.0 1.0
+map_Kd textures/MastPole_Alb.png
+
+newmtl Fld_Pillar03_MastPole_ol
+Kd 1.0 1.0 1.0
+map_Kd textures/MastPole_ol_Alb.png
+
+newmtl Fld_Pillar03_MetalDoor
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalDoor_Alb.png
+
+newmtl Fld_Pillar03_MetalDoor_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalDoor_Alb.png
+
+newmtl Fld_Pillar03_MetalDoor_np
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalDoor_Alb.png
+
+newmtl Fld_Pillar03_MetalFrameSet
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalFrameSet_Alb.png
+
+newmtl Fld_Pillar03_MetalFrameSet_np
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalFrameSet_Alb.png
+
+newmtl Fld_Pillar03_Mirror
+Kd 1.0 1.0 1.0
+map_Kd textures/Mirror_Alb.png
+
+newmtl Fld_Pillar03_OutdoorLampBody
+Kd 1.0 1.0 1.0
+map_Kd textures/OutdoorLampBody_Alb.png
+
+newmtl Fld_Pillar03_OutdoorLampBodyInside
+Kd 1.0 1.0 1.0
+map_Kd textures/OutdoorLampBodyInside_Alb.png
+
+newmtl Fld_Pillar03_PlateSteelGrey
+Kd 1.0 1.0 1.0
+map_Kd textures/PlateSteelGrey_Alb.png
+
+newmtl Fld_Pillar03_RepeatWall
+Kd 1.0 1.0 1.0
+map_Kd textures/RepeatWall_Alb.png
+
+newmtl Fld_Pillar03_RepeatWall_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/RepeatWall_Alb.png
+
+newmtl Fld_Pillar03_RepeatWall_np
+Kd 1.0 1.0 1.0
+map_Kd textures/RepeatWall_Alb.png
+
+newmtl Fld_Pillar03_RopeNetLoop
+Kd 1.0 1.0 1.0
+map_Kd textures/RopeNetLoop_Alb.png
+
+newmtl Fld_Pillar03_RopeSingle
+Kd 1.0 1.0 1.0
+map_Kd textures/RopeSingle_Alb.png
+
+newmtl Fld_Pillar03_SailingBoatBody
+Kd 1.0 1.0 1.0
+map_Kd textures/SailingBoatBody_Alb.png
+
+newmtl Fld_Pillar03_SheetVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/SheetVinyl_Alb.png
+
+newmtl Fld_Pillar03_SlopeMetalPlate
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeMetalPlate_Alb.png
+
+newmtl Fld_Pillar03_SlopeMetalPlate_np
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeMetalPlate_Alb.png
+
+newmtl Fld_Pillar03_SteelFrameBlack
+Kd 1.0 1.0 1.0
+map_Kd textures/SteelFrameBlack_Alb.png
+
+newmtl Fld_Pillar03_SteeringMachineMaterial
+Kd 1.0 1.0 1.0
+map_Kd textures/SteeringMachineMaterial_Alb.png
+
+newmtl Fld_Pillar03_Stripe
+Kd 1.0 1.0 1.0
+map_Kd textures/Stripe_Alb.png
+
+newmtl Fld_Pillar03_Trunkcase
+Kd 1.0 1.0 1.0
+map_Kd textures/Trunkcase_Alb.png
+
+newmtl Fld_Pillar03_VinylWhite
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylWhite_Alb.png
+
+newmtl Fld_Pillar03_Wall00
+Kd 1.0 1.0 1.0
+map_Kd textures/Wall00_Alb.png
+
+newmtl Fld_Pillar03_Wall00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Wall00_Alb.png
+
+newmtl Fld_Pillar03_WoodGround
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodGround_Alb.png
+
+newmtl Fld_Pillar03_WoodGround_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodGround_Alb.png
+
+newmtl Fld_Pillar03_WoodPlate
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodPlate_Alb.png
+
+newmtl Fld_Pillar03_WoodPlate_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodPlate_Alb.png
+
+newmtl Fld_Pillar03_Tape_CanolaATape
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaA_Alb.png
+
+newmtl Fld_Pillar03_Tape_CanolaBTape
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaB_Alb.png
+
+newmtl Fld_Pillar03_Tape_Tape
+Kd 1.0 1.0 1.0
+map_Kd textures/Tape_Alb.png
+

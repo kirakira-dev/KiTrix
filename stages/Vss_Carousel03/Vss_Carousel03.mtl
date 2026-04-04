@@ -1,0 +1,325 @@
+# KiTrix material file
+newmtl FldBG_Carousel03_DV_BuildingBase
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_BuildingBase_Alb.png
+
+newmtl FldBG_Carousel03_DV_Crane
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_Crane_Alb.png
+
+newmtl FldBG_Carousel03_DV_FenceIronFar
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_FenceIronFar_Alb.png
+
+newmtl FldBG_Carousel03_DV_FenceSilverFarN
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_FenceSilverFarN_Alb.png
+
+newmtl FldBG_Carousel03_DV_FreeFall
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_FreeFall_Alb.png
+
+newmtl FldBG_Carousel03_DV_GraffitiSet
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_GraffitiSet_Alb.png
+
+newmtl FldBG_Carousel03_DV_GroundAsphalt
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_GroundAsphalt_Alb.png
+
+newmtl FldBG_Carousel03_DV_GroundGrass
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_GroundGrass_Alb.png
+
+newmtl FldBG_Carousel03_DV_LeafSet
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_LeafSet_Alb.png
+
+newmtl FldBG_Carousel03_DV_MetalFrameColor
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_MetalFrameColor_Alb.png
+
+newmtl FldBG_Carousel03_DV_PalmtreeLeaf
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_PalmtreeLeaf_Alb.png
+
+newmtl FldBG_Carousel03_DV_PalmtreeWood
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_PalmtreeWood_Alb.png
+
+newmtl FldBG_Carousel03_DV_SandBeach
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_SandBeach_Alb.png
+
+newmtl FldBG_Carousel03_DV_SeaWater
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_SeaWater_Nrm.png
+
+newmtl FldBG_Carousel03_DV_SeaWater_va
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_SeaWater_Nrm.png
+
+newmtl FldBG_Carousel03_DV_ShopKanbanSet
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_ShopKanbanSet_Alb.png
+
+newmtl FldBG_Carousel03_DV_ShopRocket
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_ShopRocket_Alb.png
+
+newmtl FldBG_Carousel03_DV_ShopSet
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_ShopSet_Alb.png
+
+newmtl FldBG_Carousel03_DV_SmallArticles
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_SmallArticles_Alb.png
+
+newmtl FldBG_Carousel03_DV_TentCarouselColor
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_TentCarouselColor_Alb.png
+
+newmtl FldBG_Carousel03_DV_WareHouseBuilding
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_WareHouseBuilding_Alb.png
+
+newmtl FldBG_Carousel03_DV_WaterEdge
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_WaterEdge_Alb.png
+
+newmtl FldBG_Carousel03_DV_WoodLineJetty
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_WoodLineJetty_Alb.png
+
+newmtl FldBG_Carousel03_DV_WoodLineWall
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_WoodLineWall_Alb.png
+
+newmtl FldObj_Carousel03_FerrisWheel_DV_FerrisMetalPillar
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_FerrisMetalPillar_Alb.png
+
+newmtl FldObj_Carousel03_FerrisWheel_DV_FerrisWheelSet
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_FerrisWheelSet_Alb.png
+
+newmtl FldObj_Carousel03_TriFlag_DV_FlagColorful
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_FlagColorful_Alb.png
+
+newmtl Fld_Carousel03_CanolaA
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaA_Alb.png
+
+newmtl Fld_Carousel03_CanolaB
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaA_Alb.png
+
+newmtl Fld_Carousel03_DuctSet
+Kd 1.0 1.0 1.0
+map_Kd textures/DuctSet_Alb.png
+
+newmtl Fld_Carousel03_EdgePartsSet
+Kd 1.0 1.0 1.0
+map_Kd textures/EdgePartsSet_Alb.png
+
+newmtl Fld_Carousel03_EdgePartsSet_np
+Kd 1.0 1.0 1.0
+map_Kd textures/EdgePartsSet_Alb.png
+
+newmtl Fld_Carousel03_EmissionsObjSet
+Kd 1.0 1.0 1.0
+map_Kd textures/EmissionsObjSet_Alb.png
+
+newmtl Fld_Carousel03_GiftShopSet
+Kd 1.0 1.0 1.0
+map_Kd textures/GiftShopSet_Alb.png
+
+newmtl Fld_Carousel03_Glass
+Kd 1.0 1.0 1.0
+map_Kd textures/Glass_Nrm.png
+
+newmtl Fld_Carousel03_GlassSmoke
+Kd 1.0 1.0 1.0
+map_Kd textures/BakeDummy00.png
+
+newmtl Fld_Carousel03_Graffiti3DKanbanSet01
+Kd 1.0 1.0 1.0
+map_Kd textures/Graffiti3DKanbanSet01_Alb.png
+
+newmtl Fld_Carousel03_Graffiti3DKanbanSet02_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Graffiti3DKanbanSet02_Alb.png
+
+newmtl Fld_Carousel03_Graffiti3DKanbanSet03
+Kd 1.0 1.0 1.0
+map_Kd textures/Graffiti3DKanbanSet02_Alb.png
+
+newmtl Fld_Carousel03_GraffitiPaintedSet
+Kd 1.0 1.0 1.0
+map_Kd textures/GraffitiPaintedSet_Alb.png
+
+newmtl Fld_Carousel03_GraffitiPaintedSet_np
+Kd 1.0 1.0 1.0
+map_Kd textures/GraffitiPaintedSet_Alb.png
+
+newmtl Fld_Carousel03_GraffitiSet
+Kd 1.0 1.0 1.0
+map_Kd textures/GraffitiSet_Alb.png
+
+newmtl Fld_Carousel03_GraffitiSet_np
+Kd 1.0 1.0 1.0
+map_Kd textures/GraffitiSet_Alb.png
+
+newmtl Fld_Carousel03_GraffitiSignSet
+Kd 1.0 1.0 1.0
+map_Kd textures/GraffitiSignSet_Alb.png
+
+newmtl Fld_Carousel03_GraffitiWallSet
+Kd 1.0 1.0 1.0
+map_Kd textures/GraffitiWallSet_Alb.png
+
+newmtl Fld_Carousel03_GroundBoardNeji
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundBoardNeji_Alb.png
+
+newmtl Fld_Carousel03_GroundBoardNeji_np
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundBoardNeji_Alb.png
+
+newmtl Fld_Carousel03_GroundChipBoard
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundChipBoard_Alb.png
+
+newmtl Fld_Carousel03_GroundWoodDeckDark
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundWoodDeckDark_Alb.png
+
+newmtl Fld_Carousel03_GroundWoodDeckDark_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundWoodDeckDark_Alb.png
+
+newmtl Fld_Carousel03_Groundrubber
+Kd 1.0 1.0 1.0
+map_Kd textures/Groundrubber_Alb.png
+
+newmtl Fld_Carousel03_LedSet
+Kd 1.0 1.0 1.0
+map_Kd textures/LedSet_Alb.png
+
+newmtl Fld_Carousel03_MetalFrameSet2
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalFrameSet2_Alb.png
+
+newmtl Fld_Carousel03_PlateSteelGrey
+Kd 1.0 1.0 1.0
+map_Kd textures/PlateSteelGrey_Alb.png
+
+newmtl Fld_Carousel03_Plywood
+Kd 1.0 1.0 1.0
+map_Kd textures/Plywood_Alb.png
+
+newmtl Fld_Carousel03_RotationAttractionsWallParts
+Kd 1.0 1.0 1.0
+map_Kd textures/RotationAttractionsWallParts_Alb.png
+
+newmtl Fld_Carousel03_SheetVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/SheetVinyl_Alb.png
+
+newmtl Fld_Carousel03_SpeakerArray
+Kd 1.0 1.0 1.0
+map_Kd textures/SpeakerArray_Alb.png
+
+newmtl Fld_Carousel03_SteelFrame
+Kd 1.0 1.0 1.0
+map_Kd textures/SteelFrame_Alb.png
+
+newmtl Fld_Carousel03_SteelFrameBlue
+Kd 1.0 1.0 1.0
+map_Kd textures/SteelFrameBlue_Alb.png
+
+newmtl Fld_Carousel03_SteelFrameRedPurple
+Kd 1.0 1.0 1.0
+map_Kd textures/SteelFrameRedPurple_Alb.png
+
+newmtl Fld_Carousel03_SteelFrameWhite
+Kd 1.0 1.0 1.0
+map_Kd textures/SteelFrameWhite_Alb.png
+
+newmtl Fld_Carousel03_SteelFrameYellowBlue
+Kd 1.0 1.0 1.0
+map_Kd textures/SteelFrameYellowBlue_Alb.png
+
+newmtl Fld_Carousel03_SteelFrame_Joint
+Kd 1.0 1.0 1.0
+map_Kd textures/SteelFrame_Alb.png
+
+newmtl Fld_Carousel03_WallBrickRepeatA
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrickRepeatA_Alb.png
+
+newmtl Fld_Carousel03_WallConcreteLightGray
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteLightGray_Alb.png
+
+newmtl Fld_Carousel03_WallIronGrey
+Kd 1.0 1.0 1.0
+map_Kd textures/WallIronGrey_Alb.png
+
+newmtl Fld_Carousel03_WallIronPatch
+Kd 1.0 1.0 1.0
+map_Kd textures/WallIronPatch_Alb.png
+
+newmtl Fld_Carousel03_WallPoleMetal
+Kd 1.0 1.0 1.0
+map_Kd textures/WallPoleMetal_Alb.png
+
+newmtl Fld_Carousel03_WallRotationAttractions
+Kd 1.0 1.0 1.0
+map_Kd textures/WallRotationAttractions_Alb.png
+
+newmtl Fld_Carousel03_WallShopMetalColor_A
+Kd 1.0 1.0 1.0
+map_Kd textures/WallShopMetalColor_Alb.png
+
+newmtl Fld_Carousel03_WallShopMetalColor_B
+Kd 1.0 1.0 1.0
+map_Kd textures/WallShopMetalColor_Alb.png
+
+newmtl Fld_Carousel03_WallShopMetalColor_Bright
+Kd 1.0 1.0 1.0
+map_Kd textures/WallShopMetalColor_Bright_Alb.png
+
+newmtl Fld_Carousel03_WallShopMetalGray
+Kd 1.0 1.0 1.0
+map_Kd textures/WallShopMetalGray_Alb.png
+
+newmtl Fld_Carousel03_WallShopMetalGray_Navy
+Kd 1.0 1.0 1.0
+map_Kd textures/WallShopMetalGray_Navy_Alb.png
+
+newmtl Fld_Carousel03_WallSushishop
+Kd 1.0 1.0 1.0
+map_Kd textures/WallSushishop_Alb.png
+
+newmtl Fld_Carousel03_WallSushishop_Another
+Kd 1.0 1.0 1.0
+map_Kd textures/WallSushishop_Another_Alb.png
+
+newmtl Fld_Carousel03_WallVinyl
+Kd 1.0 1.0 1.0
+map_Kd textures/WallVinyl_Alb.png
+
+newmtl Fld_Carousel03_Wallbigholds
+Kd 1.0 1.0 1.0
+map_Kd textures/Wallbigholds_Alb.png
+
+newmtl Fld_Carousel03_Wallbigholds_Bright
+Kd 1.0 1.0 1.0
+map_Kd textures/Wallbigholds_Bright_Alb.png
+
+newmtl Fld_Carousel03_Wallmetalbar
+Kd 1.0 1.0 1.0
+map_Kd textures/Wallmetalbar_Alb.png
+

@@ -1,0 +1,349 @@
+# KiTrix material file
+newmtl FldBG_ShakerailMiddleDV_Chain_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Chain_Alb.png
+
+newmtl FldBG_ShakerailMiddleDV_DVMountainBase
+Kd 1.0 1.0 1.0
+map_Kd textures/DVMountainBase_Alb.png
+
+newmtl FldBG_ShakerailMiddleDV_MetalFrame
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalFrame_Alb.png
+
+newmtl FldBG_ShakerailMiddleDV_PassageFramePlate
+Kd 1.0 1.0 1.0
+map_Kd textures/PassageFramePlate_Alb.png
+
+newmtl FldBG_ShakerailMiddleDV_Signboard_va
+Kd 1.0 1.0 1.0
+map_Kd textures/Signboard_Alb.png
+
+newmtl FldBG_ShakerailMiddleDV_SteelFrameZincTank
+Kd 1.0 1.0 1.0
+map_Kd textures/SteelFrameZincTank_Alb.png
+
+newmtl FldBG_ShakerailMiddleDV_WallBrickBase01
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrickBase01_Alb.png
+
+newmtl FldBG_ShakerailMiddleDV_WallBrickBase04
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrickBase04_Alb.png
+
+newmtl FldBG_ShakerailMiddleDV_WallSteel
+Kd 1.0 1.0 1.0
+map_Kd textures/WallSteel_Alb.png
+
+newmtl FldObj_ShakerailSeaBindDummy00_WallBrickBase01
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrickBase01_Alb.png
+
+newmtl Fld_Shakerail00_BarbedWire00_Mask
+Kd 1.0 1.0 1.0
+map_Kd textures/BarbedWire00_Mask_Alb.png
+
+newmtl Fld_Shakerail00_BlockCurbYellow
+Kd 1.0 1.0 1.0
+map_Kd textures/BlockCurbYellow_Alb.png
+
+newmtl Fld_Shakerail00_BrickBroken
+Kd 1.0 1.0 1.0
+map_Kd textures/BrickBroken_Alb.png
+
+newmtl Fld_Shakerail00_BrickEdge
+Kd 1.0 1.0 1.0
+map_Kd textures/BrickEdge_Alb.png
+
+newmtl Fld_Shakerail00_Chain
+Kd 1.0 1.0 1.0
+map_Kd textures/Chain_Alb.png
+
+newmtl Fld_Shakerail00_ConcretRock
+Kd 1.0 1.0 1.0
+map_Kd textures/ConcretRock_Alb.png
+
+newmtl Fld_Shakerail00_ConcreteFloor
+Kd 1.0 1.0 1.0
+map_Kd textures/ConcreteFloor_Alb.png
+
+newmtl Fld_Shakerail00_CoopNeon00
+Kd 1.0 1.0 1.0
+map_Kd textures/CoopNeon00_Alb.png
+
+newmtl Fld_Shakerail00_DVMountainBase
+Kd 1.0 1.0 1.0
+map_Kd textures/DVMountainBase_Alb.png
+
+newmtl Fld_Shakerail00_FloorConcreteDamaged
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorConcreteDamaged_Alb.png
+
+newmtl Fld_Shakerail00_FloorWireNetN
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorWireNetN_Alb.png
+
+newmtl Fld_Shakerail00_FrameConnect00
+Kd 1.0 1.0 1.0
+map_Kd textures/FrameConnect00_Alb.png
+
+newmtl Fld_Shakerail00_FrameSetB00
+Kd 1.0 1.0 1.0
+map_Kd textures/FrameSetB00_Alb.png
+
+newmtl Fld_Shakerail00_Frameset_FrameSetB00
+Kd 1.0 1.0 1.0
+map_Kd textures/FrameSetB00_Alb.png
+
+newmtl Fld_Shakerail00_Frameset_MetalFrameSlope
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalFrameSlope_Alb.png
+
+newmtl Fld_Shakerail00_GrillMesh
+Kd 1.0 1.0 1.0
+map_Kd textures/GrillMesh_Alb.png
+
+newmtl Fld_Shakerail00_GrillMesh01
+Kd 1.0 1.0 1.0
+map_Kd textures/GrillMesh01_Alb.png
+
+newmtl Fld_Shakerail00_GroundBorn
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundBorn_Alb.png
+
+newmtl Fld_Shakerail00_GroundDirt00
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundDirt00_Alb.png
+
+newmtl Fld_Shakerail00_GroundDirt00_va
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundDirt00_Alb.png
+
+newmtl Fld_Shakerail00_GroundDirt_va
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundDirt_Alb.png
+
+newmtl Fld_Shakerail00_GroundRepeat
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundRepeat_Alb.png
+
+newmtl Fld_Shakerail00_GroundRubberMat
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundRubberMat_Alb.png
+
+newmtl Fld_Shakerail00_GroundWoodBoard
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundWoodBoard_Alb.png
+
+newmtl Fld_Shakerail00_Grounddirt02_va
+Kd 1.0 1.0 1.0
+map_Kd textures/Grounddirt02_Alb.png
+
+newmtl Fld_Shakerail00_GroundsSndyBeach
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundsSndyBeach_Alb.png
+
+newmtl Fld_Shakerail00_GroundsSndyBeach_va
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundsSndyBeach_Alb.png
+
+newmtl Fld_Shakerail00_HashiraIron
+Kd 1.0 1.0 1.0
+map_Kd textures/HashiraIron_Alb.png
+
+newmtl Fld_Shakerail00_IronPlate
+Kd 1.0 1.0 1.0
+map_Kd textures/IronPlate_Alb.png
+
+newmtl Fld_Shakerail00_IronPlate01
+Kd 1.0 1.0 1.0
+map_Kd textures/IronPlate01_Alb.png
+
+newmtl Fld_Shakerail00_KeepOut00
+Kd 1.0 1.0 1.0
+map_Kd textures/KeepOut00_Alb.png
+
+newmtl Fld_Shakerail00_KeepOut00_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/KeepOut00_Alb.png
+
+newmtl Fld_Shakerail00_MatchFence
+Kd 1.0 1.0 1.0
+map_Kd textures/MatchFence_Alb.png
+
+newmtl Fld_Shakerail00_MetalFrame
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalFrame_Alb.png
+
+newmtl Fld_Shakerail00_MetalFrameSet
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalFrameSet_Alb.png
+
+newmtl Fld_Shakerail00_MetalFrameSet_np
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalFrameSet_Alb.png
+
+newmtl Fld_Shakerail00_MetalFrameSlope
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalFrameSlope_Alb.png
+
+newmtl Fld_Shakerail00_MetalPlateSteelRust01
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalPlateSteelRust01_Alb.png
+
+newmtl Fld_Shakerail00_MetalPlateSteelRustB
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalPlateSteelRustB_Alb.png
+
+newmtl Fld_Shakerail00_MetalWall
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalWall_Alb.png
+
+newmtl Fld_Shakerail00_Metalplate_RuinsTinRed
+Kd 1.0 1.0 1.0
+map_Kd textures/RuinsTinRed_Alb.png
+
+newmtl Fld_Shakerail00_NetGray
+Kd 1.0 1.0 1.0
+map_Kd textures/NetGray_Alb.png
+
+newmtl Fld_Shakerail00_ObjSet00_sp
+Kd 1.0 1.0 1.0
+map_Kd textures/ObjSet00_Alb.png
+
+newmtl Fld_Shakerail00_Outsideprop
+Kd 1.0 1.0 1.0
+map_Kd textures/Outsideprop_Alb.png
+
+newmtl Fld_Shakerail00_PassageFramePlate
+Kd 1.0 1.0 1.0
+map_Kd textures/PassageFramePlate_Alb.png
+
+newmtl Fld_Shakerail00_PlantationSet_sp
+Kd 1.0 1.0 1.0
+map_Kd textures/PlantationSet_Alb.png
+
+newmtl Fld_Shakerail00_Prop
+Kd 1.0 1.0 1.0
+map_Kd textures/Prop_Alb.png
+
+newmtl Fld_Shakerail00_RebarMetalNet
+Kd 1.0 1.0 1.0
+map_Kd textures/RebarMetalNet_Alb.png
+
+newmtl Fld_Shakerail00_RebarMetalNet01
+Kd 1.0 1.0 1.0
+map_Kd textures/RebarMetalNet01_Alb.png
+
+newmtl Fld_Shakerail00_RuinsTinRed
+Kd 1.0 1.0 1.0
+map_Kd textures/RuinsTinRed_Alb.png
+
+newmtl Fld_Shakerail00_SakeLogoKanban
+Kd 1.0 1.0 1.0
+map_Kd textures/SakeLogoKanban_Alb.png
+
+newmtl Fld_Shakerail00_SeiBarnacles
+Kd 1.0 1.0 1.0
+map_Kd textures/SeiBarnacles_Alb.png
+
+newmtl Fld_Shakerail00_SeiBarnaclesSeal
+Kd 1.0 1.0 1.0
+map_Kd textures/SeiBarnaclesSeal_Alb.png
+
+newmtl Fld_Shakerail00_SeiPetbotl
+Kd 1.0 1.0 1.0
+map_Kd textures/SeiPetbotl_Alb.png
+
+newmtl Fld_Shakerail00_Signboard_va
+Kd 1.0 1.0 1.0
+map_Kd textures/Signboard_Alb.png
+
+newmtl Fld_Shakerail00_StandGreen
+Kd 1.0 1.0 1.0
+map_Kd textures/StandGreen_Alb.png
+
+newmtl Fld_Shakerail00_SteelFrameZincTank
+Kd 1.0 1.0 1.0
+map_Kd textures/SteelFrameZincTank_Alb.png
+
+newmtl Fld_Shakerail00_TarpLarge
+Kd 1.0 1.0 1.0
+map_Kd textures/TarpLarge_Alb.png
+
+newmtl Fld_Shakerail00_WallBrickBase
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrickBase_Alb.png
+
+newmtl Fld_Shakerail00_WallBrickBase01
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrickBase01_Alb.png
+
+newmtl Fld_Shakerail00_WallBrickBase02
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrickBase02_Alb.png
+
+newmtl Fld_Shakerail00_WallBrickBase03
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrickBase03_Alb.png
+
+newmtl Fld_Shakerail00_WallBrickBase04
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrickBase04_Alb.png
+
+newmtl Fld_Shakerail00_WallBrickConcrete
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrickConcrete_Alb.png
+
+newmtl Fld_Shakerail00_WallBrokenPink
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrokenPink_Alb.png
+
+newmtl Fld_Shakerail00_WallBrokenPink_sp
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrokenPink_Alb.png
+
+newmtl Fld_Shakerail00_WallConcreteWhite
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteWhite_Alb.png
+
+newmtl Fld_Shakerail00_WallLevee
+Kd 1.0 1.0 1.0
+map_Kd textures/WallLevee_Alb.png
+
+newmtl Fld_Shakerail00_WallSteel
+Kd 1.0 1.0 1.0
+map_Kd textures/WallSteel_Alb.png
+
+newmtl Fld_Shakerail00_WhiteSand_va
+Kd 1.0 1.0 1.0
+map_Kd textures/WhiteSand_Alb.png
+
+newmtl Fld_Shakerail00_WireBlack
+Kd 1.0 1.0 1.0
+map_Kd textures/WireBlack_Alb.png
+
+newmtl Fld_Shakerail00_WoodBase00
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodBase00_Alb.png
+
+newmtl Fld_Shakerail00_WoodFloorOld00
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodFloorOld00_Alb.png
+
+newmtl Fld_Shakerail00_WoodPlate00
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodPlate00_Alb.png
+
+newmtl Obj_Cage_Cage
+Kd 1.0 1.0 1.0
+map_Kd textures/Cage_Alb.png
+
+newmtl Obj_Cage_FishingBoat
+Kd 1.0 1.0 1.0
+map_Kd textures/M_FishingBoat_Alb.png
+
+newmtl Obj_Cage_YukihiraPan
+Kd 1.0 1.0 1.0
+map_Kd textures/YukihiraPan_Alb.png
+

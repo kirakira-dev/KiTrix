@@ -1,0 +1,8 @@
+part_0000.obj
+part_0030.obj
+part_0060.obj
+part_0090.obj
+part_0120.obj
+part_0150.obj
+part_0180.obj
+part_0210.obj

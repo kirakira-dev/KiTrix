@@ -1,0 +1,46 @@
+# KiTrix material file
+newmtl Wmn_Saber_Heavy_M_Body
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.1 0.1 0.1
+Ns 32.0
+d 1.0
+map_Kd textures/M_Body_Alb.png
+map_bump textures/M_Body_Nrm.png
+
+newmtl Wmn_Saber_Heavy_M_Case
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.1 0.1 0.1
+Ns 32.0
+d 1.0
+map_Kd textures/M_Case_Alb.png
+map_bump textures/M_Case_Nrm.png
+
+newmtl Wmn_Saber_Heavy_M_Case_Clear
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.1 0.1 0.1
+Ns 32.0
+d 1.0
+map_Kd textures/M_Case_Clear_Alb.png
+map_bump textures/M_Case_Clear_Nrm.png
+
+newmtl Wmn_Saber_Heavy_Case_Wmn_Saber_Heavy_Ref_M_Case
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.1 0.1 0.1
+Ns 32.0
+d 1.0
+map_Kd textures/M_Case_Alb.png
+map_bump textures/M_Case_Nrm.png
+
+newmtl Wmn_Saber_Heavy_Case_Wmn_Saber_Heavy_Ref_M_Case_Clear
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.1 0.1 0.1
+Ns 32.0
+d 1.0
+map_Kd textures/M_Case_Clear_Alb.png
+map_bump textures/M_Case_Clear_Nrm.png
+

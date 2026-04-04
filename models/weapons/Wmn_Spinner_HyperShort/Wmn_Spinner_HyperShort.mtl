@@ -1,0 +1,37 @@
+# KiTrix material file
+newmtl Wmn_Spinner_HyperShort_M_Body
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.1 0.1 0.1
+Ns 32.0
+d 1.0
+map_Kd textures/M_Body_Alb.png
+map_bump textures/M_Body_Nrm.png
+
+newmtl Wmn_Spinner_HyperShort_M_Cartridge
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.1 0.1 0.1
+Ns 32.0
+d 1.0
+map_Kd textures/M_Cartridge_Alb.png
+map_bump textures/M_Cartridge_Nrm.png
+
+newmtl Wmn_Spinner_HyperShort_M_OP
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.1 0.1 0.1
+Ns 32.0
+d 1.0
+map_Kd textures/M_OP_Alb.png
+map_bump textures/M_OP_Nrm.png
+
+newmtl Wmn_Spinner_HyperShort_M_OPinside
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.1 0.1 0.1
+Ns 32.0
+d 1.0
+map_Kd textures/M_OPinside_Alb.png
+map_bump textures/M_OPinside_Nrm.png
+

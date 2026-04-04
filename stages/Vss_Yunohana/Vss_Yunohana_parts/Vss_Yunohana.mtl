@@ -1,0 +1,389 @@
+# KiTrix material file
+newmtl FldBG_Yunohana_Cliff00
+Kd 1.0 1.0 1.0
+map_Kd textures/Cliff00_Alb.png
+
+newmtl FldBG_Yunohana_Cliff01
+Kd 1.0 1.0 1.0
+map_Kd textures/Cliff01_Alb.png
+
+newmtl FldBG_Yunohana_Cliff02
+Kd 1.0 1.0 1.0
+map_Kd textures/Cliff02_Alb.png
+
+newmtl FldBG_Yunohana_Cliff03
+Kd 1.0 1.0 1.0
+map_Kd textures/Cliff03_Alb.png
+
+newmtl FldBG_Yunohana_Cliff04
+Kd 1.0 1.0 1.0
+map_Kd textures/Cliff04_Alb.png
+
+newmtl FldBG_Yunohana_HydroRock00
+Kd 1.0 1.0 1.0
+map_Kd textures/HydroRock00_Alb.png
+
+newmtl FldBG_Yunohana_HydroRock01
+Kd 1.0 1.0 1.0
+map_Kd textures/HydroRock01_Alb.png
+
+newmtl FldBG_Yunohana_HydroRockCustom
+Kd 1.0 1.0 1.0
+map_Kd textures/HydroRockCustom_Alb.png
+
+newmtl FldBG_Yunohana_Pipe01
+Kd 1.0 1.0 1.0
+map_Kd textures/Pipe01_Alb.png
+
+newmtl FldBG_Yunohana_Pipe02
+Kd 1.0 1.0 1.0
+map_Kd textures/Pipe02_Alb.png
+
+newmtl FldBG_Yunohana_Plateau00
+Kd 1.0 1.0 1.0
+map_Kd textures/Plateau00_Alb.png
+
+newmtl FldBG_Yunohana_Plateau01
+Kd 1.0 1.0 1.0
+map_Kd textures/Plateau01_Alb.png
+
+newmtl FldBG_Yunohana_Plateau02
+Kd 1.0 1.0 1.0
+map_Kd textures/Plateau02_Alb.png
+
+newmtl FldBG_Yunohana_RockCluster00
+Kd 1.0 1.0 1.0
+map_Kd textures/RockCluster00_Alb.png
+
+newmtl FldBG_Yunohana_RockCluster01
+Kd 1.0 1.0 1.0
+map_Kd textures/RockCluster01_Alb.png
+
+newmtl FldBG_Yunohana_RockCluster02
+Kd 1.0 1.0 1.0
+map_Kd textures/RockCluster02_Alb.png
+
+newmtl FldBG_Yunohana_RockCluster03
+Kd 1.0 1.0 1.0
+map_Kd textures/RockCluster03_Alb.png
+
+newmtl FldBG_Yunohana_RockPillar00
+Kd 1.0 1.0 1.0
+map_Kd textures/RockPillar00_Alb.png
+
+newmtl FldBG_Yunohana_RockPillar01
+Kd 1.0 1.0 1.0
+map_Kd textures/RockPillar01_Alb.png
+
+newmtl FldBG_Yunohana_RockPillar02
+Kd 1.0 1.0 1.0
+map_Kd textures/RockPillar02_Alb.png
+
+newmtl FldBG_Yunohana_SHydroRock00
+Kd 1.0 1.0 1.0
+map_Kd textures/SHydroRock00_Alb.png
+
+newmtl FldBG_Yunohana_SHydroRock01
+Kd 1.0 1.0 1.0
+map_Kd textures/SHydroRock01_Alb.png
+
+newmtl FldBG_Yunohana_SmlHydroRock
+Kd 1.0 1.0 1.0
+map_Kd textures/SmlHydroRock_Alb.png
+
+newmtl FldBG_Yunohana_SmlRockCluster
+Kd 1.0 1.0 1.0
+map_Kd textures/SmlRockCluster_Alb.png
+
+newmtl FldBG_Yunohana_Terrain
+Kd 1.0 1.0 1.0
+map_Kd textures/Terrain_Alb.png
+
+newmtl FldObj_YunohanaFlag_NoticeboardParts
+Kd 1.0 1.0 1.0
+map_Kd textures/NoticeboardParts_Alb.png
+
+newmtl FldObj_YunohanaFlag_RippedFlag
+Kd 1.0 1.0 1.0
+map_Kd textures/RippedFlag_Alb.png
+
+newmtl Fld_Yunohana_AbandRespawnPlat00
+Kd 1.0 1.0 1.0
+map_Kd textures/AbandRespawnPlat00_Alb.png
+
+newmtl Fld_Yunohana_AbandRespawnPlat01
+Kd 1.0 1.0 1.0
+map_Kd textures/AbandRespawnPlat01_Alb.png
+
+newmtl Fld_Yunohana_AbandRespawnPlat01_np
+Kd 1.0 1.0 1.0
+map_Kd textures/AbandRespawnPlat01_Alb.png
+
+newmtl Fld_Yunohana_AmmoCrate00
+Kd 1.0 1.0 1.0
+map_Kd textures/AmmoCrate00_Alb.png
+
+newmtl Fld_Yunohana_AmmoCrate01
+Kd 1.0 1.0 1.0
+map_Kd textures/AmmoCrate01_Alb.png
+
+newmtl Fld_Yunohana_AudStandZinc
+Kd 1.0 1.0 1.0
+map_Kd textures/AudStandZinc_Alb.png
+
+newmtl Fld_Yunohana_Boards00
+Kd 1.0 1.0 1.0
+map_Kd textures/Boards00_Alb.png
+
+newmtl Fld_Yunohana_Boards00_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Boards00_Alb.png
+
+newmtl Fld_Yunohana_CardboardAtlas
+Kd 1.0 1.0 1.0
+map_Kd textures/CardboardAtlas_Alb.png
+
+newmtl Fld_Yunohana_CardboardAtlas_np
+Kd 1.0 1.0 1.0
+map_Kd textures/CardboardAtlas_Alb.png
+
+newmtl Fld_Yunohana_CardboardMixedAtlas
+Kd 1.0 1.0 1.0
+map_Kd textures/CardboardMixedAtlas_Alb.png
+
+newmtl Fld_Yunohana_CardboardOuterAtlas
+Kd 1.0 1.0 1.0
+map_Kd textures/CardboardOuterAtlas_Alb.png
+
+newmtl Fld_Yunohana_CardboardOuterAtlas_np
+Kd 1.0 1.0 1.0
+map_Kd textures/CardboardOuterAtlas_Alb.png
+
+newmtl Fld_Yunohana_CortenPlatform00
+Kd 1.0 1.0 1.0
+map_Kd textures/CortenPlatform00_Alb.png
+
+newmtl Fld_Yunohana_Cratebase_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Cratebase_Alb.png
+
+newmtl Fld_Yunohana_CustPlatform
+Kd 1.0 1.0 1.0
+map_Kd textures/CustPlatform_Alb.png
+
+newmtl Fld_Yunohana_Dumpster
+Kd 1.0 1.0 1.0
+map_Kd textures/Dumpster_Alb.png
+
+newmtl Fld_Yunohana_FloorPlank00
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorPlank00_Alb.png
+
+newmtl Fld_Yunohana_FloorPlank01
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorPlank01_Alb.png
+
+newmtl Fld_Yunohana_FloorPlank02
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorPlank02_Alb.png
+
+newmtl Fld_Yunohana_Graffiti01
+Kd 1.0 1.0 1.0
+map_Kd textures/Graffiti01_Alb.png
+
+newmtl Fld_Yunohana_Grate
+Kd 1.0 1.0 1.0
+map_Kd textures/Grate_Alb.png
+
+newmtl Fld_Yunohana_Grate_np
+Kd 1.0 1.0 1.0
+map_Kd textures/Grate_Alb.png
+
+newmtl Fld_Yunohana_MetDisp
+Kd 1.0 1.0 1.0
+map_Kd textures/MetDisp_Alb.png
+
+newmtl Fld_Yunohana_MetDisp_np
+Kd 1.0 1.0 1.0
+map_Kd textures/MetDisp_Alb.png
+
+newmtl Fld_Yunohana_MetalBoard
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalBoard_Alb.png
+
+newmtl Fld_Yunohana_MetalPlatform
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalPlatform_Alb.png
+
+newmtl Fld_Yunohana_MetalPlatform_np
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalPlatform_Alb.png
+
+newmtl Fld_Yunohana_Noticeboard
+Kd 1.0 1.0 1.0
+map_Kd textures/Noticeboard_Alb.png
+
+newmtl Fld_Yunohana_PlankWall
+Kd 1.0 1.0 1.0
+map_Kd textures/PlankWall_Alb.png
+
+newmtl Fld_Yunohana_PlankWall_np
+Kd 1.0 1.0 1.0
+map_Kd textures/PlankWall_Alb.png
+
+newmtl Fld_Yunohana_RampMetal
+Kd 1.0 1.0 1.0
+map_Kd textures/RampMetal_Alb.png
+
+newmtl Fld_Yunohana_RampMetal01
+Kd 1.0 1.0 1.0
+map_Kd textures/RampMetal01_Alb.png
+
+newmtl Fld_Yunohana_RampMetal_np
+Kd 1.0 1.0 1.0
+map_Kd textures/RampMetal_Alb.png
+
+newmtl Fld_Yunohana_Sand
+Kd 1.0 1.0 1.0
+map_Kd textures/Sand_Alb.png
+
+newmtl Fld_Yunohana_Scaffold
+Kd 1.0 1.0 1.0
+map_Kd textures/Scaffold_Alb.png
+
+newmtl Fld_Yunohana_SkateparkLDMK01
+Kd 1.0 1.0 1.0
+map_Kd textures/SkateparkLDMK01_Alb.png
+
+newmtl Fld_Yunohana_SkateparkLDMK02
+Kd 1.0 1.0 1.0
+map_Kd textures/SkateparkLDMK02_Alb.png
+
+newmtl Fld_Yunohana_SkateparkLDMK02_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/SkateparkLDMK02_Alb.png
+
+newmtl Fld_Yunohana_Spotlight
+Kd 1.0 1.0 1.0
+map_Kd textures/Spotlight_Alb.png
+
+newmtl Fld_Yunohana_SteelPlates
+Kd 1.0 1.0 1.0
+map_Kd textures/SteelPlates_Alb.png
+
+newmtl Fld_Yunohana_SteelPlates_np
+Kd 1.0 1.0 1.0
+map_Kd textures/SteelPlates_Alb.png
+
+newmtl Fld_Yunohana_TankCart
+Kd 1.0 1.0 1.0
+map_Kd textures/TankCart_Alb.png
+
+newmtl Fld_Yunohana_TeamLDMKA01
+Kd 1.0 1.0 1.0
+map_Kd textures/TeamLDMKA01_Alb.png
+
+newmtl Fld_Yunohana_TeamLDMKA02
+Kd 1.0 1.0 1.0
+map_Kd textures/TeamLDMKA02_Alb.png
+
+newmtl Fld_Yunohana_TeamLDMKA03
+Kd 1.0 1.0 1.0
+map_Kd textures/TeamLDMKA03_Alb.png
+
+newmtl Fld_Yunohana_TornFabric
+Kd 1.0 1.0 1.0
+map_Kd textures/TornFabric_Alb.png
+
+newmtl Fld_Yunohana_TowerFabrics
+Kd 1.0 1.0 1.0
+map_Kd textures/TowerFabrics_Alb.png
+
+newmtl Fld_Yunohana_VinylCover
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylCover_Nrm.png
+
+newmtl Fld_Yunohana_WaffledPlate
+Kd 1.0 1.0 1.0
+map_Kd textures/WaffledPlate_Alb.png
+
+newmtl Fld_Yunohana_WaffledPlate01
+Kd 1.0 1.0 1.0
+map_Kd textures/WaffledPlate01_Nrm.png
+
+newmtl Fld_Yunohana_WallBarrier01
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBarrier01_Alb.png
+
+newmtl Fld_Yunohana_WallBarrier02
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBarrier02_Alb.png
+
+newmtl Fld_Yunohana_WallBarrier02_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBarrier02_Alb.png
+
+newmtl Fld_Yunohana_WallBarrier03
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBarrier03_Alb.png
+
+newmtl Fld_Yunohana_WallBarrier03_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBarrier03_Alb.png
+
+newmtl Fld_Yunohana_WarningTape
+Kd 1.0 1.0 1.0
+map_Kd textures/WarningTape_Alb.png
+
+newmtl Fld_Yunohana_WarningTape_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/WarningTape_Alb.png
+
+newmtl Fld_Yunohana_WarningTape_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WarningTape_Alb.png
+
+newmtl Fld_Yunohana_WaterTank
+Kd 1.0 1.0 1.0
+map_Kd textures/WaterTank_Alb.png
+
+newmtl Fld_Yunohana_WoodenPallet
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodenPallet_Alb.png
+
+newmtl Fld_Yunohana_WoodenPlankRec
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodenPlankRec_Alb.png
+
+newmtl Fld_Yunohana_WoodenPlankSQ
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodenPlankSQ_Alb.png
+
+newmtl Fld_Yunohana_WoodenPlanks_np
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodenPlanks_Alb.png
+
+newmtl Fld_Yunohana_YunohanaLight
+Kd 1.0 1.0 1.0
+map_Kd textures/YunohanaLight_Alb.png
+
+newmtl Fld_Yunohana_YunohanaLight_cp
+Kd 1.0 1.0 1.0
+map_Kd textures/YunohanaLight_Alb.png
+
+newmtl Fld_YunohanaCanola_CanolaA
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaA_Alb.png
+
+newmtl Fld_YunohanaCanola_CanolaAV
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaAV_Alb.png
+
+newmtl Fld_YunohanaCanola_CanolaB
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaA_Alb.png
+
+newmtl Fld_YunohanaCanola_CanolaBV
+Kd 1.0 1.0 1.0
+map_Kd textures/CanolaBV_Alb.png
+

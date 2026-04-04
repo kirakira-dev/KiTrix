@@ -1,0 +1,265 @@
+# KiTrix material file
+newmtl FldBG_Shakedent00_CarrierShipParts
+Kd 1.0 1.0 1.0
+map_Kd textures/CarrierShipParts_Alb.png
+
+newmtl FldBG_Shakedent00_CoopNeon00
+Kd 1.0 1.0 1.0
+map_Kd textures/CoopNeon00_Alb.png
+
+newmtl FldBG_Shakedent00_CraneHandRail
+Kd 1.0 1.0 1.0
+map_Kd textures/CraneHandRail_Alb.png
+
+newmtl FldBG_Shakedent00_DVCannedTowerSet
+Kd 1.0 1.0 1.0
+map_Kd textures/DVCannedTowerSet_Alb.png
+
+newmtl FldBG_Shakedent00_DVCutlerySet
+Kd 1.0 1.0 1.0
+map_Kd textures/DVCutlerySet_Alb.png
+
+newmtl FldBG_Shakedent00_DVFishingNet
+Kd 1.0 1.0 1.0
+map_Kd textures/DVFishingNet_Alb.png
+
+newmtl FldBG_Shakedent00_DVFoodSet
+Kd 1.0 1.0 1.0
+map_Kd textures/DVFoodSet_Alb.png
+
+newmtl FldBG_Shakedent00_DVMountainBase
+Kd 1.0 1.0 1.0
+map_Kd textures/DVMountainBase_Alb.png
+
+newmtl FldBG_Shakedent00_DVMountainBase_Sl
+Kd 1.0 1.0 1.0
+map_Kd textures/DVMountainBase_Alb.png
+
+newmtl FldBG_Shakedent00_DVMountainCliff
+Kd 1.0 1.0 1.0
+map_Kd textures/DVMountainCliff_Alb.png
+
+newmtl FldBG_Shakedent00_DVTreeSet
+Kd 1.0 1.0 1.0
+map_Kd textures/DVTreeSet_Alb.png
+
+newmtl FldBG_Shakedent00_DV_IndustrialAreaBuildings
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_IndustrialAreaBuildings_Alb.png
+
+newmtl FldBG_Shakedent00_DV_PipeLayinDuct
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_PipeLayinDuct_Alb.png
+
+newmtl FldBG_Shakedent00_DV_PipeLayinDuctsmall
+Kd 1.0 1.0 1.0
+map_Kd textures/DV_PipeLayinDuctsmall_Alb.png
+
+newmtl FldBG_Shakedent00_FldBGArchitectureB00
+Kd 1.0 1.0 1.0
+map_Kd textures/FldBGArchitectureB00_Alb.png
+
+newmtl FldBG_Shakedent00_FldBGArchitectureC00
+Kd 1.0 1.0 1.0
+map_Kd textures/FldBGArchitectureC00_Alb.png
+
+newmtl FldBG_Shakedent00_FldBGOvenGrill00
+Kd 1.0 1.0 1.0
+map_Kd textures/FldBGOvenGrill00_Alb.png
+
+newmtl FldBG_Shakedent00_FldBGShakedentAssets00
+Kd 1.0 1.0 1.0
+map_Kd textures/FldBGShakedentAssets00_Alb.png
+
+newmtl FldBG_Shakedent00_FldBGShakedentUDIM00
+Kd 1.0 1.0 1.0
+map_Kd textures/FldBGShakedentUDIM00_UDIM_Alb.png
+
+newmtl FldBG_Shakedent00_FldBGShakedentUDIM01
+Kd 1.0 1.0 1.0
+map_Kd textures/FldBGShakedentUDIM01_UDIM_Alb.png
+
+newmtl FldBG_Shakedent00_FloathingCrane
+Kd 1.0 1.0 1.0
+map_Kd textures/FloathingCrane_Alb.png
+
+newmtl FldBG_Shakedent00_IronFenceB00
+Kd 1.0 1.0 1.0
+map_Kd textures/IronFenceB00_Alb.png
+
+newmtl FldBG_Shakedent00_Lamp00
+Kd 1.0 1.0 1.0
+map_Kd textures/Lamp00_Alb.png
+
+newmtl FldBG_Shakedent00_SakeLogoKanban
+Kd 1.0 1.0 1.0
+map_Kd textures/SakeLogoKanban_Alb.png
+
+newmtl FldBG_Shakedent00_SteelFrameZincTank
+Kd 1.0 1.0 1.0
+map_Kd textures/SteelFrameZincTank_Alb.png
+
+newmtl FldBG_Shakedent00_fortress_KeepOut00
+Kd 1.0 1.0 1.0
+map_Kd textures/KeepOut00_Alb.png
+
+newmtl Fld_Shakedent00_BarbedWire00_Mask
+Kd 1.0 1.0 1.0
+map_Kd textures/BarbedWire00_Mask_Alb.png
+
+newmtl Fld_Shakedent00_CarrierShipParts
+Kd 1.0 1.0 1.0
+map_Kd textures/CarrierShipParts_Alb.png
+
+newmtl Fld_Shakedent00_ConcretBasicGrey
+Kd 1.0 1.0 1.0
+map_Kd textures/ConcretBasicGrey_Alb.png
+
+newmtl Fld_Shakedent00_ConcreteWall00
+Kd 1.0 1.0 1.0
+map_Kd textures/ConcreteWall00_Alb.png
+
+newmtl Fld_Shakedent00_CoopNeon00
+Kd 1.0 1.0 1.0
+map_Kd textures/CoopNeon00_Alb.png
+
+newmtl Fld_Shakedent00_DentTape00
+Kd 1.0 1.0 1.0
+map_Kd textures/DentTape00_Alb.png
+
+newmtl Fld_Shakedent00_DiffenceWallNopaintUdim00
+Kd 1.0 1.0 1.0
+map_Kd textures/DiffenceWallNopaintUdim00_UDIM_Alb.png
+
+newmtl Fld_Shakedent00_FloathingCrane
+Kd 1.0 1.0 1.0
+map_Kd textures/FloathingCrane_Alb.png
+
+newmtl Fld_Shakedent00_FloorConcreteDamaged
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorConcreteDamaged_Alb.png
+
+newmtl Fld_Shakedent00_FloorConcreteDamaged01
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorConcreteDamaged01_Alb.png
+
+newmtl Fld_Shakedent00_FloorPaintedLoop01
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorPaintedLoop01_Alb.png
+
+newmtl Fld_Shakedent00_FloorPaintedLoop02
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorPaintedLoop02_Alb.png
+
+newmtl Fld_Shakedent00_FloorWireNetN
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorWireNetN_Alb.png
+
+newmtl Fld_Shakedent00_FloorWireNetN_Yellow
+Kd 1.0 1.0 1.0
+map_Kd textures/FloorWireNetN_Yellow_Alb.png
+
+newmtl Fld_Shakedent00_GroundDirt00
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundDirt00_Alb.png
+
+newmtl Fld_Shakedent00_GroundRubberMat
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundRubberMat_Alb.png
+
+newmtl Fld_Shakedent00_GroundSteelPlate02
+Kd 1.0 1.0 1.0
+map_Kd textures/GroundSteelPlate02_Alb.png
+
+newmtl Fld_Shakedent00_HashiraIron
+Kd 1.0 1.0 1.0
+map_Kd textures/HashiraIron_Alb.png
+
+newmtl Fld_Shakedent00_KeepOutYureru00
+Kd 1.0 1.0 1.0
+map_Kd textures/KeepOut00_Alb.png
+
+newmtl Fld_Shakedent00_MetalPlateSteelRust
+Kd 1.0 1.0 1.0
+map_Kd textures/MetalPlateSteelRust_Alb.png
+
+newmtl Fld_Shakedent00_NoPaintedVLoop00
+Kd 1.0 1.0 1.0
+map_Kd textures/NoPaintedVLoop00_Alb.png
+
+newmtl Fld_Shakedent00_PaintedVLoop00
+Kd 1.0 1.0 1.0
+map_Kd textures/PaintedVLoop00_Alb.png
+
+newmtl Fld_Shakedent00_PlantationSet
+Kd 1.0 1.0 1.0
+map_Kd textures/PlantationSet_Alb.png
+
+newmtl Fld_Shakedent00_SakeLogoKanban
+Kd 1.0 1.0 1.0
+map_Kd textures/SakeLogoKanban_Alb.png
+
+newmtl Fld_Shakedent00_SeiBarnacles
+Kd 1.0 1.0 1.0
+map_Kd textures/SeiBarnacles_Alb.png
+
+newmtl Fld_Shakedent00_SeiBarnaclesSeal
+Kd 1.0 1.0 1.0
+map_Kd textures/SeiBarnaclesSeal_Alb.png
+
+newmtl Fld_Shakedent00_SlopeMetalPanelPainted00
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeMetalPanelPainted00_Alb.png
+
+newmtl Fld_Shakedent00_SlopeMetalRustGray
+Kd 1.0 1.0 1.0
+map_Kd textures/SlopeMetalRustGray_Alb.png
+
+newmtl Fld_Shakedent00_SteelFrameZincTank
+Kd 1.0 1.0 1.0
+map_Kd textures/SteelFrameZincTank_Alb.png
+
+newmtl Fld_Shakedent00_Tape00
+Kd 1.0 1.0 1.0
+map_Kd textures/Tape00_Alb.png
+
+newmtl Fld_Shakedent00_VinylGreen
+Kd 1.0 1.0 1.0
+map_Kd textures/VinylGreen_Alb.png
+
+newmtl Fld_Shakedent00_WallBrokenPink
+Kd 1.0 1.0 1.0
+map_Kd textures/WallBrokenPink_Alb.png
+
+newmtl Fld_Shakedent00_WallConcreteSeaSide00
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteSeaSide00_Alb.png
+
+newmtl Fld_Shakedent00_WallConcreteWhite
+Kd 1.0 1.0 1.0
+map_Kd textures/WallConcreteWhite_Alb.png
+
+newmtl Fld_Shakedent00_WallMetalNoPaint01
+Kd 1.0 1.0 1.0
+map_Kd textures/WallMetalNoPaint01_Alb.png
+
+newmtl Fld_Shakedent00_WallMetalNoPaint02
+Kd 1.0 1.0 1.0
+map_Kd textures/WallMetalNoPaint02_Alb.png
+
+newmtl Fld_Shakedent00_WoodBase00
+Kd 1.0 1.0 1.0
+map_Kd textures/WoodBase00_Alb.png
+
+newmtl Fld_Shakedent00_fortress_KeepOut00
+Kd 1.0 1.0 1.0
+map_Kd textures/KeepOut00_Alb.png
+
+newmtl Fld_Shakedent00_ironFence00
+Kd 1.0 1.0 1.0
+map_Kd textures/ironFence00_Alb.png
+
+newmtl Fld_Shakedent00_vinylClothNopaint
+Kd 1.0 1.0 1.0
+map_Kd textures/vinylClothNopaint_Alb.png
+
