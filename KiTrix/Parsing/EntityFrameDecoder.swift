@@ -14,20 +14,32 @@ struct EntityFrameDecoder {
     }
 
     private static func decodePosition(_ blob: [UInt8]) -> SIMD3<Float>? {
-        guard blob.count >= 9 else { return nil }
-        let xMag = UInt16(blob[0]) | (UInt16(blob[1]) << 8)
-        let xSign = blob[2]
-        let yMag = UInt16(blob[3]) | (UInt16(blob[4]) << 8)
-        let ySign = blob[5]
-        let zMag = UInt16(blob[6]) | (UInt16(blob[7]) << 8)
-        let zSign = blob[8]
+        if let packed = decodePackedPosition(blob) { return packed }
+        return decodeLegacyPosition(blob)
+    }
 
-        var x = Float(xMag) / 65535.0 * 256.0
-        var y = Float(yMag) / 65535.0 * 256.0
-        var z = Float(zMag) / 65535.0 * 256.0
-        if xSign != 0 { x = -x }
-        if ySign != 0 { y = -y }
-        if zSign != 0 { z = -z }
+    private static func decodePackedPosition(_ blob: [UInt8]) -> SIMD3<Float>? {
+        guard blob.count >= 9 else { return nil }
+        let x = decodeSigned17Bit(from: blob[0...1], [blob[2] & 0x1] )
+        let y = decodeSigned17Bit(from: blob[3...4], [blob[5] & 0x1])
+        let z = decodeSigned17Bit(from: blob[6...7], [blob[8] & 0x1])
+        guard let px = x, let py = y, let pz = z else { return nil }
+        return SIMD3<Float>(px, py, pz)
+    }
+
+    private static func decodeSigned17Bit(from hiBytes: ArraySlice<UInt8>, _ signBytes: [UInt8]) -> Float? {
+        guard hiBytes.count == 2 else { return nil }
+        let mag = Int(hiBytes[0]) | (Int(hiBytes[1]) << 8)
+        let value = Float(mag & 0xFFFF) / 65535.0 * 256.0
+        return signBytes.first == 1 ? -value : value
+    }
+
+    private static func decodeLegacyPosition(_ blob: [UInt8]) -> SIMD3<Float>? {
+        var reader = BitReader(blob)
+        reader.bitOffset = 0
+        guard let x = reader.readPosition17Bit(),
+              let y = reader.readPosition17Bit(),
+              let z = reader.readPosition17Bit() else { return nil }
         return SIMD3<Float>(x, y, z)
     }
 
@@ -43,35 +55,75 @@ struct EntityFrameDecoder {
         }
 
         var reader = BitReader(blob)
-        reader.bitOffset = 9 * 8
-        let aimA: SIMD3<Float>
-        let aimB: SIMD3<Float>
-        if reader.bitsRemaining >= 42 {
-            aimA = reader.readAimDirection21Bit() ?? SIMD3<Float>(0, 0, 1)
-            aimB = reader.readAimDirection21Bit() ?? aimA
-        } else {
-            aimA = SIMD3<Float>(0, 0, 1)
-            aimB = aimA
-        }
+        let aimData = decodeAim(reader: &reader)
 
-        let playerIndex = Int((record.entityID - 200000) / 10000)
-        let weaponClass: WeaponClass
-        if playerIndex >= 0 && playerIndex < players.count {
-            weaponClass = WeaponModelLoader.weaponClass(fromTableIndex: players[playerIndex].weaponTableIndex)
-        } else {
-            weaponClass = .unknown
-        }
+        let playerIndex = playerIndex(from: record.entityID)
+        let weaponClass: WeaponClass = weaponClass(for: players, index: playerIndex)
 
-        let inkAction = InkActionDecoder.decode(blob: blob, weaponClass: weaponClass)
+        let inkAction = InkActionDecoder.decode(blob: blob, weaponClass: weaponClass, playerIndex: playerIndex, status: status)
+
+        let primaryAim = aimData.0
+        let secondaryAim = aimData.1
+        let finalAim = choosePrimaryAim(primary: primaryAim, secondary: secondaryAim, position: pos)
 
         return EntityState(
             entityID: record.entityID,
             status: status,
             animationSlot: 0,
             position: pos,
-            aimDirectionA: aimA,
-            aimDirectionB: aimB,
+            aimDirectionA: finalAim,
+            aimDirectionB: secondaryAim,
             inkAction: inkAction
         )
+    }
+
+    private static func decodeAim(reader: inout BitReader) -> (SIMD3<Float>, SIMD3<Float>) {
+        var aimA = SIMD3<Float>(0, 0, 1)
+        var aimB = SIMD3<Float>(0, 0, 1)
+        let aimBitOffset = 9 * 8
+        if reader.bitsRemaining >= (aimBitOffset + 42) {
+            reader.seek(to: aimBitOffset)
+            let start = reader.bitOffset
+            if let a = reader.readPackedFloatVector21() {
+                aimA = a
+            }
+            reader.seek(to: start + 21)
+            if let b = reader.readPackedFloatVector21() {
+                aimB = b
+            }
+        }
+
+        if length(aimA) < 0.0001 { aimA = SIMD3<Float>(0, 0, 1) }
+        if length(aimB) < 0.0001 { aimB = aimA }
+        return (aimA, aimB)
+    }
+
+    private static func choosePrimaryAim(primary: SIMD3<Float>, secondary: SIMD3<Float>, position: SIMD3<Float>) -> SIMD3<Float> {
+        var p = primary
+        var b = secondary
+        if !p.x.isFinite || !p.y.isFinite || !p.z.isFinite { p = SIMD3<Float>(0, 0, 1) }
+        if !b.x.isFinite || !b.y.isFinite || !b.z.isFinite { b = p }
+
+        let vertical = abs(p.y)
+        let horizontal = hypot(p.x, p.z)
+        if vertical > 0.98 && horizontal < 0.05 {
+            // near-vertical vectors are usually corrupted in old decoders; prefer body aim for practical shooting
+            return b
+        }
+        return normalize(p)
+    }
+
+    private static func playerIndex(from entityID: UInt32) -> Int {
+        return Int(entityID) >= 200000 ? (Int(entityID) - 200000) / 10000 : -1
+    }
+
+    private static func weaponClass(for players: [ReplayPlayer], index: Int) -> WeaponClass {
+        let weaponClass: WeaponClass
+        if index >= 0 && index < players.count {
+            weaponClass = WeaponModelLoader.weaponClass(fromTableIndex: players[index].weaponTableIndex)
+        } else {
+            weaponClass = .unknown
+        }
+        return weaponClass
     }
 }

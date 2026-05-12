@@ -11,6 +11,8 @@ class ReplayTimeline: ObservableObject {
     private var displayLink: CVDisplayLink?
     private var maxFrame: Int = 0
     private var lastTimestamp: TimeInterval = 0
+    
+    var frameCount: Int { maxFrame + 1 }
 
     func configure(frameCount: Int) {
         maxFrame = max(0, frameCount - 1)
@@ -78,6 +80,10 @@ class ReplayTimeline: ObservableObject {
     func restart() {
         currentFrame = 0
         play()
+    }
+
+    func setSpeed(_ multiplier: Double) {
+        playbackRate = 10.0 * multiplier
     }
 
     deinit {

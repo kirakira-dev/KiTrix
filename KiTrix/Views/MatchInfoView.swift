@@ -29,7 +29,7 @@ struct MatchInfoView: View {
                         VStack(alignment: .leading) {
                             Text(player.displayName)
                                 .font(.system(.body, design: .monospaced))
-                            Text("\(player.speciesName) - Weapon \(player.weaponTableIndex)")
+                             Text("\(player.speciesName) - \(weaponClassName(player.weaponTableIndex))")
                                 .font(.caption)
                                 .foregroundColor(.secondary)
                         }
@@ -61,6 +61,24 @@ struct MatchInfoView: View {
         case 3: return "Rainmaker"
         case 4: return "Clam Blitz"
         default: return "Mode \(mode)"
+        }
+    }
+
+    private func weaponClassName(_ tableIndex: Int) -> String {
+        let wClass = WeaponModelLoader.weaponClass(fromTableIndex: tableIndex)
+        switch wClass {
+        case .shooter: return "Shooter"
+        case .blaster: return "Blaster"
+        case .charger: return "Charger"
+        case .roller: return "Roller"
+        case .brush: return "Brush"
+        case .slosher: return "Slosher"
+        case .maneuver: return "Maneuver"
+        case .spinner: return "Spinner"
+        case .shelter: return "Shelter"
+        case .stringer: return "Stringer"
+        case .saber: return "Splatana"
+        case .unknown: return "Unknown"
         }
     }
 }

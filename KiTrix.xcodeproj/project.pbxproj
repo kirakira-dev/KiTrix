@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AA000001AA000001AA000001 /* InkPainter.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000002AA000002AA000002 /* InkPainter.swift */; };
 		0B160225546122C2B8D5705A /* InkActionState.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2ECA2F87CA4ABA8A1D27BB1 /* InkActionState.swift */; };
 		1489164BEDC582C68A21B206 /* ReplayParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1881DB097162BA99139026C1 /* ReplayParser.swift */; };
 		2453240462E649AC8B21F62C /* BinaryReader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3340998CB01EFA0B4505464D /* BinaryReader.swift */; };
@@ -15,10 +16,8 @@
 		3E95E373A42F98E3AA336F42 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17F8E8D863400133AB585C34 /* ContentView.swift */; };
 		44D4DA5C730CDA1E179E9EA2 /* EntityState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4064150DEB29AB6586BAB029 /* EntityState.swift */; };
 		499DB234BF6379E9D27497DB /* InkParams.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A81BD701AE404180F37A432 /* InkParams.swift */; };
-		4B44CBBD38AF1A66285FD6EE /* StageCollider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B4B5267954FFA0A7D0AD548 /* StageCollider.swift */; };
 		4FB3329FA16590B460BA7E0C /* ReplayFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85237AE42FB8C4F6C8CC9E1A /* ReplayFile.swift */; };
 		56C1B78F3BA38957933CF6B9 /* PlayerModelLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB091282EC36A4C553E0C9A5 /* PlayerModelLoader.swift */; };
-		5AF6AF0FB13B95777C1DCE66 /* BulletSpawner.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6980E0AD2AACC3FA163427D /* BulletSpawner.swift */; };
 		5C5828CEA737ACCD6E771879 /* InkAccumulator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48A07839638FDED719F557FE /* InkAccumulator.swift */; };
 		5DDEF0CFB8779E4676EB064B /* HeaderParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C7FE81270D1407DC6FF3539 /* HeaderParser.swift */; };
 		606AA5E81CC337C01C274B19 /* EntityFrameDecoder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 989C56CAE7C5B30B492FEE53 /* EntityFrameDecoder.swift */; };
@@ -34,7 +33,6 @@
 		CEAD0B521ED6EBA73EE950FB /* PlayerNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE45D85ABED2C41E9AFC67D9 /* PlayerNode.swift */; };
 		D0018CBCF247DB5F3E2DE8B7 /* KiTrixView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F1EBFDE87723ADFD6ADC350 /* KiTrixView.swift */; };
 
-		D36FF711AF6B54FACB50FD8E /* BulletSimulator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 596F5EED1979371F60D0993F /* BulletSimulator.swift */; };
 		D720BE508EEE936521C7AFB0 /* ZstdDecompressor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F11CA0E7368F494B3DFF475 /* ZstdDecompressor.swift */; };
 		DDF20A9FBFC8875961277C91 /* MatchInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 399C1877F1FCB93A04E737B5 /* MatchInfoView.swift */; };
 		DE5101BD3A02925B500B1518 /* EntityGroupParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53F345D1FBF48878D13C294B /* EntityGroupParser.swift */; };
@@ -54,13 +52,12 @@
 		3F1EBFDE87723ADFD6ADC350 /* KiTrixView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KiTrixView.swift; sourceTree = "<group>"; };
 		4064150DEB29AB6586BAB029 /* EntityState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntityState.swift; sourceTree = "<group>"; };
 		48A07839638FDED719F557FE /* InkAccumulator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InkAccumulator.swift; sourceTree = "<group>"; };
+		AA000002AA000002AA000002 /* InkPainter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InkPainter.swift; sourceTree = "<group>"; };
 		53F345D1FBF48878D13C294B /* EntityGroupParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntityGroupParser.swift; sourceTree = "<group>"; };
-		596F5EED1979371F60D0993F /* BulletSimulator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BulletSimulator.swift; sourceTree = "<group>"; };
 		5C7FE81270D1407DC6FF3539 /* HeaderParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderParser.swift; sourceTree = "<group>"; };
 		5DA5BB59EEB57F7D7C95068E /* KiTrixScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KiTrixScene.swift; sourceTree = "<group>"; };
 		6A81BD701AE404180F37A432 /* InkParams.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InkParams.swift; sourceTree = "<group>"; };
 		726637348D18CF17DE4C2933 /* ReplayFrame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReplayFrame.swift; sourceTree = "<group>"; };
-		7B4B5267954FFA0A7D0AD548 /* StageCollider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StageCollider.swift; sourceTree = "<group>"; };
 		7F11CA0E7368F494B3DFF475 /* ZstdDecompressor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZstdDecompressor.swift; sourceTree = "<group>"; };
 		85237AE42FB8C4F6C8CC9E1A /* ReplayFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReplayFile.swift; sourceTree = "<group>"; };
 		989C56CAE7C5B30B492FEE53 /* EntityFrameDecoder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntityFrameDecoder.swift; sourceTree = "<group>"; };
@@ -76,21 +73,18 @@
 		DB091282EC36A4C553E0C9A5 /* PlayerModelLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerModelLoader.swift; sourceTree = "<group>"; };
 		E1EBAC60BDFBD2DC39D000BC /* KiTrix.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KiTrix.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EACABA44A2B00D70F23C18B4 /* ReplayEvent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReplayEvent.swift; sourceTree = "<group>"; };
-		F6980E0AD2AACC3FA163427D /* BulletSpawner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BulletSpawner.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		45EFDB60E742C4FB2CDB123F /* SceneKit */ = {
 			isa = PBXGroup;
 			children = (
-				596F5EED1979371F60D0993F /* BulletSimulator.swift */,
-				F6980E0AD2AACC3FA163427D /* BulletSpawner.swift */,
 				48A07839638FDED719F557FE /* InkAccumulator.swift */,
+				AA000002AA000002AA000002 /* InkPainter.swift */,
 				6A81BD701AE404180F37A432 /* InkParams.swift */,
 				5DA5BB59EEB57F7D7C95068E /* KiTrixScene.swift */,
 				DB091282EC36A4C553E0C9A5 /* PlayerModelLoader.swift */,
 				BE45D85ABED2C41E9AFC67D9 /* PlayerNode.swift */,
-				7B4B5267954FFA0A7D0AD548 /* StageCollider.swift */,
 				06A7951E965FFE856132D713 /* StageLoader.swift */,
 				9C0E2C574492211AC7C8F299 /* WeaponModelLoader.swift */,
 			);
@@ -241,14 +235,13 @@
 			files = (
 				2453240462E649AC8B21F62C /* BinaryReader.swift in Sources */,
 				6CC1256AD8E5066FB9F3E700 /* BitReader.swift in Sources */,
-				D36FF711AF6B54FACB50FD8E /* BulletSimulator.swift in Sources */,
-				5AF6AF0FB13B95777C1DCE66 /* BulletSpawner.swift in Sources */,
 				3E95E373A42F98E3AA336F42 /* ContentView.swift in Sources */,
 				606AA5E81CC337C01C274B19 /* EntityFrameDecoder.swift in Sources */,
 				DE5101BD3A02925B500B1518 /* EntityGroupParser.swift in Sources */,
 				44D4DA5C730CDA1E179E9EA2 /* EntityState.swift in Sources */,
 				5DDEF0CFB8779E4676EB064B /* HeaderParser.swift in Sources */,
 				5C5828CEA737ACCD6E771879 /* InkAccumulator.swift in Sources */,
+				AA000001AA000001AA000001 /* InkPainter.swift in Sources */,
 				2CC46684E1519E86EBB2BD26 /* InkActionDecoder.swift in Sources */,
 				0B160225546122C2B8D5705A /* InkActionState.swift in Sources */,
 				499DB234BF6379E9D27497DB /* InkParams.swift in Sources */,
@@ -266,7 +259,6 @@
 				1489164BEDC582C68A21B206 /* ReplayParser.swift in Sources */,
 				BE0C07C3CE4F2B40EB861492 /* ReplayPlayer.swift in Sources */,
 				B314548407B3C1F321EB2AEE /* ReplayTimeline.swift in Sources */,
-				4B44CBBD38AF1A66285FD6EE /* StageCollider.swift in Sources */,
 				F91A25D763F9EE127B723965 /* StageLoader.swift in Sources */,
 				707887D3CC1AD485D0CD4767 /* WeaponModelLoader.swift in Sources */,
 				D720BE508EEE936521C7AFB0 /* ZstdDecompressor.swift in Sources */,
@@ -331,6 +323,7 @@
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
+				ARCHS = arm64;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = macosx;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
