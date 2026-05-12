@@ -13,7 +13,6 @@ class PlayerNode: SCNNode {
     private var trailNode: SCNNode?
     private var isDead: Bool = false
     var lastFiringState: Bool = false
-    private var inkPaintedCount: Float = 0
     var specialCharge: Float = 0
     static let specialThreshold: Float = 1000.0
 
@@ -44,7 +43,6 @@ class PlayerNode: SCNNode {
             addChildNode(weaponNode)
         }
 
-        // Add random headgear for visual variety
         if let headgearNode = loadHeadgear(forPlayerIndex: playerIndex) {
             headgearNode.position = SCNVector3(0, 3.2, 0)
             headgearNode.scale = SCNVector3(0.15, 0.15, 0.15)
@@ -125,7 +123,6 @@ class PlayerNode: SCNNode {
     private func setupFloatingIndicator(color: NSColor) {
         let indicatorGroup = SCNNode()
         
-        // Vertical pole from ground to sphere
         let poleHeight: CGFloat = 25.0
         let poleGeo = SCNCylinder(radius: 0.8, height: poleHeight)
         poleGeo.firstMaterial?.diffuse.contents = color.withAlphaComponent(0.4)
@@ -134,7 +131,6 @@ class PlayerNode: SCNNode {
         poleNode.position = SCNVector3(0, Float(poleHeight) / 2, 0)
         indicatorGroup.addChildNode(poleNode)
         
-        // Large sphere at top
         let sphere = SCNSphere(radius: 8.0)
         sphere.firstMaterial?.diffuse.contents = color.withAlphaComponent(0.9)
         sphere.firstMaterial?.isDoubleSided = true
@@ -144,7 +140,6 @@ class PlayerNode: SCNNode {
         sphereNode.constraints = [constraint]
         indicatorGroup.addChildNode(sphereNode)
         
-        // Flat ring on ground
         let ring = SCNTorus(ringRadius: 6.0, pipeRadius: 0.5)
         ring.firstMaterial?.diffuse.contents = color.withAlphaComponent(0.6)
         ring.firstMaterial?.isDoubleSided = true
@@ -159,13 +154,11 @@ class PlayerNode: SCNNode {
     private func setupSpecialGauge(color: NSColor) {
         let gaugeGroup = SCNNode()
         
-        // Background bar
         let bgGeo = SCNBox(width: 8, height: 1.2, length: 0.5, chamferRadius: 0.1)
         bgGeo.firstMaterial?.diffuse.contents = NSColor.black.withAlphaComponent(0.7)
         let bgNode = SCNNode(geometry: bgGeo)
         gaugeGroup.addChildNode(bgNode)
         
-        // Fill bar
         let fillGeo = SCNBox(width: 0.1, height: 0.8, length: 0.6, chamferRadius: 0.05)
         fillGeo.firstMaterial?.diffuse.contents = NSColor.yellow.withAlphaComponent(0.9)
         let fillNode = SCNNode(geometry: fillGeo)
@@ -173,7 +166,6 @@ class PlayerNode: SCNNode {
         gaugeGroup.addChildNode(fillNode)
         specialGaugeFill = fillNode
         
-        // "OK!" text when full
         let textGeo = SCNText(string: "SPECIAL", extrusionDepth: 0.2)
         textGeo.font = NSFont.boldSystemFont(ofSize: 2.0)
         textGeo.firstMaterial?.diffuse.contents = NSColor.yellow
@@ -198,7 +190,6 @@ class PlayerNode: SCNNode {
             fill.scale.x = CGFloat(max(ratio * 78, 0.1))
             fill.position.x = CGFloat(-3.9 + Float(fill.scale.x) * 0.05)
             
-            // Flash when full
             if ratio >= 1.0 {
                 let flashAction = SCNAction.sequence([
                     SCNAction.scale(to: 1.2, duration: 0.3),
@@ -234,14 +225,8 @@ class PlayerNode: SCNNode {
         opacity = 1.0
     }
 
-    func addInkPainted(amount: Float) {
-        inkPaintedCount += amount
-        specialCharge += amount * 0.5
-    }
-
     func setSwimming(_ swimming: Bool) {
         if swimming {
-            // Scale down and flatten when swimming in ink
             let swimAction = SCNAction.group([
                 SCNAction.scale(to: 0.6, duration: 0.2),
                 SCNAction.moveBy(x: 0, y: -0.5, z: 0, duration: 0.2)

@@ -6,7 +6,6 @@ struct InterpolatedState {
     let entityID: UInt32
     let position: SIMD3<Float>
     let aimDirection: SIMD3<Float>
-    let inkAction: InkActionState
     let status: EntityStatus
 }
 
@@ -66,7 +65,6 @@ class ReplayFile: ObservableObject {
                 entityID: entity.entityID,
                 position: pos,
                 aimDirection: aim,
-                inkAction: entity.inkAction,
                 status: entity.status
             ))
         }

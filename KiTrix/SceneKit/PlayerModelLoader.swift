@@ -17,17 +17,14 @@ struct PlayerModelLoader {
     }
 
     private static func loadPlayerNodeUncached(species: Int, hairStyle: Int) -> SCNNode {
-        // Try extracted models first
         let variant = species % 3
         let extractedNames = ["Player00", "Player01", "Player02"]
         let modelName = extractedNames[variant]
-        // Try FBX first, then OBJ
         let fbxPath = "\(extractedPath)/\(modelName).fbx"
         let objPath = "\(extractedPath)/\(modelName).obj"
         
         kitrixLog("[PlayerModelLoader] Looking for model: \(modelName)")
         
-        // Try OBJ first (SceneKit supports OBJ better)
         if FileManager.default.fileExists(atPath: objPath) {
             kitrixLog("[PlayerModelLoader] Found OBJ model: \(modelName)")
             if let scene = try? SCNScene(url: URL(fileURLWithPath: objPath), options: nil) {
@@ -43,7 +40,6 @@ struct PlayerModelLoader {
             }
         }
         
-        // Try FBX
         if FileManager.default.fileExists(atPath: fbxPath) {
             kitrixLog("[PlayerModelLoader] Found FBX model: \(modelName)")
             if let scene = try? SCNScene(url: URL(fileURLWithPath: fbxPath), options: nil) {
@@ -61,7 +57,6 @@ struct PlayerModelLoader {
             kitrixLog("[PlayerModelLoader] Extracted model not found: \(modelName)")
         }
         
-        // Fallback to old DAE loading
         let folderName = String(format: "Player%02d", species * 4 + hairStyle)
         let daePath = "\(modelsPath)/\(folderName)/model.dae"
 

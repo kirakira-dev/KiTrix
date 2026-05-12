@@ -36,13 +36,11 @@ struct WeaponModelLoader {
         }
         let wClass = weaponClass(fromTableIndex: tableIndex)
         
-        // Try extracted models first
         if let extractedNode = loadExtractedWeapon(tableIndex: tableIndex, weaponClass: wClass) {
             weaponCache[cacheKey] = extractedNode.clone()
             return extractedNode
         }
         
-        // Fallback to old OBJ loading
         let path = "\(weaponsPath)/\(wClass.rawValue).obj"
         guard FileManager.default.fileExists(atPath: path) else { return nil }
         let url = URL(fileURLWithPath: path)
@@ -57,7 +55,6 @@ struct WeaponModelLoader {
     }
     
     private static func loadExtractedWeapon(tableIndex: Int, weaponClass: WeaponClass) -> SCNNode? {
-        // Scan for available weapon models that match the weapon class
         let fileManager = FileManager.default
         
         guard let files = try? fileManager.contentsOfDirectory(atPath: extractedPath) else {
@@ -65,7 +62,6 @@ struct WeaponModelLoader {
             return nil
         }
         
-        // Filter files by weapon class prefix
         let prefix: String
         switch weaponClass {
         case .blaster: prefix = "Wmn_Blaster"
@@ -82,7 +78,6 @@ struct WeaponModelLoader {
         case .unknown: prefix = "Wmn_"
         }
         
-        // Prefer OBJ files over FBX (SceneKit doesn't support FBX well on macOS)
         let objFiles = files.filter { $0.hasPrefix(prefix) && $0.hasSuffix(".obj") }.sorted()
         let fbxFiles = files.filter { $0.hasPrefix(prefix) && $0.hasSuffix(".fbx") }.sorted()
         let matchingFiles = objFiles.isEmpty ? fbxFiles : objFiles
@@ -92,7 +87,6 @@ struct WeaponModelLoader {
             return nil
         }
         
-        // Select weapon variant based on table index
         let variantIndex = tableIndex % matchingFiles.count
         let fileName = matchingFiles[variantIndex]
         let modelPath = "\(extractedPath)/\(fileName)"
@@ -110,7 +104,6 @@ struct WeaponModelLoader {
             node.addChildNode(child.clone())
         }
         
-        // Adjust scale and position for weapon
         node.scale = SCNVector3(1.5, 1.5, 1.5)
         node.position = SCNVector3(0.5, 1.5, 0.5)
         

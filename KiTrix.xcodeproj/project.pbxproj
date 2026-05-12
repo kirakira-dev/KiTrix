@@ -7,18 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		AA000001AA000001AA000001 /* InkPainter.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA000002AA000002AA000002 /* InkPainter.swift */; };
-		0B160225546122C2B8D5705A /* InkActionState.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2ECA2F87CA4ABA8A1D27BB1 /* InkActionState.swift */; };
 		1489164BEDC582C68A21B206 /* ReplayParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1881DB097162BA99139026C1 /* ReplayParser.swift */; };
 		2453240462E649AC8B21F62C /* BinaryReader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3340998CB01EFA0B4505464D /* BinaryReader.swift */; };
-		2CC46684E1519E86EBB2BD26 /* InkActionDecoder.swift in Sources */ = {isa = PBXBuildFile; fileRef = D87DF4ED2C71855AC24625BA /* InkActionDecoder.swift */; };
 		311CEDA370F83B93A3B23F2F /* KiTrixControlsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29CF1EF0CEA7C94B220BAA55 /* KiTrixControlsView.swift */; };
 		3E95E373A42F98E3AA336F42 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17F8E8D863400133AB585C34 /* ContentView.swift */; };
 		44D4DA5C730CDA1E179E9EA2 /* EntityState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4064150DEB29AB6586BAB029 /* EntityState.swift */; };
-		499DB234BF6379E9D27497DB /* InkParams.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A81BD701AE404180F37A432 /* InkParams.swift */; };
 		4FB3329FA16590B460BA7E0C /* ReplayFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85237AE42FB8C4F6C8CC9E1A /* ReplayFile.swift */; };
 		56C1B78F3BA38957933CF6B9 /* PlayerModelLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB091282EC36A4C553E0C9A5 /* PlayerModelLoader.swift */; };
-		5C5828CEA737ACCD6E771879 /* InkAccumulator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48A07839638FDED719F557FE /* InkAccumulator.swift */; };
 		5DDEF0CFB8779E4676EB064B /* HeaderParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C7FE81270D1407DC6FF3539 /* HeaderParser.swift */; };
 		606AA5E81CC337C01C274B19 /* EntityFrameDecoder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 989C56CAE7C5B30B492FEE53 /* EntityFrameDecoder.swift */; };
 		6CC1256AD8E5066FB9F3E700 /* BitReader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D68B928C95BC9F9A57C75E6 /* BitReader.swift */; };
@@ -51,12 +46,9 @@
 		399C1877F1FCB93A04E737B5 /* MatchInfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchInfoView.swift; sourceTree = "<group>"; };
 		3F1EBFDE87723ADFD6ADC350 /* KiTrixView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KiTrixView.swift; sourceTree = "<group>"; };
 		4064150DEB29AB6586BAB029 /* EntityState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntityState.swift; sourceTree = "<group>"; };
-		48A07839638FDED719F557FE /* InkAccumulator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InkAccumulator.swift; sourceTree = "<group>"; };
-		AA000002AA000002AA000002 /* InkPainter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InkPainter.swift; sourceTree = "<group>"; };
 		53F345D1FBF48878D13C294B /* EntityGroupParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntityGroupParser.swift; sourceTree = "<group>"; };
 		5C7FE81270D1407DC6FF3539 /* HeaderParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderParser.swift; sourceTree = "<group>"; };
 		5DA5BB59EEB57F7D7C95068E /* KiTrixScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KiTrixScene.swift; sourceTree = "<group>"; };
-		6A81BD701AE404180F37A432 /* InkParams.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InkParams.swift; sourceTree = "<group>"; };
 		726637348D18CF17DE4C2933 /* ReplayFrame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReplayFrame.swift; sourceTree = "<group>"; };
 		7F11CA0E7368F494B3DFF475 /* ZstdDecompressor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZstdDecompressor.swift; sourceTree = "<group>"; };
 		85237AE42FB8C4F6C8CC9E1A /* ReplayFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReplayFile.swift; sourceTree = "<group>"; };
@@ -64,12 +56,10 @@
 		9C0E2C574492211AC7C8F299 /* WeaponModelLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeaponModelLoader.swift; sourceTree = "<group>"; };
 		9D12321BA8F31F68B91A3A8C /* KiTrix.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = KiTrix.entitlements; sourceTree = "<group>"; };
 		9D18ABF49977322DCA73A7BA /* ReplayPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReplayPlayer.swift; sourceTree = "<group>"; };
-		A2ECA2F87CA4ABA8A1D27BB1 /* InkActionState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InkActionState.swift; sourceTree = "<group>"; };
 		BC08A71E27C2D5DA35653ECF /* KiTrix-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "KiTrix-Bridging-Header.h"; sourceTree = "<group>"; };
 		BE45D85ABED2C41E9AFC67D9 /* PlayerNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerNode.swift; sourceTree = "<group>"; };
 		C59E9C3BFF226E8BFE6B7F1C /* ReplayHeader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReplayHeader.swift; sourceTree = "<group>"; };
 		CB75EF42848169D45E9B1FB1 /* ReplayTimeline.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReplayTimeline.swift; sourceTree = "<group>"; };
-		D87DF4ED2C71855AC24625BA /* InkActionDecoder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InkActionDecoder.swift; sourceTree = "<group>"; };
 		DB091282EC36A4C553E0C9A5 /* PlayerModelLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerModelLoader.swift; sourceTree = "<group>"; };
 		E1EBAC60BDFBD2DC39D000BC /* KiTrix.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KiTrix.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EACABA44A2B00D70F23C18B4 /* ReplayEvent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReplayEvent.swift; sourceTree = "<group>"; };
@@ -79,9 +69,6 @@
 		45EFDB60E742C4FB2CDB123F /* SceneKit */ = {
 			isa = PBXGroup;
 			children = (
-				48A07839638FDED719F557FE /* InkAccumulator.swift */,
-				AA000002AA000002AA000002 /* InkPainter.swift */,
-				6A81BD701AE404180F37A432 /* InkParams.swift */,
 				5DA5BB59EEB57F7D7C95068E /* KiTrixScene.swift */,
 				DB091282EC36A4C553E0C9A5 /* PlayerModelLoader.swift */,
 				BE45D85ABED2C41E9AFC67D9 /* PlayerNode.swift */,
@@ -108,7 +95,6 @@
 				989C56CAE7C5B30B492FEE53 /* EntityFrameDecoder.swift */,
 				53F345D1FBF48878D13C294B /* EntityGroupParser.swift */,
 				5C7FE81270D1407DC6FF3539 /* HeaderParser.swift */,
-				D87DF4ED2C71855AC24625BA /* InkActionDecoder.swift */,
 				1881DB097162BA99139026C1 /* ReplayParser.swift */,
 				7F11CA0E7368F494B3DFF475 /* ZstdDecompressor.swift */,
 			);
@@ -144,7 +130,6 @@
 			isa = PBXGroup;
 			children = (
 				4064150DEB29AB6586BAB029 /* EntityState.swift */,
-				A2ECA2F87CA4ABA8A1D27BB1 /* InkActionState.swift */,
 				EACABA44A2B00D70F23C18B4 /* ReplayEvent.swift */,
 				85237AE42FB8C4F6C8CC9E1A /* ReplayFile.swift */,
 				726637348D18CF17DE4C2933 /* ReplayFrame.swift */,
@@ -240,11 +225,6 @@
 				DE5101BD3A02925B500B1518 /* EntityGroupParser.swift in Sources */,
 				44D4DA5C730CDA1E179E9EA2 /* EntityState.swift in Sources */,
 				5DDEF0CFB8779E4676EB064B /* HeaderParser.swift in Sources */,
-				5C5828CEA737ACCD6E771879 /* InkAccumulator.swift in Sources */,
-				AA000001AA000001AA000001 /* InkPainter.swift in Sources */,
-				2CC46684E1519E86EBB2BD26 /* InkActionDecoder.swift in Sources */,
-				0B160225546122C2B8D5705A /* InkActionState.swift in Sources */,
-				499DB234BF6379E9D27497DB /* InkParams.swift in Sources */,
 				99EBF29A9481A6AA4CF00C32 /* KiTrixApp.swift in Sources */,
 				311CEDA370F83B93A3B23F2F /* KiTrixControlsView.swift in Sources */,
 				86EC3BE6FDC9A7F4F14024A6 /* KiTrixScene.swift in Sources */,

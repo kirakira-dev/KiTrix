@@ -76,7 +76,6 @@ struct ContentView: View {
         }
         .onAppear {
             kitrixScene.setupScene()
-            autoLoadReplay()
         }
         .onReceive(NotificationCenter.default.publisher(for: .kitrixOpenFile)) { notif in
             if let url = notif.object as? URL {
@@ -124,7 +123,6 @@ struct ContentView: View {
             minimapBounds = (min: minimap.boundsMin, max: minimap.boundsMax)
             minimapTexSize = minimap.texSize
             
-            // Detect end of match
             if Int(frame) >= replayFile.frameCount - 2 && !showEndMatch {
                 showEndMatch = true
             }
@@ -153,8 +151,6 @@ struct ContentView: View {
                 kitrixLog("[KiTrix] Screenshot saved to \(path)")
             }
         }
-        // Also save ink texture
-        kitrixScene.inkAccumulator.saveTexture(to: "/tmp/kitrix_inktexture_\(suffix).png")
     }
 
     private func runAutomationCaptures() {
@@ -173,49 +169,12 @@ struct ContentView: View {
                 let replayTime = Double(frameIdx) / 10.0
                 kitrixScene.updateFrame(entities: entities, replayTime: replayTime)
                 if validFrames.contains(frameIdx) {
-                    kitrixLog("[KiTrix] Automation capture frame \(frameIdx): entities=\(entities.count), splats=\(kitrixScene.inkAccumulator.getSplatCount())")
+                    kitrixLog("[KiTrix] Automation capture frame \(frameIdx): entities=\(entities.count)")
                     saveScreenshot(suffix: "frame\(frameIdx)")
                 }
             }
             NSApplication.shared.terminate(nil)
         }
-    }
-
-    private func autoLoadReplay() {
-        if let explicitPath = explicitReplayPath, !explicitPath.isEmpty {
-            let url = URL(fileURLWithPath: NSString(string: explicitPath).expandingTildeInPath)
-            kitrixLog("[KiTrix] Auto-loading explicit replay: \(url.path)")
-            loadReplay(url: url)
-            return
-        }
-
-        let replaysDir = NSString(string: "~/Downloads/replays/replay").expandingTildeInPath
-        let fm = FileManager.default
-        guard let files = try? fm.contentsOfDirectory(atPath: replaysDir) else {
-            kitrixLog("[KiTrix] No replays dir found at \(replaysDir)")
-            return
-        }
-        let replayFiles = files.filter { $0.hasSuffix(".rpl.zs") }.sorted()
-        guard !replayFiles.isEmpty else {
-            kitrixLog("[KiTrix] No .rpl.zs files found")
-            return
-        }
-        // Use a different replay each time for testing variety
-        let index = Int.random(in: 0..<min(replayFiles.count, 10))
-        let selected = replayFiles[index]
-        let url = URL(fileURLWithPath: "\(replaysDir)/\(selected)")
-        kitrixLog("[KiTrix] Auto-loading: \(selected) (index \(index))")
-        loadReplay(url: url)
-    }
-
-    private var explicitReplayPath: String? {
-        if let argValue = commandLineValue(for: "replay") {
-            return argValue
-        }
-        if let envValue = ProcessInfo.processInfo.environment["KITRIX_REPLAY_PATH"], !envValue.isEmpty {
-            return envValue
-        }
-        return nil
     }
 
     private var configuredCaptureFrames: [Int] {
@@ -355,7 +314,6 @@ struct ReplayOverlayView: View {
                 }
             }
             
-            // Kill feed
             VStack {
                 HStack {
                     Spacer()
@@ -595,7 +553,7 @@ struct MinimapView: View {
         guard rangeX > 0 && rangeZ > 0 else { return (0.5, 0.5) }
         let u = CGFloat((pos.x - bounds.min.x) / rangeX)
         let v = CGFloat((pos.z - bounds.min.y) / rangeZ)
-        return (u, 1.0 - v) // flip Y for SwiftUI coordinate system
+        return (u, 1.0 - v)
     }
     
     private func teamColor(_ team: Int) -> Color {

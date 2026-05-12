@@ -13,7 +13,6 @@ struct EntityState {
     let position: SIMD3<Float>
     let aimDirectionA: SIMD3<Float>
     let aimDirectionB: SIMD3<Float>
-    let inkAction: InkActionState
 
     var aimDirection: SIMD3<Float> { aimDirectionA }
 }

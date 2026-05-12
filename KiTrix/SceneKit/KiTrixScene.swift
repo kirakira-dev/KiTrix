@@ -38,39 +38,20 @@ class KiTrixScene: SCNScene {
         }
     }
     private var orbitAngle: Float = 0
-    let inkPainter = InkPainter()
-    let inkAccumulator = InkAccumulator()
     private var stageNode: SCNNode?
-    private var inkOverlayNode: SCNNode?
     private var cameraNode: SCNNode!
     private var sunNode: SCNNode!
-    private var currentOverlayY: CGFloat = 0
     private var stageCenter: SCNVector3 = SCNVector3(0, 0, 0)
     private var stageCamDistance: CGFloat = 150
 
-    // Death tracking
     var onPlayerDeath: ((UInt32, UInt32, String) -> Void)?
     private var lastEntityStatuses: [UInt32: EntityStatus] = [:]
 
-    // Explosion particles
     private var explosionParticles: [SCNNode] = []
 
     func setupScene() {
         setupLighting()
         setupCamera()
-        inkPainter.scene = self
-        inkPainter.onSplat = { [weak self] info in
-            self?.inkAccumulator.addSplat(
-                worldPos: info.position,
-                radius: info.radius,
-                teamIndex: info.team,
-                weaponClass: info.weaponClass,
-                aimAngle: info.aimAngle,
-                impactNormal: info.impactNormal,
-                travelDirection: info.travelDirection,
-                impactSpeed: info.impactSpeed
-            )
-        }
     }
 
     private func setupLighting() {
@@ -118,7 +99,6 @@ class KiTrixScene: SCNScene {
 
     func loadStage(named name: String) {
         stageNode?.removeFromParentNode()
-        inkOverlayNode?.removeFromParentNode()
         kitrixLog("[KiTrix] Loading stage: '\(name)'")
         if let node = StageLoader.loadStage(named: name) {
             stageNode = node
@@ -131,17 +111,12 @@ class KiTrixScene: SCNScene {
                 (minBound.z + maxBound.z) / 2
             )
 
-            // Position camera to fit entire stage in view
             let sizeX = maxBound.x - minBound.x
             let sizeY = maxBound.y - minBound.y
             let sizeZ = maxBound.z - minBound.z
             let maxDim = max(sizeX, sizeY, sizeZ)
-            // Scale distance proportionally to stage size, with minimum for small stages
             stageCamDistance = max(CGFloat(maxDim * 0.25), 150.0)
             updateCameraForMode()
-
-            inkAccumulator.configure(stageBounds: (minBound, maxBound))
-            setupInkOverlay(minBound: minBound, maxBound: maxBound)
 
             kitrixLog("[KiTrix] Stage loaded. Bounds: (\(minBound.x),\(minBound.y),\(minBound.z)) to (\(maxBound.x),\(maxBound.y),\(maxBound.z))")
         } else {
@@ -149,37 +124,9 @@ class KiTrixScene: SCNScene {
         }
     }
 
-    private func setupInkOverlay(minBound: SCNVector3, maxBound: SCNVector3) {
-        let width = CGFloat(maxBound.x - minBound.x) + 20
-        let height = CGFloat(maxBound.z - minBound.z) + 20
-        let centerX = CGFloat(minBound.x + maxBound.x) / 2
-        let centerZ = CGFloat(minBound.z + maxBound.z) / 2
-
-        let plane = SCNPlane(width: width, height: height)
-        let mat = SCNMaterial()
-        mat.diffuse.contents = NSColor.clear
-        mat.isDoubleSided = true
-        mat.blendMode = .alpha
-        mat.writesToDepthBuffer = false
-        mat.readsFromDepthBuffer = true
-        mat.lightingModel = .constant
-        plane.materials = [mat]
-
-        let node = SCNNode(geometry: plane)
-        node.name = "inkOverlay"
-        node.eulerAngles.x = CGFloat(-Float.pi / 2)
-        // Place at minimum Y (floor level) to avoid floating ink
-        node.position = SCNVector3(centerX, CGFloat(minBound.y) + 0.05, centerZ)
-        rootNode.addChildNode(node)
-        inkOverlayNode = node
-        currentOverlayY = 0
-    }
-
     func setupPlayers(_ players: [ReplayPlayer], frames: [ReplayFrame]) {
         for (_, node) in playerNodes { node.removeFromParentNode() }
         playerNodes.removeAll()
-        inkPainter.clear()
-        inkAccumulator.clear()
         MatchStatsTracker.shared.reset()
 
         var uniqueIDs: [UInt32] = []
@@ -217,7 +164,6 @@ class KiTrixScene: SCNScene {
         for entity in entities {
             guard let pNode = playerNodes[entity.entityID] else { continue }
             
-            // Check for death
             let lastStatus = lastEntityStatuses[entity.entityID] ?? .normal
             if entity.status == .absent && lastStatus != .absent {
                 pNode.markDead()
@@ -237,47 +183,20 @@ class KiTrixScene: SCNScene {
             pNode.update(position: entity.position, aimDirection: entity.aimDirection)
 
             let weaponClass = WeaponModelLoader.weaponClass(fromTableIndex: pNode.weaponTableIndex)
-            inkPainter.paint(entity: entity, weaponClass: weaponClass,
-                           teamIndex: pNode.teamIndex, replayTime: replayTime)
-            
-            // Play weapon sounds
-            if entity.inkAction.isFiring && !pNode.lastFiringState {
+            let isFiring = false
+            if isFiring && !pNode.lastFiringState {
                 SoundManager.shared.playShotSound(weaponClass: weaponClass)
             }
-            pNode.lastFiringState = entity.inkAction.isFiring
+            pNode.lastFiringState = isFiring
             
-            // Update special charge based on ink activity
-            if entity.inkAction.isFiring {
-                pNode.addInkPainted(amount: 2.0)
-            }
             pNode.updateSpecialCharge(pNode.specialCharge)
             
-            // Show trail when moving fast or firing
             let speed = length(entity.aimDirection)
-            pNode.showTrail(entity.inkAction.isFiring || speed > 0.8)
+            pNode.showTrail(false)
             
-            // Detect ink swimming (submerged in own ink, not firing, on ground)
-            let isOnGround = abs(entity.position.y - Float(currentOverlayY)) < 2.0
-            let isSwimming = isOnGround && !entity.inkAction.isFiring && speed < 0.3
+            let isOnGround = abs(entity.position.y - 0) < 2.0
+            let isSwimming = isOnGround && speed < 0.3
             pNode.setSwimming(isSwimming)
-        }
-
-        if let img = inkAccumulator.consumeIfDirty() {
-            inkOverlayNode?.geometry?.firstMaterial?.diffuse.contents = img
-        }
-        
-        // Update ink overlay height to tracked floor level
-        if inkPainter.globalFloorY > 0, let overlay = inkOverlayNode {
-            let targetY = CGFloat(inkPainter.globalFloorY - 0.5)
-            let stageMinY = stageNode?.boundingBox.0.y ?? -1000
-            let newY = max(targetY, stageMinY + 0.05)
-            // If floor height changed significantly, clear old ink to avoid projection artifacts
-            // Use larger threshold for sloped stages
-            if currentOverlayY != 0 && abs(newY - currentOverlayY) > 8.0 {
-                inkAccumulator.clear()
-            }
-            overlay.position.y = newY
-            currentOverlayY = newY
         }
 
         updateCameraForMode()
@@ -286,7 +205,6 @@ class KiTrixScene: SCNScene {
     private func updateCameraForMode() {
         switch cameraMode {
         case .free:
-            // Position camera at a dynamic spectator angle - lower and closer to action
             let radius = Float(stageCamDistance) * 0.35
             let height = Float(stageCamDistance) * 0.25
             cameraNode.position = SCNVector3(
@@ -324,12 +242,6 @@ class KiTrixScene: SCNScene {
         }
     }
 
-    func clearInk() {
-        inkAccumulator.clear()
-        inkPainter.clear()
-        currentOverlayY = 0
-    }
-
     func followPlayer(_ entityID: UInt32?) {
         followTargetID = entityID
         if entityID != nil {
@@ -365,10 +277,10 @@ class KiTrixScene: SCNScene {
         }
     }
 
-    // MARK: - Minimap
 
     func minimapData() -> (inkImage: CGImage?, boundsMin: SIMD2<Float>, boundsMax: SIMD2<Float>, texSize: Int, players: [(pos: SIMD3<Float>, team: Int, name: String)]) {
-        let inkImg = inkAccumulator.consumeIfDirty()
+        let stageMin = stageNode?.boundingBox.0 ?? SCNVector3(-300, -300, -300)
+        let stageMax = stageNode?.boundingBox.1 ?? SCNVector3(300, 300, 300)
         var playerData: [(pos: SIMD3<Float>, team: Int, name: String)] = []
         for (_, node) in playerNodes {
             playerData.append((
@@ -377,6 +289,6 @@ class KiTrixScene: SCNScene {
                 name: node.name ?? "Player"
             ))
         }
-        return (inkImg, inkAccumulator.boundsMin, inkAccumulator.boundsMax, inkAccumulator.texSize, playerData)
+        return (nil, SIMD2(Float(stageMin.x), Float(stageMin.z)), SIMD2(Float(stageMax.x), Float(stageMax.z)), 2048, playerData)
     }
 }

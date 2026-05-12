@@ -7,7 +7,6 @@ class SoundManager {
     
     func playShotSound(weaponClass: WeaponClass) {
         guard isEnabled else { return }
-        // Use NSSound for simple beep variations based on weapon
         let soundNames = [
             "shooter": "Ping",
             "blaster": "Blow",

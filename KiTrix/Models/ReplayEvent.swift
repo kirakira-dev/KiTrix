@@ -3,7 +3,6 @@ import Foundation
 struct PlayerMatchStats {
     var kills: Int = 0
     var deaths: Int = 0
-    var inkPainted: Float = 0
     var specialCharges: Int = 0
     var specialUsed: Int = 0
     var weaponClass: String = ""
@@ -34,20 +33,12 @@ class MatchStatsTracker {
         playerStats[victimID]?.deaths += 1
     }
 
-    func recordInkPainted(entityID: UInt32, amount: Float) {
-        playerStats[entityID]?.inkPainted += amount
-    }
-
     func updateSpecialCharge(entityID: UInt32, charge: Float) {
         let lastCharge = lastSpecialCharges[entityID] ?? 0
         if charge >= PlayerNode.specialThreshold && lastCharge < PlayerNode.specialThreshold {
             playerStats[entityID]?.specialCharges += 1
         }
         lastSpecialCharges[entityID] = charge
-    }
-
-    func getTeamInkPercentage(teamIndex: Int, accumulator: InkAccumulator) -> Double {
-        return accumulator.inkPercentage(forTeam: teamIndex)
     }
 
     func sortedPlayers(forTeam teamIndex: Int) -> [PlayerMatchStats] {

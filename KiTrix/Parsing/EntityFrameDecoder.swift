@@ -58,9 +58,6 @@ struct EntityFrameDecoder {
         let aimData = decodeAim(reader: &reader)
 
         let playerIndex = playerIndex(from: record.entityID)
-        let weaponClass: WeaponClass = weaponClass(for: players, index: playerIndex)
-
-        let inkAction = InkActionDecoder.decode(blob: blob, weaponClass: weaponClass, playerIndex: playerIndex, status: status)
 
         let primaryAim = aimData.0
         let secondaryAim = aimData.1
@@ -72,8 +69,7 @@ struct EntityFrameDecoder {
             animationSlot: 0,
             position: pos,
             aimDirectionA: finalAim,
-            aimDirectionB: secondaryAim,
-            inkAction: inkAction
+            aimDirectionB: secondaryAim
         )
     }
 
@@ -107,7 +103,6 @@ struct EntityFrameDecoder {
         let vertical = abs(p.y)
         let horizontal = hypot(p.x, p.z)
         if vertical > 0.98 && horizontal < 0.05 {
-            // near-vertical vectors are usually corrupted in old decoders; prefer body aim for practical shooting
             return b
         }
         return normalize(p)
@@ -115,15 +110,5 @@ struct EntityFrameDecoder {
 
     private static func playerIndex(from entityID: UInt32) -> Int {
         return Int(entityID) >= 200000 ? (Int(entityID) - 200000) / 10000 : -1
-    }
-
-    private static func weaponClass(for players: [ReplayPlayer], index: Int) -> WeaponClass {
-        let weaponClass: WeaponClass
-        if index >= 0 && index < players.count {
-            weaponClass = WeaponModelLoader.weaponClass(fromTableIndex: players[index].weaponTableIndex)
-        } else {
-            weaponClass = .unknown
-        }
-        return weaponClass
     }
 }

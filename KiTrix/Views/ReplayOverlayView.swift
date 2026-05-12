@@ -7,10 +7,8 @@ struct ReplayOverlayView: View {
     
     var body: some View {
         ZStack {
-            // Top bar with match info
             VStack {
                 HStack {
-                    // Team Alpha (first half of players)
                     TeamScoreView(
                         teamName: "Alpha",
                         color: Color(red: 0.95, green: 0.25, blue: 0.05),
@@ -19,7 +17,6 @@ struct ReplayOverlayView: View {
                     
                     Spacer()
                     
-                    // Match time
                     VStack(spacing: 4) {
                         Text(formatTime(Double(timeline.currentFrame) / 10.0))
                             .font(.system(size: 32, weight: .bold, design: .monospaced))
@@ -33,7 +30,6 @@ struct ReplayOverlayView: View {
                     
                     Spacer()
                     
-                    // Team Bravo (second half of players)
                     TeamScoreView(
                         teamName: "Bravo",
                         color: Color(red: 0.05, green: 0.45, blue: 0.95),
@@ -46,7 +42,6 @@ struct ReplayOverlayView: View {
                 Spacer()
             }
             
-            // Bottom controls
             VStack {
                 Spacer()
                 
