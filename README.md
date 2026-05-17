@@ -1,5 +1,7 @@
 kitrix is a splatoon 3 replay viewer in 3d, huge wips like painting, textires, and all models except for the stage models.  
 exmaples:  
+stage models and textures (properly):  
+https://x.com/_k1rakira/status/2038616613197652317  
 with stage models:  
 https://x.com/_k1rakira/status/2038588591639855399  
 no stage models:  
